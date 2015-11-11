@@ -6,11 +6,11 @@
       <file name="/a.dummy" timestamp="1447183812540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1447205721532">
-        <mark key="'" line="268" column="24" />
-        <mark key="[" line="274" column="41" />
-        <mark key="]" line="274" column="41" />
-        <mark key="." line="274" column="41" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1447267495348">
+        <mark key="'" line="318" column="16" />
+        <mark key="[" line="314" column="22" />
+        <mark key="]" line="314" column="22" />
+        <mark key="." line="314" column="22" />
         <mark key="^" line="274" column="41" />
       </file>
     </filemarks>
@@ -39,55 +39,63 @@
       <jump line="48" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="237" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="269" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="319" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="301" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="302" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="314" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="318" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="13" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgaWYgKGdldEFjdGl2ZURpcmVjdG9yR3VpZCgpKSB7CiAgICAgICAgZGlyZWN0b3IgPSBkYXRhWzBdLmRpcmVjdG9ycy5maW5kKGZ1bmN0aW9uKGRpcmVjdG9yKSB7CiAgICAgICAgICByZXR1cm4gZGlyZWN0b3IuZ3VpZCA9PT0gZ2V0QWN0aXZlRGlyZWN0b3JHdWlkKCk7CiAgICAgICAgfSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgLy8gaWYgd2UgaGF2ZSBtdWx0aXBsZSBkaXJlY3RvcnMganVzdCByZXR1cm4gdGhlIG5ld2VzdAogICAgICAgIGRpcmVjdG9yID0gZGF0YVswXS5kaXJlY3RvcnMucmVkdWNlKGZ1bmN0aW9uKG5ld2VzdCwgZGlyZWN0b3IpIHsKICAgICAgICAgIHJldHVybiAobmV3ZXN0ICYmIG5ld2VzdC5jcmVhdGVkX2F0ID4gZGlyZWN0b3IuY3JlYXRlZF9hdCkgPwogICAgICAgICAgICBuZXdlc3QgOiBkaXJlY3RvcjsKICAgICAgICB9KTsKICAgICAgfQogICAgICBzZXRBY3RpdmVEaXJlY3Rvckd1aWQoZGlyZWN0b3IuZ3VpZCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>: incentiveDesignGuid</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>: incentiveDesignGuid</text>
       </register>
       <register name="/" type="4">
-        <text>setActiveDirector</text>
+        <text>:.*</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>: incentiveDesignGuid</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dGhlbiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdXNlcl9uYW1lCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">eWV0IA==</text>
-      </register>
-      <register name="4" type="4">
         <text>,</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">dGhlbiA=</text>
+      </register>
       <register name="5" type="4">
+        <text encoding="base64">eWV0IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>,</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">LCB0aGVuIA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9CiAgICAgICAgLy8gb3RoZXJ3aXNlIHdlIHVzZSB0aGUgb25seSBlcGlzb2RlCiAgICAgICAgZWxzZSB7CiAgICAgICAgICBlcGlzb2RlID0gZGF0YS5lcGlzb2Rlc1swXTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5lcGlzb2Rlcy5sZW5ndGggPiAxKSB7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRydWUpIHtyZXR1cm4gdW5kZWZpbmVkO30K</text>
-      </register>
-      <register name="9" type="4">
-        <text>;</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLzouKi8vZw==</text>
       </register>
     </registers>
     <search>
       <last-search>setActiveDirector</last-search>
       <last-offset />
-      <last-pattern>setActiveDirector</last-pattern>
+      <last-pattern>:.*</last-pattern>
+      <last-replace />
+      <last-substitute>:.*</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -98,10 +106,12 @@
         <entry>setGuids</entry>
         <entry encoding="base64">XDxzZXRFcGlzb2Rlc1w+</entry>
         <entry>setActiveDirector</entry>
+        <entry>:.*</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLzouKi8vZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
