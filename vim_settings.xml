@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1447279385032">
+        <mark key="'" line="24" column="32" />
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="62" column="25" />
+        <mark key="^" line="62" column="25" />
+        <mark key="." line="62" column="25" />
+      </file>
       <file name="/a.dummy" timestamp="1447183812540">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,19 +52,23 @@
       <jump line="314" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="318" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="13" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="24" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgaWYgKGdldEFjdGl2ZURpcmVjdG9yR3VpZCgpKSB7CiAgICAgICAgZGlyZWN0b3IgPSBkYXRhWzBdLmRpcmVjdG9ycy5maW5kKGZ1bmN0aW9uKGRpcmVjdG9yKSB7CiAgICAgICAgICByZXR1cm4gZGlyZWN0b3IuZ3VpZCA9PT0gZ2V0QWN0aXZlRGlyZWN0b3JHdWlkKCk7CiAgICAgICAgfSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgLy8gaWYgd2UgaGF2ZSBtdWx0aXBsZSBkaXJlY3RvcnMganVzdCByZXR1cm4gdGhlIG5ld2VzdAogICAgICAgIGRpcmVjdG9yID0gZGF0YVswXS5kaXJlY3RvcnMucmVkdWNlKGZ1bmN0aW9uKG5ld2VzdCwgZGlyZWN0b3IpIHsKICAgICAgICAgIHJldHVybiAobmV3ZXN0ICYmIG5ld2VzdC5jcmVhdGVkX2F0ID4gZGlyZWN0b3IuY3JlYXRlZF9hdCkgPwogICAgICAgICAgICBuZXdlc3QgOiBkaXJlY3RvcjsKICAgICAgICB9KTsKICAgICAgfQogICAgICBzZXRBY3RpdmVEaXJlY3Rvckd1aWQoZGlyZWN0b3IuZ3VpZCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>: incentiveDesignGuid</text>
+        <text>gulp, config, args</text>
       </register>
       <register name="-" type="4">
         <text>: incentiveDesignGuid</text>
       </register>
       <register name="/" type="4">
         <text>:.*</text>
+      </register>
+      <register name="0" type="4">
+        <text>gulp, config, args</text>
       </register>
       <register name="1" type="4">
         <text>: incentiveDesignGuid</text>
@@ -87,7 +98,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5lcGlzb2Rlcy5sZW5ndGggPiAxKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzouKi8vZw==</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -110,8 +121,9 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLzouKi8vZw==</entry>
+        <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,6 +140,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
