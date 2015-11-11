@@ -6,12 +6,12 @@
       <file name="/a.dummy" timestamp="1447183812540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1447202917959">
-        <mark key="'" line="237" column="17" />
-        <mark key="[" line="327" column="47" />
-        <mark key="]" line="327" column="48" />
-        <mark key="." line="327" column="48" />
-        <mark key="^" line="327" column="48" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1447205721532">
+        <mark key="'" line="268" column="24" />
+        <mark key="[" line="274" column="41" />
+        <mark key="]" line="274" column="41" />
+        <mark key="." line="274" column="41" />
+        <mark key="^" line="274" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -38,46 +38,47 @@
       <jump line="371" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="48" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="237" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="269" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgaWYgKGdldEFjdGl2ZURpcmVjdG9yR3VpZCgpKSB7CiAgICAgICAgZGlyZWN0b3IgPSBkYXRhWzBdLmRpcmVjdG9ycy5maW5kKGZ1bmN0aW9uKGRpcmVjdG9yKSB7CiAgICAgICAgICByZXR1cm4gZGlyZWN0b3IuZ3VpZCA9PT0gZ2V0QWN0aXZlRGlyZWN0b3JHdWlkKCk7CiAgICAgICAgfSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgLy8gaWYgd2UgaGF2ZSBtdWx0aXBsZSBkaXJlY3RvcnMganVzdCByZXR1cm4gdGhlIG5ld2VzdAogICAgICAgIGRpcmVjdG9yID0gZGF0YVswXS5kaXJlY3RvcnMucmVkdWNlKGZ1bmN0aW9uKG5ld2VzdCwgZGlyZWN0b3IpIHsKICAgICAgICAgIHJldHVybiAobmV3ZXN0ICYmIG5ld2VzdC5jcmVhdGVkX2F0ID4gZGlyZWN0b3IuY3JlYXRlZF9hdCkgPwogICAgICAgICAgICBuZXdlc3QgOiBkaXJlY3RvcjsKICAgICAgICB9KTsKICAgICAgfQogICAgICBzZXRBY3RpdmVEaXJlY3Rvckd1aWQoZGlyZWN0b3IuZ3VpZCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>setActiveDirector</text>
       </register>
       <register name="1" type="4">
-        <text>return</text>
+        <text>,</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYodHJ1ZSl7cmV0dXJuIHVuZGVmaW5lZDt9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">dGhlbiA=</text>
       </register>
       <register name="3" type="4">
-        <text>[0]</text>
+        <text encoding="base64">eWV0IA==</text>
       </register>
       <register name="4" type="4">
-        <text>[0]</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>data</text>
+        <text encoding="base64">LCB0aGVuIA==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y3VycmVudERpcmVjdG9yID0g</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgLy8gb3RoZXJ3aXNlIHdlIHVzZSB0aGUgb25seSBlcGlzb2RlCiAgICAgICAgZWxzZSB7CiAgICAgICAgICBlcGlzb2RlID0gZGF0YS5lcGlzb2Rlc1swXTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>director</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5lcGlzb2Rlcy5sZW5ndGggPiAxKSB7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>director</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHRydWUpIHtyZXR1cm4gdW5kZWZpbmVkO30K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -99,6 +100,7 @@
         <entry>setActiveDirector</entry>
       </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
