@@ -12,22 +12,20 @@
       <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUser.js" timestamp="1447707180682">
         <mark key="'" line="44" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1447706740159">
-        <mark key="'" line="115" column="15" />
-        <mark key="[" line="149" column="47" />
-        <mark key="]" line="149" column="47" />
-        <mark key="." line="149" column="47" />
-        <mark key="^" line="128" column="8" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1447709304700">
+        <mark key="[" line="118" column="8" />
+        <mark key="]" line="119" column="36" />
+        <mark key="." line="119" column="36" />
+        <mark key="^" line="119" column="36" />
       </file>
       <file name="/a.dummy" timestamp="1447183812540">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1447267495348">
-        <mark key="'" line="352" column="16" />
-        <mark key="[" line="348" column="22" />
-        <mark key="]" line="348" column="22" />
-        <mark key="." line="348" column="22" />
-        <mark key="^" line="308" column="41" />
+        <mark key="'" line="365" column="16" />
+        <mark key="[" line="361" column="22" />
+        <mark key="]" line="361" column="22" />
+        <mark key="." line="361" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -76,44 +74,44 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgaWYgKGdldEFjdGl2ZURpcmVjdG9yR3VpZCgpKSB7CiAgICAgICAgZGlyZWN0b3IgPSBkYXRhWzBdLmRpcmVjdG9ycy5maW5kKGZ1bmN0aW9uKGRpcmVjdG9yKSB7CiAgICAgICAgICByZXR1cm4gZGlyZWN0b3IuZ3VpZCA9PT0gZ2V0QWN0aXZlRGlyZWN0b3JHdWlkKCk7CiAgICAgICAgfSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgLy8gaWYgd2UgaGF2ZSBtdWx0aXBsZSBkaXJlY3RvcnMganVzdCByZXR1cm4gdGhlIG5ld2VzdAogICAgICAgIGRpcmVjdG9yID0gZGF0YVswXS5kaXJlY3RvcnMucmVkdWNlKGZ1bmN0aW9uKG5ld2VzdCwgZGlyZWN0b3IpIHsKICAgICAgICAgIHJldHVybiAobmV3ZXN0ICYmIG5ld2VzdC5jcmVhdGVkX2F0ID4gZGlyZWN0b3IuY3JlYXRlZF9hdCkgPwogICAgICAgICAgICBuZXdlc3QgOiBkaXJlY3RvcjsKICAgICAgICB9KTsKICAgICAgfQogICAgICBzZXRBY3RpdmVEaXJlY3Rvckd1aWQoZGlyZWN0b3IuZ3VpZCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>// resolve</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICRxLnJlamVjdCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>// resolve</text>
+        <text>throw 'Not Authenticated';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>gulp, config, args</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAkcS5yZWplY3QoJHN0YXRlLmdvKCdhdXRoJykpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICRxLnJlamVjdCgpCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>throw 'Not Authenticated';</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRocm93ICdOb3QgQXV0aGVudGljYXRlZCc7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHEucmVqZWN0KCRzdGF0ZS5nbygnYXV0aCcpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3RybC5fZmFpbGVkRW1wbG95ZXJMb2FkKGVycm9yKTsK</text>
+      </register>
+      <register name="6" type="4">
         <text>// resolve</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text encoding="base64">JiA=</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cmVzcG9uc2UgJg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>}</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVtcGxveWVyID0gcmVzcG9uc2VbMV07Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UgJiYgcmVzcG9uc2VbMV0pCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
