@@ -9,12 +9,11 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1447701703772">
-        <mark key="'" line="6" column="4" />
-        <mark key="[" line="112" column="22" />
-        <mark key="]" line="112" column="40" />
-        <mark key="^" line="112" column="40" />
-        <mark key="." line="112" column="40" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1447703313914">
+        <mark key="[" line="152" column="30" />
+        <mark key="]" line="153" column="9" />
+        <mark key="." line="153" column="9" />
+        <mark key="^" line="153" column="9" />
       </file>
       <file name="/a.dummy" timestamp="1447183812540">
         <mark key="[" line="0" column="0" />
@@ -61,58 +60,60 @@
       <jump line="24" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="6" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
+      <jump line="167" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
+      <jump line="53" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgaWYgKGdldEFjdGl2ZURpcmVjdG9yR3VpZCgpKSB7CiAgICAgICAgZGlyZWN0b3IgPSBkYXRhWzBdLmRpcmVjdG9ycy5maW5kKGZ1bmN0aW9uKGRpcmVjdG9yKSB7CiAgICAgICAgICByZXR1cm4gZGlyZWN0b3IuZ3VpZCA9PT0gZ2V0QWN0aXZlRGlyZWN0b3JHdWlkKCk7CiAgICAgICAgfSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgLy8gaWYgd2UgaGF2ZSBtdWx0aXBsZSBkaXJlY3RvcnMganVzdCByZXR1cm4gdGhlIG5ld2VzdAogICAgICAgIGRpcmVjdG9yID0gZGF0YVswXS5kaXJlY3RvcnMucmVkdWNlKGZ1bmN0aW9uKG5ld2VzdCwgZGlyZWN0b3IpIHsKICAgICAgICAgIHJldHVybiAobmV3ZXN0ICYmIG5ld2VzdC5jcmVhdGVkX2F0ID4gZGlyZWN0b3IuY3JlYXRlZF9hdCkgPwogICAgICAgICAgICBuZXdlc3QgOiBkaXJlY3RvcjsKICAgICAgICB9KTsKICAgICAgfQogICAgICBzZXRBY3RpdmVEaXJlY3Rvckd1aWQoZGlyZWN0b3IuZ3VpZCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>gulp, config, args</text>
+        <text>// reject</text>
       </register>
       <register name="-" type="4">
-        <text>: incentiveDesignGuid</text>
+        <text>// reject</text>
       </register>
       <register name="/" type="4">
-        <text>:.*</text>
+        <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>gulp, config, args</text>
       </register>
       <register name="1" type="4">
-        <text>: incentiveDesignGuid</text>
+        <text>// reject</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdXNlcl9uYW1lCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dGhlbiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">eWV0IA==</text>
+        <text>return $q.reject(</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">LCB0aGVuIA==</text>
+        <text>,</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgLy8gb3RoZXJ3aXNlIHdlIHVzZSB0aGUgb25seSBlcGlzb2RlCiAgICAgICAgZWxzZSB7CiAgICAgICAgICBlcGlzb2RlID0gZGF0YS5lcGlzb2Rlc1swXTsKICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>response[0]</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5lcGlzb2Rlcy5sZW5ndGggPiAxKSB7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cmVzcG9uc2UgJiYgcmVzcG9uc2VbMF0=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>setActiveDirector</last-search>
+      <last-search encoding="base64">XDx1c2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>:.*</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyXD4=</last-pattern>
       <last-replace />
       <last-substitute>:.*</last-substitute>
       <last-dir>1</last-dir>
@@ -126,6 +127,7 @@
         <entry encoding="base64">XDxzZXRFcGlzb2Rlc1w+</entry>
         <entry>setActiveDirector</entry>
         <entry>:.*</entry>
+        <entry encoding="base64">XDx1c2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -151,6 +153,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
