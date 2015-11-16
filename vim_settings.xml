@@ -9,12 +9,15 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1447705855743">
-        <mark key="'" line="162" column="0" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-        <mark key="^" line="162" column="14" />
+      <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUser.js" timestamp="1447707180682">
+        <mark key="'" line="44" column="30" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1447706740159">
+        <mark key="'" line="115" column="15" />
+        <mark key="[" line="149" column="47" />
+        <mark key="]" line="149" column="47" />
+        <mark key="." line="149" column="47" />
+        <mark key="^" line="128" column="8" />
       </file>
       <file name="/a.dummy" timestamp="1447183812540">
         <mark key="[" line="0" column="0" />
@@ -64,16 +67,20 @@
       <jump line="167" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="53" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="162" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
+      <jump line="115" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
+      <jump line="44" column="30" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUser.js" />
+      <jump line="40" column="2" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/api/JFUserAPI.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgaWYgKGdldEFjdGl2ZURpcmVjdG9yR3VpZCgpKSB7CiAgICAgICAgZGlyZWN0b3IgPSBkYXRhWzBdLmRpcmVjdG9ycy5maW5kKGZ1bmN0aW9uKGRpcmVjdG9yKSB7CiAgICAgICAgICByZXR1cm4gZGlyZWN0b3IuZ3VpZCA9PT0gZ2V0QWN0aXZlRGlyZWN0b3JHdWlkKCk7CiAgICAgICAgfSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgLy8gaWYgd2UgaGF2ZSBtdWx0aXBsZSBkaXJlY3RvcnMganVzdCByZXR1cm4gdGhlIG5ld2VzdAogICAgICAgIGRpcmVjdG9yID0gZGF0YVswXS5kaXJlY3RvcnMucmVkdWNlKGZ1bmN0aW9uKG5ld2VzdCwgZGlyZWN0b3IpIHsKICAgICAgICAgIHJldHVybiAobmV3ZXN0ICYmIG5ld2VzdC5jcmVhdGVkX2F0ID4gZGlyZWN0b3IuY3JlYXRlZF9hdCkgPwogICAgICAgICAgICBuZXdlc3QgOiBkaXJlY3RvcjsKICAgICAgICB9KTsKICAgICAgfQogICAgICBzZXRBY3RpdmVEaXJlY3Rvckd1aWQoZGlyZWN0b3IuZ3VpZCk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>// resolve</text>
       </register>
       <register name="-" type="4">
-        <text>// reject</text>
+        <text>// resolve</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -81,32 +88,32 @@
       <register name="0" type="4">
         <text>gulp, config, args</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>// resolve</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHN0YXRlLmdvKCdhdXRoJyk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">JiA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">cmVzcG9uc2UgJg==</text>
       </register>
       <register name="5" type="4">
-        <text>// reject</text>
+        <text>}</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVtcGxveWVyID0gcmVzcG9uc2VbMV07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UgJiYgcmVzcG9uc2VbMV0pCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>return $q.reject(</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
