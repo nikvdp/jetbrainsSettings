@@ -9,11 +9,12 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1447704621325">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="152" column="9" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1447705855743">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+        <mark key="^" line="162" column="14" />
       </file>
       <file name="/a.dummy" timestamp="1447183812540">
         <mark key="[" line="0" column="0" />
@@ -62,6 +63,7 @@
       <jump line="6" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="167" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="53" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
+      <jump line="162" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -82,32 +84,32 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>// reject</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">LCA=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHN0YXRlLmdvKCdhdXRoJyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>// reject</text>
+      </register>
       <register name="6" type="4">
-        <text>return $q.reject(</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>response[0]</text>
+        <text>return $q.reject(</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -132,8 +134,8 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zLzouKi8vZw==</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
