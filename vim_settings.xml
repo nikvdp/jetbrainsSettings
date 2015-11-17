@@ -12,34 +12,38 @@
       <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUser.js" timestamp="1447707180682">
         <mark key="'" line="44" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1447713850770">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1447719566718">
         <mark key="'" line="28" column="37" />
         <mark key="[" line="106" column="41" />
         <mark key="]" line="106" column="41" />
         <mark key="." line="106" column="41" />
         <mark key="^" line="106" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" timestamp="1447719528425">
+        <mark key="'" line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/services/common/clientStorage.js" timestamp="1447714500466">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="8" />
         <mark key="." line="34" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1447718681014">
-        <mark key="'" line="356" column="29" />
-        <mark key="[" line="257" column="21" />
-        <mark key="]" line="257" column="34" />
-        <mark key="^" line="257" column="34" />
-        <mark key="." line="257" column="34" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/tests/specs/services/WorkflowDirector.spec.js" timestamp="1447720166296">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="59" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1447720438111">
+        <mark key="'" line="232" column="55" />
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="264" column="0" />
+        <mark key="^" line="263" column="39" />
+        <mark key="." line="264" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="34" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="133" column="47" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="135" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="143" column="41" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="147" column="43" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="154" column="51" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="157" column="64" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="335" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="125" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -51,7 +55,6 @@
       <jump line="331" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="371" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="237" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="269" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="319" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="301" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="302" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -89,7 +92,6 @@
       <jump line="144" column="59" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="164" column="59" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="184" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
-      <jump line="28" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="213" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="263" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="97" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -102,15 +104,12 @@
       <jump line="109" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="226" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="122" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="86" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="244" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="93" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="267" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="94" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="77" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="204" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="260" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="232" column="27" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="83" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="180" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="70" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -118,15 +117,30 @@
       <jump line="48" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="214" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="57" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="81" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="111" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="287" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="40" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="296" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="344" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="79" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="290" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="355" column="29" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="247" column="63" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="154" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="287" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="3" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" />
+      <jump line="28" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
+      <jump line="79" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="269" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="17" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/ngmap/config/jsdoc/template/publish.js" />
+      <jump line="81" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="77" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="205" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="87" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="62" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="252" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="232" column="55" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="18" column="29" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/tests/specs/services/WorkflowDirector.spec.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/tests/specs/services/WorkflowDirector.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -136,49 +150,68 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ep</text>
+        <text>cleanDirectorData</text>
       </register>
       <register name="/" type="4">
-        <text>.find</text>
+        <text>getEpisodes</text>
       </register>
-      <register name="0" type="4">
-        <text>directorAndEpisodeData.episodes</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvLyBXVEYgaXMgdGhpcyBjcmFwPyAgU2VyaW91c2x5CiAgeGl0KCdzaG91bGQgY29udGFpbiB0aGUgY29ycmVjdCBwdWJsaWMgbWV0aG9kcycsIGZ1bmN0aW9uKCkgewogICAgZXhwZWN0KERpcmVjdG9yKS50b0VxdWFsKHsKICAgICAgc3RhcnQ6IGphc21pbmUuYW55KEZ1bmN0aW9uKSwKICAgICAgZ2V0RGlyZWN0b3J5SWQ6IGphc21pbmUuYW55KEZ1bmN0aW9uKSwKICAgICAgZ2V0QWNjb3VudDogamFzbWluZS5hbnkoRnVuY3Rpb24pLAogICAgICBnZXRDdXJyZW5jeTogamFzbWluZS5hbnkoRnVuY3Rpb24pLAogICAgICBnZXRQYXJ0aWNpcGFudDogamFzbWluZS5hbnkoRnVuY3Rpb24pLAogICAgICBnZXRVc2VyR3VpZDogamFzbWluZS5hbnkoRnVuY3Rpb24pLAogICAgICBnZXRDYWxlbmRhckd1aWQ6IGphc21pbmUuYW55KEZ1bmN0aW9uKSwKICAgICAgZ2V0Q2hhbm5lbHM6IGphc21pbmUuYW55KEZ1bmN0aW9uKSwKICAgICAgZ2V0RGlyZWN0b3J5OiBqYXNtaW5lLmFueShGdW5jdGlvbiksCiAgICAgIGdldEVuZERhdGU6IGphc21pbmUuYW55KEZ1bmN0aW9uKSwKICAgICAgZ2V0RXBpc29kZTogamFzbWluZS5hbnkoRnVuY3Rpb24pLAogICAgICBnZXRFcGlzb2RlczogamFzbWluZS5hbnkoRnVuY3Rpb24pLAogICAgICBnZXREaXNwYXRjaGVyOiBqYXNtaW5lLmFueShGdW5jdGlvbiksCiAgICAgIGdldFN0b3JlOiBqYXNtaW5lLmFueShGdW5jdGlvbiksCiAgICAgIGdldElzU2hhcmVkQWNjb3VudDogamFzbWluZS5hbnkoRnVuY3Rpb24pCiAgICB9KTsKICB9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>ep</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb2x2ZShkaSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldEVwaXNvZGVzKCkgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChkaXJlY3RvckFuZEVwaXNvZGVEYXRhLmVwaXNvZGVzLmxlbmd0aCA+IDEpIHsKICAgICAgICAgICAgLy8gaWYgd2UgaGF2ZSBtb3JlIHRoYW4gb25lIGVwaXNvZGUsIAogICAgICAgICAgICAKICAgICAgICAgIH0K</text>
+      <register name="6" type="4">
+        <text>{
+      return getClientStorage()
+        .then(getDirectorData)
+        .then(function(directorData) {
+          return $q(function(resolve, reject) {
+            if (directorData.episodes.length) {
+              resolve(directorData);
+            } else {
+              createEpisode(directorData).then(function(episodeData) {
+                directorData.episodes = [episodeData.episode];
+                resolve(directorData);
+              });
+            }
+          });
+        })
+        .then(setEpisodes)
+        .catch(function() {
+          return showError();
+        });
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZ2V0RXBpc29kZXM6IGdldEVwaXNvZGVzLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>set it if there is only one valid</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>one</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldEVwaXNvZGVzKCkgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>.find</last-search>
+      <last-search>getEpisodes</last-search>
       <last-offset />
-      <last-pattern>.find</last-pattern>
+      <last-pattern>getEpisodes</last-pattern>
       <last-replace />
       <last-substitute>:.*</last-substitute>
       <last-dir>1</last-dir>
@@ -186,9 +219,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJ0aWNpcGFudElkXD4=</entry>
-        <entry encoding="base64">XDxndWlkXD4=</entry>
-        <entry>setGuids</entry>
         <entry encoding="base64">XDxzZXRFcGlzb2Rlc1w+</entry>
         <entry>setActiveDirector</entry>
         <entry>:.*</entry>
@@ -204,8 +234,11 @@
         <entry>create</entry>
         <entry encoding="base64">XDxzdGFydEVuZ2luZVw+</entry>
         <entry>startEngine</entry>
-        <entry>experience</entry>
         <entry>.find</entry>
+        <entry>reduce</entry>
+        <entry>experience</entry>
+        <entry encoding="base64">XDxnZXRFcGlzb2Rlc1w+</entry>
+        <entry>getEpisodes</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
