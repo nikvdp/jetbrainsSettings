@@ -143,6 +143,9 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" timestamp="1447881358835">
+        <mark key="'" line="132" column="19" />
+      </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/models/clinicConfigModel.coffee" timestamp="1421908978678">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="24" />
@@ -251,6 +254,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/directives/onboardingVideo.js" timestamp="1447881591839" />
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/gallery/galleryView.html" timestamp="1444003375659">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -261,6 +265,12 @@
         <mark key="]" line="3" column="20" />
         <mark key="^" line="6" column="53" />
         <mark key="." line="6" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/auth.js" timestamp="1447881088172">
+        <mark key="[" line="104" column="20" />
+        <mark key="]" line="104" column="29" />
+        <mark key="." line="104" column="29" />
+        <mark key="^" line="104" column="29" />
       </file>
       <file name="$USER_HOME$/Code/personal/pocketlight/tasks/scripts.js" timestamp="1441890471591">
         <mark key="[" line="36" column="7" />
@@ -397,6 +407,9 @@
         <mark key="^" line="64" column="12" />
         <mark key="." line="64" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" timestamp="1447880520786">
+        <mark key="'" line="125" column="13" />
+      </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/t-and-c.php" timestamp="1410428329603">
         <mark key="[" line="113" column="28" />
         <mark key="]" line="113" column="33" />
@@ -423,8 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/tmp/townsqrd/app/js/app.js" />
-      <jump line="62" column="0" filename="$USER_HOME$/tmp/townsqrd/app/js/app.js" />
       <jump line="55" column="0" filename="$USER_HOME$/tmp/townsqrd/app/js/app.js" />
       <jump line="16" column="0" filename="$USER_HOME$/tmp/townsqrd/app/js/app.js" />
       <jump line="11" column="15" filename="$USER_HOME$/tmp/townsqrd/app/index.html" />
@@ -523,13 +534,15 @@
       <jump line="1" column="0" filename="$USER_HOME$/Code/coding-challenges/clover-health/app/assets/css/photogallery.css" />
       <jump line="68" column="0" filename="$USER_HOME$/Code/coding-challenges/clover-health/app/assets/css/photogallery.css" />
       <jump line="70" column="0" filename="$USER_HOME$/Code/coding-challenges/clover-health/app/assets/css/photogallery.css" />
+      <jump line="125" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
+      <jump line="132" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICBoZWlnaHQ6IDc1N3B4Owo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -550,31 +563,31 @@
         <text encoding="base64">ICB3aWR0aDogNzhweDsKICBoZWlnaHQ6IDc4cHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmFwcCB7CiAgd2lkdGg6IDEwMCU7CiAgcG9zaXRpb246IGFic29sdXRlOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBib3gtc2l6aW5nOiBib3JkZXItYm94Owo=</text>
+        <text encoding="base64">LmFwcCB7CiAgd2lkdGg6IDEwMCU7CiAgcG9zaXRpb246IGFic29sdXRlOwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBib3gtc2l6aW5nOiBib3JkZXItYm94Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LnBob3RvLXZpZXdwb3J0ID4gaW1nIHsKICAvKndpZHRoOiAxMDAlOyovCiAgLypoZWlnaHQ6IDc1N3B4OyovCn0K</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y2xhc3M9Im1haW4tcGhvdG8iIA==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">PiBpbWcg</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">LnBob3RvLXZpZXdwb3J0ID4gaW1nIHsKICAvKndpZHRoOiAxMDAlOyovCiAgLypoZWlnaHQ6IDc1N3B4OyovCn0K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Y2xhc3M9Im1haW4tcGhvdG8iIA==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">PiBpbWcg</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LnBob3RvLXZpZXdwb3J0IHsKICB3aWR0aDogMTAwJTsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgYm94LXNpemluZzogYm9yZGVyLWJveDsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
