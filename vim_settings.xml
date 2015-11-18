@@ -9,6 +9,9 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" timestamp="1447886214525">
+        <mark key="'" line="65" column="15" />
+      </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/lib/mailchimp/config.inc.php" timestamp="1410339459930">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="24" />
@@ -205,7 +208,11 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1447883636312" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1447887044437">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/personal/twiddler/gulp/tasks/watchify.js" timestamp="1436185227906">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="30" />
@@ -354,6 +361,7 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/module.json" timestamp="1447887032562" />
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageView.html" timestamp="1444002061393">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -399,9 +407,6 @@
         <mark key="^" line="14" column="91" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="/a.regexp" timestamp="1447884872245">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/login.js" timestamp="1447797624753">
         <mark key="[" line="50" column="28" />
         <mark key="]" line="50" column="28" />
@@ -413,6 +418,12 @@
         <mark key="]" line="26" column="3" />
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" timestamp="1447886760140">
+        <mark key="[" line="61" column="101" />
+        <mark key="]" line="62" column="65" />
+        <mark key="." line="62" column="65" />
+        <mark key="^" line="62" column="65" />
       </file>
       <file name="$USER_HOME$/Code/personal/pocketlight/app/scripts/views/globalHighlightListView.js" timestamp="1439629548749">
         <mark key="[" line="64" column="7" />
@@ -449,8 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="2" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/api/JFUserAPI.js" />
-      <jump line="128" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="174" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="52" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="110" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
@@ -549,13 +558,15 @@
       <jump line="328" column="45" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="351" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="240" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="65" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
+      <jump line="13" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmIChkaXJlY3RvckFuZEVwaXNvZGVEYXRhLmVwaXNvZGVzLmxlbmd0aCA9PT0gMSkgewogICAgICAgICAgICB2YXIgYWN0aXZlRGlyZWN0b3JHdWlkID0gZGlyZWN0b3JBbmRFcGlzb2RlRGF0YS5lcGlzb2Rlc1swXS5kaXJlY3Rvci5ndWlkOwogICAgICAgICAgICBkaXJlY3RvciA9IGRpcmVjdG9yQW5kRXBpc29kZURhdGEuZGlyZWN0b3JzLmZpbmQoZnVuY3Rpb24oZGlyZWN0b3IpIHsKICAgICAgICAgICAgICByZXR1cm4gZGlyZWN0b3IuZ3VpZCA9PT0gYWN0aXZlRGlyZWN0b3JHdWlkOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgZXBpc29kZSA9IGRpcmVjdG9yQW5kRXBpc29kZURhdGEuZXBpc29kZXNbMF07CiAgICAgICAgICAgIC8vIHNpbmNlIHRoZXJlJ3Mgb25seSBvbmUgdmFsaWQgZXBpc29kZSwgaXQncyBzYWZlIHRvIHNldCBhY3RpdmUgZGlyZWN0b3IgdG8gdGhlIG9uZQogICAgICAgICAgICAvLyB0aGF0J3MgdmFsaWQKICAgICAgICAgICAgc2V0QWN0aXZlRGlyZWN0b3JHdWlkKGRpcmVjdG9yLmd1aWQpOwogICAgICAgICAgfSBlbHNlIGlmIChkaXJlY3RvckFuZEVwaXNvZGVEYXRhLmVwaXNvZGVzLmxlbmd0aCA+IDEpIHsKICAgICAgICAgICAgLy8gaWYgdGhlcmUgYXJlIG11bHRpcGxlIHZhbGlkIGVwaXNvZGVzIHdlIG5lZWQgdG8gdGFrZSB1c2VyIHRvIHRoZSBleHBlcmllbmNlCiAgICAgICAgICAgIC8vIHNlbGVjdG9yCiAgICAgICAgICAgIGVwaXNvZGVOb3RTZXQgPSB0cnVlOwogICAgICAgICAgICB2YXIgZXhwZXJpZW5jZSA9ICRzdGF0ZS5nZXQoJ2V4cGVyaWVuY2UnKTsKICAgICAgICAgICAgZXhwZXJpZW5jZS5kYXRhID0gewogICAgICAgICAgICAgIGVwaXNvZGVzOiBkaXJlY3RvckFuZEVwaXNvZGVEYXRhLmVwaXNvZGVzCiAgICAgICAgICAgIH07CiAgICAgICAgICAgICRzdGF0ZS5nbygnZXhwZXJpZW5jZScpOwogICAgICAgICAgICAvLyBkb24ndCBjb250aW51ZSwgdGhlIHByb21pc2UgY2hhaW4sIGV4cGVyaWVuY2Ugc2VsZWN0b3Igd2lsbCByZXN0YXJ0IGl0CiAgICAgICAgICAgIC8vIG9uY2UgYW4gZXhwZXJpZW5jZSBoYXMgYmVlbiBzZWxlY3RlZAogICAgICAgICAgICByZXR1cm4gZGlyZWN0b3JBbmRFcGlzb2RlRGF0YTsKCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyBpZiB3ZSBnb3QgaGVyZSB0aGVyZSBhcmUgbm8gZXBpc29kZXMsIHNvIGNyZWF0ZSBlcGlzb2RlcyBmb3IgYWxsCiAgICAgICAgICAgIC8vIHRoZSBkaXJlY3RvcnMgd2UgaGF2ZSBhbmQgc3RhcnQgb3ZlcgogICAgICAgICAgICBkaXJlY3RvckFuZEVwaXNvZGVEYXRhLmRpcmVjdG9ycy5mb3JFYWNoKGZ1bmN0aW9uKGRpcmVjdG9yKSB7CiAgICAgICAgICAgICAgZ2V0RXBpc29kZXMoZGlyZWN0b3JBbmRFcGlzb2RlRGF0YSk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICByZXR1cm4gc3RhcnQoKTsKICAgICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>get/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sbwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -572,35 +583,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRWYXVsdEFjY291bnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3JBbmRFcGlzb2RlRGF0YS5kaXJlY3RvcnMuZm9yRWFjaChmdW5jdGlvbihkaXJlY3Rvcikgewo=</text>
+      <register name="0" type="4">
+        <text>moduleConfig.name.toUpperCase().replace(/[.]/g, '_') + '_' + i.toUpperCase()</text>
       </register>
-      <register name="1" type="4">
-        <text>get/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBkaXJlY3RvckFuZEVwaXNvZGVEYXRhCiAgICAgKiBAcmV0dXJucyB7Kn0K</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCcnKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJyk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICcp</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiQyIpCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>get/</text>
       </register>
-      <register name="6" type="4">
-        <text>s[0]</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBkaXJlY3RvckFuZEVwaXNvZGVEYXRhCiAgICAgKiBAcmV0dXJucyB7Kn0K</text>
       </register>
       <register name="7" type="4">
-        <text>directorAndEpisodeData.</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVwaXNvZGUgPSBkaXJlY3RvckFuZEVwaXNvZGVEYXRhLmVwaXNvZGVzWzBdOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICcp</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkaWRuJ3QgaGF2ZSBvbmUgc2V0IHByZXZpb3VzbHksIHNvIHRyeSB0byBndWVzcyBpdCBvdXJzZWx2ZXMgaWYgdGhlcmUncyBvbmx5IG9uZQogICAgICAgIC8vIGFjdGl2ZSBlcGlzb2RlCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
