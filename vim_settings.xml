@@ -130,6 +130,12 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/modules.js" timestamp="1448303317835">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/work/placepocket/angular-mobile-place-adder/src/modules/app/placepocket/searchController.js" timestamp="1435583421742">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="28" />
@@ -381,6 +387,11 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" timestamp="1448303615403">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+      </file>
       <file name="$USER_HOME$/tmp/townsqrd/dist/assets/css/townsquared.css" timestamp="1443381766264">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="25" />
@@ -618,7 +629,7 @@
         <text encoding="base64">ICAgICAgICAgIGlmIChkaXJlY3RvckFuZEVwaXNvZGVEYXRhLmVwaXNvZGVzLmxlbmd0aCA9PT0gMSkgewogICAgICAgICAgICB2YXIgYWN0aXZlRGlyZWN0b3JHdWlkID0gZGlyZWN0b3JBbmRFcGlzb2RlRGF0YS5lcGlzb2Rlc1swXS5kaXJlY3Rvci5ndWlkOwogICAgICAgICAgICBkaXJlY3RvciA9IGRpcmVjdG9yQW5kRXBpc29kZURhdGEuZGlyZWN0b3JzLmZpbmQoZnVuY3Rpb24oZGlyZWN0b3IpIHsKICAgICAgICAgICAgICByZXR1cm4gZGlyZWN0b3IuZ3VpZCA9PT0gYWN0aXZlRGlyZWN0b3JHdWlkOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgZXBpc29kZSA9IGRpcmVjdG9yQW5kRXBpc29kZURhdGEuZXBpc29kZXNbMF07CiAgICAgICAgICAgIC8vIHNpbmNlIHRoZXJlJ3Mgb25seSBvbmUgdmFsaWQgZXBpc29kZSwgaXQncyBzYWZlIHRvIHNldCBhY3RpdmUgZGlyZWN0b3IgdG8gdGhlIG9uZQogICAgICAgICAgICAvLyB0aGF0J3MgdmFsaWQKICAgICAgICAgICAgc2V0QWN0aXZlRGlyZWN0b3JHdWlkKGRpcmVjdG9yLmd1aWQpOwogICAgICAgICAgfSBlbHNlIGlmIChkaXJlY3RvckFuZEVwaXNvZGVEYXRhLmVwaXNvZGVzLmxlbmd0aCA+IDEpIHsKICAgICAgICAgICAgLy8gaWYgdGhlcmUgYXJlIG11bHRpcGxlIHZhbGlkIGVwaXNvZGVzIHdlIG5lZWQgdG8gdGFrZSB1c2VyIHRvIHRoZSBleHBlcmllbmNlCiAgICAgICAgICAgIC8vIHNlbGVjdG9yCiAgICAgICAgICAgIGVwaXNvZGVOb3RTZXQgPSB0cnVlOwogICAgICAgICAgICB2YXIgZXhwZXJpZW5jZSA9ICRzdGF0ZS5nZXQoJ2V4cGVyaWVuY2UnKTsKICAgICAgICAgICAgZXhwZXJpZW5jZS5kYXRhID0gewogICAgICAgICAgICAgIGVwaXNvZGVzOiBkaXJlY3RvckFuZEVwaXNvZGVEYXRhLmVwaXNvZGVzCiAgICAgICAgICAgIH07CiAgICAgICAgICAgICRzdGF0ZS5nbygnZXhwZXJpZW5jZScpOwogICAgICAgICAgICAvLyBkb24ndCBjb250aW51ZSwgdGhlIHByb21pc2UgY2hhaW4sIGV4cGVyaWVuY2Ugc2VsZWN0b3Igd2lsbCByZXN0YXJ0IGl0CiAgICAgICAgICAgIC8vIG9uY2UgYW4gZXhwZXJpZW5jZSBoYXMgYmVlbiBzZWxlY3RlZAogICAgICAgICAgICByZXR1cm4gZGlyZWN0b3JBbmRFcGlzb2RlRGF0YTsKCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyBpZiB3ZSBnb3QgaGVyZSB0aGVyZSBhcmUgbm8gZXBpc29kZXMsIHNvIGNyZWF0ZSBlcGlzb2RlcyBmb3IgYWxsCiAgICAgICAgICAgIC8vIHRoZSBkaXJlY3RvcnMgd2UgaGF2ZSBhbmQgc3RhcnQgb3ZlcgogICAgICAgICAgICBkaXJlY3RvckFuZEVwaXNvZGVEYXRhLmRpcmVjdG9ycy5mb3JFYWNoKGZ1bmN0aW9uKGRpcmVjdG9yKSB7CiAgICAgICAgICAgICAgZ2V0RXBpc29kZXMoZGlyZWN0b3JBbmRFcGlzb2RlRGF0YSk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICByZXR1cm4gc3RhcnQoKTsKICAgICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAudGhlbihmdW5jdGlvbihibG9iKSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnd2UgYmxvYmJpbjogJywgYmxvYik7CiAgICAgICAgICAgICAgICByZXR1cm4gYmxvYjsKICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -639,31 +650,38 @@
         <text encoding="base64">ICAgIDxqaWZmLWNoZWNrYm94PgogICAgICBJZiBJIGFtIGV2ZXIgb3V0c2lkZSB0aGUgVVMsIEkgYWdyZWUgdG8gdGhhdCBteSBwZXJzb25hbCBkYXRhIG1heSBiZSB0cmFuc2ZlcnJlZCB0byBvdGhlcgogICAgICBjb3VudHJpZXMgb3V0c2lkZSBteSBjb3VudHJ5IG9mIG9yaWdpbiB0byB0aGUgVVMuCiAgICA8L2ppZmYtY2hlY2tib3g+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAudGhlbihmdW5jdGlvbihibG9iKSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnd2UgYmxvYmJpbjogJywgYmxvYik7CiAgICAgICAgICAgICAgICByZXR1cm4gYmxvYjsKICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>(juCameraOutput); }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBndWxwLnRhc2soKTsK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">KGZ1bmN0aW9uKGp1Q2FtZXJhT3V0cHV0KSB7IHJldHVybiA=</text>
+        <text>'android:run:local', function(cb) {
+    return run(
+      'android:compile',
+      'cca:run',
+      cb)
+  }</text>
       </register>
-      <register name="4" type="4">
-        <text>base64</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgJ21vYmlsZTpidW1wOmZpeCcsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>_base64ToBlob</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>on nexus 5 we get a json string as an object instead of a straight base64 string</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBndWxwLnRhc2s7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlNjQgPSAK</text>
+      <register name="7" type="4">
+        <text>('android:run:local', function(cb) {
+
+  })</text>
       </register>
-      <register name="8" type="4">
-        <text>JSON.parse(base64).base</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBydW4oCiAgICAgICdhbmRyb2lkOmNvbXBpbGUnLAogICAgICAnY2NhOnJ1bicsCiAgICAgIGNiKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>JSON.parse(base64).base64</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgJ21vYmlsZTpidW1wOmZpeCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
