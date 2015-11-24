@@ -68,7 +68,7 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1448325903218">
-        <mark key="'" line="19" column="10" />
+        <mark key="'" line="32" column="10" />
       </file>
       <file name="$USER_HOME$/Dropbox/duable/libs/hanzi/lib/segmenter.js" timestamp="1424690905341">
         <mark key="[" line="27" column="11" />
@@ -91,8 +91,8 @@
       <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUser.js" timestamp="1447707180682">
         <mark key="'" line="44" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1447789409145">
-        <mark key="'" line="28" column="37" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1448404013544">
+        <mark key="'" line="17" column="4" />
         <mark key="[" line="160" column="34" />
         <mark key="]" line="160" column="35" />
         <mark key="." line="160" column="35" />
@@ -301,9 +301,6 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/autofill.js" timestamp="1448046438419">
-        <mark key="^" line="3" column="20" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/profile/views/profile.html" timestamp="1448057238304">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="39" />
@@ -509,8 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="269" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="17" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/ngmap/config/jsdoc/template/publish.js" />
       <jump line="205" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="62" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -609,6 +604,8 @@
       <jump line="6" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/license.less" />
       <jump line="32" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" />
       <jump line="41" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/license.less" />
+      <jump line="17" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -630,7 +627,7 @@
         <text encoding="base64">YnV0dG9uLWZ1bGwg</text>
       </register>
       <register name="/" type="4">
-        <text>privacy</text>
+        <text encoding="base64">XDxDb3JlU3R5bGVJbmplY3Rvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMTBweDsK</text>
@@ -667,9 +664,9 @@
       </register>
     </registers>
     <search>
-      <last-search>privacy</last-search>
+      <last-search encoding="base64">XDxDb3JlU3R5bGVJbmplY3Rvclw+</last-search>
       <last-offset />
-      <last-pattern>privacy</last-pattern>
+      <last-pattern encoding="base64">XDxDb3JlU3R5bGVJbmplY3Rvclw+</last-pattern>
       <last-replace />
       <last-substitute>:.*</last-substitute>
       <last-dir>1</last-dir>
@@ -677,7 +674,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRBY3RpdmVEaXJlY3Rvckd1aWRcPg==</entry>
         <entry>createdirecotr</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxzdGFydEVuZ2luZVw+</entry>
@@ -697,6 +693,7 @@
         <entry>test</entry>
         <entry>.name</entry>
         <entry>privacy</entry>
+        <entry encoding="base64">XDxDb3JlU3R5bGVJbmplY3Rvclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
