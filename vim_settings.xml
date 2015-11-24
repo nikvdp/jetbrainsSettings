@@ -98,10 +98,12 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/checkbox.less" timestamp="1448325252304">
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="11" />
-        <mark key="." line="20" column="11" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/checkbox.less" timestamp="1448405752378">
+        <mark key="'" line="16" column="1" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/src/templates/tabs.html" timestamp="1436437091653">
         <mark key="[" line="8" column="18" />
@@ -506,7 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/ngmap/config/jsdoc/template/publish.js" />
       <jump line="205" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="62" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="86" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -606,13 +607,14 @@
       <jump line="41" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/license.less" />
       <jump line="17" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="10" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" />
+      <jump line="15" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/checkbox.less" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIElmIEkgYW0gZXZlciBvdXRzaWRlIHRoZSBVUywgSSBhZ3JlZSB0byB0aGF0IG15IHBlcnNvbmFsIGRhdGEgbWF5IGJlIHRyYW5zZmVycmVkIHRvIG90aGVyCiAgICAgICAgY291bnRyaWVzIG91dHNpZGUgbXkgY291bnRyeSBvZiBvcmlnaW4gdG8gdGhlIFVTLgogICAgICA8L2ppZmYtY2hlY2tib3g+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIEkgYWdyZWUgdG8gcmVjZWl2ZSBjb21tdW5pY2F0aW9ucyBmcm9tIG15IGVtcGxveWVyIGFuZCBKaWZmIGFzIHBhcnQgb2YgbXkgcGFydGljaXBhdGlvbiBpbiB0aGUgSmlmZiBwcm9ncmFtcy4KICAgICAgPC9qaWZmLWNoZWNrYm94PgogICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YnV0dG9uLWZ1bGwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -624,7 +626,7 @@
         <text encoding="base64">ICAgIHZhciBnbG9iYWxIaWdobGlnaHRzTGlzdFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CgogICAgfSk7CgogICAgdmFyIEhpZ2hsaWdodFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CiAgICAgIHRlbXBsYXRlOiAKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YnV0dG9uLWZ1bGwg</text>
+        <text>block</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb3JlU3R5bGVJbmplY3Rvclw+</text>
@@ -632,32 +634,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMTBweDsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YnV0dG9uLWZ1bGwg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBidXR0b24gewogICAgd2lkdGg6IDc1JTsKICAgIGJvcmRlci1yYWRpdXM6IDI1cHggIWltcG9ydGFudDsKICB9Cg==</text>
+        <text encoding="base64">ICBib3gtc2l6aW5nOiBib3JkZXItYm94Owo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LmJhci1mb290ZXIgPiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMTBweDsKICAgIHBhZGRpbmctcmlnaHQ6IDEwcHg7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBtYXJnaW4tbGVmdDogLjEyZW07CiAgbWFyZ2luLXJpZ2h0OiAuMTJlbTs=</text>
       </register>
       <register name="5" type="4">
-        <text>col-center</text>
+        <text>block</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">YnV0dG9uLWZ1bGwg</text>
       </register>
-      <register name="7" type="4">
-        <text>button-wrapper</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBidXR0b24gewogICAgd2lkdGg6IDc1JTsKICAgIGJvcmRlci1yYWRpdXM6IDI1cHggIWltcG9ydGFudDsKICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">LmJhci1mb290ZXIgPiA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuYnV0dG9uLXdyYXBwZXIgewogICAgdGV4dC1hbGlnbjogY2VudGVyOwogIH0K</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMTBweDsKICAgIHBhZGRpbmctcmlnaHQ6IDEwcHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
