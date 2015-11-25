@@ -24,6 +24,9 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
+      <file name="/a.dummy" timestamp="1448490650525">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Library/WebServer/Documents/register.php" timestamp="1427093527193">
         <mark key="[" line="14" column="39" />
         <mark key="]" line="14" column="39" />
@@ -491,12 +494,11 @@
         <mark key="^" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" timestamp="1448487548095">
-        <mark key="'" line="16" column="12" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="10" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" timestamp="1448490702305">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Code/personal/pocketlight/gulpfile.js" timestamp="1441890414307">
         <mark key="[" line="14" column="16" />
@@ -521,10 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="222" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="96" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="237" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="107" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="88" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="179" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -613,21 +611,25 @@
       <jump line="13" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/checkbox.less" />
       <jump line="17" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" />
       <jump line="34" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" />
-      <jump line="51" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
       <jump line="9" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
-      <jump line="52" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
       <jump line="54" column="55" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
       <jump line="56" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
       <jump line="3" column="45" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
       <jump line="59" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
       <jump line="16" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
+      <jump line="28" column="27" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
+      <jump line="51" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
+      <jump line="14" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
+      <jump line="48" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
+      <jump line="52" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
+      <jump line="46" column="56" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIElmIEkgYW0gZXZlciBvdXRzaWRlIHRoZSBVUywgSSBhZ3JlZSB0byB0aGF0IG15IHBlcnNvbmFsIGRhdGEgbWF5IGJlIHRyYW5zZmVycmVkIHRvIG90aGVyCiAgICAgICAgY291bnRyaWVzIG91dHNpZGUgbXkgY291bnRyeSBvZiBvcmlnaW4gdG8gdGhlIFVTLgogICAgICA8L2ppZmYtY2hlY2tib3g+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIEkgYWdyZWUgdG8gcmVjZWl2ZSBjb21tdW5pY2F0aW9ucyBmcm9tIG15IGVtcGxveWVyIGFuZCBKaWZmIGFzIHBhcnQgb2YgbXkgcGFydGljaXBhdGlvbiBpbiB0aGUgSmlmZiBwcm9ncmFtcy4KICAgICAgPC9qaWZmLWNoZWNrYm94PgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc3BhbiA9IGVsZW1lbnQKICAgICAgICAgIC5maW5kKCdzcGFuJyk7Cgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -639,40 +641,40 @@
         <text encoding="base64">ICAgIHZhciBnbG9iYWxIaWdobGlnaHRzTGlzdFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CgogICAgfSk7CgogICAgdmFyIEhpZ2hsaWdodFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CiAgICAgIHRlbXBsYXRlOiAKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>outer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGlja0NoZWNrYm94XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>input.prop(</text>
+        <text>.linkedTickbox</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc3BhbiA9IGVsZW1lbnQKICAgICAgICAgIC5maW5kKCdzcGFuJyk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzY29wZS4kYXBwbHkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdnb2dvZ28nLCBzY29wZS5saW5rZWRUaWNrYm94KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzY29wZS4kYXBwbHkoKTsK</text>
-      </register>
-      <register name="4" type="4">
-        <text>$</text>
-      </register>
-      <register name="5" type="4">
-        <text>compile</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc3BhbiA9IGVsZW1lbnQuZmluZCgnc3BhbicpOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb3B5IGFsbCB0aGUgbW9kZWwgaW5mbyBmcm9tIHRoZSBleHRlcm5hbCBkaXJlY3RpdmUncyBhdHRyaWJ1dGVzCiAgICAgICAgLy8gaW50byB0aGUgYWN0dWFsIGNoZWNrYm94IGlucHV0CiAgICAgICAgLy9hbmd1bGFyLmZvckVhY2goewogICAgICAgIC8vICAnbmFtZSc6IGF0dHIubmFtZSwKICAgICAgICAvLyAgJ25nLXZhbHVlJzogYXR0ci5uZ1ZhbHVlLAogICAgICAgIC8vICAnbmctbW9kZWwnOiBhdHRyLm5nTW9kZWwsCiAgICAgICAgLy8gICduZy1jaGVja2VkJzogYXR0ci5uZ0NoZWNrZWQsCiAgICAgICAgLy8gICduZy1kaXNhYmxlZCc6IGF0dHIubmdEaXNhYmxlZCwKICAgICAgICAvLyAgJ25nLXRydWUtdmFsdWUnOiBhdHRyLm5nVHJ1ZVZhbHVlLAogICAgICAgIC8vICAnbmctZmFsc2UtdmFsdWUnOiBhdHRyLm5nRmFsc2VWYWx1ZSwKICAgICAgICAvLyAgJ25nLWNoYW5nZSc6IGF0dHIubmdDaGFuZ2UsCiAgICAgICAgLy8gICduZy1yZXF1aXJlZCc6IGF0dHIubmdSZXF1aXJlZCwKICAgICAgICAvLyAgJ3JlcXVpcmVkJzogYXR0ci5yZXF1aXJlZAogICAgICAgIC8vfSwgZnVuY3Rpb24odmFsdWUsIG5hbWUpIHsKICAgICAgICAvLyAgaWYgKGFuZ3VsYXIuaXNEZWZpbmVkKHZhbHVlKSkgewogICAgICAgIC8vICAgIGlucHV0LmF0dHIobmFtZSwgdmFsdWUpOwogICAgICAgIC8vICB9CiAgICAgICAgLy99KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>outer</text>
+      </register>
+      <register name="7" type="4">
+        <text>// this will point to the value of whatever the ng-model</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc3BhbiA9IGVsZW1lbnQuZmluZCgnc3BhbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGluayBpdCBlbDogJywgZWxlbWVudCk7Cg==</text>
+      <register name="9" type="4">
+        <text>model</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
