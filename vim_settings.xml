@@ -491,11 +491,11 @@
         <mark key="^" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" timestamp="1448416194644">
-        <mark key="[" line="52" column="89" />
-        <mark key="]" line="52" column="89" />
-        <mark key="^" line="52" column="89" />
-        <mark key="." line="52" column="89" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" timestamp="1448477022374">
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="51" column="24" />
+        <mark key="^" line="51" column="24" />
+        <mark key="." line="51" column="24" />
       </file>
       <file name="$USER_HOME$/Code/personal/pocketlight/gulpfile.js" timestamp="1441890414307">
         <mark key="[" line="14" column="16" />
@@ -626,7 +626,7 @@
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIElmIEkgYW0gZXZlciBvdXRzaWRlIHRoZSBVUywgSSBhZ3JlZSB0byB0aGF0IG15IHBlcnNvbmFsIGRhdGEgbWF5IGJlIHRyYW5zZmVycmVkIHRvIG90aGVyCiAgICAgICAgY291bnRyaWVzIG91dHNpZGUgbXkgY291bnRyeSBvZiBvcmlnaW4gdG8gdGhlIFVTLgogICAgICA8L2ppZmYtY2hlY2tib3g+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIEkgYWdyZWUgdG8gcmVjZWl2ZSBjb21tdW5pY2F0aW9ucyBmcm9tIG15IGVtcGxveWVyIGFuZCBKaWZmIGFzIHBhcnQgb2YgbXkgcGFydGljaXBhdGlvbiBpbiB0aGUgSmlmZiBwcm9ncmFtcy4KICAgICAgPC9qaWZmLWNoZWNrYm94PgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>.parents(&quot;jiff-checkbox&quot;).</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -638,40 +638,40 @@
         <text encoding="base64">ICAgIHZhciBnbG9iYWxIaWdobGlnaHRzTGlzdFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CgogICAgfSk7CgogICAgdmFyIEhpZ2hsaWdodFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CiAgICAgIHRlbXBsYXRlOiAKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.parents(&quot;jiff-checkbox&quot;).</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGlja0NoZWNrYm94XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdHJsLmFjY2VwdERpc2FibGVkID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlucHV0ID0gYW5ndWxhci5lbGVtZW50KGV2LnRhcmdldCkucGFyZW50cygiamlmZi1jaGVja2JveCIpLmZpbmQoJ2lucHV0Jyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>.parents(&quot;jiff-checkbox&quot;).</text>
       </register>
       <register name="2" type="4">
-        <text>(ev.target);</text>
+        <text>.target)</text>
       </register>
       <register name="3" type="4">
-        <text>element</text>
+        <text>angular.element(ev</text>
       </register>
       <register name="4" type="4">
         <text>element</text>
       </register>
       <register name="5" type="4">
-        <text>var input = element.find('input');</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdhcmd1bWVudHMgYXJlOiAnLCBhcmd1bWVudHMpOwo=</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>(ev.target);</text>
       </register>
       <register name="8" type="4">
-        <text>.find('input');</text>
+        <text>element</text>
       </register>
       <register name="9" type="4">
-        <text>;</text>
+        <text>element</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
