@@ -67,8 +67,12 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1448325903218">
-        <mark key="'" line="32" column="10" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1448409506882">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="35" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/duable/libs/hanzi/lib/segmenter.js" timestamp="1424690905341">
         <mark key="[" line="27" column="11" />
@@ -266,6 +270,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/login.html" timestamp="1448317200153">
         <mark key="'" line="83" column="46" />
         <mark key="^" line="78" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainLicenseCtrl.js" timestamp="1448409678062">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="31" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/t-and-c.php" timestamp="1410428329603">
         <mark key="[" line="113" column="28" />
@@ -481,12 +491,12 @@
         <mark key="^" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" timestamp="1448326214731">
-        <mark key="'" line="45" column="21" />
-        <mark key="[" line="15" column="73" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="^" line="17" column="34" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" timestamp="1448411806117">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="51" />
+        <mark key="^" line="51" column="51" />
+        <mark key="." line="51" column="51" />
       </file>
       <file name="$USER_HOME$/Code/personal/pocketlight/gulpfile.js" timestamp="1441890414307">
         <mark key="[" line="14" column="16" />
@@ -506,13 +516,11 @@
         <mark key="^" line="20" column="100" />
         <mark key="." line="20" column="100" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/license.less" timestamp="1448408671869">
+        <mark key="[" line="34" column="3" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="232" column="55" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="18" column="29" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/tests/specs/services/WorkflowDirector.spec.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/tests/specs/services/WorkflowDirector.spec.js" />
-      <jump line="176" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="77" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="95" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="225" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -608,13 +616,18 @@
       <jump line="17" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/checkbox.less" />
       <jump line="15" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/checkbox.less" />
       <jump line="13" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/checkbox.less" />
+      <jump line="17" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" />
+      <jump line="52" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
+      <jump line="51" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
+      <jump line="9" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIElmIEkgYW0gZXZlciBvdXRzaWRlIHRoZSBVUywgSSBhZ3JlZSB0byB0aGF0IG15IHBlcnNvbmFsIGRhdGEgbWF5IGJlIHRyYW5zZmVycmVkIHRvIG90aGVyCiAgICAgICAgY291bnRyaWVzIG91dHNpZGUgbXkgY291bnRyeSBvZiBvcmlnaW4gdG8gdGhlIFVTLgogICAgICA8L2ppZmYtY2hlY2tib3g+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIEkgYWdyZWUgdG8gcmVjZWl2ZSBjb21tdW5pY2F0aW9ucyBmcm9tIG15IGVtcGxveWVyIGFuZCBKaWZmIGFzIHBhcnQgb2YgbXkgcGFydGljaXBhdGlvbiBpbiB0aGUgSmlmZiBwcm9ncmFtcy4KICAgICAgPC9qaWZmLWNoZWNrYm94PgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mark</text>
+        <text />
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -626,49 +639,49 @@
         <text encoding="base64">ICAgIHZhciBnbG9iYWxIaWdobGlnaHRzTGlzdFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CgogICAgfSk7CgogICAgdmFyIEhpZ2hsaWdodFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CiAgICAgIHRlbXBsYXRlOiAKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>mark</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb3JlU3R5bGVJbmplY3Rvclw+</text>
+        <text encoding="base64">XDxjbGlja0NoZWNrYm94XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBtaW4td2lkdGg6IDE1cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdHJsLmFjY2VwdERpc2FibGVkID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>mark</text>
+        <text />
       </register>
-      <register name="2" type="4">
-        <text>width</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciBzZWxmID0gdGhpczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDVweDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text>1.3em</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGxpbms7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>1.3em</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBtYXJnaW4tbGVmdDogLjEyZW07CiAgbWFyZ2luLXJpZ2h0OiAuMTJlbTsK</text>
+      <register name="6" type="4">
+        <text>;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">bGFiZWwuamlmZmNoZWNrYm94IHsKICB3aWR0aDogMS4zZW07CiAgaGVpZ2h0OiAxLjNlbTsKICBtYXJnaW46IDVweDsKICBib3gtc2l6aW5nOiBib3JkZXItYm94OwogIGJvcmRlcjogMnB4IHNvbGlkIGJsYWNrOwp9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>-right</text>
+        <text>post:</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb3JlU3R5bGVJbmplY3Rvclw+</last-search>
+      <last-search encoding="base64">XDxjbGlja0NoZWNrYm94XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb3JlU3R5bGVJbmplY3Rvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxjbGlja0NoZWNrYm94XD4=</last-pattern>
       <last-replace />
       <last-substitute>:.*</last-substitute>
       <last-dir>1</last-dir>
@@ -676,7 +689,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createdirecotr</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxzdGFydEVuZ2luZVw+</entry>
         <entry>startEngine</entry>
@@ -696,6 +708,7 @@
         <entry>.name</entry>
         <entry>privacy</entry>
         <entry encoding="base64">XDxDb3JlU3R5bGVJbmplY3Rvclw+</entry>
+        <entry encoding="base64">XDxjbGlja0NoZWNrYm94XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
