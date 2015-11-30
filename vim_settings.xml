@@ -27,6 +27,13 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="39" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/controllers/ProgramsCtrl.js" timestamp="1447970534678">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="135" column="90" />
+      </file>
       <file name="$USER_HOME$/tmp/townsqrd/package.json" timestamp="1443228274429">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="29" />
@@ -78,6 +85,13 @@
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1448404013544">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="160" column="34" />
+        <mark key="]" line="160" column="35" />
+        <mark key="." line="160" column="35" />
+        <mark key="^" line="160" column="41" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/checkbox.less" timestamp="1448407854243">
         <mark key="'" line="21" column="1" />
@@ -184,10 +198,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1448922845835">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="92" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1448926572585">
+        <mark key="'" line="16" column="14" />
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="40" column="5" />
+        <mark key="." line="40" column="5" />
+        <mark key="^" line="40" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/emailer_info.inc.php" timestamp="1410341309294">
         <mark key="[" line="2" column="10" />
@@ -384,6 +400,13 @@
         <mark key="^" line="6879" column="17" />
         <mark key="." line="6879" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/register.html" timestamp="1448316905405">
+        <mark key="'" line="103" column="226" />
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="48" />
+        <mark key="^" line="75" column="48" />
+        <mark key="." line="75" column="48" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1448917235572">
         <mark key="'" line="89" column="7" />
         <mark key="[" line="59" column="0" />
@@ -516,7 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="89" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="203" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="28" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" />
@@ -616,6 +638,7 @@
       <jump line="0" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/checkbox.html" />
       <jump line="523" column="29" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="3" column="107" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/directives/onboardingVideo.js" />
+      <jump line="16" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
