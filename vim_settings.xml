@@ -184,11 +184,10 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1447890124253">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="9" column="13" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1448922845835">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="92" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/emailer_info.inc.php" timestamp="1410341309294">
         <mark key="[" line="2" column="10" />
@@ -261,6 +260,12 @@
         <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainSlidesView.html" timestamp="1448922725414">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="10" column="45" />
+        <mark key="." line="5" column="45" />
       </file>
       <file name="$USER_HOME$/Code/personal/twiddler/src/Twiddler 3 __ Tuner.html" timestamp="1441981861656">
         <mark key="[" line="36" column="0" />
@@ -616,8 +621,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIElmIEkgYW0gZXZlciBvdXRzaWRlIHRoZSBVUywgSSBhZ3JlZSB0byB0aGF0IG15IHBlcnNvbmFsIGRhdGEgbWF5IGJlIHRyYW5zZmVycmVkIHRvIG90aGVyCiAgICAgICAgY291bnRyaWVzIG91dHNpZGUgbXkgY291bnRyeSBvZiBvcmlnaW4gdG8gdGhlIFVTLgogICAgICA8L2ppZmYtY2hlY2tib3g+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIEkgYWdyZWUgdG8gcmVjZWl2ZSBjb21tdW5pY2F0aW9ucyBmcm9tIG15IGVtcGxveWVyIGFuZCBKaWZmIGFzIHBhcnQgb2YgbXkgcGFydGljaXBhdGlvbiBpbiB0aGUgSmlmZiBwcm9ncmFtcy4KICAgICAgPC9qaWZmLWNoZWNrYm94PgogICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZSwgY2hhbmdlU2xpZGU6IHRydWV9KTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -629,43 +634,43 @@
         <text encoding="base64">ICAgIHZhciBnbG9iYWxIaWdobGlnaHRzTGlzdFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CgogICAgfSk7CgogICAgdmFyIEhpZ2hsaWdodFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CiAgICAgIHRlbXBsYXRlOiAKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
-      <register name="0" type="4">
-        <text>class=&quot;{{ checkboxClass }}&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZSwgY2hhbmdlU2xpZGU6IHRydWV9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZX0pOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMiU7CiAgICBwYWRkaW5nLXJpZ2h0OiAyJTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZX0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c3Bhbj4gY2xhc3MgaXM6IHt7IGNoZWNrYm94Q2xhc3MgfX08L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZSwgY2hhbmdlU2xpZGU6IHRydWV9KTsK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IH19</text>
+        <text>false</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">e3sg</text>
+        <text>slideClicked</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IH19</text>
+        <text>slideClicked</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">e3sg</text>
+        <text>slideClicked</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IH19</text>
+        <text>move</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/,/,\r/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -706,8 +711,8 @@
         <entry encoding="base64">JzwsJz5zLysvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Njb3BlX2NoZWNrYm94Q2xhc3Mvc2NvcGUuY2hlY2tib3hDbGFzcy9n</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>s/,/,\r/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
