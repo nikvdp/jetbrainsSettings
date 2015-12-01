@@ -207,10 +207,10 @@
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1448926572585">
         <mark key="'" line="16" column="14" />
-        <mark key="[" line="40" column="5" />
-        <mark key="]" line="40" column="5" />
-        <mark key="." line="40" column="5" />
-        <mark key="^" line="40" column="5" />
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="46" column="5" />
+        <mark key="." line="46" column="5" />
+        <mark key="^" line="46" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/emailer_info.inc.php" timestamp="1410341309294">
         <mark key="[" line="2" column="10" />
@@ -274,6 +274,11 @@
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" timestamp="1447880520786">
         <mark key="'" line="125" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/login.html" timestamp="1449012304378">
+        <mark key="[" line="83" column="148" />
+        <mark key="]" line="83" column="148" />
+        <mark key="." line="83" column="148" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/t-and-c.php" timestamp="1410428329603">
         <mark key="[" line="113" column="28" />
@@ -413,12 +418,12 @@
         <mark key="^" line="6879" column="17" />
         <mark key="." line="6879" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/register.html" timestamp="1448316905405">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/register.html" timestamp="1449012372628">
         <mark key="'" line="103" column="226" />
-        <mark key="[" line="75" column="28" />
-        <mark key="]" line="75" column="48" />
+        <mark key="[" line="103" column="144" />
+        <mark key="]" line="103" column="144" />
         <mark key="^" line="75" column="48" />
-        <mark key="." line="75" column="48" />
+        <mark key="." line="103" column="144" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1448917235572">
         <mark key="'" line="89" column="7" />
@@ -660,8 +665,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIElmIEkgYW0gZXZlciBvdXRzaWRlIHRoZSBVUywgSSBhZ3JlZSB0byB0aGF0IG15IHBlcnNvbmFsIGRhdGEgbWF5IGJlIHRyYW5zZmVycmVkIHRvIG90aGVyCiAgICAgICAgY291bnRyaWVzIG91dHNpZGUgbXkgY291bnRyeSBvZiBvcmlnaW4gdG8gdGhlIFVTLgogICAgICA8L2ppZmYtY2hlY2tib3g+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIEkgYWdyZWUgdG8gcmVjZWl2ZSBjb21tdW5pY2F0aW9ucyBmcm9tIG15IGVtcGxveWVyIGFuZCBKaWZmIGFzIHBhcnQgb2YgbXkgcGFydGljaXBhdGlvbiBpbiB0aGUgSmlmZiBwcm9ncmFtcy4KICAgICAgPC9qaWZmLWNoZWNrYm94PgogICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZSwgY2hhbmdlU2xpZGU6IHRydWV9KTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -673,49 +678,49 @@
         <text encoding="base64">ICAgIHZhciBnbG9iYWxIaWdobGlnaHRzTGlzdFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CgogICAgfSk7CgogICAgdmFyIEhpZ2hsaWdodFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CiAgICAgIHRlbXBsYXRlOiAKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
       <register name="/" type="4">
-        <text>cordova</text>
+        <text>trust</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZSwgY2hhbmdlU2xpZGU6IHRydWV9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZX0pOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZX0pOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZX0pOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZX0pOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZSwgY2hhbmdlU2xpZGU6IHRydWV9KTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>false</text>
-      </register>
-      <register name="5" type="4">
-        <text>slideClicked</text>
-      </register>
       <register name="6" type="4">
-        <text>slideClicked</text>
+        <text>false</text>
       </register>
       <register name="7" type="4">
         <text>slideClicked</text>
       </register>
       <register name="8" type="4">
-        <text>move</text>
+        <text>slideClicked</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>slideClicked</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cordova</last-search>
+      <last-search>trust</last-search>
       <last-offset />
-      <last-pattern>cordova</last-pattern>
+      <last-pattern>trust</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -723,7 +728,6 @@
     </search>
     <history>
       <history-search>
-        <entry>experience</entry>
         <entry encoding="base64">XDxnZXRFcGlzb2Rlc1w+</entry>
         <entry>getEpisodes</entry>
         <entry encoding="base64">XDxnZXREaXJlY3RvckRhdGFcPg==</entry>
@@ -743,6 +747,7 @@
         <entry>scope_checkboxClass</entry>
         <entry>,</entry>
         <entry>cordova</entry>
+        <entry>trust</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
