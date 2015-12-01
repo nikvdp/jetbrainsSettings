@@ -9,6 +9,9 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" timestamp="1447886214525">
+        <mark key="'" line="65" column="15" />
+      </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/lib/mailchimp/config.inc.php" timestamp="1410339459930">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="24" />
@@ -86,6 +89,9 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUser.js" timestamp="1447707180682">
+        <mark key="'" line="44" column="30" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1448404013544">
         <mark key="'" line="17" column="4" />
         <mark key="[" line="160" column="34" />
@@ -122,6 +128,9 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/services/Events.js" timestamp="1448908772557" />
+      <file name="/a.txt" timestamp="1448323783742">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/views/mainCasenoteFolderView.coffee" timestamp="1417427652335">
         <mark key="[" line="311" column="39" />
         <mark key="]" line="311" column="40" />
@@ -241,11 +250,17 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/providers/splashConfig.js" timestamp="1447789034562">
+        <mark key="'" line="37" column="28" />
+      </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/collections/clinicConfigCollection.coffee" timestamp="1421908336945">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="24" />
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1448306800634">
+        <mark key="'" line="193" column="31" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/angular-mobile-place-adder/gulp/tasks/browserify.js" timestamp="1435739391968">
         <mark key="[" line="26" column="7" />
@@ -259,11 +274,8 @@
         <mark key="^" line="64" column="12" />
         <mark key="." line="64" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainLicenseCtrl.js" timestamp="1448491362328">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="31" column="11" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" timestamp="1447880520786">
+        <mark key="'" line="125" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/t-and-c.php" timestamp="1410428329603">
         <mark key="[" line="113" column="28" />
@@ -375,6 +387,9 @@
         <mark key="]" line="4" column="46" />
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" timestamp="1447719528425">
+        <mark key="'" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/angular-mobile-place-adder/src/modules/app/placepocket/placesearch.html" timestamp="1437660749903">
         <mark key="[" line="17" column="18" />
@@ -519,6 +534,12 @@
         <mark key="^" line="14" column="91" />
         <mark key="." line="14" column="16" />
       </file>
+      <file name="/a.regexp" timestamp="1449001521304">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/package.json" timestamp="1449001543916">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" timestamp="1447886760140">
         <mark key="[" line="61" column="101" />
         <mark key="]" line="62" column="65" />
@@ -539,7 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="203" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="28" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" />
       <jump line="331" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -639,6 +659,7 @@
       <jump line="523" column="29" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="3" column="107" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/directives/onboardingVideo.js" />
       <jump line="16" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/package.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -660,7 +681,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>cordova</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZSwgY2hhbmdlU2xpZGU6IHRydWV9KTsK</text>
@@ -697,9 +718,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0XD4=</last-search>
+      <last-search>cordova</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>cordova</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +728,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reduce</entry>
         <entry>experience</entry>
         <entry encoding="base64">XDxnZXRFcGlzb2Rlc1w+</entry>
         <entry>getEpisodes</entry>
@@ -727,6 +747,7 @@
         <entry>+</entry>
         <entry>scope_checkboxClass</entry>
         <entry>,</entry>
+        <entry>cordova</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
