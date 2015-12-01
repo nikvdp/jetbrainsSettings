@@ -24,6 +24,9 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
+      <file name="/a.dummy" timestamp="1449013649656">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Library/WebServer/Documents/register.php" timestamp="1427093527193">
         <mark key="[" line="14" column="39" />
         <mark key="]" line="14" column="39" />
@@ -383,14 +386,6 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" timestamp="1448910757868">
-        <mark key="a" line="4" column="29" />
-        <mark key="'" line="4" column="29" />
-        <mark key="[" line="4" column="46" />
-        <mark key="]" line="4" column="46" />
-        <mark key="^" line="4" column="46" />
-        <mark key="." line="4" column="46" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" timestamp="1447719528425">
         <mark key="'" line="3" column="14" />
       </file>
@@ -522,6 +517,11 @@
         <mark key="^" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/controllers/EventsListCtrl.js" timestamp="1449013656114">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" timestamp="1448914412364">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -560,9 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="28" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" />
-      <jump line="331" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="327" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="87" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="328" column="45" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -660,13 +657,16 @@
       <jump line="3" column="107" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/directives/onboardingVideo.js" />
       <jump line="16" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/package.json" />
+      <jump line="16" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/controllers/EventsListCtrl.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/controllers/EventsListCtrl.js" />
+      <jump line="20" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/controllers/EventsListCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIElmIEkgYW0gZXZlciBvdXRzaWRlIHRoZSBVUywgSSBhZ3JlZSB0byB0aGF0IG15IHBlcnNvbmFsIGRhdGEgbWF5IGJlIHRyYW5zZmVycmVkIHRvIG90aGVyCiAgICAgICAgY291bnRyaWVzIG91dHNpZGUgbXkgY291bnRyeSBvZiBvcmlnaW4gdG8gdGhlIFVTLgogICAgICA8L2ppZmYtY2hlY2tib3g+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIEkgYWdyZWUgdG8gcmVjZWl2ZSBjb21tdW5pY2F0aW9ucyBmcm9tIG15IGVtcGxveWVyIGFuZCBKaWZmIGFzIHBhcnQgb2YgbXkgcGFydGljaXBhdGlvbiBpbiB0aGUgSmlmZiBwcm9ncmFtcy4KICAgICAgPC9qaWZmLWNoZWNrYm94PgogICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -678,7 +678,7 @@
         <text encoding="base64">ICAgIHZhciBnbG9iYWxIaWdobGlnaHRzTGlzdFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CgogICAgfSk7CgogICAgdmFyIEhpZ2hsaWdodFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CiAgICAgIHRlbXBsYXRlOiAKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
+        <text encoding="base64">ID0gIA==</text>
       </register>
       <register name="/" type="4">
         <text>trust</text>
@@ -686,32 +686,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZSwgY2hhbmdlU2xpZGU6IHRydWV9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjdHJsLmV2ZW50cyA9IEV2ZW50cy5nZXRVcGNvbWluZ0V2ZW50cygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZX0pOwo=</text>
+        <text encoding="base64">ICBjdHJsLmV2ZW50cyA9IEV2ZW50czsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZX0pOwo=</text>
+        <text encoding="base64">ICBjdHJsLmV2ZW50cyA9IEV2ZW50czsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZSwgY2hhbmdlU2xpZGU6IHRydWV9KTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ID0gIA==</text>
       </register>
       <register name="6" type="4">
-        <text>false</text>
+        <text>ctrl.events =</text>
       </register>
-      <register name="7" type="4">
-        <text>slideClicked</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>slideClicked</text>
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
       <register name="9" type="4">
-        <text>slideClicked</text>
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
