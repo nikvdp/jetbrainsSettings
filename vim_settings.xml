@@ -333,13 +333,6 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" timestamp="1449019596109">
-        <mark key="'" line="115" column="32" />
-        <mark key="[" line="84" column="40" />
-        <mark key="]" line="84" column="45" />
-        <mark key="^" line="84" column="45" />
-        <mark key="." line="84" column="45" />
-      </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/templates/gallery.html" timestamp="1444001503093">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="6" />
@@ -686,7 +679,7 @@
         <text>categories.map(function(cat){return cat.title})</text>
       </register>
       <register name="/" type="4">
-        <text>trust</text>
+        <text>rsvp</text>
       </register>
       <register name="0" type="4">
         <text>product.productCategories</text>
@@ -723,9 +716,9 @@
       </register>
     </registers>
     <search>
-      <last-search>trust</last-search>
+      <last-search>rsvp</last-search>
       <last-offset />
-      <last-pattern>trust</last-pattern>
+      <last-pattern>rsvp</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -733,7 +726,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRFcGlzb2Rlc1w+</entry>
         <entry>getEpisodes</entry>
         <entry encoding="base64">XDxnZXREaXJlY3RvckRhdGFcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
@@ -753,6 +745,7 @@
         <entry>,</entry>
         <entry>cordova</entry>
         <entry>trust</entry>
+        <entry>rsvp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
