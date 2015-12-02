@@ -333,11 +333,12 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" timestamp="1449017693282">
-        <mark key="[" line="75" column="26" />
-        <mark key="]" line="76" column="5" />
-        <mark key="." line="76" column="5" />
-        <mark key="^" line="76" column="5" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" timestamp="1449019596109">
+        <mark key="'" line="115" column="32" />
+        <mark key="[" line="84" column="40" />
+        <mark key="]" line="84" column="45" />
+        <mark key="^" line="84" column="45" />
+        <mark key="." line="84" column="45" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/templates/gallery.html" timestamp="1444001503093">
         <mark key="[" line="0" column="0" />
@@ -564,7 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="240" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="65" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
       <jump line="13" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
@@ -664,13 +664,14 @@
       <jump line="94" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" />
       <jump line="88" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" />
       <jump line="87" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" />
+      <jump line="115" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgdmFyIHNvcnRDYXRlZ29yeUJ5UHJpb3JpdHkgPSBmdW5jdGlvbihhLCBiKSB7CiAgICAgICAgdmFyIGFQcmlvcml0eSA9IE51bWJlci5wYXJzZUludChhLnByaW9yaXR5KTsKICAgICAgICB2YXIgYlByaW9yaXR5ID0gTnVtYmVyLnBhcnNlSW50KGIucHJpb3JpdHkpOwoKICAgICAgICBpZiAoYVByaW9yaXR5ID4gYlByaW9yaXR5KSB7CiAgICAgICAgICByZXR1cm4gMTsKICAgICAgICB9IGVsc2UgaWYgKGFQcmlvcml0eSA9PT0gYlByaW9yaXR5KSB7CiAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmV0dXJuIC0xOwogICAgICAgIH0KICAgICAgfTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>categories.map(function(cat){return cat.title})</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -682,40 +683,40 @@
         <text encoding="base64">ICAgIHZhciBnbG9iYWxIaWdobGlnaHRzTGlzdFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CgogICAgfSk7CgogICAgdmFyIEhpZ2hsaWdodFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CiAgICAgIHRlbXBsYXRlOiAKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>categories.map(function(cat){return cat.title})</text>
       </register>
       <register name="/" type="4">
         <text>trust</text>
       </register>
       <register name="0" type="4">
-        <text>Number.parseInt(a.priority);</text>
+        <text>product.productCategories</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text>categories.map(function(cat){return cat.title})</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>categoryTitles</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>categories = categories</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NhdGVnb3JpZXM6ICcsIGNhdGVnb3JpZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY2F0ZWdvcnlUaXRsZXMgPSBwcm9kdWN0LnByb2R1Y3RDYXRlZ29yaWVzLm1hcChmdW5jdGlvbihjYXQpIHsKICAgICAgICAgIHJldHVybiBjYXQudGl0bGU7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">ISA=</text>
       </register>
       <register name="6" type="4">
-        <text>.title</text>
+        <text>categories</text>
       </register>
-      <register name="7" type="4">
-        <text>.title</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBmaWx0ZXIgb3V0IGR1cGxpY2F0ZXMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="8" type="4">
+        <text>arrUnique</text>
       </register>
       <register name="9" type="4">
-        <text>.title</text>
+        <text>arr</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
