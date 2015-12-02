@@ -263,6 +263,7 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1448306800634">
         <mark key="'" line="193" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/views/RewardsMainView.html" timestamp="1449014796637" />
       <file name="$USER_HOME$/Code/work/placepocket/angular-mobile-place-adder/gulp/tasks/browserify.js" timestamp="1435739391968">
         <mark key="[" line="26" column="7" />
         <mark key="]" line="26" column="3" />
@@ -331,6 +332,11 @@
         <mark key="]" line="18" column="39" />
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="39" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" timestamp="1449015209614">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="17" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/templates/gallery.html" timestamp="1444001503093">
         <mark key="[" line="0" column="0" />
@@ -534,9 +540,6 @@
         <mark key="^" line="14" column="91" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="/a.regexp" timestamp="1449004956279">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/package.json" timestamp="1449001543916">
         <mark key="'" line="0" column="0" />
       </file>
@@ -666,7 +669,7 @@
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIElmIEkgYW0gZXZlciBvdXRzaWRlIHRoZSBVUywgSSBhZ3JlZSB0byB0aGF0IG15IHBlcnNvbmFsIGRhdGEgbWF5IGJlIHRyYW5zZmVycmVkIHRvIG90aGVyCiAgICAgICAgY291bnRyaWVzIG91dHNpZGUgbXkgY291bnRyeSBvZiBvcmlnaW4gdG8gdGhlIFVTLgogICAgICA8L2ppZmYtY2hlY2tib3g+CiAgICAgIDxqaWZmLWNoZWNrYm94PgogICAgICAgIEkgYWdyZWUgdG8gcmVjZWl2ZSBjb21tdW5pY2F0aW9ucyBmcm9tIG15IGVtcGxveWVyIGFuZCBKaWZmIGFzIHBhcnQgb2YgbXkgcGFydGljaXBhdGlvbiBpbiB0aGUgSmlmZiBwcm9ncmFtcy4KICAgICAgPC9qaWZmLWNoZWNrYm94PgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -687,28 +690,28 @@
         <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdPbmJvYXJkaW5nIC0gQ2xpY2sgU2xpZGVzJywge3NsaWRlOiBjdHJsLmFjdGl2ZSwgY2hhbmdlU2xpZGU6IHRydWV9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjdHJsLmV2ZW50cyA9IEV2ZW50cy5nZXRVcGNvbWluZ0V2ZW50cygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjdHJsLmV2ZW50cyA9IEV2ZW50czsK</text>
+        <text encoding="base64">ICBjdHJsLmV2ZW50cyA9IEV2ZW50cy5nZXRVcGNvbWluZ0V2ZW50cygpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBjdHJsLmV2ZW50cyA9IEV2ZW50czsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ID0gIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjdHJsLmV2ZW50cyA9IEV2ZW50czsK</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ID0gIA==</text>
+      </register>
+      <register name="7" type="4">
         <text>ctrl.events =</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
