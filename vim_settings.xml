@@ -239,6 +239,12 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cache.js" timestamp="1449102739427">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="32" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="53" column="24" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/providers/splashConfig.js" timestamp="1447789034562">
         <mark key="'" line="37" column="28" />
       </file>
@@ -496,7 +502,7 @@
         <mark key="^" line="57" column="38" />
         <mark key="." line="57" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/OAuthHttpInterceptor.js" timestamp="1449101815256" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/OAuthHttpInterceptor.js" timestamp="1449102408031" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" timestamp="1449098260813">
         <mark key="'" line="65" column="21" />
         <mark key="[" line="112" column="46" />
@@ -680,7 +686,7 @@
         <text encoding="base64">ICAgICAgdmFyIHNvcnRDYXRlZ29yeUJ5UHJpb3JpdHkgPSBmdW5jdGlvbihhLCBiKSB7CiAgICAgICAgdmFyIGFQcmlvcml0eSA9IE51bWJlci5wYXJzZUludChhLnByaW9yaXR5KTsKICAgICAgICB2YXIgYlByaW9yaXR5ID0gTnVtYmVyLnBhcnNlSW50KGIucHJpb3JpdHkpOwoKICAgICAgICBpZiAoYVByaW9yaXR5ID4gYlByaW9yaXR5KSB7CiAgICAgICAgICByZXR1cm4gMTsKICAgICAgICB9IGVsc2UgaWYgKGFQcmlvcml0eSA9PT0gYlByaW9yaXR5KSB7CiAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmV0dXJuIC0xOwogICAgICAgIH0KICAgICAgfTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gcmVzLmRhdGE7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -692,7 +698,7 @@
         <text encoding="base64">ICAgIHZhciBnbG9iYWxIaWdobGlnaHRzTGlzdFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CgogICAgfSk7CgogICAgdmFyIEhpZ2hsaWdodFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CiAgICAgIHRlbXBsYXRlOiAKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>footer</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>rsvp</text>
@@ -701,31 +707,31 @@
         <text encoding="base64">ICAuZm9vdGVyIHsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIGJvdHRvbTogMDsKICAgIHdpZHRoOiAxMDAlOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gcmVzLmRhdGE7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>footer</text>
+        <text>;</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGhpZGUtb24ta2V5Ym9hcmQtb3Blbg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InRydXN0LWUiPgogICAgICA8YSBocmVmPSJodHRwczovL3ByaXZhY3kudHJ1c3RlLmNvbS9wcml2YWN5LXNlYWwvdmFsaWRhdGlvbj9yaWQ9MWY5ZmRmMWItNmZkNi00YzIyLTk1NWEtMGQ1MTRhNzA2NGI1IiB0aXRsZT0iVFJVU1RlIFByaXZhY3kgQ2VydGlmaWNhdGlvbiI+PGltZyBzdHlsZT0iYm9yZGVyOiBub25lIiBzcmM9Imh0dHBzOi8vcHJpdmFjeS1wb2xpY3kudHJ1c3RlLmNvbS9wcml2YWN5LXNlYWwvc2VhbD9yaWQ9NzQyNjc2ZDUtMWMyMy00MzdlLTlkZmItYjc0MGYxNzY3NWIwIiBhbHQ9IlRSVVNUZSBQcml2YWN5IENlcnRpZmljYXRpb24iLz48L2E+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZXQoa2V5LCByZXMuZGF0YSk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+      </register>
+      <register name="8" type="4">
+        <text>footer</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">IGhpZGUtb24ta2V5Ym9hcmQtb3Blbg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>mobile</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnY2NhOm1hbmlmZXN0JywKICAgICAgICAnY2NhOmJhY2tncm91bmQnCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnY2NhOnVwZ3JhZGUnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
