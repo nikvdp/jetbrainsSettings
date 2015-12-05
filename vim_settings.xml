@@ -460,6 +460,11 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/profileImage.html" timestamp="1449273293857">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/app.js" timestamp="1443999642615">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="6" column="2" />
@@ -683,7 +688,7 @@
         <text encoding="base64">ICAgICAgdmFyIHNvcnRDYXRlZ29yeUJ5UHJpb3JpdHkgPSBmdW5jdGlvbihhLCBiKSB7CiAgICAgICAgdmFyIGFQcmlvcml0eSA9IE51bWJlci5wYXJzZUludChhLnByaW9yaXR5KTsKICAgICAgICB2YXIgYlByaW9yaXR5ID0gTnVtYmVyLnBhcnNlSW50KGIucHJpb3JpdHkpOwoKICAgICAgICBpZiAoYVByaW9yaXR5ID4gYlByaW9yaXR5KSB7CiAgICAgICAgICByZXR1cm4gMTsKICAgICAgICB9IGVsc2UgaWYgKGFQcmlvcml0eSA9PT0gYlByaW9yaXR5KSB7CiAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmV0dXJuIC0xOwogICAgICAgIH0KICAgICAgfTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(obj, props, defaultValue)</text>
+        <text encoding="base64">bG9hZGluZyAmJiA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -695,7 +700,7 @@
         <text encoding="base64">ICAgIHZhciBnbG9iYWxIaWdobGlnaHRzTGlzdFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CgogICAgfSk7CgogICAgdmFyIEhpZ2hsaWdodFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CiAgICAgIHRlbXBsYXRlOiAKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>(obj, props, defaultValue)</text>
+        <text encoding="base64">bG9hZGluZyAmJiA=</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -704,12 +709,15 @@
         <text encoding="base64">ICogIHZhciBhID0gewogKiAgICAiYSI6IHsKICogICAgICAiYSI6IHsKICogICAgICAgICJiIjogewogKiAgICAgICAgICAiYyI6IDEKICogICAgICAgIH0KICogICAgICB9CiAqICAgIH0sCiAqICAgICJiIjogewogKiAgICAgICJjIjogewogKiAgICAgICAgImQiOiB7CiAqICAgICAgICAgICJlIjogMgogKiAgICAgICAgfQogKiAgICAgIH0KICogICAgfQogKiAgfTsKICoKICogIGNvbnNvbGUubG9nKFNhZmVHZXQoYSwgJ2EuYS5iLmMnKSk7IC8vIG91dHB1dHMgMQogKiAgY29uc29sZS5sb2coU2FmZUdldChhLCAnYi5jLmQuZScpKTsgLy8gb3V0cHV0cyAyCiAqICBjb25zb2xlLmxvZyhTYWZlR2V0KGEsICd4Lnkuei5xJykpOyAvLyBvdXRwdXRzIHVuZGVmaW5lZAogKgogKiAgY29uc29sZS5sb2coYS54Lnkuei5xKTsgLy8gdGhyb3dzIGFuIGV4Y2VwdGlvbiBhbmQgY2F1c2VzIHNhZG5lc3MKICogIGNvbnNvbGUubG9nKGEuYS55LnoucSk7IC8vIHRocm93cyBhbiBleGNlcHRpb24gYW5kIGNhdXNlcyBzYWRuZXNzCg==</text>
       </register>
       <register name="1" type="4">
-        <text>(obj, props, defaultValue)</text>
+        <text encoding="base64">bG9hZGluZyAmJiA=</text>
       </register>
       <register name="2" type="4">
+        <text>(obj, props, defaultValue)</text>
+      </register>
+      <register name="3" type="4">
         <text>obj, props, defaultValue</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>*
 *
 *
@@ -734,26 +742,23 @@
 *
 *</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>}</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>function</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">YW5ndWxhci5jb250cm9sbGVyKCdzb21lQ29udHJvbGxlcicsIGZ1bmN0aW9uKCRzY29wZSwgU2FmZUdldCkgewogIHZhciBhID0gewogICAgImEiOiB7CiAgICAgICJhIjogewogICAgICAgICJiIjogewogICAgICAgICAgImMiOiAxCiAgICAgICAgfQogICAgICB9CiAgICB9LAogICAgImIiOiB7CiAgICAgICJjIjogewogICAgICAgICJkIjogewogICAgICAgICAgImUiOiAyCiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfTsKCiAgY29uc29sZS5sb2coU2FmZUdldChhLCAnYS5hLmIuYycpKTsgLy8gb3V0cHV0cyAxCiAgY29uc29sZS5sb2coU2FmZUdldChhLCAnYi5jLmQuZScpKTsgLy8gb3V0cHV0cyAyCiAgY29uc29sZS5sb2coU2FmZUdldChhLCAneC55LnoucScpKTsgLy8gb3V0cHV0cyB1bmRlZmluZWQKCiAgY29uc29sZS5sb2coYS54Lnkuei5xKTsgLy8gdGhyb3dzIGFuIGV4Y2VwdGlvbiBhbmQgY2F1c2VzIHNhZG5lc3MKICBjb25zb2xlLmxvZyhhLmEueS56LnEpOyAvLyB0aHJvd3MgYW4gZXhjZXB0aW9uIGFuZCBjYXVzZXMgc2FkbmVzcwp9KTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>safe</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">TWFrZXMg</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -796,8 +801,8 @@
         <entry>s/,/,\r/g</entry>
         <entry encoding="base64">JzwsJz5zLyAqLy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
