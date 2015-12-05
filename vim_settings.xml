@@ -24,9 +24,6 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1449013649656">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Library/WebServer/Documents/register.php" timestamp="1427093527193">
         <mark key="[" line="14" column="39" />
         <mark key="]" line="14" column="39" />
@@ -129,9 +126,6 @@
         <mark key="]" line="18" column="60" />
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="/a.txt" timestamp="1448323783742">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/views/mainCasenoteFolderView.coffee" timestamp="1417427652335">
         <mark key="[" line="311" column="39" />
@@ -330,6 +324,12 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" timestamp="1449276808577">
+        <mark key="[" line="64" column="41" />
+        <mark key="]" line="64" column="41" />
+        <mark key="^" line="65" column="46" />
+        <mark key="." line="64" column="41" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/profile/views/profile.html" timestamp="1448057238304">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="39" />
@@ -461,11 +461,11 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/profileImage.html" timestamp="1449275864749">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/profileImage.html" timestamp="1449276716310">
         <mark key="'" line="21" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/app.js" timestamp="1443999642615">
@@ -690,8 +690,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgdmFyIHNvcnRDYXRlZ29yeUJ5UHJpb3JpdHkgPSBmdW5jdGlvbihhLCBiKSB7CiAgICAgICAgdmFyIGFQcmlvcml0eSA9IE51bWJlci5wYXJzZUludChhLnByaW9yaXR5KTsKICAgICAgICB2YXIgYlByaW9yaXR5ID0gTnVtYmVyLnBhcnNlSW50KGIucHJpb3JpdHkpOwoKICAgICAgICBpZiAoYVByaW9yaXR5ID4gYlByaW9yaXR5KSB7CiAgICAgICAgICByZXR1cm4gMTsKICAgICAgICB9IGVsc2UgaWYgKGFQcmlvcml0eSA9PT0gYlByaW9yaXR5KSB7CiAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmV0dXJuIC0xOwogICAgICAgIH0KICAgICAgfTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxpIGNsYXNzPSJpb24tbG9hZGluZy1hIj48L2k+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>“j</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -703,7 +703,7 @@
         <text encoding="base64">ICAgIHZhciBnbG9iYWxIaWdobGlnaHRzTGlzdFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CgogICAgfSk7CgogICAgdmFyIEhpZ2hsaWdodFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CiAgICAgIHRlbXBsYXRlOiAKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ng-show=&quot;&quot;</text>
+        <text>“j</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -711,54 +711,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICogIHZhciBhID0gewogKiAgICAiYSI6IHsKICogICAgICAiYSI6IHsKICogICAgICAgICJiIjogewogKiAgICAgICAgICAiYyI6IDEKICogICAgICAgIH0KICogICAgICB9CiAqICAgIH0sCiAqICAgICJiIjogewogKiAgICAgICJjIjogewogKiAgICAgICAgImQiOiB7CiAqICAgICAgICAgICJlIjogMgogKiAgICAgICAgfQogKiAgICAgIH0KICogICAgfQogKiAgfTsKICoKICogIGNvbnNvbGUubG9nKFNhZmVHZXQoYSwgJ2EuYS5iLmMnKSk7IC8vIG91dHB1dHMgMQogKiAgY29uc29sZS5sb2coU2FmZUdldChhLCAnYi5jLmQuZScpKTsgLy8gb3V0cHV0cyAyCiAqICBjb25zb2xlLmxvZyhTYWZlR2V0KGEsICd4Lnkuei5xJykpOyAvLyBvdXRwdXRzIHVuZGVmaW5lZAogKgogKiAgY29uc29sZS5sb2coYS54Lnkuei5xKTsgLy8gdGhyb3dzIGFuIGV4Y2VwdGlvbiBhbmQgY2F1c2VzIHNhZG5lc3MKICogIGNvbnNvbGUubG9nKGEuYS55LnoucSk7IC8vIHRocm93cyBhbiBleGNlcHRpb24gYW5kIGNhdXNlcyBzYWRuZXNzCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpIGNsYXNzPSJpb24tbG9hZGluZy1hIj48L2k+Cg==</text>
+      <register name="1" type="4">
+        <text>“j</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG5nLXNob3c9ImlzSUUxMCIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGljb249ImNpcmNsZXMi</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIDxpIGNsYXNzPSJpb24tbG9hZGluZy1hIj48L2k+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG5nLXNob3c9ImlzSUUxMCIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICA8c3ZnIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS9zdmciCiAgICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS9zdmciCiAgICBoZWlnaHQ9IjEwMCUiCiAgICB3aWR0aD0iMTAwJSIKICAgIG5nLWhpZGU9ImlzSUUxMCIKICAgIHJlZ3VsYXItY2xpY2s9InNob3dGaWxlRGlhbG9nIj4KICAgIDxjbGlwUGF0aCBpZD0iY2lyY2xlIj4KICAgICAgPGNpcmNsZSByPSI0NSUiIGN4PSI1MCUiIGN5PSI1MCUiIC8+CiAgICA8L2NsaXBQYXRoPgoKICAgIDxjbGlwUGF0aCBpZD0ic3F1YXJlIj4KICAgICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgLz4KICAgIDwvY2xpcFBhdGg+CgogICAgPGc+CiAgICAgIDxnPgogICAgICAgIDxjaXJjbGUgcj0iNDUlIgogICAgICAgICAgY3g9IjUwJSIKICAgICAgICAgIGN5PSI1MCUiCiAgICAgICAgICBzdHJva2Utd2lkdGg9IjMiCiAgICAgICAgICBjbGFzcz0iamlmZi1ib3JkZXItcHJpbWFyeSIKICAgICAgICAgIGZpbGw9Im5vbmUiCiAgICAgICAgICBuZy1oaWRlPSJpc0lFMTAiIC8+CiAgICAgIDwvZz4KICAgICAgPGc+CiAgICAgICAgPGltYWdlIG5nLWhyZWY9Int7IFMzLmltYWdlKycvJythcHBTa2luKycvd2ViLycrcHJvZmlsZURlZmF1bHQgfX0iCiAgICAgICAgICB4bGluazpocmVmPSIiCiAgICAgICAgICBuZy1oaWRlPSJpc0lFMTAiCiAgICAgICAgICBuZy1hdHRyLXdpZHRoPSJ7e2RlZmF1bHRXaWR0aH19IgogICAgICAgICAgbmctYXR0ci1oZWlnaHQ9Int7ZGVmYXVsdEhlaWdodH19IgogICAgICAgICAgbmctYXR0ci1jbGlwLXBhdGg9Int7KCFpc0lFMTApID8gJ3VybCgjJyArIHNoYXBlICsgJyknIDogJyd9fSIgLz4KICAgICAgPC9nPgoKICAgICAgPGc+CiAgICAgICAgPGltYWdlIHByb2ZpbGUtcHJldmlldz0icHJvZmlsZVBob3RvIgogICAgICAgICAgeGxpbms6aHJlZj0iIgogICAgICAgICAgbmctaGlkZT0iaXNJRTEwIgogICAgICAgICAgbmctYXR0ci1jbGlwLXBhdGg9Int7KCFpc0lFMTApID8gJ3VybCgjJyArIHNoYXBlICsgJyknIDogJyd9fSIKICAgICAgICAgIHNldC1pbWFnZT0ic2V0SW1hZ2UiCiAgICAgICAgICBnZXQtZGltZW5zaW9ucz0iZ2V0RGltZW5zaW9ucyIKICAgICAgICAgIHNoYXBlPSJzaGFwZSIKICAgICAgICAgIHZpZXc9InZpZXciCiAgICAgICAgICBwaG90bz0idXNlci5waG90b1VybCIgLz4KICAgICAgPC9nPgogICAgPC9nPgoKICA8L3N2Zz4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>ng-show=&quot;&quot;</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>profilePhoto</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">bG9hZGluZyAmJiA=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>(obj, props, defaultValue)</text>
-      </register>
-      <register name="8" type="4">
-        <text>obj, props, defaultValue</text>
-      </register>
-      <register name="9" type="8">
-        <text>*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
