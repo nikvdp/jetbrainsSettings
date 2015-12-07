@@ -68,8 +68,12 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/IonicConfig.js" timestamp="1449274580398" />
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1448913488753">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1449516381538">
         <mark key="'" line="14" column="2" />
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/duable/libs/hanzi/lib/segmenter.js" timestamp="1424690905341">
         <mark key="[" line="27" column="11" />
@@ -99,12 +103,11 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/checkbox.less" timestamp="1448407854243">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/checkbox.less" timestamp="1449516797946">
         <mark key="'" line="21" column="1" />
-        <mark key="[" line="16" column="57" />
-        <mark key="]" line="16" column="60" />
-        <mark key="^" line="16" column="60" />
-        <mark key="." line="16" column="60" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/src/templates/tabs.html" timestamp="1436437091653">
         <mark key="[" line="8" column="18" />
@@ -126,6 +129,9 @@
         <mark key="]" line="18" column="60" />
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="/a.txt" timestamp="1449516684815">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/views/mainCasenoteFolderView.coffee" timestamp="1417427652335">
         <mark key="[" line="311" column="39" />
@@ -191,12 +197,6 @@
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1449095170005">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/emailer_info.inc.php" timestamp="1410341309294">
         <mark key="[" line="2" column="10" />
@@ -381,14 +381,6 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/views/EventsDetailsView.html" timestamp="1449095966529">
-        <mark key="a" line="61" column="23" />
-        <mark key="'" line="151" column="11" />
-        <mark key="[" line="55" column="40" />
-        <mark key="]" line="55" column="40" />
-        <mark key="^" line="55" column="40" />
-        <mark key="." line="55" column="40" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" timestamp="1448913896379">
         <mark key="'" line="11" column="9" />
         <mark key="[" line="61" column="21" />
@@ -565,6 +557,9 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/package.json" timestamp="1449001543916">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/a.regexp" timestamp="1449516683319">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" timestamp="1447886760140">
         <mark key="[" line="61" column="101" />
         <mark key="]" line="62" column="65" />
@@ -577,11 +572,10 @@
         <mark key="^" line="20" column="100" />
         <mark key="." line="20" column="100" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/license.less" timestamp="1448915860080">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="15" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/license.less" timestamp="1449517353578">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -690,8 +684,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgdmFyIHNvcnRDYXRlZ29yeUJ5UHJpb3JpdHkgPSBmdW5jdGlvbihhLCBiKSB7CiAgICAgICAgdmFyIGFQcmlvcml0eSA9IE51bWJlci5wYXJzZUludChhLnByaW9yaXR5KTsKICAgICAgICB2YXIgYlByaW9yaXR5ID0gTnVtYmVyLnBhcnNlSW50KGIucHJpb3JpdHkpOwoKICAgICAgICBpZiAoYVByaW9yaXR5ID4gYlByaW9yaXR5KSB7CiAgICAgICAgICByZXR1cm4gMTsKICAgICAgICB9IGVsc2UgaWYgKGFQcmlvcml0eSA9PT0gYlByaW9yaXR5KSB7CiAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmV0dXJuIC0xOwogICAgICAgIH0KICAgICAgfTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>“j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkIHJnYigyMjEsIDIyMiwgMjI0KTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -703,7 +697,7 @@
         <text encoding="base64">ICAgIHZhciBnbG9iYWxIaWdobGlnaHRzTGlzdFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CgogICAgfSk7CgogICAgdmFyIEhpZ2hsaWdodFZpZXcgPSByZXF1aXJlKCJhbXBlcnNhbmQtdmlldyIpLmV4dGVuZCh7CiAgICAgIHRlbXBsYXRlOiAKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>“j</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -711,32 +705,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICogIHZhciBhID0gewogKiAgICAiYSI6IHsKICogICAgICAiYSI6IHsKICogICAgICAgICJiIjogewogKiAgICAgICAgICAiYyI6IDEKICogICAgICAgIH0KICogICAgICB9CiAqICAgIH0sCiAqICAgICJiIjogewogKiAgICAgICJjIjogewogKiAgICAgICAgImQiOiB7CiAqICAgICAgICAgICJlIjogMgogKiAgICAgICAgfQogKiAgICAgIH0KICogICAgfQogKiAgfTsKICoKICogIGNvbnNvbGUubG9nKFNhZmVHZXQoYSwgJ2EuYS5iLmMnKSk7IC8vIG91dHB1dHMgMQogKiAgY29uc29sZS5sb2coU2FmZUdldChhLCAnYi5jLmQuZScpKTsgLy8gb3V0cHV0cyAyCiAqICBjb25zb2xlLmxvZyhTYWZlR2V0KGEsICd4Lnkuei5xJykpOyAvLyBvdXRwdXRzIHVuZGVmaW5lZAogKgogKiAgY29uc29sZS5sb2coYS54Lnkuei5xKTsgLy8gdGhyb3dzIGFuIGV4Y2VwdGlvbiBhbmQgY2F1c2VzIHNhZG5lc3MKICogIGNvbnNvbGUubG9nKGEuYS55LnoucSk7IC8vIHRocm93cyBhbiBleGNlcHRpb24gYW5kIGNhdXNlcyBzYWRuZXNzCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>“j</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkIHJnYigyMjEsIDIyMiwgMjI0KTsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGljb249ImNpcmNsZXMi</text>
+        <text>-</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxpIGNsYXNzPSJpb24tbG9hZGluZy1hIj48L2k+Cg==</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDEwMCU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5nLXNob3c9ImlzSUUxMCIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8c3ZnIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS9zdmciCiAgICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS9zdmciCiAgICBoZWlnaHQ9IjEwMCUiCiAgICB3aWR0aD0iMTAwJSIKICAgIG5nLWhpZGU9ImlzSUUxMCIKICAgIHJlZ3VsYXItY2xpY2s9InNob3dGaWxlRGlhbG9nIj4KICAgIDxjbGlwUGF0aCBpZD0iY2lyY2xlIj4KICAgICAgPGNpcmNsZSByPSI0NSUiIGN4PSI1MCUiIGN5PSI1MCUiIC8+CiAgICA8L2NsaXBQYXRoPgoKICAgIDxjbGlwUGF0aCBpZD0ic3F1YXJlIj4KICAgICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgLz4KICAgIDwvY2xpcFBhdGg+CgogICAgPGc+CiAgICAgIDxnPgogICAgICAgIDxjaXJjbGUgcj0iNDUlIgogICAgICAgICAgY3g9IjUwJSIKICAgICAgICAgIGN5PSI1MCUiCiAgICAgICAgICBzdHJva2Utd2lkdGg9IjMiCiAgICAgICAgICBjbGFzcz0iamlmZi1ib3JkZXItcHJpbWFyeSIKICAgICAgICAgIGZpbGw9Im5vbmUiCiAgICAgICAgICBuZy1oaWRlPSJpc0lFMTAiIC8+CiAgICAgIDwvZz4KICAgICAgPGc+CiAgICAgICAgPGltYWdlIG5nLWhyZWY9Int7IFMzLmltYWdlKycvJythcHBTa2luKycvd2ViLycrcHJvZmlsZURlZmF1bHQgfX0iCiAgICAgICAgICB4bGluazpocmVmPSIiCiAgICAgICAgICBuZy1oaWRlPSJpc0lFMTAiCiAgICAgICAgICBuZy1hdHRyLXdpZHRoPSJ7e2RlZmF1bHRXaWR0aH19IgogICAgICAgICAgbmctYXR0ci1oZWlnaHQ9Int7ZGVmYXVsdEhlaWdodH19IgogICAgICAgICAgbmctYXR0ci1jbGlwLXBhdGg9Int7KCFpc0lFMTApID8gJ3VybCgjJyArIHNoYXBlICsgJyknIDogJyd9fSIgLz4KICAgICAgPC9nPgoKICAgICAgPGc+CiAgICAgICAgPGltYWdlIHByb2ZpbGUtcHJldmlldz0icHJvZmlsZVBob3RvIgogICAgICAgICAgeGxpbms6aHJlZj0iIgogICAgICAgICAgbmctaGlkZT0iaXNJRTEwIgogICAgICAgICAgbmctYXR0ci1jbGlwLXBhdGg9Int7KCFpc0lFMTApID8gJ3VybCgjJyArIHNoYXBlICsgJyknIDogJyd9fSIKICAgICAgICAgIHNldC1pbWFnZT0ic2V0SW1hZ2UiCiAgICAgICAgICBnZXQtZGltZW5zaW9ucz0iZ2V0RGltZW5zaW9ucyIKICAgICAgICAgIHNoYXBlPSJzaGFwZSIKICAgICAgICAgIHZpZXc9InZpZXciCiAgICAgICAgICBwaG90bz0idXNlci5waG90b1VybCIgLz4KICAgICAgPC9nPgogICAgPC9nPgoKICA8L3N2Zz4K</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkIHJnYigyMjEsIDIyMiwgMjI0KTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>ng-show=&quot;&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAK</text>
       </register>
       <register name="7" type="4">
-        <text>profilePhoto</text>
+        <text>iv</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">bG9hZGluZyAmJiA=</text>
+        <text>pre</text>
       </register>
       <register name="9" type="4">
-        <text>(obj, props, defaultValue)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
