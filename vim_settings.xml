@@ -345,13 +345,7 @@
         <mark key="." line="18" column="39" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1449520082793" />
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" timestamp="1449623941026">
-        <mark key="'" line="88" column="28" />
-        <mark key="[" line="174" column="41" />
-        <mark key="]" line="175" column="39" />
-        <mark key="^" line="175" column="39" />
-        <mark key="." line="175" column="39" />
-      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" timestamp="1449623941026" />
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/templates/gallery.html" timestamp="1444001503093">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="6" />
@@ -543,8 +537,11 @@
         <mark key="^" line="14" column="91" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/package.json" timestamp="1449001543916">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/package.json" timestamp="1449690410962">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" timestamp="1447886760140">
         <mark key="[" line="61" column="101" />
@@ -674,7 +671,7 @@
         <text encoding="base64">ICAgICAgdmFyIHNvcnRDYXRlZ29yeUJ5UHJpb3JpdHkgPSBmdW5jdGlvbihhLCBiKSB7CiAgICAgICAgdmFyIGFQcmlvcml0eSA9IE51bWJlci5wYXJzZUludChhLnByaW9yaXR5KTsKICAgICAgICB2YXIgYlByaW9yaXR5ID0gTnVtYmVyLnBhcnNlSW50KGIucHJpb3JpdHkpOwoKICAgICAgICBpZiAoYVByaW9yaXR5ID4gYlByaW9yaXR5KSB7CiAgICAgICAgICByZXR1cm4gMTsKICAgICAgICB9IGVsc2UgaWYgKGFQcmlvcml0eSA9PT0gYlByaW9yaXR5KSB7CiAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmV0dXJuIC0xOwogICAgICAgIH0KICAgICAgfTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJHVUlEID0gV29ya2Zsb3dEaXJlY3Rvci5nZXRQYXJ0aWNpcGFudCgpOwo=</text>
+        <text encoding="base64">ICAgICJjb25uZWN0LWxpdmVyZWxvYWQiOiAiXjAuNS40IiwKICAgICJleHByZXNzIjogIl40LjEuMCIsCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -698,31 +695,31 @@
         <text encoding="base64">aWYgKGFuZHJvaWRMaXZlcmVsb2FkKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJHVUlEID0gV29ya2Zsb3dEaXJlY3Rvci5nZXRQYXJ0aWNpcGFudCgpOwo=</text>
+        <text encoding="base64">ICAgICJjb25uZWN0LWxpdmVyZWxvYWQiOiAiXjAuNS40IiwKICAgICJleHByZXNzIjogIl40LjEuMCIsCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJHVUlEID0gV29ya2Zsb3dEaXJlY3Rvci5nZXRQYXJ0aWNpcGFudCgpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>return</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgfSkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>URL</text>
       </register>
-      <register name="8" type="4">
-        <text>responses[0]</text>
-      </register>
       <register name="9" type="4">
-        <text>responses</text>
+        <text>responses[0]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
