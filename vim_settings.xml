@@ -113,8 +113,8 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUser.js" timestamp="1447707180682">
-        <mark key="'" line="44" column="30" />
+      <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUser.js" timestamp="1449790693032">
+        <mark key="'" line="44" column="29" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1448404013544">
         <mark key="'" line="17" column="4" />
@@ -587,7 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" />
       <jump line="84" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" />
       <jump line="42" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
       <jump line="61" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/views/EventsDetailsView.html" />
@@ -687,6 +686,7 @@
       <jump line="49" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
       <jump line="50" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
       <jump line="59" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
+      <jump line="44" column="29" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUser.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
