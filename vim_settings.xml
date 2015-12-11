@@ -446,11 +446,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" timestamp="1449793532041">
         <mark key="'" line="236" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" timestamp="1449859404358">
-        <mark key="'" line="128" column="31" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" timestamp="1449860350175">
+        <mark key="'" line="29" column="6" />
+        <mark key="[" line="85" column="21" />
+        <mark key="]" line="85" column="21" />
+        <mark key="." line="85" column="21" />
+        <mark key="^" line="125" column="44" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/angular-mobile-place-adder/src/modules/app/placepocket/placesearch.html" timestamp="1437660749903">
         <mark key="[" line="17" column="18" />
@@ -634,8 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
-      <jump line="85" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
       <jump line="97" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
       <jump line="86" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
       <jump line="84" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
@@ -734,13 +733,15 @@
       <jump line="128" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" />
       <jump line="121" column="29" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/notifications/controllers/notifications.js" />
       <jump line="133" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/notifications/controllers/notifications.js" />
+      <jump line="141" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" />
+      <jump line="29" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">PGlvbi1uYXYtdmlldyBjbGFzcz0iY29udGVudC1jZW50ZXIiIGFuaW1hdGlvbj0ic2xpZGUtbGVmdC1yaWdodCI+PC9pb24tbmF2LXZpZXc+</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -755,7 +756,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Insert extra</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>dashboard-tab</text>
@@ -763,32 +764,32 @@
       <register name="0" type="4">
         <text>'dashboard-tab'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+      <register name="1" type="4">
+        <text>{</text>
       </register>
       <register name="2" type="4">
-        <text>Insert extra</text>
+        <text>g</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAkc3RhdGUuZ28odmlldyk7Cg==</text>
+      <register name="3" type="4">
+        <text>switch</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICdiZW5lZml0cyc6Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlICdjYXRhbG9nJzoKICAgICAgICAgIHJldHVybiAkc3RhdGUuZ28oJ3Byb2dyYW1zJyk7CiAgICAgICAgY2FzZSAnc3RvcmUnOgogICAgICAgICAgcmV0dXJuICRzdGF0ZS5nbygnc3RvcmUubGlzdCcpOwogICAgICAgIGNhc2UgJ2NoYWxsZW5nZXMnOgogICAgICAgICAgYnJlYWs7CiAgICAgICAgY2FzZSAnc2V0dGluZ3MnOgogICAgICAgIGNhc2UgJ2RpcmVjdG9yeSc6CiAgICAgICAgY2FzZSAncmV3YXJkcyc6CiAgICAgICAgY2FzZSAnZXZlbnRzJzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzdAo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlICdleHBlcmllbmNlJzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICdiZW5lZml0cyc6CiAgICAgICAgICByZXR1cm4gJHN0YXRlLmdvKHZpZXcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlICdjYXRhbG9nJzoKICAgICAgICAgIHJldHVybiAkc3RhdGUuZ28oJ3Byb2dyYW1zJyk7CiAgICAgICAgY2FzZSAnc3RvcmUnOgogICAgICAgICAgcmV0dXJuICRzdGF0ZS5nbygnc3RvcmUubGlzdCcpOwogICAgICAgIGNhc2UgJ2NoYWxsZW5nZXMnOgogICAgICAgICAgYnJlYWs7CiAgICAgICAgY2FzZSAnc2V0dGluZ3MnOgogICAgICAgIGNhc2UgJ2RpcmVjdG9yeSc6CiAgICAgICAgY2FzZSAncmV3YXJkcyc6CiAgICAgICAgY2FzZSAnZXZlbnRzJzoKICAgICAgICBjYXNlICdleHBlcmllbmNlJzoK</text>
       </register>
       <register name="7" type="4">
-        <text>ContentCenterListViewCtrl</text>
+        <text>catalog</text>
       </register>
-      <register name="8" type="4">
-        <text>ContentCenterListViewCtrl</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgaWYgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>ContentCenterListViewCtrl</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHNwZWNpYWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
