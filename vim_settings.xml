@@ -159,12 +159,11 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" timestamp="1449793532041">
         <mark key="'" line="236" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/product.js" timestamp="1450221622656">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/product.js" timestamp="1450222043428">
         <mark key="'" line="68" column="43" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="41" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="76" column="72" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/safeGet.js" timestamp="1449266425907">
         <mark key="'" line="34" column="1" />
@@ -234,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="98" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="266" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="95" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
@@ -334,13 +332,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/challenges/services/challenge.js" />
       <jump line="75" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/product.js" />
       <jump line="68" column="43" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/product.js" />
+      <jump line="22" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/workflow.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIENvbnRlbnRDZW50ZXIuY29udGVudEl0ZW1zID0gWwogICAgICB7CiAgICAgICAgdHlwZTogJ2FydGljbGUnLAogICAgICAgIGFydGljbGVUZXh0OiAnPGI+eW95b3lveTxiPiB0aGlzIGlzIHNvbWUgY29udGVudCB0ZXh0JywKICAgICAgICB0aXRsZTogJ0hvdyB0byB3cml0ZSBhbiBhcnRpY2xlJwogICAgICB9LAogICAgICB7CiAgICAgIHR5cGU6ICdhcnRpY2xlJywKICAgICAgICBhcnRpY2xlVGV4dDogJ3lveW95b3kgPGI+dGhpczwvYj4gaXMgc29tZSBjb250ZW50IHRleHQnLAogICAgICAgIHRpdGxlOiAnSG93IHRvIHdyaXRlIGFuIGFydGljbGUgMicKICAgICAgfSwKICAgICAgewogICAgICAgIHR5cGU6ICd3ZWJzaXRlJywKICAgICAgICB1cmw6ICdodHRwOi8vd3d3LnlvdXR1YmUuY29tJywKICAgICAgICB0aXRsZTogJ1RoaXMgb25lIGlzIGEgbGluaycKICAgICAgfSwKICAgICAgewogICAgICAgIHR5cGU6ICd2aWRlbycsCiAgICAgICAgdXJsOiAnaHR0cDovL3d3dy55b3V0dWJlLmNvbScsCiAgICAgICAgdGl0bGU6ICdUaGlzIG9uZSBpcyBhIHZpZGVvJwogICAgICB9CiAgICBdOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIHRoZXJlJ3Mgb25seSBvbmUgb3B0aW9uLCB1c2UgaXQK</text>
+      <register name="&quot;" type="4">
+        <text>this.selected.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -355,57 +354,56 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>product.</text>
+        <text>this.selected.</text>
       </register>
       <register name="/" type="4">
-        <text>color</text>
+        <text>this.selected.</text>
       </register>
       <register name="0" type="4">
-        <text>this.selected.product.</text>
+        <text>this.selected.</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIHRoZXJlJ3Mgb25seSBvbmUgb3B0aW9uLCB1c2UgaXQK</text>
+      <register name="1" type="4">
+        <text>this.selected.</text>
       </register>
-      <register name="2" type="4">
-        <text>product.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>true;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGlmIHRoZXJlJ3Mgb25seSBvbmUgb3B0aW9uLCB1c2UgaXQKICAgIGlmICh0aGlzLnNlbGVjdGVkLnByb2R1Y3QucHJvZHVjdE9wdGlvbnMubGVuZ3RoID09IDEpIHsKICAgICAgbGV0IG9wdGlvbiA9IHRoaXMuc2VsZWN0ZWQucHJvZHVjdC5wcm9kdWN0T3B0aW9uc1swXTsKICAgICAgdGhpcy5zZWxlY3RlZC5wcm9kdWN0LnNlbGVjdGVkT3B0aW9ucyA9IHt9OwogICAgICBpZiAob3B0aW9uLnR5cGUgPT09ICdjb2xvcicpIHRoaXMuc2VsZWN0ZWQucHJvZHVjdC5zZWxlY3RlZE9wdGlvbnMuY29sb3IgPSBvcHRpb247CiAgICAgIGlmIChvcHRpb24udHlwZSA9PT0gJ3NpemUnKSB0aGlzLnNlbGVjdGVkLnByb2R1Y3Quc2VsZWN0ZWRPcHRpb25zLnNpemUgPSBvcHRpb247CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgIGlmICgiZmluZG1lbmlrIiA9PSAiREVMRVRFTUUiKSB7Y29uc29sZS5sb2coJ2hpJyk7fQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIGlmIHRoZXJlJ3Mgb25seSBvbmUgb3B0aW9uLCB1c2UgaXQK</text>
       </register>
       <register name="6" type="4">
-        <text>.size</text>
+        <text>product.</text>
       </register>
       <register name="7" type="4">
-        <text>.color</text>
+        <text>true;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb2R1Y3QuY29sb3JzLmxlbmd0aCkgdGhpcy5wcm9kdWN0LmNvbG9yID0gdGhpcy5wcm9kdWN0LmNvbG9yc1swXTsKICAgIGlmICh0aGlzLnByb2R1Y3Quc2l6ZXMubGVuZ3RoKSB0aGlzLnByb2R1Y3Quc2l6ZSA9IHRoaXMucHJvZHVjdC5zaXplc1swXTsK</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3RoaXMuc2VsZWN0ZWQuLy9n</text>
       </register>
     </registers>
     <search>
       <last-search>content</last-search>
       <last-offset />
-      <last-pattern>color</last-pattern>
-      <last-replace>size</last-replace>
-      <last-substitute>color</last-substitute>
+      <last-pattern>this.selected.</last-pattern>
+      <last-replace />
+      <last-substitute>this.selected.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
         <entry>spouse</entry>
         <entry>$scope.config.partnerInfo</entry>
         <entry encoding="base64">XDxjaGVja1BhcnRuZXJcPg==</entry>
@@ -425,6 +423,7 @@
         <entry>back</entry>
         <entry>content</entry>
         <entry>color</entry>
+        <entry>this.selected.</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzouKi8vZw==</entry>
@@ -438,6 +437,7 @@
         <entry>wa</entry>
         <entry>s/color/size/g</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3RoaXMuc2VsZWN0ZWQuLy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
