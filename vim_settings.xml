@@ -67,12 +67,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/enabler.js" timestamp="1449793018678">
         <mark key="'" line="33" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" timestamp="1450227634822">
-        <mark key="'" line="134" column="2" />
-        <mark key="[" line="154" column="1" />
-        <mark key="]" line="154" column="0" />
-        <mark key="^" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" timestamp="1450230407889">
+        <mark key="'" line="133" column="35" />
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="35" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFIdentityManager.js" timestamp="1450135883577">
         <mark key="'" line="170" column="5" />
@@ -233,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="17" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="96" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="237" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" />
@@ -333,13 +332,14 @@
       <jump line="77" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
       <jump line="85" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
       <jump line="135" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
+      <jump line="128" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBmdW5jdGlvbiBnZXRDb250ZW50TGlzdCgpIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFydGljbGVUZXh0OiAneW95b3lveSA8Yj50aGlzPC9iPiBpcyBzb21lIGNvbnRlbnQgdGV4dCcsCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICRodHRwLmdldCgnL3YzL2NvbnRlbnQvcG9vbHMvJyArIHBvb2xHdWlkICsgJy9jb250ZW50cycK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -354,7 +354,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>POOL_GUID</text>
       </register>
       <register name="/" type="4">
         <text>this.selected.</text>
@@ -363,31 +363,31 @@
         <text encoding="base64">ICAgIGFydGljbGVUZXh0OiAndGhpcyBpcyBhcnRpY2xlIHRleHQgZm9ybWF0dGVkIGluIGEgd2F5IHRoYXQgdGhlIGNsaWVudCBjYW4gZWFzaWx5IHJlbmRlcicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFydGljbGVUZXh0OiAneW95b3lveSA8Yj50aGlzPC9iPiBpcyBzb21lIGNvbnRlbnQgdGV4dCcsCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICRodHRwLmdldCgnL3YzL2NvbnRlbnQvcG9vbHMvJyArIHBvb2xHdWlkICsgJy9jb250ZW50cycK</text>
       </register>
-      <register name="2" type="4">
-        <text>l</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy9yZXR1cm4gJGh0dHAuZ2V0KCcvdjMvY29udGVudC9wb29scy8nICsgcG9vbEd1aWQgKyAnL2NvbnRlbnRzJykKICAgICAgLy8gIC50aGVuKGZ1bmN0aW9uKHJlcykgewogICAgICAvLyAgICByZXR1cm4gcmVzLmRhdGE7CiAgICAgIC8vICB9KTsK</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>POOL_GUID</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cmVhZCA8aT5lYXNpbHk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGI+eW95b3lveTxiPiB0aGlzIGlzIHNvbWUgY29udGVudCB0ZXh0</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIHN1YmplY3RfZ3VpZCA9IGl0ZW0uc3ViamVjdF9ndWlkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFydGljbGVUZXh0OiAneW95b3lveSA8Yj50aGlzPC9iPiBpcyBzb21lIGNvbnRlbnQgdGV4dCcsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>l</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
