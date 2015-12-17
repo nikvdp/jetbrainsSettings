@@ -152,9 +152,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/styles/RewardsDetailsView.less" timestamp="1450379003351">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/styles/RewardsDetailsView.less" timestamp="1450391226246">
         <mark key="'" line="7" column="13" />
-        <mark key="[" line="21" column="27" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/js/States/Tabs/Settings/tab-more-settings.html" timestamp="1436528692225">
         <mark key="[" line="18" column="0" />
@@ -541,11 +543,10 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/views/RewardsDetailsView.html" timestamp="1450379058560">
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="34" column="54" />
-        <mark key="^" line="34" column="54" />
-        <mark key="." line="34" column="54" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/views/RewardsDetailsView.html" timestamp="1450391317183">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="58" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1448917235572">
         <mark key="'" line="89" column="7" />
@@ -814,8 +815,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAmLmxvY2tlZCB7CiAgICBvcGFjaXR5OiAuNTsKICAgIGN1cnNvcjogZGVmYXVsdDsKCiAgICAucHJvZHVjdC1waG90byB7CiAgICAgIGZpbHRlcjogZ3JheXNjYWxlKDEwMCUpOwogICAgfQoKICAgIC5vdmVybGF5LXRleHQgewogICAgICBkaXNwbGF5OiBub25lOwogICAgfQogIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXV0aGVudGljYXRpb24g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLWNsYXNzPSIiCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -830,7 +831,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXV0aGVudGljYXRpb24g</text>
+        <text>class=&quot;jiff-border-primary&quot;</text>
       </register>
       <register name="/" type="4">
         <text>config.available</text>
@@ -838,32 +839,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KG5ldyBKRkF1dGhlbnRpY2F0aW9uRXJyb3IoIlVua25vd24gYXV0aCBlcnJvciIpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YXV0aGVudGljYXRpb24g</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLWNsYXNzPSIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMgaGFwcGVucyB3aGVuIHNlcnZlciBpcyBkb3duLzQwNGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZy1jbGFzcz0ie2xvY2tlZDogY29uZmlnLnByb2R1Y3QubG9ja2VkfSIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgSkZBdXRoZW50aWNhdGlvbkVycm9yKCJDb3VsZG4ndCByZWFjaCBBUEkiKSk7Cg==</text>
+      <register name="3" type="4">
+        <text>class=&quot;jiff-border-primary&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0dvdCBhIGNyYXp5IGVyZXNwb25zZS5qc29uOiAnLCBlUmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text>$q</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5wcm9kdWN0LXBob3RvIHsK</text>
       </register>
       <register name="7" type="4">
-        <text>xception</text>
+        <text encoding="base64">YXV0aGVudGljYXRpb24g</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dGhyb3cg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIHRoaXMgaGFwcGVucyB3aGVuIHNlcnZlciBpcyBkb3duLzQwNGluZwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>$q.when</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgSkZBdXRoZW50aWNhdGlvbkVycm9yKCJDb3VsZG4ndCByZWFjaCBBUEkiKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
