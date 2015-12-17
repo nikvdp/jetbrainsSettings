@@ -36,6 +36,13 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/enabler.js" timestamp="1449793018678">
         <mark key="'" line="33" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" timestamp="1450310137071">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="79" column="9" />
+        <mark key="]" line="80" column="5" />
+        <mark key="." line="80" column="5" />
+        <mark key="^" line="80" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFIdentityManager.js" timestamp="1450135883577">
         <mark key="'" line="170" column="5" />
         <mark key="[" line="182" column="26" />
@@ -77,12 +84,12 @@
         <mark key="^" line="26" column="24" />
         <mark key="." line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" timestamp="1450303834491">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" timestamp="1450310178862">
         <mark key="'" line="16" column="6" />
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="48" />
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="40" />
         <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="48" />
+        <mark key="." line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterDetailView.html" timestamp="1450142755430">
         <mark key="[" line="2" column="31" />
@@ -139,8 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
-      <jump line="237" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" />
       <jump line="10" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" />
       <jump line="236" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" />
       <jump line="1" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/module.less" />
@@ -239,13 +244,15 @@
       <jump line="135" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
       <jump line="128" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
       <jump line="17" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
+      <jump line="163" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBmdW5jdGlvbiBnZXRDb250ZW50TGlzdCgpIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHJlc3VsdCA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>.contents</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -260,7 +267,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0g</text>
+        <text>.contents</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -268,32 +275,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFydGljbGVUZXh0OiAndGhpcyBpcyBhcnRpY2xlIHRleHQgZm9ybWF0dGVkIGluIGEgd2F5IHRoYXQgdGhlIGNsaWVudCBjYW4gZWFzaWx5IHJlbmRlcicsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHJlc3VsdCA9IAo=</text>
+      <register name="1" type="4">
+        <text>.contents</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ID0g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>return</text>
+        <text encoding="base64">ICAgICAgfQ==</text>
       </register>
       <register name="5" type="4">
-        <text>return</text>
+        <text>{</text>
       </register>
       <register name="6" type="4">
-        <text>return</text>
+        <text encoding="base64">J2NvbnRlbnRzJyA6IA==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">VGl0bGU6IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHJlc3VsdCA9IAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>website</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>video</text>
+        <text encoding="base64">ID0g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
