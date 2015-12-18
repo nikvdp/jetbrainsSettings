@@ -636,12 +636,13 @@
         <mark key="." line="57" column="38" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/linkApp.html" timestamp="1450399924207" />
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1450477347989">
-        <mark key="'" line="3" column="14" />
-        <mark key="[" line="246" column="67" />
-        <mark key="]" line="246" column="83" />
-        <mark key="^" line="246" column="83" />
-        <mark key="." line="246" column="83" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1450479500487">
+        <mark key="a" line="221" column="17" />
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="5" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="22" column="5" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/jiff-js/dist/ng-jiff-bundle.js" timestamp="1450384180337">
         <mark key="'" line="51" column="7" />
@@ -730,12 +731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="17" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFIdentityManager.js" />
-      <jump line="170" column="5" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFIdentityManager.js" />
-      <jump line="33" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterListView.html" />
-      <jump line="17" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterListView.html" />
-      <jump line="26" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterListView.html" />
-      <jump line="23" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterListView.html" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/styles/ContentCenterListView.less" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.less" />
       <jump line="9" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/styles/ContentCenterListView.less" />
@@ -830,13 +825,19 @@
       <jump line="121" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="338" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="3" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
+      <jump line="162" column="57" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
+      <jump line="213" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
+      <jump line="220" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
+      <jump line="22" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
+      <jump line="221" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAmLmxvY2tlZCB7CiAgICBvcGFjaXR5OiAuNTsKICAgIGN1cnNvcjogZGVmYXVsdDsKCiAgICAucHJvZHVjdC1waG90byB7CiAgICAgIGZpbHRlcjogZ3JheXNjYWxlKDEwMCUpOwogICAgfQoKICAgIC5vdmVybGF5LXRleHQgewogICAgICBkaXNwbGF5OiBub25lOwogICAgfQogIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>direcotr variable “</text>
+        <text>.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -851,49 +852,49 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>direcotr variable “</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFydEVuZ2luZVw+</text>
+        <text encoding="base64">XDxzYWZlR2V0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljSGlzdG9yeS5nb0JhY2soKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>direcotr variable “</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>difecogtr</text>
+        <text>product.service.name</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">cyBhbiBvbGQg</text>
+        <text>direcotr variable “</text>
       </register>
       <register name="4" type="4">
-        <text>// make sure we use directors from getDirectorData(), in some cases</text>
+        <text>difecogtr</text>
       </register>
       <register name="5" type="4">
-        <text>mae</text>
+        <text encoding="base64">cyBhbiBvbGQg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGlyZWN0b3IgPSBudWxsOwo=</text>
+      <register name="6" type="4">
+        <text>// make sure we use directors from getDirectorData(), in some cases</text>
       </register>
       <register name="7" type="4">
-        <text>{params: config}</text>
+        <text>mae</text>
       </register>
-      <register name="8" type="4">
-        <text>params</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZGlyZWN0b3IgPSBudWxsOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>{params: config}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGFydEVuZ2luZVw+</last-search>
+      <last-search encoding="base64">XDxzYWZlR2V0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFydEVuZ2luZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzYWZlR2V0XD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -901,7 +902,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getPartner</entry>
         <entry encoding="base64">XDxDb3JlU3R5bGVJbmplY3Rvclw+</entry>
         <entry>'more'</entry>
         <entry>abstract</entry>
@@ -921,6 +921,7 @@
         <entry>scope.available</entry>
         <entry>config.available</entry>
         <entry encoding="base64">XDxzdGFydEVuZ2luZVw+</entry>
+        <entry encoding="base64">XDxzYWZlR2V0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzouKi8vZw==</entry>
