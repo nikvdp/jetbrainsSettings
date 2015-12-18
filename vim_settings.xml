@@ -471,8 +471,12 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1450468706543">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1450470483805">
         <mark key="'" line="121" column="13" />
+        <mark key="[" line="123" column="27" />
+        <mark key="]" line="123" column="59" />
+        <mark key="." line="123" column="59" />
+        <mark key="^" line="123" column="59" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/services/Rewards.js" timestamp="1449689088642">
         <mark key="[" line="36" column="0" />
@@ -831,7 +835,7 @@
         <text encoding="base64">ICAmLmxvY2tlZCB7CiAgICBvcGFjaXR5OiAuNTsKICAgIGN1cnNvcjogZGVmYXVsdDsKCiAgICAucHJvZHVjdC1waG90byB7CiAgICAgIGZpbHRlcjogZ3JheXNjYWxlKDEwMCUpOwogICAgfQoKICAgIC5vdmVybGF5LXRleHQgewogICAgICBkaXNwbGF5OiBub25lOwogICAgfQogIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>{params: config}</text>
+        <text>direcotr variable “</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -846,7 +850,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{params: config}</text>
+        <text>direcotr variable “</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydEVuZ2luZVw+</text>
@@ -855,31 +859,31 @@
         <text encoding="base64">ICAgICAgJGlvbmljSGlzdG9yeS5nb0JhY2soKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>{params: config}</text>
+        <text>direcotr variable “</text>
       </register>
       <register name="2" type="4">
-        <text>params</text>
+        <text>difecogtr</text>
       </register>
       <register name="3" type="4">
-        <text>(</text>
+        <text encoding="base64">cyBhbiBvbGQg</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>// make sure we use directors from getDirectorData(), in some cases</text>
       </register>
       <register name="5" type="4">
-        <text>, params</text>
+        <text>mae</text>
       </register>
-      <register name="6" type="4">
-        <text>(</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZGlyZWN0b3IgPSBudWxsOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>{params: config}</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LCBkb2c6ICdjYXQnIA==</text>
+        <text>params</text>
       </register>
       <register name="9" type="4">
-        <text>;</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
