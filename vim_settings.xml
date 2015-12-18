@@ -433,6 +433,10 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="53" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" timestamp="1450400490624">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="29" />
+      </file>
       <file name="$USER_HOME$/Dropbox/pocketlist/POI-Scraping/manifest.json" timestamp="1432109386511">
         <mark key="[" line="41" column="11" />
         <mark key="]" line="41" column="17" />
@@ -609,6 +613,12 @@
         <mark key="^" line="122" column="49" />
         <mark key="." line="161" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/editCreditCard.js" timestamp="1450400499866">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterArticleCtrl.js" timestamp="1450314530158">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="34" />
@@ -621,7 +631,7 @@
         <mark key="^" line="57" column="38" />
         <mark key="." line="57" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/linkApp.html" timestamp="1450398184452" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/linkApp.html" timestamp="1450399924207" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1450398512411">
         <mark key="[" line="246" column="67" />
         <mark key="]" line="246" column="83" />
@@ -713,8 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterListView.html" />
-      <jump line="6" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/controllers/EventsListCtrl.js" />
       <jump line="15" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListViewCtrl.js" />
       <jump line="113" column="4" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFIdentityManager.js" />
       <jump line="181" column="11" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFIdentityManager.js" />
@@ -813,13 +821,15 @@
       <jump line="57" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsDetailsCtrl.js" />
       <jump line="16" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/styles/ItemTile.less" />
       <jump line="51" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/jiff-js/dist/ng-jiff-bundle.js" />
+      <jump line="21" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/editCreditCard.js" />
+      <jump line="13" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/editCreditCard.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAmLmxvY2tlZCB7CiAgICBvcGFjaXR5OiAuNTsKICAgIGN1cnNvcjogZGVmYXVsdDsKCiAgICAucHJvZHVjdC1waG90byB7CiAgICAgIGZpbHRlcjogZ3JheXNjYWxlKDEwMCUpOwogICAgfQoKICAgIC5vdmVybGF5LXRleHQgewogICAgICBkaXNwbGF5OiBub25lOwogICAgfQogIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLWNsYXNzPSIiCg==</text>
+        <text encoding="base64">ICAgICAgJGlvbmljSGlzdG9yeS5nb0JhY2soKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -840,34 +850,34 @@
         <text>config.available</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KG5ldyBKRkF1dGhlbnRpY2F0aW9uRXJyb3IoIlVua25vd24gYXV0aCBlcnJvciIpKTsK</text>
+        <text encoding="base64">ICAgICAgJGlvbmljSGlzdG9yeS5nb0JhY2soKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLWNsYXNzPSIiCg==</text>
+        <text encoding="base64">ICAgICAgJGlvbmljSGlzdG9yeS5nb0JhY2soKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBuZy1jbGFzcz0ie2xvY2tlZDogY29uZmlnLnByb2R1Y3QubG9ja2VkfSIK</text>
+        <text encoding="base64">ICAgICAgJHN0YXRlLmdvKCdzdG9yZS5wYXltZW50Jyk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>class=&quot;jiff-border-primary&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLWNsYXNzPSIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZy1jbGFzcz0ie2xvY2tlZDogY29uZmlnLnByb2R1Y3QubG9ja2VkfSIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      <register name="5" type="4">
+        <text>class=&quot;jiff-border-primary&quot;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wcm9kdWN0LXBob3RvIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">YXV0aGVudGljYXRpb24g</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMgaGFwcGVucyB3aGVuIHNlcnZlciBpcyBkb3duLzQwNGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5wcm9kdWN0LXBob3RvIHsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgSkZBdXRoZW50aWNhdGlvbkVycm9yKCJDb3VsZG4ndCByZWFjaCBBUEkiKSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">YXV0aGVudGljYXRpb24g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
