@@ -21,9 +21,6 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1450402535723">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Library/WebServer/Documents/register.php" timestamp="1427093527193">
         <mark key="[" line="14" column="39" />
         <mark key="]" line="14" column="39" />
@@ -584,6 +581,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/api/JFRewardsAPI.js" timestamp="1450404948141">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="14" column="67" />
+        <mark key="." line="14" column="67" />
+        <mark key="^" line="14" column="67" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/views/EventsListView.html" timestamp="1450129137895">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="12" column="19" />
@@ -698,6 +701,12 @@
         <mark key="]" line="62" column="65" />
         <mark key="." line="62" column="65" />
         <mark key="^" line="62" column="65" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/jiffjs/dist/jiff.js" timestamp="1450403848712">
+        <mark key="[" line="11077" column="73" />
+        <mark key="]" line="11077" column="80" />
+        <mark key="^" line="11077" column="80" />
+        <mark key="." line="11077" column="80" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/styles/ItemTile.less" timestamp="1450378988111">
         <mark key="'" line="16" column="4" />
@@ -828,8 +837,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAmLmxvY2tlZCB7CiAgICBvcGFjaXR5OiAuNTsKICAgIGN1cnNvcjogZGVmYXVsdDsKCiAgICAucHJvZHVjdC1waG90byB7CiAgICAgIGZpbHRlcjogZ3JheXNjYWxlKDEwMCUpOwogICAgfQoKICAgIC5vdmVybGF5LXRleHQgewogICAgICBkaXNwbGF5OiBub25lOwogICAgfQogIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJGlvbmljSGlzdG9yeS5nb0JhY2soKTsK</text>
+      <register name="&quot;" type="4">
+        <text>{params: config}</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -844,7 +853,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>class=&quot;jiff-border-primary&quot;</text>
+        <text>{params: config}</text>
       </register>
       <register name="/" type="4">
         <text>config.available</text>
@@ -852,32 +861,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljSGlzdG9yeS5nb0JhY2soKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJGlvbmljSGlzdG9yeS5nb0JhY2soKTsK</text>
+      <register name="1" type="4">
+        <text>{params: config}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJHN0YXRlLmdvKCdzdG9yZS5wYXltZW50Jyk7Cg==</text>
+      <register name="2" type="4">
+        <text>params</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLWNsYXNzPSIiCg==</text>
+      <register name="3" type="4">
+        <text>(</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBuZy1jbGFzcz0ie2xvY2tlZDogY29uZmlnLnByb2R1Y3QubG9ja2VkfSIK</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>class=&quot;jiff-border-primary&quot;</text>
+        <text>, params</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>(</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      <register name="7" type="4">
+        <text>)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wcm9kdWN0LXBob3RvIHsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">LCBkb2c6ICdjYXQnIA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">YXV0aGVudGljYXRpb24g</text>
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
