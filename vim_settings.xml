@@ -636,7 +636,8 @@
         <mark key="." line="57" column="38" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/linkApp.html" timestamp="1450399924207" />
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1450398512411">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1450477347989">
+        <mark key="'" line="3" column="14" />
         <mark key="[" line="246" column="67" />
         <mark key="]" line="246" column="83" />
         <mark key="^" line="246" column="83" />
@@ -729,7 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterListView.html" />
       <jump line="166" column="17" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFIdentityManager.js" />
       <jump line="170" column="5" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFIdentityManager.js" />
       <jump line="33" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterListView.html" />
@@ -829,6 +829,7 @@
       <jump line="429" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="121" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="338" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="3" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
