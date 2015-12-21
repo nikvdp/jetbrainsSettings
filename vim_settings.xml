@@ -436,12 +436,12 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" timestamp="1450739069791">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="7" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" timestamp="1450740027109">
+        <mark key="'" line="11" column="35" />
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="13" column="5" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterDetailView.html" timestamp="1450142755430">
         <mark key="[" line="2" column="31" />
@@ -760,7 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/templateChunksDirective.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/templateChunksDirective.js" />
       <jump line="182" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="174" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
@@ -860,13 +859,14 @@
       <jump line="17" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/index.js" />
       <jump line="48" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" />
+      <jump line="11" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQ29udmVuaWVuY2UgbWV0aG9kIHRvIHVzZSBhbmd1bGFyJ3MgJGh0dHAuZ2V0IGFuZCByZXR1cm4gdGhlIGRhdGEgZGlyZWN0bHkKICAgICAqIEBwcml2YXRlCiAgICAgKi8KICAgIENvbnRlbnRDZW50ZXJBcGlBZGFwdGVyLnByb3RvdHlwZS5faHR0cEdldCA9IGZ1bmN0aW9uKCkgewogICAgICByZXR1cm4gJGh0dHAuZ2V0LmFwcGx5KHRoaXMsIGFyZ3VtZW50cykKICAgICAgICAudGhlbihmdW5jdGlvbihyZXMpIHsKICAgICAgICAgIHJldHVybiByZXMuZGF0YTsKICAgICAgICB9KTsKICAgIH07Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>process.argv[2]</text>
+        <text>Api</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -881,7 +881,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>process.argv[2]</text>
+        <text>Api</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
@@ -890,28 +890,28 @@
         <text>require('yargs').argv</text>
       </register>
       <register name="1" type="4">
-        <text>process.argv[2]</text>
+        <text>Api</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>base</text>
+        <text>Work</text>
       </register>
       <register name="4" type="4">
+        <text>process.argv[2]</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>base</text>
+      </register>
+      <register name="7" type="4">
         <text>Base</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>function(</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ29udmVuaWVuY2UgbWV0aG9kIHRvIHVzZSBhbmd1bGFyJ3MgJGh0dHAuZ2V0IGFuZCByZXR1cm4gdGhlIGRhdGEgZGlyZWN0bHkKICAgICAqIEBwcml2YXRlCiAgICAgKi8KICAgIENvbnRlbnRDZW50ZXJBcGlBZGFwdGVyLnByb3RvdHlwZS5faHR0cEdldCA9IGZ1bmN0aW9uKCkgewogICAgICByZXR1cm4gJGh0dHAuZ2V0LmFwcGx5KHRoaXMsIGFyZ3VtZW50cykKICAgICAgICAudGhlbihmdW5jdGlvbihyZXMpIHsKICAgICAgICAgIHJldHVybiByZXMuZGF0YTsKICAgICAgICB9KTsKICAgIH07Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
