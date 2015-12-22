@@ -735,6 +735,14 @@
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="57" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1450824638249">
+        <mark key="a" line="222" column="17" />
+        <mark key="'" line="22" column="5" />
+        <mark key="[" line="251" column="32" />
+        <mark key="]" line="251" column="45" />
+        <mark key="^" line="251" column="45" />
+        <mark key="." line="251" column="45" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/jiff-js/dist/ng-jiff-bundle.js" timestamp="1450384180337">
         <mark key="'" line="51" column="7" />
         <mark key="[" line="19759" column="0" />
@@ -928,8 +936,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC5jb25maWcoWyckaHR0cFByb3ZpZGVyJywgZnVuY3Rpb24oJGh0dHBQcm92aWRlcikgewogICAgICAkaHR0cFByb3ZpZGVyLmludGVyY2VwdG9ycy5wdXNoKCdFcnJvckhhbmRsZXInKTsKICAgIH1dKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fail</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -944,40 +952,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>fail</text>
       </register>
       <register name="/" type="4">
         <text>.config</text>
       </register>
-      <register name="0" type="4">
-        <text>/v2/authentication/ping.json</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW4gZmFpbCBmdW5jdGlvbiwgdXJsIGlzOiAnLCB1cmwpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>fail</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2luIGZhaWwgZnVuY3Rpb24sIHVybCBpczogJywgdXJsKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICByZWplY3QoZmFsc2UpOwo=</text>
+      <register name="3" type="4">
+        <text>cordova</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGlmIChyZXMgJiYgcmVzLmhhc093blByb3BlcnR5KCdkYXRhJykpIHsKICAgICAgICAgICAgICByZXNvbHZlKHRydWUpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="5" type="4">
-        <text>}</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICByZWplY3QoZmFsc2UpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>, {}function() {</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGlmIChyZXMgJiYgcmVzLmhhc093blByb3BlcnR5KCdkYXRhJykpIHsKICAgICAgICAgICAgICByZXNvbHZlKHRydWUpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="8" type="4">
+        <text>}</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
