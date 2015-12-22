@@ -285,12 +285,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" timestamp="1450758178986">
-        <mark key="'" line="96" column="9" />
-        <mark key="[" line="97" column="9" />
-        <mark key="]" line="97" column="9" />
-        <mark key="^" line="97" column="7" />
-        <mark key="." line="97" column="9" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" timestamp="1450762574240">
+        <mark key="[" line="77" column="7" />
+        <mark key="]" line="77" column="7" />
+        <mark key="." line="77" column="7" />
+        <mark key="^" line="77" column="7" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/angular-mobile-place-adder/gulp/tasks/browserify.js" timestamp="1435739391968">
         <mark key="[" line="26" column="7" />
@@ -639,10 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
-      <jump line="45" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
-      <jump line="69" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
       <jump line="162" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
       <jump line="47" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
       <jump line="52" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" />
@@ -712,7 +707,6 @@
       <jump line="8" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterVideoCtrl.js" />
       <jump line="28" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.html" />
-      <jump line="89" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="86" column="61" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="76" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
@@ -739,13 +733,18 @@
       <jump line="15" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/services/bioIQ/appointments.js" />
       <jump line="8" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/services/programs/programs.js" />
       <jump line="9" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
+      <jump line="47" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
+      <jump line="102" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
+      <jump line="91" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
+      <jump line="97" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
+      <jump line="89" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>.Identity.httpConfig.accessToken</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJ1bXBfZ3VscAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">SmlmZkVudmlyb25tZW50Q29uZmlnLmFwaURvbWFpbiArIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -760,40 +759,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>true;</text>
+        <text encoding="base64">SmlmZkVudmlyb25tZW50Q29uZmlnLmFwaURvbWFpbiArIA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvLnBhdXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGFjY2Vzc1Rva2VuID0gSmlmZi5JZGVudGl0eS5odHRwQ29uZmlnLmFjY2Vzc1Rva2VuOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1bXBfZ3VscAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">SmlmZkVudmlyb25tZW50Q29uZmlnLmFwaURvbWFpbiArIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IERFQlVHLCBkZWxldGUK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICs=</text>
       </register>
       <register name="3" type="4">
-        <text>true;</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ext</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2hvdyBjb250cm9scyBvbiBob3ZlcgogICAgICAgICAgICAuaG92ZXIoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgIGlmICh0aGlzLmhhc0F0dHJpYnV0ZSgnY29udHJvbHMnKSkgewogICAgICAgICAgICAgICAgdGhpcy5yZW1vdmVBdHRyaWJ1dGUoJ2NvbnRyb2xzJyk7CiAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHRoaXMuc2V0QXR0cmlidXRlKCdjb250cm9scycsIHRydWUpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="5" type="4">
+        <text>create</text>
       </register>
-      <register name="6" type="4">
-        <text>'controls'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGFjY2Vzc1Rva2VuID0gSmlmZi5JZGVudGl0eS5odHRwQ29uZmlnLmFjY2Vzc1Rva2VuOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAnP2FjY2Vzc190b2tlbj0nICsgYWNjZXNzVG9rZW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2hvdyBjb250cm9scyBvbiBob3ZlcgogICAgICAgICAgICAuaG92ZXIoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgIGlmICh0aGlzLmhhc0F0dHJpYnV0ZSgnY29udHJvbHMnKSkgewogICAgICAgICAgICAgICAgdGhpcy5yZW1vdmVBdHRyaWJ1dGUoJ2NvbnRyb2xzJyk7CiAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHRoaXMuc2V0QXR0cmlidXRlKCdjb250cm9scycsICdjb250cm9scycpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBKaWZmRW52aXJvbm1lbnRDb25maWcuYXBpRG9tYWluICsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9uKCdjbGljaycsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICBjb25zb2xlLmxvZygnY2xpY2tlZCwgdmlkZW8gaXM6ICcsIHZpZGVvLnBhdXNlZCk7CiAgICAgICAgICAgICAgaWYgKHZpZGVvLnBhdXNlZCkgewogICAgICAgICAgICAgICAgdmlkZW8ucGxheSgpOwogICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB2aWRlby5wYXVzZSgpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
