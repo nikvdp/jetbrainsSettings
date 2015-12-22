@@ -81,7 +81,11 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/OnboardingVideoDirective.html" timestamp="1450748146137" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/OnboardingVideoDirective.html" timestamp="1450749478396">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/Dropbox/duable/libs/hanzi/lib/segmenter.js" timestamp="1424690905341">
         <mark key="[" line="27" column="11" />
         <mark key="]" line="28" column="44" />
@@ -204,7 +208,10 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainVideoView.html" timestamp="1450747757442" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainVideoView.html" timestamp="1450749375785">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/personal/twiddler/src/models/levelSelectModel.js" timestamp="1437119153766">
         <mark key="[" line="3" column="45" />
         <mark key="]" line="3" column="49" />
@@ -394,7 +401,13 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" timestamp="1450749005567" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" timestamp="1450750311881">
+        <mark key="'" line="7" column="35" />
+        <mark key="[" line="77" column="21" />
+        <mark key="]" line="77" column="21" />
+        <mark key="." line="77" column="21" />
+        <mark key="^" line="22" column="20" />
+      </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/views/casenoteFileView.coffee" timestamp="1414584622788">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="23" column="14" />
@@ -433,11 +446,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterVideoView.html" timestamp="1450314212431">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="16" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterVideoView.html" timestamp="1450749715648">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+        <mark key="^" line="14" column="41" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/angular-mobile-place-adder/src/modules/app/placepocket/placesearch.html" timestamp="1437660749903">
         <mark key="[" line="17" column="18" />
@@ -462,6 +475,12 @@
         <mark key="]" line="6879" column="17" />
         <mark key="^" line="6879" column="17" />
         <mark key="." line="6879" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.html" timestamp="1450749565151">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/register.html" timestamp="1449098305978">
         <mark key="[" line="103" column="0" />
@@ -504,6 +523,10 @@
         <mark key="]" line="161" column="0" />
         <mark key="^" line="122" column="49" />
         <mark key="." line="161" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/directives/onboardingVideo.js" timestamp="1450749754326">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterArticleCtrl.js" timestamp="1450748668165">
         <mark key="[" line="5" column="28" />
@@ -600,24 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsDetailsCtrl.js" />
-      <jump line="7" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/styles/RewardsDetailsView.less" />
-      <jump line="54" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/styles/RewardsDetailsView.less" />
-      <jump line="57" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsDetailsCtrl.js" />
-      <jump line="16" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/styles/ItemTile.less" />
-      <jump line="51" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/jiff-js/dist/ng-jiff-bundle.js" />
-      <jump line="21" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/editCreditCard.js" />
-      <jump line="13" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/editCreditCard.js" />
-      <jump line="3" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" />
-      <jump line="40" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" />
-      <jump line="66" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="429" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="121" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="338" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="3" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
-      <jump line="162" column="57" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
-      <jump line="213" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
-      <jump line="220" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="221" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="22" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
@@ -700,13 +705,31 @@
       <jump line="77" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="15" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/templateChunksDirective.html" />
       <jump line="0" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/templateChunksDirective.html" />
+      <jump line="13" column="70" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.html" />
+      <jump line="22" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.html" />
+      <jump line="39" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
+      <jump line="3" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/OnboardingVideoDirective.html" />
+      <jump line="9" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/OnboardingVideoDirective.html" />
+      <jump line="5" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/OnboardingVideoDirective.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/OnboardingVideoDirective.html" />
+      <jump line="1" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.html" />
+      <jump line="10" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
+      <jump line="86" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
+      <jump line="75" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
+      <jump line="77" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
+      <jump line="27" column="44" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
+      <jump line="22" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
+      <jump line="29" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
+      <jump line="7" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQ29udmVuaWVuY2UgbWV0aG9kIHRvIHVzZSBhbmd1bGFyJ3MgJGh0dHAuZ2V0IGFuZCByZXR1cm4gdGhlIGRhdGEgZGlyZWN0bHkKICAgICAqIEBwcml2YXRlCiAgICAgKi8KICAgIENvbnRlbnRDZW50ZXJBcGlBZGFwdGVyLnByb3RvdHlwZS5faHR0cEdldCA9IGZ1bmN0aW9uKCkgewogICAgICByZXR1cm4gJGh0dHAuZ2V0LmFwcGx5KHRoaXMsIGFyZ3VtZW50cykKICAgICAgICAudGhlbihmdW5jdGlvbihyZXMpIHsKICAgICAgICAgIHJldHVybiByZXMuZGF0YTsKICAgICAgICB9KTsKICAgIH07Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>templateChunksDirective</text>
+        <text>s</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -721,49 +744,54 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>templateChunksDirective</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>items</text>
+        <text>scope.video</text>
       </register>
       <register name="0" type="4">
-        <text>'/v3/content/pools/' + this.poolGuid + '/links/' + linkItem.subject_guid + '/visit'</text>
+        <text>$window,
+             $sce,
+             $q,
+             $ionicLoading,
+             UserAgent,
+             $ionicModal,</text>
       </register>
       <register name="1" type="4">
-        <text>templateChunksDirective</text>
+        <text>s</text>
       </register>
       <register name="2" type="4">
-        <text>common</text>
+        <text>j</text>
       </register>
       <register name="3" type="4">
-        <text>templateChunks</text>
+        <text>plugin</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNodW5rIiBuZy1yZXBlYXQ9ImNodW5rIGluIGNodW5rcyI+CiAgICAgIDxkaXYgbmctcmVwZWF0PSIocGFyc2VrZXksIHBhcnNldmFsdWUpIGluIGNodW5rIj4KICAgICAgICA8IS0tIENVU1RPTSBDSFVOS1MgLS0+CiAgICAgICAgPHBvaW50cy10YWJsZSBuZy1pZj0icGFyc2VrZXkgPT0gJ2RhdGFUYWJsZSciIGRhdGE9InBhcnNldmFsdWUiPjwvcG9pbnRzLXRhYmxlPgogICAgICAgIDxkaXYgbmctcmVwZWF0PSIoa2V5LCB2YWx1ZSkgaW4gcGFyc2V2YWx1ZSIgbmctc3dpdGNoIG9uPSJrZXkiPgogICAgICAgICAgPHByZSBuZy1zd2l0Y2gtd2hlbj0icGFyYWdyYXBoIiAgICAgICBjbGFzcz0iamlmZi1jb2xvci1wcmltYXJ5IHBhcmFncmFwaCI+e3s6OnZhbHVlfX08L3ByZT4KICAgICAgICAgIDxociBuZy1zd2l0Y2gtd2hlbj0ibGluZSIgICAgICAgICAgICAgY2xhc3M9ImppZmYtYm9yZGVyLXByaW1hcnkge3s6OnZhbHVlfX0iPgogICAgICAgICAgPGltZyBuZy1zd2l0Y2gtd2hlbj0iaWNvbiIgICAgICAgICAgICBjbGFzcz0iaWNvbiIgc3JjPSJ7ezo6dmFsdWV9fSI+CiAgICAgICAgICA8c3BhbiBuZy1zd2l0Y2gtd2hlbj0iaGVhZGxpbmUiICAgICAgIGNsYXNzPSJqaWZmLWNvbG9yLXByaW1hcnkgaGVhZGxpbmUiPnt7Ojp2YWx1ZX19PC9zcGFuPgogICAgICAgICAgPHNwYW4gbmctc3dpdGNoLXdoZW49InN1YmhlYWQiICAgICAgICBjbGFzcz0iamlmZi1jb2xvci1wcmltYXJ5IHN1YmhlYWQiPnt7Ojp2YWx1ZX19PC9zcGFuPgogICAgICAgICAgPHNwYW4gbmctc3dpdGNoLXdoZW49Im1pY3JvSGVhZGxpbmUiICBjbGFzcz0iamlmZi1jb2xvci1wcmltYXJ5IG1pY3JvSGVhZGxpbmUiPnt7Ojp2YWx1ZX19PC9zcGFuPgoKICAgICAgICAgIDwhLS0gQ1VTVE9NIENIVU5LIFRZUEVTIC0tPgogICAgICAgICAgPGltZyBuZy1zd2l0Y2gtd2hlbj0ibGlua2luZ0FjY291bnRzSW1hZ2UiIGNsYXNzPSJsaW5raW5nQWNjb3VudHNJbWFnZSIgc3JjPSJ7ezo6dmFsdWV9fSI+CgogICAgICAgICAgPCEtLSBBUlRJQ0xFIFBBR0UgLS0+CiAgICAgICAgICA8aW1nIG5nLXN3aXRjaC13aGVuPSJpbWFnZSIgICAgICAgICBjbGFzcz0iaW1hZ2UiIHNyYz0ie3s6OnZhbHVlfX0iPgogICAgICAgICAgPGRpdiBuZy1zd2l0Y2gtd2hlbj0iYXJ0aWNsZVRpdGxlIiAgY2xhc3M9ImppZmYtY29sb3ItcHJpbWFyeSBhcnRpY2xlVGl0bGUiPnt7Ojp2YWx1ZX19PC9kaXY+CiAgICAgICAgICA8c3BhbiBuZy1zd2l0Y2gtd2hlbj0ic3VidGV4dCIgICAgICBjbGFzcz0iamlmZi1jb2xvci1zZWNvbmRhcnkgc3VidGV4dCI+e3s6OnZhbHVlfX08L3NwYW4+CgogICAgICAgIDwvZGl2PiA8IS0tIEVuZCBpbm5lciBjaHVuayBsb29wIC0tPgogICAgICA8L2Rpdj4gPCEtLSBFbmQgcGFydmFsdWUgaW4gY2h1bmsgKG5lZWRlZCBmb3Igb2JqZWN0cyB0byBtYWludGFpbiBvcmRlcikgLS0+CiAgICA8L2Rpdj48IS0tICBFbmQgY2h1bmsgY29udGFpbmVyIGxvb3AgLS0+Cg==</text>
+      <register name="4" type="4">
+        <text>video.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>.plugin</text>
       </register>
-      <register name="6" type="4">
-        <text>link</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2aWRlbzogJz0nLAo=</text>
       </register>
       <register name="7" type="4">
-        <text>/visit</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>guid</text>
+        <text>}}&quot;</text>
       </register>
       <register name="9" type="4">
-        <text>links</text>
+        <text>Templates</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>items</last-search>
+      <last-search>scope.video</last-search>
       <last-offset />
-      <last-pattern>items</last-pattern>
+      <last-pattern>scope.video</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>this</last-substitute>
       <last-dir>1</last-dir>
@@ -771,9 +799,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.selected.</entry>
-        <entry>&quot;</entry>
-        <entry>article</entry>
         <entry>contentcenter</entry>
         <entry>availble</entry>
         <entry>scope.available</entry>
@@ -791,6 +816,9 @@
         <entry encoding="base64">XDxkaXJlY3Rvclw+</entry>
         <entry encoding="base64">XDxodHRwXD4=</entry>
         <entry>items</entry>
+        <entry>plugin</entry>
+        <entry>scope.plug</entry>
+        <entry>scope.video</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzouKi8vZw==</entry>
