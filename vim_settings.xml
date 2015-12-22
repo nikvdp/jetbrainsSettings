@@ -363,12 +363,6 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/providers/core.js" timestamp="1450821325086">
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="42" />
-        <mark key="." line="14" column="42" />
-        <mark key="^" line="14" column="42" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/mainenancePinger.js" timestamp="1450818293597">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="12" />
@@ -735,13 +729,12 @@
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1450824638249">
-        <mark key="a" line="222" column="17" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1450825567184">
         <mark key="'" line="22" column="5" />
-        <mark key="[" line="251" column="32" />
-        <mark key="]" line="251" column="45" />
-        <mark key="^" line="251" column="45" />
-        <mark key="." line="251" column="45" />
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="39" />
+        <mark key="^" line="192" column="31" />
+        <mark key="." line="250" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/jiff-js/dist/ng-jiff-bundle.js" timestamp="1450384180337">
         <mark key="'" line="51" column="7" />
@@ -936,8 +929,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC5jb25maWcoWyckaHR0cFByb3ZpZGVyJywgZnVuY3Rpb24oJGh0dHBQcm92aWRlcikgewogICAgICAkaHR0cFByb3ZpZGVyLmludGVyY2VwdG9ycy5wdXNoKCdFcnJvckhhbmRsZXInKTsKICAgIH1dKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>fail</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZmFpbDogJywgdXJsKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -958,34 +951,34 @@
         <text>.config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW4gZmFpbCBmdW5jdGlvbiwgdXJsIGlzOiAnLCB1cmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZmFpbDogJywgdXJsKTsK</text>
       </register>
       <register name="1" type="4">
         <text>fail</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>fail</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2luIGZhaWwgZnVuY3Rpb24sIHVybCBpczogJywgdXJsKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>cordova</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICByZWplY3QoZmFsc2UpOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGlmIChyZXMgJiYgcmVzLmhhc093blByb3BlcnR5KCdkYXRhJykpIHsKICAgICAgICAgICAgICByZXNvbHZlKHRydWUpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>}</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
