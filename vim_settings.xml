@@ -307,6 +307,14 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFIdentityManager.js" timestamp="1450831875865">
+        <mark key="'" line="34" column="48" />
+        <mark key="j" line="175" column="4" />
+        <mark key="[" line="175" column="70" />
+        <mark key="]" line="175" column="71" />
+        <mark key="." line="175" column="71" />
+        <mark key="^" line="175" column="71" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/jiffVideoDirective.js" timestamp="1450811833226">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="15" column="33" />
@@ -660,7 +668,7 @@
         <mark key="^" line="75" column="48" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/safeGet.js" timestamp="1450830447547">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/safeGet.js" timestamp="1450831791396">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="39" column="34" />
@@ -693,12 +701,8 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/jiff.js" timestamp="1450488032557">
-        <mark key="'" line="28" column="42" />
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="26" column="49" />
-        <mark key="^" line="26" column="49" />
-        <mark key="." line="26" column="49" />
+      <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/jiff.js" timestamp="1450831853482">
+        <mark key="'" line="52" column="31" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/templateChunksDirective.js" timestamp="1450316614475">
         <mark key="'" line="0" column="0" />
@@ -882,9 +886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.html" />
-      <jump line="6" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.html" />
       <jump line="32" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
       <jump line="50" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="8" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/jiffVideoDirective.js" />
@@ -982,6 +983,9 @@
       <jump line="75" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/jiffServerMaintenance.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/module.less" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/safeGet.js" />
+      <jump line="77" column="14" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/jiff.js" />
+      <jump line="52" column="31" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/jiff.js" />
+      <jump line="34" column="48" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFIdentityManager.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
