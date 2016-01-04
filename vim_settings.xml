@@ -84,11 +84,6 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" timestamp="1451944546630">
         <mark key="'" line="574" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/OnboardingVideoDirective.html" timestamp="1450749478396">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-      </file>
       <file name="$USER_HOME$/Dropbox/duable/libs/hanzi/lib/segmenter.js" timestamp="1424690905341">
         <mark key="[" line="27" column="11" />
         <mark key="]" line="28" column="44" />
@@ -124,11 +119,6 @@
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" timestamp="1450738633311">
-        <mark key="'" line="48" column="10" />
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsDetailsCtrl.js" timestamp="1450378879690">
         <mark key="[" line="209" column="0" />
@@ -626,14 +616,15 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/OAuthHttpInterceptor.js" timestamp="1450821173341">
-        <mark key="'" line="19" column="26" />
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="57" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1450825567184">
         <mark key="'" line="22" column="5" />
         <mark key="^" line="192" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" timestamp="1451946843023">
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="38" />
+        <mark key="." line="36" column="38" />
+        <mark key="^" line="36" column="38" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageView.html" timestamp="1444002061393">
         <mark key="[" line="0" column="0" />
@@ -815,7 +806,7 @@
         <text encoding="base64">ICAgIC5jb25maWcoWyckaHR0cFByb3ZpZGVyJywgZnVuY3Rpb24oJGh0dHBQcm92aWRlcikgewogICAgICAkaHR0cFByb3ZpZGVyLmludGVyY2VwdG9ycy5wdXNoKCdFcnJvckhhbmRsZXInKTsKICAgIH1dKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bWF0Y2gg</text>
+        <text>altMaxPossible</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -830,7 +821,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWF0Y2gg</text>
+        <text>altMaxPossible</text>
       </register>
       <register name="/" type="4">
         <text>.config</text>
@@ -839,31 +830,31 @@
         <text encoding="base64">ICAgICRodHRwUHJvdmlkZXIuaW50ZXJjZXB0b3JzLnB1c2goJ0FwcEludGVyY2VwdG9yJyk7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text>altMaxPossible</text>
+      </register>
+      <register name="2" type="4">
+        <text>config.userMaxEarnable</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">bWF0Y2gg</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgaWYgKCFvYmopIHsKICAgICAgICAKICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>object in an bo</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dXNlIA==</text>
-      </register>
-      <register name="8" type="4">
-        <text>data</text>
-      </register>
       <register name="9" type="4">
-        <text>.data</text>
+        <text encoding="base64">dXNlIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
