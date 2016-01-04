@@ -65,11 +65,11 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/httpErrorHandler.js" timestamp="1450828688076">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/httpErrorHandler.js" timestamp="1451936181401">
+        <mark key="'" line="28" column="2" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/src/index.html" timestamp="1436436438497">
         <mark key="[" line="23" column="16" />
@@ -991,8 +991,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC5jb25maWcoWyckaHR0cFByb3ZpZGVyJywgZnVuY3Rpb24oJGh0dHBQcm92aWRlcikgewogICAgICAkaHR0cFByb3ZpZGVyLmludGVyY2VwdG9ycy5wdXNoKCdFcnJvckhhbmRsZXInKTsKICAgIH1dKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>// TODO: Use correct icon</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIDUwMDoK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1015,32 +1015,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICRodHRwUHJvdmlkZXIuaW50ZXJjZXB0b3JzLnB1c2goJ0FwcEludGVyY2VwdG9yJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>// TODO: Use correct icon</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIDUwMDoK</text>
       </register>
       <register name="2" type="4">
+        <text>// TODO: Use correct icon</text>
+      </register>
+      <register name="3" type="4">
         <text>event</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvL2Nhc2UgMjAwOgogICAgICAgIC8vY2FzZSA0MDQ6CiAgICAgICAgLy9jYXNlIDMwNDoK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2Vycm9yIHN3aXRjaCBmaXJlZCcpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHdpbmRvdy5qID0gSmlmZlNlcnZlck1haW50ZW5hbmNlRGVsZWdhdGU7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgJGh0dHBQcm92aWRlci5pbnRlcmNlcHRvcnMucHVzaCgnSHR0cEVycm9ySGFuZGxlcicpOyAvLyBUT0RPOiBtb3ZlIHRvIGl0J3Mgb3duIGZpbGU/IHNlZW1zIG92ZXJraWxsCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGNsYXNzPSJhY3RpdmUi</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxoMz53dGg/PC9oMz4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGppZmYtc2VydmVyLW1haW50ZW5hbmNlPjwvamlmZi1zZXJ2ZXItbWFpbnRlbmFuY2U+Cg==</text>
+        <text encoding="base64">ICAgIDxoMz53dGg/PC9oMz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
