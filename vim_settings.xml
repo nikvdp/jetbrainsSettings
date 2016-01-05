@@ -149,12 +149,11 @@
         <mark key="." line="15" column="5" />
         <mark key="^" line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1452019452632">
-        <mark key="'" line="347" column="16" />
-        <mark key="[" line="361" column="0" />
-        <mark key="]" line="362" column="49" />
-        <mark key="." line="362" column="49" />
-        <mark key="^" line="362" column="49" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1452022500236">
+        <mark key="'" line="355" column="32" />
+        <mark key="[" line="368" column="0" />
+        <mark key="]" line="368" column="0" />
+        <mark key="." line="368" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/js/States/Tabs/Settings/tab-more-settings.html" timestamp="1436528692225">
         <mark key="[" line="18" column="0" />
@@ -704,10 +703,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterVideoCtrl.js" />
-      <jump line="6" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterArticleCtrl.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterArticleCtrl.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterItemCtrl.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterLinkView.html" />
       <jump line="20" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" />
       <jump line="14" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
@@ -804,13 +799,17 @@
       <jump line="217" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="194" column="29" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="347" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="366" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="358" column="56" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="355" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC5jb25maWcoWyckaHR0cFByb3ZpZGVyJywgZnVuY3Rpb24oJGh0dHBQcm92aWRlcikgewogICAgICAkaHR0cFByb3ZpZGVyLmludGVyY2VwdG9ycy5wdXNoKCdFcnJvckhhbmRsZXInKTsKICAgIH1dKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBnb2FscyA9IFtdOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -825,40 +824,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>.length</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9ncmFtc0xpc3RcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY29wZS5hbHRNYXhQb3NzaWJsZSA9IDA7Cg==</text>
+      <register name="0" type="4">
+        <text>incentiveValSum</text>
       </register>
-      <register name="1" type="4">
-        <text>'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBnb2FscyA9IFtdOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>0</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBnbwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Pj0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8g</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBnb2FscyA9IFtdOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>the</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gZW5kIHVwIHRoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGJ1dCBmb3Igbm93LCBqdXN0IGNsb3NlIHRoZSB3aW5kb3cgaWYgd2Ug</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBnb2FscyA9IGdvYWxzLmxlbmd0aCA+IDAgPyBnb2FscyA6IFtdOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>instead of to the r</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBnb2FscyA9IFtdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
