@@ -28,9 +28,6 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1452029647095">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Library/WebServer/Documents/register.php" timestamp="1427093527193">
         <mark key="[" line="14" column="39" />
         <mark key="]" line="14" column="39" />
@@ -127,12 +124,6 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/jiffServerMaintenance.js" timestamp="1450820477542">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-      </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/js/states/AddPlace/add-place.html" timestamp="1437304296530">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="26" />
@@ -151,7 +142,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1452040606603">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1452042504056">
         <mark key="'" line="202" column="2" />
         <mark key="[" line="160" column="34" />
         <mark key="]" line="160" column="35" />
@@ -187,12 +178,6 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/jiffServerMaintenance.js" timestamp="1450818694493">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="15" column="5" />
-        <mark key="^" line="15" column="5" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/js/States/Tabs/Settings/tab-more-settings.html" timestamp="1436528692225">
         <mark key="[" line="18" column="0" />
@@ -433,6 +418,9 @@
         <mark key="." line="80" column="19" />
         <mark key="^" line="80" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainLicenseCtrl.js" timestamp="1452042374607">
+        <mark key="[" line="18" column="38" />
+      </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/t-and-c.php" timestamp="1410428329603">
         <mark key="[" line="113" column="28" />
         <mark key="]" line="113" column="33" />
@@ -588,7 +576,8 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1451944073153">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1452042551130">
+        <mark key="'" line="31" column="6" />
         <mark key="[" line="165" column="0" />
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
@@ -783,12 +772,6 @@
         <mark key="^" line="57" column="38" />
         <mark key="." line="57" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/InterceptorConfig.js" timestamp="1450828024243">
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="52" />
-        <mark key="." line="5" column="52" />
-        <mark key="^" line="5" column="52" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/jiff-js/dist/ng-jiff-bundle.js" timestamp="1450384180337">
         <mark key="'" line="51" column="7" />
         <mark key="[" line="19759" column="0" />
@@ -885,7 +868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="129" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="21" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="16" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterVideoCtrl.js" />
@@ -985,13 +967,14 @@
       <jump line="10" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" />
       <jump line="202" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/splash.less" />
+      <jump line="31" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC5jb25maWcoWyckaHR0cFByb3ZpZGVyJywgZnVuY3Rpb24oJGh0dHBQcm92aWRlcikgewogICAgICAkaHR0cFByb3ZpZGVyLmludGVyY2VwdG9ycy5wdXNoKCdFcnJvckhhbmRsZXInKTsKICAgIH1dKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFyZXN1bHQgJiYgZGVmYXVsdFZhbHVlKSB7CiAgICAgICAgcmV0dXJuIGRlZmF1bHRWYWx1ZTsKICAgICAgfQogICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1009,46 +992,46 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>logo</text>
+        <text encoding="base64">XDxlbXBsb3llcklkXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IXJlc3VsdCAmJiBkZWZhdWx0VmFsdWU=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGN0cmwuZW1wbG95ZXJOYW1lID0gIm15IGVtcGxveWVyIjsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgaWYgKCFyZXN1bHQgJiYgZGVmYXVsdFZhbHVlKSB7CiAgICAgICAgcmV0dXJuIGRlZmF1bHRWYWx1ZTsKICAgICAgfQogICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>!</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>) {</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>if (</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">cmV0dXJuIA==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAkc3RhdGUuZ28odmlldyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAkc3RhdGUuZ28odmlldyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAkc3RhdGUuZ28odmlldyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logo</last-search>
+      <last-search encoding="base64">XDxlbXBsb3llcklkXD4=</last-search>
       <last-offset />
-      <last-pattern>logo</last-pattern>
+      <last-pattern encoding="base64">XDxlbXBsb3llcklkXD4=</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>this</last-substitute>
       <last-dir>1</last-dir>
@@ -1056,7 +1039,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxodHRwXD4=</entry>
         <entry>items</entry>
         <entry>plugin</entry>
         <entry>scope.plug</entry>
@@ -1076,6 +1058,7 @@
         <entry encoding="base64">XDxjb21iaW5lXD4=</entry>
         <entry encoding="base64">XDxwcm9ncmFtc0xpc3RcPg==</entry>
         <entry>logo</entry>
+        <entry encoding="base64">XDxlbXBsb3llcklkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzouKi8vZw==</entry>
