@@ -786,7 +786,12 @@
         <mark key="^" line="57" column="38" />
         <mark key="." line="57" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1452105635419" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1452106882566">
+        <mark key="'" line="229" column="20" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/jiff-js/dist/ng-jiff-bundle.js" timestamp="1450384180337">
         <mark key="'" line="51" column="7" />
         <mark key="[" line="19759" column="0" />
@@ -881,7 +886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="70" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="20" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" />
       <jump line="15" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="107" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" />
@@ -981,13 +985,14 @@
       <jump line="46" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cache.js" />
       <jump line="8" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cache.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/auth.less" />
+      <jump line="229" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC5jb25maWcoWyckaHR0cFByb3ZpZGVyJywgZnVuY3Rpb24oJGh0dHBQcm92aWRlcikgewogICAgICAkaHR0cFByb3ZpZGVyLmludGVyY2VwdG9ycy5wdXNoKCdFcnJvckhhbmRsZXInKTsKICAgIH1dKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1011,31 +1016,31 @@
         <text encoding="base64">ICBhLnN1cHBvcnQtbGluayB7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIGNvbG9yOiAjNmM4YmEzOwogICAgcGFkZGluZzogMTBweCAwOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>my employer</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>my employer</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>update</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text>key</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
