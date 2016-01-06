@@ -9,6 +9,9 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" timestamp="1452121870116">
+        <mark key="'" line="34" column="12" />
+      </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/lib/mailchimp/config.inc.php" timestamp="1410339459930">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="24" />
@@ -850,8 +853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="410" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="74" column="52" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="49" column="42" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="15" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" />
       <jump line="19" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
@@ -950,6 +951,8 @@
       <jump line="91" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/register.less" />
       <jump line="35" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/register.less" />
       <jump line="42" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/register.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
+      <jump line="34" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -974,7 +977,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>storage</text>
+        <text encoding="base64">XDxyZWN1cnNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhLnN1cHBvcnQtbGluayB7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIGNvbG9yOiAjNmM4YmEzOwogICAgcGFkZGluZzogMTBweCAwOwogIH0K</text>
@@ -1011,9 +1014,9 @@
       </register>
     </registers>
     <search>
-      <last-search>storage</last-search>
+      <last-search encoding="base64">XDxyZWN1cnNlXD4=</last-search>
       <last-offset />
-      <last-pattern>storage</last-pattern>
+      <last-pattern encoding="base64">XDxyZWN1cnNlXD4=</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>this</last-substitute>
       <last-dir>1</last-dir>
@@ -1021,7 +1024,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scope.video</entry>
         <entry>element</entry>
         <entry>s/elem/element/g</entry>
         <entry>g</entry>
@@ -1041,6 +1043,7 @@
         <entry encoding="base64">XDxzZXRFcGlzb2Rlc1w+</entry>
         <entry encoding="base64">XDxDbGllbnRTdG9yYWdlXD4=</entry>
         <entry>storage</entry>
+        <entry encoding="base64">XDxyZWN1cnNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzouKi8vZw==</entry>
