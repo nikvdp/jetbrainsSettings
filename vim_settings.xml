@@ -105,12 +105,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" timestamp="1451956392385">
         <mark key="'" line="574" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1449516381538">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1452043678510">
         <mark key="'" line="14" column="2" />
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="9" />
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="55" />
+        <mark key="." line="18" column="55" />
+        <mark key="^" line="18" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/duable/libs/hanzi/lib/segmenter.js" timestamp="1424690905341">
         <mark key="[" line="27" column="11" />
@@ -359,12 +359,12 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cache.js" timestamp="1449265329863">
-        <mark key="'" line="31" column="6" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="53" column="49" />
-        <mark key="^" line="53" column="49" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cache.js" timestamp="1452043651887">
+        <mark key="'" line="8" column="6" />
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="33" column="81" />
+        <mark key="." line="33" column="81" />
+        <mark key="^" line="33" column="81" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/collections/clinicConfigCollection.coffee" timestamp="1421908336945">
         <mark key="[" line="5" column="12" />
@@ -576,8 +576,8 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1452042551130">
-        <mark key="'" line="31" column="6" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1452042696780">
+        <mark key="'" line="12" column="4" />
         <mark key="[" line="165" column="0" />
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
@@ -868,11 +868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
-      <jump line="21" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
-      <jump line="16" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterVideoCtrl.js" />
-      <jump line="15" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="130" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="59" column="70" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" />
       <jump line="20" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" />
@@ -968,13 +963,18 @@
       <jump line="202" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/splash.less" />
       <jump line="31" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="238" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="194" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="46" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cache.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cache.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC5jb25maWcoWyckaHR0cFByb3ZpZGVyJywgZnVuY3Rpb24oJGh0dHBQcm92aWRlcikgewogICAgICAkaHR0cFByb3ZpZGVyLmludGVyY2VwdG9ycy5wdXNoKCdFcnJvckhhbmRsZXInKTsKICAgIH1dKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>my employer</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -989,49 +989,49 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>my employer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbXBsb3llcklkXD4=</text>
+        <text>storage</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IXJlc3VsdCAmJiBkZWZhdWx0VmFsdWU=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>my employer</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN0cmwuZW1wbG95ZXJOYW1lID0gIm15IGVtcGxveWVyIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFyZXN1bHQgJiYgZGVmYXVsdFZhbHVlKSB7CiAgICAgICAgcmV0dXJuIGRlZmF1bHRWYWx1ZTsKICAgICAgfQogICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+      <register name="3" type="4">
+        <text>update</text>
       </register>
-      <register name="4" type="4">
-        <text>!</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text>) {</text>
+        <text>key</text>
       </register>
       <register name="6" type="4">
-        <text>if (</text>
+        <text>return cache.get(key);</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGNhY2hlLmdldChrZXkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAkc3RhdGUuZ28odmlldyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbXBsb3llcklkXD4=</last-search>
+      <last-search>storage</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbXBsb3llcklkXD4=</last-pattern>
+      <last-pattern>storage</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>this</last-substitute>
       <last-dir>1</last-dir>
@@ -1039,9 +1039,6 @@
     </search>
     <history>
       <history-search>
-        <entry>items</entry>
-        <entry>plugin</entry>
-        <entry>scope.plug</entry>
         <entry>scope.video</entry>
         <entry>element</entry>
         <entry>s/elem/element/g</entry>
@@ -1059,6 +1056,9 @@
         <entry encoding="base64">XDxwcm9ncmFtc0xpc3RcPg==</entry>
         <entry>logo</entry>
         <entry encoding="base64">XDxlbXBsb3llcklkXD4=</entry>
+        <entry encoding="base64">XDxzZXRFcGlzb2Rlc1w+</entry>
+        <entry encoding="base64">XDxDbGllbnRTdG9yYWdlXD4=</entry>
+        <entry>storage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzouKi8vZw==</entry>
