@@ -420,12 +420,6 @@
         <mark key="^" line="64" column="12" />
         <mark key="." line="64" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/login.html" timestamp="1452104536087">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="65" column="9" />
-        <mark key="." line="80" column="19" />
-        <mark key="^" line="80" column="19" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainLicenseCtrl.js" timestamp="1452104673567">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="37" />
@@ -535,6 +529,9 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/select-file.js" timestamp="1452546393347">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/profile/views/profile.html" timestamp="1448057238304">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="39" />
@@ -636,12 +633,6 @@
         <mark key="]" line="17" column="49" />
         <mark key="^" line="14" column="88" />
         <mark key="." line="14" column="88" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainMoreCtrl.js" timestamp="1452033941570">
-        <mark key="'" line="10" column="13" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/angular-mobile-place-adder/src/modules/app/placepocket/locationProviders/FoursquareLocationProvider.js" timestamp="1435742166064">
         <mark key="[" line="138" column="54" />
@@ -888,7 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="69" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="198" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="1332" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="129" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
@@ -988,6 +978,7 @@
       <jump line="12" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/services/Rewards.js" />
       <jump line="830" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="851" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/select-file.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
