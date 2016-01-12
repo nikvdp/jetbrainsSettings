@@ -182,10 +182,12 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1452561485585">
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="354" column="0" />
-        <mark key="." line="354" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1452628430123">
+        <mark key="'" line="123" column="53" />
+        <mark key="[" line="889" column="0" />
+        <mark key="]" line="889" column="0" />
+        <mark key="." line="889" column="0" />
+        <mark key="^" line="889" column="28" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/js/States/Tabs/Settings/tab-more-settings.html" timestamp="1436528692225">
         <mark key="[" line="18" column="0" />
@@ -877,7 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1332" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="129" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="564" column="44" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="275" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
@@ -953,7 +954,6 @@
       <jump line="325" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="409" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="401" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="382" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="402" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="396" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="385" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
@@ -977,13 +977,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/select-file.js" />
       <jump line="383" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="359" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="382" column="50" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="123" column="53" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUudXNlQWx0UHJvZ3Jlc3NDaXJjbGUgPSB0cnVlOwogICAgICAgICAgICAgICRzY29wZS5jYW5TZWVTcG91c2VEZXRhaWxzID0gZmFsc2U7CiAgICAgICAgICAgICAgJHNjb3BlLnNwb3VzZUljb24gPSBTMy5pbWFnZSArICcvJyArICRzY29wZS5hcHBTa2luICsgJy93ZWIvJyArICdpY25fcGFydG5lcl9yZWdpc3RlcmVkLnN2Zyc7CgogICAgICAgICAgICAgIC8vIGJlbG93IGlzIHJld3JpdHRlbiB0byB1c2UgdGhlIHNhbWUgYXBwcm9hY2ggdGhhdCBpT1MgdXNlcyAtLSBnZXQgdGhlIGFjdHVhbCBnb2FsLCBibHVlcHJpbnQKICAgICAgICAgICAgICAvLyBhbmQgcHJvZ3JhbSBvYmplY3RzIGZyb20gdGhlIGJhY2tlbmQgYW5kIGNhbGN1bGF0ZSBieSBzdW1taW5nIHVwIGFsbCB0aGUgZ29hbHMuCiAgICAgICAgICAgICAgLy8gUHJldmlvdXMgYXBwcm9hY2ggd2FzIGJ1Z2d5IGJlY2F1c2UgdGhlIHByb2dyYW1TdW1tYXJpZXMgb2JqZWN0cwogICAgICAgICAgICAgIC8vIGNyZWF0ZWQgaW4gdGhpcyBmaWxlIGFyZSBkaWZmaWN1bHQgdG8gd29yayB3aXRoCgogICAgICAgICAgICAgIHZhciBwcm9ncmFtc0xpc3QgPSBDYWNoZS5nZXQoJ3Byb2dyYW1zJyk7CgogICAgICAgICAgICAgIHZhciBlbnJvbGxlZFByb2dyYW1CbHVlcHJpbnRHdWlkcyA9IHByb2dyYW1zTGlzdC5wcm9ncmFtcy5maWx0ZXIoZnVuY3Rpb24gKHByb2dyYW0pIHsKICAgICAgICAgICAgICAgIHJldHVybiBwcm9ncmFtLmVucm9sbGVkOwogICAgICAgICAgICAgIH0pLm1hcChmdW5jdGlvbiAocHJvZ3JhbSkgewogICAgICAgICAgICAgICAgcmV0dXJuIHByb2dyYW0ucHJvZ3JhbV9ibHVlcHJpbnQuZ3VpZDsKICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgdmFyIGJsdWVwcmludHMgPSBwcm9ncmFtc0xpc3QucHJvZ3JhbV9ibHVlcHJpbnRzLmZpbHRlcihmdW5jdGlvbiAoYmx1ZXByaW50KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZW5yb2xsZWRQcm9ncmFtQmx1ZXByaW50R3VpZHMuaW5kZXhPZihibHVlcHJpbnQuZ3VpZCkgIT09IC0xOwogICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAvLyBlYWNoIGJsdWVwcmludCBoYXMgYW4gYXJyYXkgb2YgZ29hbHMgaW5zaWRlIGl0LCBzbyBsb29wIHRocm91Z2ggZWFjaCBibHVlcHJpbnQKICAgICAgICAgICAgICAvLyBjb2xsZWN0IGl0cyBnb2FscyBhbmQgcHVzaCB0aGVtIGFsbCB0byB0aGUgd2FudGVkR29hbEd1aWRzIGFycmF5CiAgICAgICAgICAgICAgdmFyIGdvYWxzID0gW107CiAgICAgICAgICAgICAgYmx1ZXByaW50cy5mb3JFYWNoKGZ1bmN0aW9uIChibHVlcHJpbnQpIHsKICAgICAgICAgICAgICAgIGJsdWVwcmludC5nb2Fscy5mb3JFYWNoKGZ1bmN0aW9uIChnb2FsR3VpZCkgewogICAgICAgICAgICAgICAgICAvLyBmaW5kIHRoZSBhY3R1YWwgZ29hbCBvYmplY3QgZnJvbSB0aGUgYmFja2VuZCdzIHByb2dyYW1zTGlzdCBieQogICAgICAgICAgICAgICAgICAvLyB0aGUgZ29hbCBndWlkIGdpdmVuIGluIHRoZSBibHVlcHJpbnQKICAgICAgICAgICAgICAgICAgcHJvZ3JhbXNMaXN0LmdvYWxzLmZvckVhY2goZnVuY3Rpb24gKGdvYWwpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoZ29hbC5ndWlkID09PSBnb2FsR3VpZC5ndWlkKSB7CiAgICAgICAgICAgICAgICAgICAgICBnb2Fscy5wdXNoKGdvYWwpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgdmFyIGluY2VudGl2ZVZhbFN1bSA9IDA7CgogICAgICAgICAgICAgIGlmIChnb2Fscy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgICAgICBpbmNlbnRpdmVWYWxTdW0gPSBnb2Fscy5tYXAoZnVuY3Rpb24gKGdvYWwpIHsKICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvYWwuaW5jZW50aXZlX3ZhbHVlIHx8IDA7CiAgICAgICAgICAgICAgICB9KS5yZWR1Y2UoZnVuY3Rpb24gKHByZXYsIGN1cikgewogICAgICAgICAgICAgICAgICByZXR1cm4gcHJldiArIGN1cjsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgJHNjb3BlLmFsdE1heFBvc3NpYmxlID0gaW5jZW50aXZlVmFsU3VtID09PSAwID8gMCA6IGluY2VudGl2ZVZhbFN1bSAvIDEwMDsKCiAgICAgICAgICAgICAgdmFyIG51bUNvbXBsZXRlZFByb2dyYW1zID0gMDsKICAgICAgICAgICAgICB2YXIgZGFzaGJvYXJkUHJvZ3JhbXMgPSBjdHJsLmdldERhc2hib2FyZFByb2dyYW1zKCk7CiAgICAgICAgICAgICAgZGFzaGJvYXJkUHJvZ3JhbXMuZm9yRWFjaChmdW5jdGlvbihwcm9ncmFtKSB7CiAgICAgICAgICAgICAgICBpZiAoY3RybC5zaG93Q2hlY2ttYXJrKHByb2dyYW0pKSB7CiAgICAgICAgICAgICAgICAgIG51bUNvbXBsZXRlZFByb2dyYW1zKys7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICRzY29wZS5hbHRFYXJuZWRSYXRpbyA9IG51bUNvbXBsZXRlZFByb2dyYW1zIC8gZGFzaGJvYXJkUHJvZ3JhbXMubGVuZ3RoOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgbnVtQ29tcGxldGVkUHJvZ3JhbXMgPSBhbHRQcm9ncmFtcyA/IE9iamVjdC5rZXlzKGFsdFByb2dyYW1zKS5yZWR1Y2UoZnVuY3Rpb24oc3VtLCBrZXkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzdW0gKyBhbHRQcm9ncmFtc1trZXldLmNoZWNrbWFyazsKICAgICAgICAgICAgICB9LCAwKSA6IDA7Cgo=</text>
+        <text encoding="base64">ICAgIGN0cmwuZ2V0RGFzaGJvYXJkUHJvZ3JhbXMK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1007,31 +1009,31 @@
         <text encoding="base64">ICAgICAgICB2YXIgVVJMID0gSmlmZkVudmlyb25tZW50Q29uZmlnLmFwaURvbWFpbiArICcvdjMvdmF1bHQvc3RvcmVzLycgKyBndWlkICsgJy9zcGVuZGluZ19wZXJpb2RzL2N1cnJlbnQ/YWNjb3VudF9ndWlkPScgK3Jlc3BvbnNlc1swXS5ndWlkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgbnVtQ29tcGxldGVkUHJvZ3JhbXMgPSBhbHRQcm9ncmFtcyA/IE9iamVjdC5rZXlzKGFsdFByb2dyYW1zKS5yZWR1Y2UoZnVuY3Rpb24oc3VtLCBrZXkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzdW0gKyBhbHRQcm9ncmFtc1trZXldLmNoZWNrbWFyazsKICAgICAgICAgICAgICB9LCAwKSA6IDA7Cgo=</text>
+        <text encoding="base64">ICAgIGN0cmwuZ2V0RGFzaGJvYXJkUHJvZ3JhbXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>ctrl.showCheckmark(summary)</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ID0g</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgbnVtQ29tcGxldGVkUHJvZ3JhbXMgPSBhbHRQcm9ncmFtcyA/IE9iamVjdC5rZXlzKGFsdFByb2dyYW1zKS5yZWR1Y2UoZnVuY3Rpb24oc3VtLCBrZXkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzdW0gKyBhbHRQcm9ncmFtc1trZXldLmNoZWNrbWFyazsKICAgICAgICAgICAgICB9LCAwKSA6IDA7Cgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>ctrl.showCheckmark(summary)</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbnVtQ29tcGxldGVkUHJvZ3JhbXMnLCBudW1Db21wbGV0ZWRQcm9ncmFtcywgJ2FsdGxlbmd0aCcsIG51bWJlck9mUHJvZ3JhbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text>{per_page: 100}</text>
+        <text encoding="base64">ID0g</text>
       </register>
-      <register name="9" type="4">
-        <text>'</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
