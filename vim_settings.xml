@@ -358,11 +358,17 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/RankableQuestionController.js" timestamp="1453163982907">
-        <mark key="'" line="26" column="6" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/RankableQuestionController.js" timestamp="1453165711471">
+        <mark key="'" line="23" column="6" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/auth.less" timestamp="1452120004096">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/collections/clinicConfigCollection.coffee" timestamp="1421908336945">
         <mark key="[" line="5" column="12" />
@@ -541,6 +547,12 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="53" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" timestamp="1452643349556">
+        <mark key="'" line="131" column="4" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/pocketlist/POI-Scraping/manifest.json" timestamp="1432109386511">
         <mark key="[" line="41" column="11" />
         <mark key="]" line="41" column="17" />
@@ -650,6 +662,12 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/register.html" timestamp="1452120446953">
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/safeGet.js" timestamp="1452041118629">
         <mark key="'" line="58" column="4" />
@@ -766,6 +784,12 @@
         <mark key="]" line="57" column="38" />
         <mark key="^" line="57" column="38" />
         <mark key="." line="57" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1452108987745">
+        <mark key="'" line="229" column="20" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/jiff-js/dist/ng-jiff-bundle.js" timestamp="1450384180337">
         <mark key="'" line="51" column="7" />
@@ -986,7 +1010,7 @@
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGZ1bmN0aW9uIGdldFF1ZXN0aW9uQnlHdWlkKGd1aWQpCiAgICB9Owo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2xhc3M9Iml0ZW0taWNvbi1sZWZ0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1010,31 +1034,31 @@
         <text>Question.question.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2xhc3M9Iml0ZW0taWNvbi1sZWZ0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHdpbmRvdy5zID0gJHN0YXRlOwogICAgY29uc29sZS5sb2coJz4+PiB3ZW50Jyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2xhc3M9Iml0ZW0taWNvbi1sZWZ0Igo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9Imljb24iPgogICAgICAgICAge3sgJGluZGV4IH19CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>span</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICA=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">e3sgICA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">e3sgJGluZGV4IH19IHt7IA==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">e3sgJGluZGV4IA==</text>
-      </register>
-      <register name="8" type="4">
-        <text>.</text>
-      </register>
       <register name="9" type="4">
-        <text>/ {{ answer.guid }}</text>
+        <text encoding="base64">e3sgJGluZGV4IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
