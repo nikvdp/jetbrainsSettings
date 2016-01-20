@@ -71,10 +71,6 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/httpErrorHandler.js" timestamp="1453167901548">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="8" column="108" />
-      </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/src/index.html" timestamp="1436436438497">
         <mark key="[" line="23" column="16" />
         <mark key="]" line="23" column="26" />
@@ -156,6 +152,11 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsDetailsCtrl.js" timestamp="1450378879690">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/src/templates/tabs.html" timestamp="1436437091653">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="23" />
@@ -207,6 +208,11 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/setup-dev-environment.sh" timestamp="1450761121989">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/views/mainCasenoteFolderView.coffee" timestamp="1417427652335">
         <mark key="[" line="311" column="39" />
         <mark key="]" line="311" column="40" />
@@ -239,6 +245,12 @@
         <mark key="]" line="9" column="1" />
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/WeightQuestionView.less" timestamp="1453330989145">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/js/templates/tab-more-settings.html" timestamp="1436439014564">
         <mark key="[" line="19" column="50" />
@@ -289,9 +301,10 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/jiffVideoDirective.js" timestamp="1450811833226">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="33" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/jiffVideoDirective.js" timestamp="1453327136462">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="4" />
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
@@ -301,12 +314,11 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" timestamp="1453318447714">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-        <mark key="^" line="7" column="33" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" timestamp="1453329225118">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Code/personal/twiddler/src/models/levelSelect.js" timestamp="1437117184923">
         <mark key="[" line="4" column="23" />
@@ -364,6 +376,17 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/module.less" timestamp="1453327470598">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/auth.html" timestamp="1452104557108">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/RankableQuestionController.js" timestamp="1453251489829">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="15" column="26" />
@@ -371,11 +394,22 @@
         <mark key="." line="15" column="38" />
         <mark key="^" line="15" column="38" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/auth.less" timestamp="1452120004096">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/collections/clinicConfigCollection.coffee" timestamp="1421908336945">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="24" />
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/providers/core.js" timestamp="1450828581193">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/mainenancePinger.js" timestamp="1450818293597">
         <mark key="'" line="0" column="0" />
@@ -389,6 +423,11 @@
         <mark key="]" line="43" column="18" />
         <mark key="." line="43" column="18" />
         <mark key="^" line="43" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/templateChunksDirective.html" timestamp="1450748925290">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" timestamp="1450817503648">
         <mark key="'" line="70" column="46" />
@@ -414,6 +453,16 @@
         <mark key="]" line="64" column="12" />
         <mark key="^" line="64" column="12" />
         <mark key="." line="64" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainLicenseCtrl.js" timestamp="1452104673567">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" timestamp="1453329978199">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/t-and-c.php" timestamp="1410428329603">
         <mark key="[" line="113" column="28" />
@@ -446,12 +495,12 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.less" timestamp="1453318605421">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.less" timestamp="1453327512139">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="40" />
-        <mark key="^" line="27" column="40" />
-        <mark key="." line="27" column="40" />
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="25" />
+        <mark key="^" line="28" column="25" />
+        <mark key="." line="28" column="25" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/apiPinger.js" timestamp="1450827335157">
         <mark key="'" line="13" column="140" />
@@ -465,6 +514,13 @@
         <mark key="]" line="1" column="28" />
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1453329500270">
+        <mark key="'" line="12" column="19" />
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="10" column="81" />
+        <mark key="^" line="10" column="81" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageController.js" timestamp="1444002285161">
         <mark key="[" line="2" column="1" />
@@ -522,16 +578,22 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" timestamp="1453152959881">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="58" column="5" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1450828476989">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="55" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterDetailView.html" timestamp="1450142755430">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" timestamp="1452643349556">
+        <mark key="'" line="131" column="4" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/pocketlist/POI-Scraping/manifest.json" timestamp="1432109386511">
         <mark key="[" line="41" column="11" />
@@ -589,12 +651,19 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" timestamp="1453253540070">
-        <mark key="'" line="11" column="9" />
-        <mark key="[" line="61" column="21" />
-        <mark key="]" line="61" column="47" />
-        <mark key="." line="61" column="21" />
-        <mark key="^" line="61" column="31" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/QuestionView.html" timestamp="1453330249272">
+        <mark key="'" line="3" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" timestamp="1453329534036">
+        <mark key="'" line="56" column="44" />
+        <mark key="[" line="61" column="32" />
+        <mark key="]" line="61" column="39" />
+        <mark key="." line="61" column="39" />
+        <mark key="^" line="61" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/models/clinicConfigModel.coffee" timestamp="1421908978678">
         <mark key="[" line="6" column="12" />
@@ -620,6 +689,13 @@
         <mark key="^" line="138" column="54" />
         <mark key="." line="138" column="54" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1453329458329">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+      </file>
       <file name="$USER_HOME$/Dropbox/duable/extension/config.json" timestamp="1399720501871">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="37" />
@@ -638,6 +714,12 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/register.html" timestamp="1452120446953">
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/safeGet.js" timestamp="1452041118629">
         <mark key="'" line="58" column="4" />
@@ -697,12 +779,12 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" timestamp="1453323800020">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="13" column="44" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" timestamp="1453329300757">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="5" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/styles/ContentCenterArticleView.less" timestamp="1450316578261">
         <mark key="'" line="5" column="17" />
@@ -723,12 +805,18 @@
         <mark key="^" line="122" column="49" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1453253538486">
-        <mark key="'" line="794" column="7" />
-        <mark key="[" line="48" column="12" />
-        <mark key="]" line="48" column="37" />
-        <mark key="." line="54" column="72" />
-        <mark key="^" line="54" column="72" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" timestamp="1453330449650">
+        <mark key="'" line="14" column="38" />
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1453329595378">
+        <mark key="'" line="803" column="7" />
+        <mark key="[" line="45" column="69" />
+        <mark key="]" line="45" column="77" />
+        <mark key="." line="45" column="77" />
+        <mark key="^" line="45" column="77" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/styles/ContentCenterVideoView.less" timestamp="1450759170638">
         <mark key="[" line="1" column="2" />
@@ -736,12 +824,12 @@
         <mark key="." line="1" column="2" />
         <mark key="^" line="1" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" timestamp="1453254617934">
-        <mark key="'" line="111" column="15" />
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="12" />
-        <mark key="." line="40" column="17" />
-        <mark key="^" line="39" column="17" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" timestamp="1453329424992">
+        <mark key="'" line="46" column="2" />
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="23" column="37" />
+        <mark key="^" line="23" column="37" />
+        <mark key="." line="23" column="37" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterArticleCtrl.js" timestamp="1450814714462">
         <mark key="'" line="21" column="0" />
@@ -763,12 +851,23 @@
         <mark key="^" line="57" column="38" />
         <mark key="." line="57" column="38" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1452108987745">
+        <mark key="'" line="229" column="20" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/jiff-js/dist/ng-jiff-bundle.js" timestamp="1450384180337">
         <mark key="'" line="51" column="7" />
         <mark key="[" line="19759" column="0" />
         <mark key="]" line="19759" column="83" />
         <mark key="." line="19751" column="0" />
         <mark key="^" line="19752" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/api/module.less" timestamp="1452292672008">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageView.html" timestamp="1444002061393">
         <mark key="[" line="0" column="0" />
@@ -800,12 +899,11 @@
         <mark key="^" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/styles/InterestSelectionView.less" timestamp="1453318909524">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/styles/InterestSelectionView.less" timestamp="1453328226366">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="18" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/checkbox.js" timestamp="1448914412364">
         <mark key="[" line="23" column="0" />
@@ -813,22 +911,23 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/ContentApiAdapter.js" timestamp="1453153035613">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="145" column="5" />
-      </file>
       <file name="$USER_HOME$/Code/personal/pocketlight/gulpfile.js" timestamp="1441890414307">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="16" />
         <mark key="^" line="14" column="91" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/module.json" timestamp="1453323900519">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="35" />
-        <mark key="." line="1" column="35" />
-        <mark key="^" line="1" column="35" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/WeightQuestionView.html" timestamp="1453330949106">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/module.json" timestamp="1453328399280">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterList.html" timestamp="1450142583763">
         <mark key="[" line="0" column="31" />
@@ -836,12 +935,12 @@
         <mark key="." line="0" column="51" />
         <mark key="^" line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/module.json" timestamp="1453323905384">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/module.json" timestamp="1453328409799">
         <mark key="'" line="10" column="16" />
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="36" />
-        <mark key="." line="1" column="11" />
-        <mark key="^" line="9" column="26" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+        <mark key="^" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" timestamp="1447886760140">
         <mark key="[" line="61" column="101" />
@@ -882,26 +981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
-      <jump line="133" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
-      <jump line="81" column="42" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
-      <jump line="121" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
-      <jump line="122" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
-      <jump line="188" column="58" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
-      <jump line="189" column="56" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
-      <jump line="224" column="27" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
-      <jump line="25" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
-      <jump line="145" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
-      <jump line="12" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
-      <jump line="33" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
-      <jump line="49" column="87" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
-      <jump line="138" column="61" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
-      <jump line="56" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
-      <jump line="57" column="85" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
-      <jump line="136" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
-      <jump line="141" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
-      <jump line="98" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/ContentApiAdapter.js" />
       <jump line="6" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
@@ -948,7 +1027,6 @@
       <jump line="4" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="5" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/SpecialOnboardingQuestion1View.html" />
       <jump line="29" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/httpErrorHandler.js" />
-      <jump line="60" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="54" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="30" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="6" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/SpecialOnboardingQuestion1View.html" />
@@ -956,39 +1034,60 @@
       <jump line="13" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/SpecialOnboardingQuestion1View.html" />
       <jump line="29" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="42" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="33" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="59" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="111" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="65" column="42" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="41" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="28" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/SpecialOnboarding1Controller.js" />
       <jump line="3" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/RankableQuestionView.html" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
       <jump line="305" column="43" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="545" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="785" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="10" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" />
-      <jump line="34" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="118" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="106" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="13" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
       <jump line="15" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
       <jump line="37" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/styles/InterestSelectionView.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.less" />
       <jump line="16" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" />
       <jump line="10" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/module.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/jiffVideoDirective.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/WeightQuestionView.less" />
+      <jump line="15" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/WeightQuestionView.less" />
+      <jump line="19" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" />
+      <jump line="6" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" />
+      <jump line="53" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
+      <jump line="35" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
+      <jump line="33" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
+      <jump line="60" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
+      <jump line="56" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
+      <jump line="40" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
+      <jump line="49" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
+      <jump line="59" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
+      <jump line="13" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
+      <jump line="20" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" />
+      <jump line="46" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
+      <jump line="12" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
+      <jump line="56" column="44" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
+      <jump line="14" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" />
+      <jump line="3" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/QuestionView.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIFNwbGl0IHRoZSBhcnJheSBpbnRvIGFycmF5cyBvZiBuIGVhY2ggdG8gZml0IGlvbmljJ3MgZ3JpZCwKICAgICAqIGUuZy4gaWYgbiBpcyAyIFsxLDIsMyw0LDUsNl0gYmVjb21lcyBbWzEsMl0sIFszLDRdLCBbNSw2XQogICAgICoKICAgICAqIEBwYXJhbSBpbnB1dEFyciAtIEFycmF5CiAgICAgKiBAcGFyYW0gbiAtIE51bWJlcgogICAgICovCiAgICBmdW5jdGlvbiBzcGxpdEJ5KGlucHV0QXJyLCBuKSB7CiAgICAgIHZhciByZXN1bHQgPSBbXTsKICAgICAgdmFyIGlubmVyQXJyID0gW107CiAgICAgIGlucHV0QXJyLmZvckVhY2goZnVuY3Rpb24oaXRlbSwgaWR4KSB7CiAgICAgICAgaW5uZXJBcnIucHVzaChpdGVtKTsKICAgICAgICBpZiAoaWR4ID09PSAwKSB7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIGlmICgoaWR4KzEpICUgbiA9PT0gMCkgewogICAgICAgICAgcmVzdWx0LnB1c2goaW5uZXJBcnIpOwogICAgICAgICAgaW5uZXJBcnIgPSBbXTsKICAgICAgICB9CiAgICAgIH0pOwogICAgICBpZiAoaW5uZXJBcnIubGVuZ3RoID4gMCkgewogICAgICAgIHJlc3VsdC5wdXNoKGlubmVyQXJyKTsKICAgICAgfQogICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>jiff.Incentives.Onboarding</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1003,49 +1102,49 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>jiff.Incentives.Onboarding</text>
+        <text encoding="base64">IGxpc3QtaW5zZXQi</text>
       </register>
       <register name="/" type="4">
-        <text>interests</text>
+        <text>onboarding</text>
       </register>
       <register name="0" type="4">
-        <text>jiff.Incentives.Questions</text>
+        <text>OnboardingQuestionPageCtrl</text>
       </register>
-      <register name="1" type="4">
-        <text>jiff.Incentives.Onboarding</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>Onboarding</text>
+        <text encoding="base64">IGxpc3QtaW5zZXQi</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="3" type="4">
+        <text>First Name</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="4" type="4">
+        <text>text</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIFNwbGl0IHRoZSBhcnJheSBpbnRvIGFycmF5cyBvZiBuIGVhY2ggdG8gZml0IGlvbmljJ3MgZ3JpZCwKICAgICAqIGUuZy4gaWYgbiBpcyAyIFsxLDIsMyw0LDUsNl0gYmVjb21lcyBbWzEsMl0sIFszLDRdLCBbNSw2XQogICAgICoKICAgICAqIEBwYXJhbSBpbnB1dEFyciAtIEFycmF5CiAgICAgKiBAcGFyYW0gbiAtIE51bWJlcgogICAgICovCiAgICBmdW5jdGlvbiBzcGxpdEJ5KGlucHV0QXJyLCBuKSB7CiAgICAgIHZhciByZXN1bHQgPSBbXTsKICAgICAgdmFyIGlubmVyQXJyID0gW107CiAgICAgIGlucHV0QXJyLmZvckVhY2goZnVuY3Rpb24oaXRlbSwgaWR4KSB7CiAgICAgICAgaW5uZXJBcnIucHVzaChpdGVtKTsKICAgICAgICBpZiAoaWR4ID09PSAwKSB7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIGlmICgoaWR4KzEpICUgbiA9PT0gMCkgewogICAgICAgICAgcmVzdWx0LnB1c2goaW5uZXJBcnIpOwogICAgICAgICAgaW5uZXJBcnIgPSBbXTsKICAgICAgICB9CiAgICAgIH0pOwogICAgICBpZiAoaW5uZXJBcnIubGVuZ3RoID4gMCkgewogICAgICAgIHJlc3VsdC5wdXNoKGlubmVyQXJyKTsKICAgICAgfQogICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
+      <register name="5" type="4">
+        <text>,</text>
       </register>
-      <register name="6" type="4">
-        <text>content-center/module.less&quot;;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZTogMAo=</text>
       </register>
       <register name="7" type="4">
-        <text>red</text>
+        <text>text</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc3BhCg==</text>
+        <text encoding="base64">PGgxPiBRdWVzdGlvbjo8L2gxPgo8cHJlPgogIHt7IHF1ZXN0aW9uRGF0YSB9fQo8L3ByZT4K</text>
       </register>
       <register name="9" type="4">
-        <text>row</text>
+        <text encoding="base64">cXVlc3Rpb24g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>interests</last-search>
+      <last-search>onboarding</last-search>
       <last-offset />
-      <last-pattern>interests</last-pattern>
+      <last-pattern>onboarding</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1053,7 +1152,6 @@
     </search>
     <history>
       <history-search>
-        <entry>altEarned</entry>
         <entry>programSummaries</entry>
         <entry>safeget</entry>
         <entry encoding="base64">XDxnZXRQcm9kdWN0c1w+</entry>
@@ -1070,9 +1168,10 @@
         <entry>$scope</entry>
         <entry>items</entry>
         <entry>onboard</entry>
-        <entry>&quot;</entry>
-        <entry>onboarding</entry>
         <entry>interests</entry>
+        <entry>&quot;</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry>onboarding</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLysvL2c=</entry>
