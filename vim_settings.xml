@@ -311,11 +311,12 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" timestamp="1453255334306">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="45" />
-        <mark key="." line="0" column="45" />
-        <mark key="^" line="0" column="45" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" timestamp="1453258837450">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="6" column="56" />
+        <mark key="." line="6" column="44" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/Code/personal/twiddler/src/models/levelSelect.js" timestamp="1437117184923">
         <mark key="[" line="4" column="23" />
@@ -748,12 +749,12 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" timestamp="1453256190366">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" timestamp="1453258646543">
         <mark key="'" line="12" column="33" />
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="30" column="16" />
-        <mark key="." line="30" column="16" />
-        <mark key="^" line="30" column="16" />
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/styles/ContentCenterArticleView.less" timestamp="1450316578261">
         <mark key="'" line="5" column="17" />
@@ -930,8 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" />
-      <jump line="131" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" />
       <jump line="68" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/views/RewardsMainView.html" />
       <jump line="31" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
       <jump line="10" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/jiffServerMaintenance.js" />
@@ -1030,13 +1029,15 @@
       <jump line="34" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="118" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="106" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
+      <jump line="13" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
+      <jump line="15" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogU3BsaXQgdGhlIGFycmF5IGludG8gYXJyYXlzIG9mIG4gZWFjaCB0byBmaXQgaW9uaWMncyBncmlkLCAKICAgICAqIGUuZy4gaWYgbiBpcyAyIFsxLDIsMyw0LDUsNl0gYmVjb21lcyBbWzEsMl0sIFszLDRdLCBbNSw2XQogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>innerArr</text>
+        <text encoding="base64">IGNsYXNzPSJyb3ci</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1051,7 +1052,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>innerArr</text>
+        <text encoding="base64">IGNsYXNzPSJyb3ci</text>
       </register>
       <register name="/" type="4">
         <text>interests</text>
@@ -1060,31 +1061,31 @@
         <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5wdXNoKGlubmVyQXJyYXkpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>innerArr</text>
+        <text encoding="base64">IGNsYXNzPSJyb3ci</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICYmIGlkeCAhPT0gMA==</text>
+        <text>class</text>
       </register>
-      <register name="3" type="4">
-        <text>ay</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaWR4ID09PSAwKSB7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="4">
-        <text>result.push(innerArray);</text>
+        <text>interest</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
-        <text>n</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>idx</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ng-repeat=&quot;interest in Interests.list&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
