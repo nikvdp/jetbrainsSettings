@@ -697,12 +697,11 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" timestamp="1453318302392">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="33" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" timestamp="1453320155718">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="13" column="44" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/styles/ContentCenterArticleView.less" timestamp="1450316578261">
         <mark key="'" line="5" column="17" />
@@ -875,7 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="85" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
       <jump line="216" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
       <jump line="18" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
@@ -975,13 +973,14 @@
       <jump line="37" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/styles/InterestSelectionView.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.less" />
+      <jump line="16" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU3BsaXQgdGhlIGFycmF5IGludG8gYXJyYXlzIG9mIG4gZWFjaCB0byBmaXQgaW9uaWMncyBncmlkLCAKICAgICAqIGUuZy4gaWYgbiBpcyAyIFsxLDIsMyw0LDUsNl0gYmVjb21lcyBbWzEsMl0sIFszLDRdLCBbNSw2XQogICAgICogCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIFNwbGl0IHRoZSBhcnJheSBpbnRvIGFycmF5cyBvZiBuIGVhY2ggdG8gZml0IGlvbmljJ3MgZ3JpZCwKICAgICAqIGUuZy4gaWYgbiBpcyAyIFsxLDIsMyw0LDUsNl0gYmVjb21lcyBbWzEsMl0sIFszLDRdLCBbNSw2XQogICAgICoKICAgICAqIEBwYXJhbSBpbnB1dEFyciAtIEFycmF5CiAgICAgKiBAcGFyYW0gbiAtIE51bWJlcgogICAgICovCiAgICBmdW5jdGlvbiBzcGxpdEJ5KGlucHV0QXJyLCBuKSB7CiAgICAgIHZhciByZXN1bHQgPSBbXTsKICAgICAgdmFyIGlubmVyQXJyID0gW107CiAgICAgIGlucHV0QXJyLmZvckVhY2goZnVuY3Rpb24oaXRlbSwgaWR4KSB7CiAgICAgICAgaW5uZXJBcnIucHVzaChpdGVtKTsKICAgICAgICBpZiAoaWR4ID09PSAwKSB7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIGlmICgoaWR4KzEpICUgbiA9PT0gMCkgewogICAgICAgICAgcmVzdWx0LnB1c2goaW5uZXJBcnIpOwogICAgICAgICAgaW5uZXJBcnIgPSBbXTsKICAgICAgICB9CiAgICAgIH0pOwogICAgICBpZiAoaW5uZXJBcnIubGVuZ3RoID4gMCkgewogICAgICAgIHJlc3VsdC5wdXNoKGlubmVyQXJyKTsKICAgICAgfQogICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>content-center/module.less&quot;;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1004,32 +1003,32 @@
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAibW9kdWxlcy9jb250ZW50LWNlbnRlci9tb2R1bGUubGVzcyI7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIFNwbGl0IHRoZSBhcnJheSBpbnRvIGFycmF5cyBvZiBuIGVhY2ggdG8gZml0IGlvbmljJ3MgZ3JpZCwKICAgICAqIGUuZy4gaWYgbiBpcyAyIFsxLDIsMyw0LDUsNl0gYmVjb21lcyBbWzEsMl0sIFszLDRdLCBbNSw2XQogICAgICoKICAgICAqIEBwYXJhbSBpbnB1dEFyciAtIEFycmF5CiAgICAgKiBAcGFyYW0gbiAtIE51bWJlcgogICAgICovCiAgICBmdW5jdGlvbiBzcGxpdEJ5KGlucHV0QXJyLCBuKSB7CiAgICAgIHZhciByZXN1bHQgPSBbXTsKICAgICAgdmFyIGlubmVyQXJyID0gW107CiAgICAgIGlucHV0QXJyLmZvckVhY2goZnVuY3Rpb24oaXRlbSwgaWR4KSB7CiAgICAgICAgaW5uZXJBcnIucHVzaChpdGVtKTsKICAgICAgICBpZiAoaWR4ID09PSAwKSB7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIGlmICgoaWR4KzEpICUgbiA9PT0gMCkgewogICAgICAgICAgcmVzdWx0LnB1c2goaW5uZXJBcnIpOwogICAgICAgICAgaW5uZXJBcnIgPSBbXTsKICAgICAgICB9CiAgICAgIH0pOwogICAgICBpZiAoaW5uZXJBcnIubGVuZ3RoID4gMCkgewogICAgICAgIHJlc3VsdC5wdXNoKGlubmVyQXJyKTsKICAgICAgfQogICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
+      </register>
+      <register name="3" type="4">
         <text>content-center/module.less&quot;;</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>red</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGRpc3BhCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>row</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="8" type="4">
-        <text>ng-repeat=&quot;row in Interests.list&quot;</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IGNvbA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
