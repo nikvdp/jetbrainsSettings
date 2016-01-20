@@ -311,7 +311,7 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" timestamp="1453254787307">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" timestamp="1453255334306">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
@@ -748,12 +748,12 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" timestamp="1453254254102">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" timestamp="1453256190366">
         <mark key="'" line="12" column="33" />
-        <mark key="[" line="11" column="39" />
-        <mark key="]" line="11" column="39" />
-        <mark key="." line="11" column="39" />
-        <mark key="^" line="8" column="7" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="30" column="16" />
+        <mark key="." line="30" column="16" />
+        <mark key="^" line="30" column="16" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/styles/ContentCenterArticleView.less" timestamp="1450316578261">
         <mark key="'" line="5" column="17" />
@@ -1033,10 +1033,10 @@
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGZ1bmN0aW9uIGdldFF1ZXN0aW9uQnlHdWlkKGd1aWQpCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU3BsaXQgdGhlIGFycmF5IGludG8gYXJyYXlzIG9mIG4gZWFjaCB0byBmaXQgaW9uaWMncyBncmlkLCAKICAgICAqIGUuZy4gaWYgbiBpcyAyIFsxLDIsMyw0LDUsNl0gYmVjb21lcyBbWzEsMl0sIFszLDRdLCBbNSw2XQogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">SW50ZXJlc3Q6IA==</text>
+        <text>innerArr</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1051,40 +1051,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW50ZXJlc3Q6IA==</text>
+        <text>innerArr</text>
       </register>
       <register name="/" type="4">
         <text>interests</text>
       </register>
-      <register name="0" type="4">
-        <text>getInterestsQuestion</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5wdXNoKGlubmVyQXJyYXkpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">SW50ZXJlc3Q6IA==</text>
+        <text>innerArr</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJlPgogICAgICAgICAge3sgSW50ZXJlc3RzLmxpc3QgfX0KICAgICAgICA8L3ByZT4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICYmIGlkeCAhPT0gMA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRoaXMgaXMgYSBiYXNpYyBDYXJkIHdoaWNoIGNvbnRhaW5zIGFuIGl0ZW0gdGhhdCBoYXMgd3JhcHBpbmcgdGV4dC4K</text>
+      <register name="3" type="4">
+        <text>ay</text>
       </register>
-      <register name="4" type="4">
-        <text>question</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaWR4ID09PSAwKSB7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="4">
-        <text>question</text>
+        <text>result.push(innerArray);</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>question</text>
+        <text>idx</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
