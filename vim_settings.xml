@@ -569,12 +569,9 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" timestamp="1453505200853">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" timestamp="1453507764783">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="37" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/module.less" timestamp="1450759129819">
         <mark key="[" line="2" column="29" />
@@ -623,9 +620,10 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" timestamp="1453507268077">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="13" column="51" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" timestamp="1453507846500">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="14" column="37" />
         <mark key="^" line="13" column="51" />
         <mark key="." line="13" column="51" />
       </file>
@@ -666,6 +664,11 @@
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" timestamp="1453508177915">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/personal/pocketlight/app/scripts/views/highlightView.js" timestamp="1436767198750">
         <mark key="[" line="0" column="51" />
@@ -871,6 +874,13 @@
         <mark key="." line="3" column="71" />
         <mark key="^" line="3" column="71" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" timestamp="1453508012935">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/config/patientData.json" timestamp="1403602175565">
         <mark key="[" line="57" column="37" />
         <mark key="]" line="57" column="38" />
@@ -1007,13 +1017,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/RankableQuestionController.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/RankableQuestionController.js" />
-      <jump line="9" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/RankableQuestionView.html" />
-      <jump line="13" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/SpecialOnboarding1Controller.js" />
-      <jump line="0" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/SpecialOnboardingQuestion1View.html" />
-      <jump line="17" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/SpecialOnboardingQuestion1View.html" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/SpecialOnboardingQuestion1View.html" />
       <jump line="37" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="28" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="1108" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
@@ -1107,13 +1110,20 @@
       <jump line="22" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
       <jump line="21" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
+      <jump line="5" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
+      <jump line="30" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
+      <jump line="16" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LnN0YXRlLW9uYm9hcmRpbmctdGVzdHBhZ2UgewogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>MultipleChoice</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxkaXYgbXVsdGlwbGUtY2hvaWNlLXF1ZXN0aW9uIG5nLXN3aXRjaC13aGVuPSJtdWx0aXBsZV9jaG9pY2UiPjwvZGl2Pgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1128,40 +1138,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MultipleChoice</text>
+        <text>weight</text>
       </register>
       <register name="/" type="4">
         <text>gender</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImFuc3dlciIgbmctcmVwZWF0PSJhbnN3ZXIgaW4gcXVlc3Rpb25EYXRhLmFuc3dlcnMiPgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgd2VpZ2h0LXF1ZXN0aW9uIG5nLXN3aXRjaC13aGVuPSJ3ZWlnaHQiPjwvZGl2Pgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>MultipleChoice</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxkaXYgbXVsdGlwbGUtY2hvaWNlLXF1ZXN0aW9uIG5nLXN3aXRjaC13aGVuPSJtdWx0aXBsZV9jaG9pY2UiPjwvZGl2Pgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>weight</text>
       </register>
       <register name="3" type="4">
-        <text>`</text>
+        <text>rankable-question</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj57eyBhbnN3ZXIubGFiZWwgfX08L2Rpdj4K</text>
+      <register name="4" type="4">
+        <text>weight</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      <register name="5" type="4">
+        <text>multipleChoice</text>
       </register>
-      <register name="6" type="4">
-        <text>if</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>if</text>
+        <text>question.</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IG5nLXJlcGVhdD0iaW50ZXJlc3QgaW4gSW50ZXJlc3RzLmxpc3QiIGNsYXNzPSJjYXJkIg==</text>
+        <text>question.</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Question</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
