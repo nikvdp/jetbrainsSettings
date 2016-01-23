@@ -623,11 +623,11 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" timestamp="1453504571217">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="9" />
-        <mark key="^" line="34" column="7" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" timestamp="1453507268077">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="13" column="51" />
+        <mark key="^" line="13" column="51" />
+        <mark key="." line="13" column="51" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/angular-mobile-place-adder/src/modules/app/placepocket/searchController.js" timestamp="1435583421742">
         <mark key="[" line="12" column="25" />
@@ -1112,8 +1112,8 @@
       <register name="a" type="2">
         <text encoding="base64">LnN0YXRlLW9uYm9hcmRpbmctdGVzdHBhZ2UgewogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>MultipleChoice</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1128,7 +1128,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>MultipleChoice</text>
       </register>
       <register name="/" type="4">
         <text>gender</text>
@@ -1136,32 +1136,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImFuc3dlciIgbmctcmVwZWF0PSJhbnN3ZXIgaW4gcXVlc3Rpb25EYXRhLmFuc3dlcnMiPgo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>MultipleChoice</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>`</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgPGRpdj57eyBhbnN3ZXIubGFiZWwgfX08L2Rpdj4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>if</text>
       </register>
       <register name="6" type="4">
         <text>if</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IG5nLXJlcGVhdD0iaW50ZXJlc3QgaW4gSW50ZXJlc3RzLmxpc3QiIGNsYXNzPSJjYXJkIg==</text>
+        <text>if</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IG5nLXJlcGVhdD0iaW50ZXJlc3QgaW4gSW50ZXJlc3RzLmxpc3QiIGNsYXNzPSJjYXJkIg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PC9oMz48L2g1Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
