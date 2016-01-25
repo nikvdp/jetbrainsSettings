@@ -1146,7 +1146,7 @@
         <text>Question.</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>button2</text>
       </register>
       <register name="0" type="4">
         <text>interestsCongrats</text>
@@ -1183,9 +1183,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1em</last-search>
+      <last-search>button2</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>button2</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1193,7 +1193,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b3RhbFByaWNlXD4=</entry>
         <entry encoding="base64">XDx0YXhfdG90YWxcPg==</entry>
         <entry>tax_total</entry>
         <entry encoding="base64">XDxidXlcPg==</entry>
@@ -1213,6 +1212,7 @@
         <entry>1em</entry>
         <entry>gender</entry>
         <entry>&quot;</entry>
+        <entry>button2</entry>
       </history-search>
       <history-cmd>
         <entry>s/,/,\r/g</entry>
