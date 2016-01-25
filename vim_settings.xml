@@ -709,12 +709,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" timestamp="1453752162215">
-        <mark key="'" line="19" column="34" />
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="45" column="49" />
-        <mark key="." line="45" column="49" />
-        <mark key="^" line="45" column="49" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" timestamp="1453753594368">
+        <mark key="'" line="38" column="45" />
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="34" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterVideoView.html" timestamp="1450758800190">
         <mark key="[" line="0" column="31" />
@@ -1038,7 +1038,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/RankableQuestionView.html" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
       <jump line="305" column="43" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="545" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
@@ -1138,13 +1137,14 @@
       <jump line="27" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
       <jump line="19" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
       <jump line="11" column="104" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" />
+      <jump line="38" column="45" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LnN0YXRlLW9uYm9hcmRpbmctdGVzdHBhZ2UgewogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2018, 8, 25</text>
+        <text>$toolti</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1159,7 +1159,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2018, 8, 25</text>
+        <text>$toolti</text>
       </register>
       <register name="/" type="4">
         <text>datepickerObject</text>
@@ -1168,31 +1168,31 @@
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJib3dlcl9jb21wb25lbnRzL2ppZmYtanMvZGlzdC9uZy1qaWZmLWJ1bmRsZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>2018, 8, 25</text>
+        <text>$toolti</text>
       </register>
       <register name="2" type="4">
-        <text>new Date(new Date() - 35 * 365 * 24 * 60 * 60 * 1000)</text>
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>M</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>2018, 8, 25</text>
       </register>
       <register name="5" type="4">
-        <text>;</text>
+        <text>new Date(new Date() - 35 * 365 * 24 * 60 * 60 * 1000)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>M</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="4">
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>bar-positive</text>
+        <text>;</text>
       </register>
-      <register name="9" type="4">
-        <text>bar-positive</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
