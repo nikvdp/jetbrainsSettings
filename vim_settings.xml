@@ -595,10 +595,11 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1450828476989">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="55" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1453750434752">
+        <mark key="[" line="58" column="34" />
+        <mark key="]" line="58" column="85" />
+        <mark key="." line="58" column="85" />
+        <mark key="^" line="58" column="85" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterDetailView.html" timestamp="1450142755430">
         <mark key="[" line="2" column="31" />
@@ -675,11 +676,11 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" timestamp="1453747290331">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" timestamp="1453750684023">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="50" />
+        <mark key="." line="10" column="50" />
+        <mark key="^" line="10" column="50" />
       </file>
       <file name="$USER_HOME$/Code/personal/pocketlight/app/scripts/views/highlightView.js" timestamp="1436767198750">
         <mark key="[" line="0" column="51" />
@@ -706,6 +707,13 @@
         <mark key="]" line="6" column="24" />
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" timestamp="1453751263528">
+        <mark key="'" line="6" column="10" />
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="27" />
+        <mark key="." line="37" column="27" />
+        <mark key="^" line="37" column="27" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterVideoView.html" timestamp="1450758800190">
         <mark key="[" line="0" column="31" />
@@ -971,11 +979,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/module.json" timestamp="1453328399280">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/module.json" timestamp="1453750301420">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterList.html" timestamp="1450142583763">
         <mark key="[" line="0" column="31" />
@@ -1029,8 +1037,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="111" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="65" column="42" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="28" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/SpecialOnboarding1Controller.js" />
@@ -1129,13 +1135,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="60" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="55" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
+      <jump line="6" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LnN0YXRlLW9uYm9hcmRpbmctdGVzdHBhZ2UgewogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>rankable</text>
+        <text>M</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1150,40 +1158,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>rankable</text>
+        <text>M</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFF1ZXN0aW9uUHJvdmlkZXIKICAgICAgLmdldFF1ZXN0aW9uQnlHdWlkKCdyYW5rYWJsZScpCiAgICAgIC50aGVuKGZ1bmN0aW9uKHF1ZXN0aW9uKSB7CiAgICAgICAgUXVlc3Rpb24ucmFua2FibGVRdWVzdGlvbiA9IHF1ZXN0aW9uOwogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJib3dlcl9jb21wb25lbnRzL2ppZmYtanMvZGlzdC9uZy1qaWZmLWJ1bmRsZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>rankable</text>
+        <text>M</text>
       </register>
       <register name="2" type="4">
-        <text>rankable</text>
-      </register>
-      <register name="3" type="4">
-        <text>sublabel</text>
-      </register>
-      <register name="4" type="4">
-        <text>mutli-info-screen</text>
-      </register>
-      <register name="5" type="4">
         <text>,</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="4">
+        <text>;</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text>bar-positive</text>
+      </register>
       <register name="7" type="4">
-        <text>interestsCongrats</text>
+        <text>bar-positive</text>
       </register>
-      <register name="8" type="4">
-        <text>date</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1vbnRoTGlzdDogbW9udGhMaXN0LCAvL09wdGlvbmFsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>sublabel</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIHdlZWtEYXlzTGlzdDogd2Vla0RheXNMaXN0LCAvL09wdGlvbmFsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
