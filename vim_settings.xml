@@ -676,7 +676,8 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" timestamp="1453750684023">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" timestamp="1453752110246">
+        <mark key="'" line="11" column="104" />
         <mark key="[" line="10" column="35" />
         <mark key="]" line="10" column="50" />
         <mark key="." line="10" column="50" />
@@ -708,12 +709,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" timestamp="1453751263528">
-        <mark key="'" line="6" column="10" />
-        <mark key="[" line="37" column="25" />
-        <mark key="]" line="37" column="27" />
-        <mark key="." line="37" column="27" />
-        <mark key="^" line="37" column="27" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" timestamp="1453752162215">
+        <mark key="'" line="19" column="34" />
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="45" column="49" />
+        <mark key="." line="45" column="49" />
+        <mark key="^" line="45" column="49" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterVideoView.html" timestamp="1450758800190">
         <mark key="[" line="0" column="31" />
@@ -1037,10 +1038,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="65" column="42" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="28" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/SpecialOnboarding1Controller.js" />
-      <jump line="3" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/RankableQuestionView.html" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
       <jump line="305" column="43" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
@@ -1137,13 +1134,17 @@
       <jump line="55" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="41" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
       <jump line="6" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
+      <jump line="18" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
+      <jump line="27" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
+      <jump line="19" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
+      <jump line="11" column="104" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LnN0YXRlLW9uYm9hcmRpbmctdGVzdHBhZ2UgewogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>M</text>
+        <text>2018, 8, 25</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1158,40 +1159,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>2018, 8, 25</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>datepickerObject</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJib3dlcl9jb21wb25lbnRzL2ppZmYtanMvZGlzdC9uZy1qaWZmLWJ1bmRsZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>M</text>
+        <text>2018, 8, 25</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>new Date(new Date() - 35 * 365 * 24 * 60 * 60 * 1000)</text>
       </register>
       <register name="3" type="4">
+        <text>M</text>
+      </register>
+      <register name="4" type="4">
+        <text>,</text>
+      </register>
+      <register name="5" type="4">
         <text>;</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>bar-positive</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>bar-positive</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1vbnRoTGlzdDogbW9udGhMaXN0LCAvL09wdGlvbmFsCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdlZWtEYXlzTGlzdDogd2Vla0RheXNMaXN0LCAvL09wdGlvbmFsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1200,15 +1201,14 @@
     <search>
       <last-search>button2</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>datepickerObject</last-pattern>
+      <last-replace>datepickerConfig</last-replace>
+      <last-substitute>datepickerObject</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXhfdG90YWxcPg==</entry>
         <entry>tax_total</entry>
         <entry encoding="base64">XDxidXlcPg==</entry>
         <entry encoding="base64">XDxwdXJjaGFzZVw+</entry>
@@ -1228,9 +1228,9 @@
         <entry>gender</entry>
         <entry>button2</entry>
         <entry>&quot;</entry>
+        <entry>datepickerObject</entry>
       </history-search>
       <history-cmd>
-        <entry>s/,/,\r/g</entry>
         <entry encoding="base64">JzwsJz5zLyAqLy9n</entry>
         <entry>we</entry>
         <entry>s/color/size/g</entry>
@@ -1249,6 +1249,7 @@
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zL2dlbmRlci9zdWJsYWJlbC9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>s/datepickerObject/datepickerConfig/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
