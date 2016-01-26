@@ -239,12 +239,11 @@
         <mark key="^" line="311" column="40" />
         <mark key="." line="311" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" timestamp="1453839945288">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" timestamp="1453841272471">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="21" />
-        <mark key="]" line="49" column="30" />
-        <mark key="^" line="49" column="30" />
-        <mark key="." line="49" column="30" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" timestamp="1450737309881">
         <mark key="'" line="70" column="17" />
@@ -520,12 +519,12 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1453760826729">
-        <mark key="'" line="11" column="25" />
-        <mark key="[" line="12" column="70" />
-        <mark key="]" line="12" column="70" />
-        <mark key="." line="12" column="70" />
-        <mark key="^" line="12" column="70" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1453841560606">
+        <mark key="'" line="18" column="3" />
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="11" column="48" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageController.js" timestamp="1444002285161">
         <mark key="[" line="2" column="1" />
@@ -779,12 +778,12 @@
         <mark key="." line="21" column="68" />
         <mark key="^" line="21" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1453146924570">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1453841442961">
         <mark key="'" line="89" column="7" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="61" column="42" />
-        <mark key="." line="176" column="25" />
-        <mark key="^" line="176" column="25" />
+        <mark key="[" line="73" column="17" />
+        <mark key="]" line="73" column="35" />
+        <mark key="." line="73" column="35" />
+        <mark key="^" line="73" column="35" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/RankableQuestionView.html" timestamp="1453253064566">
         <mark key="'" line="0" column="0" />
@@ -855,12 +854,12 @@
         <mark key="." line="14" column="49" />
         <mark key="^" line="14" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1453760569220">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1453841411441">
         <mark key="'" line="36" column="32" />
-        <mark key="[" line="44" column="51" />
-        <mark key="]" line="44" column="60" />
-        <mark key="." line="44" column="60" />
-        <mark key="^" line="44" column="60" />
+        <mark key="[" line="40" column="22" />
+        <mark key="]" line="40" column="29" />
+        <mark key="." line="40" column="29" />
+        <mark key="^" line="40" column="29" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/styles/ContentCenterVideoView.less" timestamp="1450759170638">
         <mark key="[" line="1" column="2" />
@@ -1059,7 +1058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
       <jump line="5" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
       <jump line="30" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
       <jump line="16" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
@@ -1159,13 +1157,14 @@
       <jump line="35" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
       <jump line="4" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="18" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LnN0YXRlLW9uYm9hcmRpbmctdGVzdHBhZ2UgewogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1180,40 +1179,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>introSlides</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5rYWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGh0dHAuZ2V0KGFwaS5BQ1RJT04ucmVwbGFjZSgvXHtpZFx9LywgaWQpKQo=</text>
+        <text encoding="base64">ICAgIH0pLnN0YXRlKCdvbmJvYXJkaW5nLnRlc3RwYWdlJywgewogICAgdXJsOiAnL29uYm9hcmRpbmcvdGVzdHBhZ2UnLAogICAgcGFyZW50OiAnaG9tZScsCiAgICB2aWV3czogewogICAgICAnbmV3c2ZlZWQtdGFiJzogewogICAgICAgIGNvbnRyb2xsZXI6ICdPbmJvYXJkaW5nUXVlc3Rpb25QYWdlQ3RybCBhcyBPbmJvYXJkaW5nJywKICAgICAgICB0ZW1wbGF0ZVVybDogJ21vZHVsZXMvb25ib2FyZGluZy92aWV3cy9PbmJvYXJkaW5nUXVlc3Rpb25QYWdlVmlldy5odG1sJwogICAgICB9CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>introSlides</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>introSlides</text>
       </register>
       <register name="4" type="4">
-        <text>get</text>
+        <text>testpage</text>
       </register>
       <register name="5" type="4">
-        <text>onboardingSlides</text>
+        <text>testpage</text>
       </register>
       <register name="6" type="4">
-        <text>onboardingSlides</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>onboardingSlides</text>
+        <text>Content</text>
       </register>
       <register name="8" type="4">
-        <text>getOnboardingSlides();</text>
+        <text>ContentImages</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAibmV3UGFnZSI6ICJvbmJvYXJkaW5nOnF1ZXN0aW9uczpuZXdwYWdlIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
