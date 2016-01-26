@@ -936,12 +936,13 @@
         <mark key="." line="19751" column="0" />
         <mark key="^" line="19752" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" timestamp="1453843991842">
-        <mark key="a" line="338" column="31" />
-        <mark key="[" line="54" column="20" />
-        <mark key="]" line="54" column="24" />
-        <mark key="." line="54" column="24" />
-        <mark key="^" line="54" column="24" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" timestamp="1453845130448">
+        <mark key="a" line="321" column="31" />
+        <mark key="'" line="321" column="25" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="62" column="38" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageView.html" timestamp="1444002061393">
         <mark key="[" line="0" column="0" />
@@ -1073,16 +1074,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
-      <jump line="11" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
-      <jump line="79" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="72" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="365" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="78" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="46" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="60" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="55" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="41" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
@@ -1170,16 +1161,26 @@
       <jump line="5" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
       <jump line="13" column="50" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
       <jump line="47" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
-      <jump line="70" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="42" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="50" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="69" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="61" column="45" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="63" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="81" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="70" column="53" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="86" column="61" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="64" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="68" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="321" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LnN0YXRlLW9uYm9hcmRpbmctdGVzdHBhZ2UgewogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>nav</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1194,43 +1195,76 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>nav</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>JIFF_INCENTIVES_MAIN_EVENT_KEYS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWw6ICdQZXJzb25hbGl6ZScsCiAgICAgICAgICAgICAgICAgICAgICAgIGludGVybmFsX2lkOiAncGVyc29uYWxpemUnLAogICAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OiB0cnVlCiAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>nav</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="2" type="4">
-        <text>true</text>
+        <text>{
+          name: 'How Information Used',
+          type: 'Question',
+          initialization_payload: {
+            contents: [
+              {
+                questionnaire_guid: 'QUESTIONNAIRE_GUID_FROM_SRIDHAR',
+                special_onboarding_key: 'special_onboarding2',
+                questionnaire_internal_id: 'onboarding',
+                questions: [
+                  {
+                    question_internal_id: 'how_information_used',
+                    text: 'Jiff uses this information to recommend health programs, content, and events that are most relevant to you.',
+                    type: 'onboarding_personalization2',
+                    answer_limit: 1,
+                    answers: [
+                      {
+                        button_label: 'Not Now',
+                        internal_id: 'not_now',
+                        navigation_button: true
+                      },
+                      {
+                        button_label: 'Personalize',
+                        internal_id: 'personalize',
+                        default: true,
+                        navigation_button: true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }</text>
       </register>
-      <register name="3" type="4">
-        <text>back_button</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbnN3ZXJfbGltaXQ6IDEsCg==</text>
       </register>
       <register name="4" type="4">
         <text>,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpY29uOiB7CiAgICAgICAgICAgICAgICAgICAgICB1cmw6ICdodHRwOi8vPENMSVBCT0FSRF9JQ09OX1VSTD4ucG5nJywKICAgICAgICAgICAgICAgICAgICAgIHNpemU6ICdsYXJnZScsCiAgICAgICAgICAgICAgICAgICAgfSwK</text>
+      <register name="5" type="4">
+        <text>,</text>
       </register>
-      <register name="6" type="4">
-        <text>button_label</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6IHRydWUK</text>
       </register>
       <register name="7" type="4">
-        <text>'</text>
+        <text>,</text>
       </register>
-      <register name="8" type="4">
-        <text>'</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>'</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1284,8 +1318,8 @@
         <entry encoding="base64">JzwsJz5zL2dlbmRlci9zdWJsYWJlbC9n</entry>
         <entry>s/datepickerObject/datepickerConfig/g</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGVjdC9zd2l0Y2gvZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
