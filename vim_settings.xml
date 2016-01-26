@@ -936,13 +936,12 @@
         <mark key="." line="19751" column="0" />
         <mark key="^" line="19752" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" timestamp="1453839957805">
-        <mark key="a" line="334" column="31" />
-        <mark key="'" line="4" column="11" />
-        <mark key="[" line="23" column="38" />
-        <mark key="]" line="24" column="17" />
-        <mark key="." line="24" column="17" />
-        <mark key="^" line="24" column="17" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" timestamp="1453843991842">
+        <mark key="a" line="338" column="31" />
+        <mark key="[" line="54" column="20" />
+        <mark key="]" line="54" column="24" />
+        <mark key="." line="54" column="24" />
+        <mark key="^" line="54" column="24" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageView.html" timestamp="1444002061393">
         <mark key="[" line="0" column="0" />
@@ -1074,10 +1073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
-      <jump line="50" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
-      <jump line="5" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
@@ -1174,13 +1169,17 @@
       <jump line="31" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
       <jump line="5" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
       <jump line="13" column="50" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="70" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="42" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="50" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LnN0YXRlLW9uYm9hcmRpbmctdGVzdHBhZ2UgewogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>nav</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1195,51 +1194,51 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>nav</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYW5rYWJsZVw+</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
         <text>JIFF_INCENTIVES_MAIN_EVENT_KEYS</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>nav</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vT25ib2FyZGluZy5uZXh0U2xpZGUgPSBmdW5jdGlvbigpIHsKICAgIC8vICBPbmJvYXJkaW5nQXBpLmdldE5leHRPbmJvYXJkaW5nU3RlcCgpLnRoZW4oZnVuY3Rpb24oZGF0YSkgewogICAgLy8gICAgT25ib2FyZGluZy5jdXJyZW50U3RlcCA9IGRhdGEuaW5pdGlhbGl6YXRpb25fcGF5bG9hZC5jb250ZW50c1swXTsKICAgIC8vICB9KTsKICAgIC8vfTsKICAgIC8vCiAgICAvL09uYm9hcmRpbmcubmV4dFNsaWRlKCk7Cg==</text>
+      <register name="2" type="4">
+        <text>true</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>back_button</text>
       </register>
       <register name="4" type="4">
-        <text>finished_viewing</text>
+        <text>,</text>
       </register>
-      <register name="5" type="4">
-        <text>slides</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpY29uOiB7CiAgICAgICAgICAgICAgICAgICAgICB1cmw6ICdodHRwOi8vPENMSVBCT0FSRF9JQ09OX1VSTD4ucG5nJywKICAgICAgICAgICAgICAgICAgICAgIHNpemU6ICdsYXJnZScsCiAgICAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>button_label</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>'</text>
       </register>
       <register name="8" type="4">
-        <text>introSlides</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>introSlides</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
       <last-search encoding="base64">XDxyYW5rYWJsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYW5rYWJsZVw+</last-pattern>
-      <last-replace>switch</last-replace>
-      <last-substitute>select</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1258,13 +1257,13 @@
         <entry>button2</entry>
         <entry>datepickerObject</entry>
         <entry>resolve</entry>
-        <entry>&quot;</entry>
         <entry>onboarding</entry>
         <entry>onboarding.</entry>
         <entry>onboarding\.</entry>
         <entry>select</entry>
         <entry>rankable</entry>
         <entry encoding="base64">XDxyYW5rYWJsZVw+</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
@@ -1284,9 +1283,9 @@
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zL2dlbmRlci9zdWJsYWJlbC9n</entry>
         <entry>s/datepickerObject/datepickerConfig/g</entry>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGVjdC9zd2l0Y2gvZw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
