@@ -239,11 +239,12 @@
         <mark key="^" line="311" column="40" />
         <mark key="." line="311" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" timestamp="1453841272471">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" timestamp="1453842386148">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="46" />
+        <mark key="." line="11" column="46" />
+        <mark key="^" line="11" column="46" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" timestamp="1450737309881">
         <mark key="'" line="70" column="17" />
@@ -346,6 +347,11 @@
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1453842298367">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="74" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/emailer_info.inc.php" timestamp="1410341309294">
         <mark key="[" line="2" column="10" />
@@ -519,12 +525,12 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1453841560606">
-        <mark key="'" line="18" column="3" />
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="48" />
-        <mark key="." line="11" column="48" />
-        <mark key="^" line="11" column="48" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1453842609934">
+        <mark key="'" line="13" column="50" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="13" column="79" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageController.js" timestamp="1444002285161">
         <mark key="[" line="2" column="1" />
@@ -588,6 +594,11 @@
         <mark key="]" line="18" column="39" />
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="39" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" timestamp="1453152959881">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="58" column="5" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterDetailView.html" timestamp="1450142755430">
         <mark key="[" line="2" column="31" />
@@ -975,6 +986,11 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/ContentApiAdapter.js" timestamp="1453153035613">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="145" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/InterestSelectionQuestionView.html" timestamp="1453769784435">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="1" column="27" />
@@ -1058,10 +1074,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
-      <jump line="30" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
-      <jump line="16" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
       <jump line="24" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
       <jump line="50" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
@@ -1158,13 +1170,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
       <jump line="4" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="18" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
+      <jump line="5" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
+      <jump line="13" column="50" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LnN0YXRlLW9uYm9hcmRpbmctdGVzdHBhZ2UgewogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1179,40 +1195,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>introSlides</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5rYWJsZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIH0pLnN0YXRlKCdvbmJvYXJkaW5nLnRlc3RwYWdlJywgewogICAgdXJsOiAnL29uYm9hcmRpbmcvdGVzdHBhZ2UnLAogICAgcGFyZW50OiAnaG9tZScsCiAgICB2aWV3czogewogICAgICAnbmV3c2ZlZWQtdGFiJzogewogICAgICAgIGNvbnRyb2xsZXI6ICdPbmJvYXJkaW5nUXVlc3Rpb25QYWdlQ3RybCBhcyBPbmJvYXJkaW5nJywKICAgICAgICB0ZW1wbGF0ZVVybDogJ21vZHVsZXMvb25ib2FyZGluZy92aWV3cy9PbmJvYXJkaW5nUXVlc3Rpb25QYWdlVmlldy5odG1sJwogICAgICB9CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>JIFF_INCENTIVES_MAIN_EVENT_KEYS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>introSlides</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vT25ib2FyZGluZy5uZXh0U2xpZGUgPSBmdW5jdGlvbigpIHsKICAgIC8vICBPbmJvYXJkaW5nQXBpLmdldE5leHRPbmJvYXJkaW5nU3RlcCgpLnRoZW4oZnVuY3Rpb24oZGF0YSkgewogICAgLy8gICAgT25ib2FyZGluZy5jdXJyZW50U3RlcCA9IGRhdGEuaW5pdGlhbGl6YXRpb25fcGF5bG9hZC5jb250ZW50c1swXTsKICAgIC8vICB9KTsKICAgIC8vfTsKICAgIC8vCiAgICAvL09uYm9hcmRpbmcubmV4dFNsaWRlKCk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>introSlides</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>testpage</text>
+        <text>finished_viewing</text>
       </register>
       <register name="5" type="4">
-        <text>testpage</text>
+        <text>slides</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Content</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>ContentImages</text>
+        <text>introSlides</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAibmV3UGFnZSI6ICJvbmJvYXJkaW5nOnF1ZXN0aW9uczpuZXdwYWdlIiwK</text>
+      <register name="9" type="4">
+        <text>introSlides</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
