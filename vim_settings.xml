@@ -936,13 +936,12 @@
         <mark key="." line="19751" column="0" />
         <mark key="^" line="19752" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" timestamp="1453845130448">
-        <mark key="a" line="321" column="31" />
-        <mark key="'" line="321" column="25" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="62" column="38" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" timestamp="1453845455633">
+        <mark key="'" line="343" column="18" />
+        <mark key="[" line="341" column="23" />
+        <mark key="]" line="341" column="23" />
+        <mark key="^" line="339" column="45" />
+        <mark key="." line="341" column="23" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageView.html" timestamp="1444002061393">
         <mark key="[" line="0" column="0" />
@@ -1074,10 +1073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="55" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
-      <jump line="6" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
       <jump line="18" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
       <jump line="27" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
       <jump line="19" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
@@ -1174,13 +1169,17 @@
       <jump line="68" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="57" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="321" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="340" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="100" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="52" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="347" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LnN0YXRlLW9uYm9hcmRpbmctdGVzdHBhZ2UgewogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1200,68 +1199,35 @@
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWw6ICdQZXJzb25hbGl6ZScsCiAgICAgICAgICAgICAgICAgICAgICAgIGludGVybmFsX2lkOiAncGVyc29uYWxpemUnLAogICAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OiB0cnVlCiAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHF1ZXN0aW9ubmFpcmVfZ3VpZDogJ1FVRVNUSU9OTkFJUkVfR1VJRF9GUk9NX1NSSURIQVInLAogICAgICAgICAgICAgICAgcXVlc3Rpb25uYWlyZV9pbnRlcm5hbF9pZDogJ29uYm9hcmRpbmcnLAogICAgICAgICAgICAgICAgc3BlY2lhbF9vbmJvYXJkaW5nX2tleTogJ3NwZWNpYWxfb25ib2FyZGluZzEnLAogICAgICAgICAgICAgICAgcXVlc3Rpb25zOiBbCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBxdWVzdGlvbl9pbnRlcm5hbF9pZDogJ3BlcnNvbmFsaXphdGlvbicsCiAgICAgICAgICAgICAgICAgICAgaWNvbjogewogICAgICAgICAgICAgICAgICAgICAgdXJsOiAnaHR0cDovLzxDTElQQk9BUkRfSUNPTl9VUkw+LnBuZycsCiAgICAgICAgICAgICAgICAgICAgICBzaXplOiAnbGFyZ2UnCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBjbG9zZV9idXR0b246IGZhbHNlLAogICAgICAgICAgICAgICAgICAgIHRleHQ6ICdQZXJzb25hbGl6ZSB5b3VyIGhlYWx0aCBwcm9ncmFtcyBhbmQgY29udGVudCBieSBhbnN3ZXJpbmcgYSBmZXcgc2hvcnQgcXVlc3Rpb25zLicsCiAgICAgICAgICAgICAgICAgICAgdHlwZTogJ29uYm9hcmRpbmdfcGVyc29uYWxpemF0aW9uMScsCiAgICAgICAgICAgICAgICAgICAgcG9wdXBzOiB7CiAgICAgICAgICAgICAgICAgICAgICBob3dfdXNlZDogewogICAgICAgICAgICAgICAgICAgICAgICBjbG9zZV9idXR0b246IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgIGljb246IHsKICAgICAgICAgICAgICAgICAgICAgICAgICB1cmw6ICdodHRwOi8vPElORk9fUEFETE9DS19JQ09OX1VSTD4ucG5nJywKICAgICAgICAgICAgICAgICAgICAgICAgICBzaXplOiAnc21hbGwnCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ6ICdKaWZmIHVzZXMgdGhpcyBpbmZvcm1hdGlvbiB0byByZWNvbW1lbmQgaGVhbHRoIHByb2dyYW1zLCBjb250ZW50LCBhbmQgZXZlbnRzIHRoYXQgYXJlIG1vc3QgcmVsZXZhbnQgZm9yIHlvdS4nLAogICAgICAgICAgICAgICAgICAgICAgICBzdWJ0ZXh0OiAnRG9uXCd0IHdvcnJ5LCB5b3VyIGluZm9ybWF0aW9uIHdpbGwgbmV2ZXIgYmUgc2hhcmVkLicsCiAgICAgICAgICAgICAgICAgICAgICAgIGFuc3dlcnM6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJlbDogJ05vdCBOb3cnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJuYWxfaWQ6ICdub3Rfbm93JwogICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWw6ICdQZXJzb25hbGl6ZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnRlcm5hbF9pZDogJ3BlcnNvbmFsaXplJwogICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgYW5zd2VyczogWwogICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsYWJlbDogJ05vdCBOb3cnLAogICAgICAgICAgICAgICAgICAgICAgICBpbnRlcm5hbF9pZDogJ25vdF9ub3cnCiAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsYWJlbDogJ1BlcnNvbmFsaXplJywKICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJuYWxfaWQ6ICdwZXJzb25hbGl6ZScsCiAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6IHRydWUKICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsOiAnSG93IGlzIHRoaXMgaW5mb3JtYXRpb24gdXNlZD8nLAogICAgICAgICAgICAgICAgICAgICAgICBzaG93X3BvcHVwOiAnaG93X3VzZWQnCiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgfQogICAgICAgICAgICBd</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-          name: 'How Information Used',
-          type: 'Question',
-          initialization_payload: {
-            contents: [
-              {
-                questionnaire_guid: 'QUESTIONNAIRE_GUID_FROM_SRIDHAR',
-                special_onboarding_key: 'special_onboarding2',
-                questionnaire_internal_id: 'onboarding',
-                questions: [
-                  {
-                    question_internal_id: 'how_information_used',
-                    text: 'Jiff uses this information to recommend health programs, content, and events that are most relevant to you.',
-                    type: 'onboarding_personalization2',
-                    answer_limit: 1,
-                    answers: [
-                      {
-                        button_label: 'Not Now',
-                        internal_id: 'not_now',
-                        navigation_button: true
-                      },
-                      {
-                        button_label: 'Personalize',
-                        internal_id: 'personalize',
-                        default: true,
-                        navigation_button: true
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWw6ICdIb3cgaXMgdGhpcyBpbmZvcm1hdGlvbiB1c2VkPycsCiAgICAgICAgICAgICAgICAgICAgICAgIHNob3dfcG9wdXA6ICdob3dfdXNlZCcKICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbnN3ZXJfbGltaXQ6IDEsCg==</text>
+      <register name="3" type="4">
+        <text>personalize</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>personalizationh</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>Personalize your health programs and content by answering a few short questions.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6IHRydWUK</text>
+      <register name="6" type="4">
+        <text>large</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>CLIPBOARD</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>Personalize</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWw6ICdOb3QgTm93JywKICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJuYWxfaWQ6ICdub3Rfbm93JwogICAgICAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
