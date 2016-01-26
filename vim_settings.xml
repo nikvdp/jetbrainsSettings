@@ -239,7 +239,8 @@
         <mark key="^" line="311" column="40" />
         <mark key="." line="311" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" timestamp="1453167490809">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" timestamp="1453839945288">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="49" column="21" />
         <mark key="]" line="49" column="30" />
         <mark key="^" line="49" column="30" />
@@ -925,13 +926,13 @@
         <mark key="." line="19751" column="0" />
         <mark key="^" line="19752" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" timestamp="1453772756178">
-        <mark key="a" line="333" column="31" />
-        <mark key="'" line="35" column="35" />
-        <mark key="[" line="26" column="51" />
-        <mark key="]" line="26" column="51" />
-        <mark key="." line="26" column="51" />
-        <mark key="^" line="26" column="51" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" timestamp="1453839957805">
+        <mark key="a" line="334" column="31" />
+        <mark key="'" line="4" column="11" />
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="17" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageView.html" timestamp="1444002061393">
         <mark key="[" line="0" column="0" />
@@ -1058,8 +1059,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
       <jump line="10" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
       <jump line="5" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
       <jump line="30" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
@@ -1158,6 +1157,8 @@
       <jump line="4" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="35" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
+      <jump line="4" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
