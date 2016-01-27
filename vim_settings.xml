@@ -521,12 +521,11 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1453846889818">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1453852257332">
         <mark key="'" line="13" column="50" />
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="74" />
-        <mark key="." line="16" column="74" />
-        <mark key="^" line="16" column="74" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageController.js" timestamp="1444002285161">
         <mark key="[" line="2" column="1" />
@@ -722,12 +721,12 @@
         <mark key="^" line="138" column="54" />
         <mark key="." line="138" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1453846696851">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="14" column="50" />
-        <mark key="]" line="14" column="50" />
-        <mark key="." line="14" column="50" />
-        <mark key="^" line="14" column="62" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1453852648719">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+        <mark key="^" line="0" column="41" />
       </file>
       <file name="$USER_HOME$/Dropbox/duable/extension/config.json" timestamp="1399720501871">
         <mark key="[" line="1" column="24" />
@@ -768,12 +767,12 @@
         <mark key="." line="21" column="68" />
         <mark key="^" line="21" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1453846530136">
-        <mark key="'" line="89" column="7" />
-        <mark key="[" line="90" column="23" />
-        <mark key="]" line="90" column="24" />
-        <mark key="." line="90" column="23" />
-        <mark key="^" line="90" column="50" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1453852419206">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="65" column="48" />
+        <mark key="." line="65" column="48" />
+        <mark key="^" line="65" column="48" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/RankableQuestionView.html" timestamp="1453253064566">
         <mark key="'" line="0" column="0" />
@@ -1031,15 +1030,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="104" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" />
-      <jump line="38" column="45" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" />
-      <jump line="10" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" />
-      <jump line="9" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/DateQuestionView.html" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/DateQuestionView.html" />
-      <jump line="0" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/DateQuestionView.html" />
-      <jump line="21" column="47" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" />
       <jump line="14" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/DateQuestionView.html" />
       <jump line="3" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/HeightQuestionView.html" />
       <jump line="19" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/WeightQuestionView.html" />
@@ -1131,13 +1121,22 @@
       <jump line="64" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
       <jump line="89" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
       <jump line="66" column="30" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/jiff.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
+      <jump line="39" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
+      <jump line="32" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
+      <jump line="52" column="69" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
+      <jump line="5" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
+      <jump line="16" column="29" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LnN0YXRlLW9uYm9hcmRpbmctdGVzdHBhZ2UgewogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ContentVideo</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1152,28 +1151,28 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>; Onboarding.response='yolo'</text>
+        <text>ContentVideo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKaWZmU3RvcmFnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJGV2ZW50LmVtaXQoSklGRl9JTkNFTlRJVkVTX01BSU5fV09SS0ZMT1dfS0VZUy5Db250ZW50SW1hZ2VzLmVuZEV2ZW50LCB7CiAgICAgICAgX0hPT0s6IF9ob29rLAogICAgICAgIHBheWxvYWQ6IHsKICAgICAgICAgIHdvcmtmbG93X2FjdGlvbjogewogICAgICAgICAgICByZXN1bHRzOiB7CiAgICAgICAgICAgICAgY29tcGxldGVkOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgPGJ1dHRvbiBuZy1jbGljaz0iT25ib2FyZGluZy5uZXh0U2xpZGUoKSI+TmV4dDwvYnV0dG9uPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>ContentVideo</text>
       </register>
-      <register name="2" type="4">
-        <text>; Onboarding.response='yolo'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS4K</text>
       </register>
       <register name="3" type="4">
-        <text>d</text>
+        <text>j</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text>;</text>
+        <text>Other</text>
       </register>
       <register name="6" type="4">
         <text>{
@@ -1182,10 +1181,7 @@
           workflow_action: {
             results: {
               completed: true
-            },
-            response: [
-              {answer: questionAnswer}
-            ]
+            }
           }
         }
       }</text>
@@ -1193,11 +1189,11 @@
       <register name="7" type="4">
         <text>data</text>
       </register>
-      <register name="8" type="4">
-        <text>;</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBfSE9PSzogX2hvb2ssCiAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgd29ya2Zsb3dfYWN0aW9uOiB7CiAgICAgICAgICAgIHJlc3VsdHM6IHsKICAgICAgICAgICAgICBjb21wbGV0ZWQ6IHRydWUKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIH0K</text>
+      <register name="9" type="4">
+        <text>video_finished</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
