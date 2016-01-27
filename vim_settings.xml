@@ -84,12 +84,12 @@
         <mark key="^" line="9" column="8" />
         <mark key="." line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1452628430123">
-        <mark key="'" line="123" column="53" />
-        <mark key="[" line="889" column="0" />
-        <mark key="]" line="889" column="0" />
-        <mark key="." line="889" column="0" />
-        <mark key="^" line="889" column="28" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1453917445208">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="888" column="28" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/styles/ContentCenterListView.less" timestamp="1452032880922">
         <mark key="[" line="1" column="2" />
@@ -1022,7 +1022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="55" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="291" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="18" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="85" column="48" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
@@ -1122,13 +1121,14 @@
       <jump line="16" column="2" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/challenges/JFChallenge.js" />
       <jump line="8" column="1" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/challenges/JFChallenges.js" />
       <jump line="5" column="27" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/challenges/JFChallenges.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LnN0YXRlLW9uYm9hcmRpbmctdGVzdHBhZ2UgewogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIFNhZmVHZXQsCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1146,46 +1146,46 @@
         <text>vendor</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNb2RlbENvbGxlY3Rpb25UeXBlXD4=</text>
+        <text>safeget</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGJ1aWxkZXIuYnVuZGxlKCdzcmMvbWFpbicsICdkaXN0L3NyYy92ZW5kb3IuanMnKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIFNhZmVHZXQsCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>vendor</text>
       </register>
-      <register name="3" type="4">
-        <text>;</text>
-      </register>
       <register name="4" type="4">
-        <text>this</text>
+        <text>;</text>
       </register>
       <register name="5" type="4">
         <text>this</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>this</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>,</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNb2RlbENvbGxlY3Rpb25UeXBlXD4=</last-search>
+      <last-search>safeget</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNb2RlbENvbGxlY3Rpb25UeXBlXD4=</last-pattern>
+      <last-pattern>safeget</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1193,7 +1193,6 @@
     </search>
     <history>
       <history-search>
-        <entry>interests</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>onboarding.test</entry>
         <entry>feet</entry>
@@ -1213,6 +1212,7 @@
         <entry encoding="base64">XDxtb2R1bGl6ZXJcPg==</entry>
         <entry>this</entry>
         <entry encoding="base64">XDxNb2RlbENvbGxlY3Rpb25UeXBlXD4=</entry>
+        <entry>safeget</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
