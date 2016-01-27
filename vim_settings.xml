@@ -1058,6 +1058,9 @@
         <mark key="^" line="20" column="100" />
         <mark key="." line="20" column="100" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUserSettings.js" timestamp="1453930947684">
+        <mark key="'" line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/license.less" timestamp="1449792244054">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="12" column="4" />
@@ -1067,7 +1070,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="18" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="85" column="48" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="254" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
@@ -1167,6 +1169,7 @@
       <jump line="8" column="1" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/challenges/JFChallenges.js" />
       <jump line="5" column="27" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/challenges/JFChallenges.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="12" column="13" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUserSettings.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
