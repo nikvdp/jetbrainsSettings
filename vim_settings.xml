@@ -305,12 +305,12 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1454112840863">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1454113663243">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="42" column="59" />
-        <mark key="]" line="42" column="67" />
-        <mark key="." line="42" column="67" />
-        <mark key="^" line="42" column="67" />
+        <mark key="[" line="32" column="70" />
+        <mark key="]" line="32" column="78" />
+        <mark key="." line="32" column="78" />
+        <mark key="^" line="32" column="78" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/web_app/js/templates/enterPatientData.ejs" timestamp="1403603398372">
         <mark key="[" line="94" column="75" />
@@ -355,11 +355,12 @@
         <mark key="^" line="41" column="17" />
         <mark key="." line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" timestamp="1453755530996">
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="14" column="47" />
-        <mark key="^" line="14" column="47" />
-        <mark key="." line="14" column="47" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" timestamp="1454114676296">
+        <mark key="'" line="7" column="10" />
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="53" />
+        <mark key="^" line="21" column="53" />
+        <mark key="." line="21" column="53" />
       </file>
       <file name="$USER_HOME$/Code/personal/pocketlight/app/styles/content.less" timestamp="1436970355535">
         <mark key="[" line="174" column="13" />
@@ -690,12 +691,12 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/DateQuestionView.html" timestamp="1453755676552">
-        <mark key="'" line="14" column="22" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/DateQuestionView.html" timestamp="1454114052492">
+        <mark key="'" line="2" column="24" />
+        <mark key="[" line="48" column="23" />
+        <mark key="]" line="48" column="23" />
+        <mark key="." line="48" column="23" />
+        <mark key="^" line="48" column="23" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsDetailsCtrl.js" timestamp="1450378879690">
         <mark key="[" line="209" column="0" />
@@ -957,9 +958,6 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="57" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1453918774650">
-        <mark key="'" line="5" column="4" />
-      </file>
       <file name="$USER_HOME$/tmp/townsqrd/src/js/app.js" timestamp="1443229365399">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="38" />
@@ -1078,11 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
-      <jump line="6" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
-      <jump line="0" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/InterestSelectionView.html" />
-      <jump line="47" column="42" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/InterestSelectionQuestion.js" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/InterestSelectionQuestion.js" />
       <jump line="10" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
@@ -1178,13 +1171,18 @@
       <jump line="21" column="45" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
       <jump line="34" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
       <jump line="35" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
+      <jump line="28" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" />
+      <jump line="15" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/DateQuestionView.html" />
+      <jump line="2" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/DateQuestionView.html" />
+      <jump line="19" column="41" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" />
+      <jump line="7" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIE9uYm9hcmRpbmcuY29sbGVjdEFuc3dlcnMgPSBmdW5jdGlvbihhbnN3ZXIpIHsKICAgICAgCiAgICB9Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>originalAnswer</text>
+        <text>&quot;12/11/2015&quot;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1199,40 +1197,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>originalAnswer</text>
+        <text>&quot;12/11/2015&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHF1ZXN0aW9u</text>
       </register>
       <register name="0" type="4">
-        <text>onAnswer(questionData, answer)</text>
+        <text>ng-change=&quot;updateAnswer()&quot;</text>
       </register>
       <register name="1" type="4">
-        <text>originalAnswer</text>
+        <text>&quot;12/11/2015&quot;</text>
       </register>
       <register name="2" type="4">
-        <text>// made up of questionAnswer objects:</text>
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>answer</text>
+        <text encoding="base64">YSA9IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>Number(new Date())</text>
       </register>
-      <register name="6" type="4">
-        <text>answer;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text>answer.</text>
+        <text encoding="base64">c2V0IGRlZmF1bHQgeWVhciB0byA=</text>
       </register>
-      <register name="8" type="4">
-        <text>questionData.answer = answer; onAnswer(questionData)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzY29wZS55ZWFycyA9IFtdOwoKICAgICAgICB2YXIgY3VycmVudFllYXIgPSAobmV3IERhdGUoKSkuZ2V0WWVhcigpICsgMTkwMDsKCiAgICAgICAgZm9yICh2YXIgeWVhciA9IGN1cnJlbnRZZWFyIC0gMTAwOyB5ZWFyIDwgY3VycmVudFllYXI7IHllYXIrKykgewogICAgICAgICAgc2NvcGUueWVhcnMucHVzaCh5ZWFyKTsKICAgICAgICB9CgogICAgICAgIC8vIHRpbWVvdXQgbmVlZGVkIHNvIHRoYXQgeWVhciBkb2Vzbid0IGdldCBzZXQgdW50aWwgYWZ0ZXIgYW5ndWxhciBmaWxscyB0aGVtIGFsbCBpbgogICAgICAgICR0aW1lb3V0KGZ1bmN0aW9uKCkgewogICAgICAgICAgc2NvcGUueWVhciA9IFN0cmluZyhjdXJyZW50WWVhciAtIDMwKTsKICAgICAgICB9KTsKICAgICAgICBzY29wZS5tb250aCA9ICcwMSc7CiAgICAgICAgc2NvcGUuZGF5ID0gJzAxJzsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0ZSBDdXJyZW50IHllYXIgaXMgOiAnLCBjdXJyZW50WWVhcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
