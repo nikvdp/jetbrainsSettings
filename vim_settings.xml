@@ -355,12 +355,12 @@
         <mark key="^" line="41" column="17" />
         <mark key="." line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" timestamp="1454114676296">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" timestamp="1454115870631">
         <mark key="'" line="7" column="10" />
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="53" />
-        <mark key="^" line="21" column="53" />
-        <mark key="." line="21" column="53" />
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="50" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="27" column="50" />
       </file>
       <file name="$USER_HOME$/Code/personal/pocketlight/app/styles/content.less" timestamp="1436970355535">
         <mark key="[" line="174" column="13" />
@@ -381,11 +381,11 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" timestamp="1453755781575">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="38" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" timestamp="1454115977113">
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="9" column="54" />
+        <mark key="^" line="9" column="54" />
+        <mark key="." line="9" column="54" />
       </file>
       <file name="$USER_HOME$/Code/personal/pocketlight/app/scripts/views/highlightView.js" timestamp="1436767198750">
         <mark key="[" line="0" column="51" />
@@ -541,12 +541,12 @@
         <mark key="^" line="14" column="91" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/WeightQuestionView.html" timestamp="1453755706494">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="30" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="30" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/WeightQuestionView.html" timestamp="1454116518147">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="11" column="35" />
+        <mark key="^" line="11" column="35" />
+        <mark key="." line="11" column="35" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/module.json" timestamp="1453750301420">
         <mark key="[" line="7" column="12" />
@@ -990,10 +990,12 @@
         <mark key="^" line="122" column="49" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" timestamp="1453340352889">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" timestamp="1454117087986">
+        <mark key="'" line="43" column="12" />
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/styles/ContentCenterVideoView.less" timestamp="1450759170638">
         <mark key="[" line="1" column="2" />
@@ -1076,8 +1078,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/InterestSelectionQuestion.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/InterestSelectionQuestion.js" />
       <jump line="10" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="279" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="52" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
@@ -1176,13 +1176,15 @@
       <jump line="2" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/DateQuestionView.html" />
       <jump line="19" column="41" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" />
       <jump line="7" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" />
+      <jump line="40" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIE9uYm9hcmRpbmcuY29sbGVjdEFuc3dlcnMgPSBmdW5jdGlvbihhbnN3ZXIpIHsKICAgICAgCiAgICB9Owo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;12/11/2015&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciBwb3VuZHNJbkFLZyA9IDIuMjA0NjI7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1197,57 +1199,56 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;12/11/2015&quot;</text>
+        <text>scope.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PHF1ZXN0aW9u</text>
+        <text>scope.weight</text>
       </register>
-      <register name="0" type="4">
-        <text>ng-change=&quot;updateAnswer()&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChzY29wZS51bml0ID09PSAnbGJzJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAqIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0gZWxzZSBpZiAoc2NvcGUudW5pdCA9PT0gJ2tnJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAvIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;12/11/2015&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciBwb3VuZHNJbkFLZyA9IDIuMjA0NjI7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>scope.</text>
       </register>
       <register name="3" type="4">
-        <text>/</text>
+        <text>scope.</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">YSA9IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Number(new Date())</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChzY29wZS51bml0ID09PSAnbGJzJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAqIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0gZWxzZSBpZiAoc2NvcGUudW5pdCA9PT0gJ2tnJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAvIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">c2V0IGRlZmF1bHQgeWVhciB0byA=</text>
+        <text>kg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzY29wZS55ZWFycyA9IFtdOwoKICAgICAgICB2YXIgY3VycmVudFllYXIgPSAobmV3IERhdGUoKSkuZ2V0WWVhcigpICsgMTkwMDsKCiAgICAgICAgZm9yICh2YXIgeWVhciA9IGN1cnJlbnRZZWFyIC0gMTAwOyB5ZWFyIDwgY3VycmVudFllYXI7IHllYXIrKykgewogICAgICAgICAgc2NvcGUueWVhcnMucHVzaCh5ZWFyKTsKICAgICAgICB9CgogICAgICAgIC8vIHRpbWVvdXQgbmVlZGVkIHNvIHRoYXQgeWVhciBkb2Vzbid0IGdldCBzZXQgdW50aWwgYWZ0ZXIgYW5ndWxhciBmaWxscyB0aGVtIGFsbCBpbgogICAgICAgICR0aW1lb3V0KGZ1bmN0aW9uKCkgewogICAgICAgICAgc2NvcGUueWVhciA9IFN0cmluZyhjdXJyZW50WWVhciAtIDMwKTsKICAgICAgICB9KTsKICAgICAgICBzY29wZS5tb250aCA9ICcwMSc7CiAgICAgICAgc2NvcGUuZGF5ID0gJzAxJzsK</text>
+      <register name="8" type="4">
+        <text>timestamp</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0ZSBDdXJyZW50IHllYXIgaXMgOiAnLCBjdXJyZW50WWVhcik7Cg==</text>
+      <register name="9" type="4">
+        <text>;</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3Njb3BlLndlaWdodC9pbnB1dC9n</text>
       </register>
     </registers>
     <search>
       <last-search encoding="base64">PHF1ZXN0aW9u</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PHF1ZXN0aW9u</last-pattern>
-      <last-replace>step</last-replace>
-      <last-substitute>n</last-substitute>
+      <last-pattern>scope.weight</last-pattern>
+      <last-replace>input</last-replace>
+      <last-substitute>scope.weight</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>button2</entry>
         <entry>datepickerObject</entry>
         <entry>resolve</entry>
         <entry>onboarding</entry>
@@ -1267,10 +1268,9 @@
         <entry encoding="base64">XDxuZXh0U2xpZGVcPg==</entry>
         <entry encoding="base64">XDxxdWVzdGlvblw+</entry>
         <entry encoding="base64">PHF1ZXN0aW9u</entry>
+        <entry>scope.weight</entry>
       </history-search>
       <history-cmd>
-        <entry>s/color/size/g</entry>
-        <entry encoding="base64">JzwsJz5zL3RoaXMuc2VsZWN0ZWQuLy9n</entry>
         <entry>%s/&quot;/'/gc</entry>
         <entry encoding="base64">JzwsJz5zLyIvJ2c=</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
@@ -1289,6 +1289,8 @@
         <entry encoding="base64">JzwsJz5zL24vc3RlcC9n</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3Njb3BlLndlaWdodC91bml0L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3Njb3BlLndlaWdodC9pbnB1dC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
