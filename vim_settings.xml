@@ -169,6 +169,13 @@
       <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/jiff.js" timestamp="1453847276280">
         <mark key="'" line="66" column="30" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1454364595692">
+        <mark key="'" line="143" column="5" />
+        <mark key="[" line="151" column="9" />
+        <mark key="]" line="151" column="15" />
+        <mark key="^" line="151" column="15" />
+        <mark key="." line="151" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/HeightQuestion.js" timestamp="1453340692142">
         <mark key="'" line="3" column="19" />
         <mark key="[" line="14" column="44" />
@@ -444,13 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
-      <jump line="306" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
-      <jump line="305" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
-      <jump line="8" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
       <jump line="4" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
@@ -544,13 +544,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
       <jump line="32" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" />
       <jump line="158" column="55" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" />
+      <jump line="138" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="151" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="42" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="67" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="89" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="92" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="143" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIE9uYm9hcmRpbmcuY29sbGVjdEFuc3dlcnMgPSBmdW5jdGlvbihhbnN3ZXIpIHsKICAgICAgCiAgICB9Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>strict</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -565,49 +572,49 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>strict</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50TW9udGhcPg==</text>
+        <text>nsp:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmIChzY29wZS51bml0ID09PSAnbGJzJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAqIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0gZWxzZSBpZiAoc2NvcGUudW5pdCA9PT0gJ2tnJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAvIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>strict</text>
       </register>
       <register name="2" type="4">
-        <text>]</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;</text>
+        <text>]</text>
       </register>
       <register name="4" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="5" type="4">
         <text>[&quot;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmICgpIHsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>$rootScope.onboarding</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgb25ib2FyZGluZ1RhYk5hbWUgPSAnb25ib2FyZGluZy10YWInOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZnJvbVN0YXRlICE9PSAnc3BsYXNoJyB8fCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50TW9udGhcPg==</last-search>
+      <last-search>nsp:</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50TW9udGhcPg==</last-pattern>
+      <last-pattern>nsp:</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>scope.weight</last-substitute>
       <last-dir>1</last-dir>
@@ -615,8 +622,6 @@
     </search>
     <history>
       <history-search>
-        <entry>select</entry>
-        <entry>rankable</entry>
         <entry encoding="base64">XDxyYW5rYWJsZVw+</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxKaWZmU3RvcmFnZVw+</entry>
@@ -635,6 +640,8 @@
         <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
         <entry>splash</entry>
         <entry encoding="base64">XDxjdXJyZW50TW9udGhcPg==</entry>
+        <entry>jenkins</entry>
+        <entry>nsp:</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
