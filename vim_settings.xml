@@ -214,6 +214,13 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" timestamp="1454365257007">
+        <mark key="'" line="74" column="11" />
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="17" />
+        <mark key="." line="46" column="17" />
+        <mark key="^" line="46" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" timestamp="1454109685697">
         <mark key="'" line="31" column="8" />
         <mark key="[" line="33" column="0" />
@@ -451,8 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
-      <jump line="4" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="35" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
@@ -551,6 +556,8 @@
       <jump line="89" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
       <jump line="92" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
       <jump line="143" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="46" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" />
+      <jump line="74" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -575,7 +582,7 @@
         <text>strict</text>
       </register>
       <register name="/" type="4">
-        <text>nsp:</text>
+        <text>strict</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmIChzY29wZS51bml0ID09PSAnbGJzJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAqIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0gZWxzZSBpZiAoc2NvcGUudW5pdCA9PT0gJ2tnJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAvIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0K</text>
@@ -584,37 +591,37 @@
         <text>strict</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>strict</text>
       </register>
       <register name="3" type="4">
-        <text>]</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;</text>
+        <text>]</text>
       </register>
       <register name="5" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="6" type="4">
         <text>[&quot;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmICgpIHsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>$rootScope.onboarding</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgb25ib2FyZGluZ1RhYk5hbWUgPSAnb25ib2FyZGluZy10YWInOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nsp:</last-search>
+      <last-search>strict</last-search>
       <last-offset />
-      <last-pattern>nsp:</last-pattern>
+      <last-pattern>strict</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>scope.weight</last-substitute>
       <last-dir>1</last-dir>
@@ -622,7 +629,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyYW5rYWJsZVw+</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxKaWZmU3RvcmFnZVw+</entry>
         <entry encoding="base64">XDxtb2R1bGl6ZXJcPg==</entry>
@@ -642,6 +648,7 @@
         <entry encoding="base64">XDxjdXJyZW50TW9udGhcPg==</entry>
         <entry>jenkins</entry>
         <entry>nsp:</entry>
+        <entry>strict</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
