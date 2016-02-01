@@ -24,8 +24,8 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1453917445208">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454369934235">
+        <mark key="'" line="1317" column="15" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -434,8 +434,12 @@
         <mark key="." line="19751" column="0" />
         <mark key="^" line="19752" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" timestamp="1454362191068">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" timestamp="1454370545256">
         <mark key="'" line="32" column="22" />
+        <mark key="[" line="176" column="35" />
+        <mark key="]" line="176" column="35" />
+        <mark key="^" line="176" column="35" />
+        <mark key="." line="176" column="35" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/challenges/JFChallenge.js" timestamp="1453862653623">
         <mark key="'" line="16" column="2" />
@@ -458,9 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
-      <jump line="35" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
       <jump line="4" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="40" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
@@ -558,6 +559,9 @@
       <jump line="143" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
       <jump line="46" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" />
       <jump line="74" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" />
+      <jump line="365" column="55" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="1317" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="1241" column="55" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
