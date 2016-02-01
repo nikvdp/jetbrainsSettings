@@ -176,6 +176,9 @@
         <mark key="." line="14" column="49" />
         <mark key="^" line="14" column="49" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1454360311812">
+        <mark key="'" line="27" column="8" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterArticleCtrl.js" timestamp="1450814714462">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="12" column="17" />
@@ -365,12 +368,8 @@
         <mark key="^" line="304" column="40" />
         <mark key="." line="304" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" timestamp="1453329534036">
-        <mark key="'" line="56" column="44" />
-        <mark key="[" line="61" column="32" />
-        <mark key="]" line="61" column="39" />
-        <mark key="." line="61" column="39" />
-        <mark key="^" line="61" column="39" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" timestamp="1454360952449">
+        <mark key="'" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1454111670423">
         <mark key="'" line="35" column="6" />
@@ -442,12 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
-      <jump line="41" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
-      <jump line="26" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
-      <jump line="27" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
       <jump line="67" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
       <jump line="36" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
       <jump line="300" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
@@ -542,13 +535,19 @@
       <jump line="32" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="10" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="191" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="6" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
+      <jump line="136" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
+      <jump line="27" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
+      <jump line="108" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
+      <jump line="11" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIE9uYm9hcmRpbmcuY29sbGVjdEFuc3dlcnMgPSBmdW5jdGlvbihhbnN3ZXIpIHsKICAgICAgCiAgICB9Owo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBwb3VuZHNJbkFLZyA9IDIuMjA0NjI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -563,49 +562,49 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>scope.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>segment</text>
+        <text>splash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmIChzY29wZS51bml0ID09PSAnbGJzJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAqIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0gZWxzZSBpZiAoc2NvcGUudW5pdCA9PT0gJ2tnJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAvIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBwb3VuZHNJbkFLZyA9IDIuMjA0NjI7Cg==</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>scope.</text>
+        <text>]</text>
       </register>
       <register name="3" type="4">
-        <text>scope.</text>
+        <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text>[&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChzY29wZS51bml0ID09PSAnbGJzJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAqIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0gZWxzZSBpZiAoc2NvcGUudW5pdCA9PT0gJ2tnJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAvIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICgpIHsK</text>
       </register>
       <register name="7" type="4">
-        <text>kg</text>
+        <text>$rootScope.onboarding</text>
       </register>
-      <register name="8" type="4">
-        <text>timestamp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgb25ib2FyZGluZ1RhYk5hbWUgPSAnb25ib2FyZGluZy10YWInOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>;</text>
+        <text encoding="base64">ZnJvbVN0YXRlICE9PSAnc3BsYXNoJyB8fCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>segment</last-search>
+      <last-search>splash</last-search>
       <last-offset />
-      <last-pattern>segment</last-pattern>
+      <last-pattern>splash</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>scope.weight</last-substitute>
       <last-dir>1</last-dir>
@@ -613,8 +612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onboarding</entry>
-        <entry>onboarding.</entry>
         <entry>onboarding\.</entry>
         <entry>select</entry>
         <entry>rankable</entry>
@@ -633,6 +630,8 @@
         <entry>scope.weight</entry>
         <entry encoding="base64">XDxzZWdtZW50aW9cPg==</entry>
         <entry>segment</entry>
+        <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
+        <entry>splash</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
