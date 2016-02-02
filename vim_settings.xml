@@ -24,9 +24,9 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454379861930">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454448673780">
         <mark key="a" line="282" column="103" />
-        <mark key="'" line="514" column="24" />
+        <mark key="'" line="800" column="46" />
         <mark key="[" line="793" column="0" />
         <mark key="^" line="800" column="109" />
         <mark key="." line="793" column="0" />
@@ -583,7 +583,6 @@
       <jump line="793" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="796" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="797" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="800" column="90" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="804" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="1223" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="1228" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
@@ -608,6 +607,7 @@
       <jump line="511" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="512" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="514" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="800" column="46" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -632,7 +632,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50TW9udGhOdW1iZXJcPg==</text>
+        <text>13</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmNvbmZpZy5jdXJyZW50U3RhcnREYXRlID0gXygkc2NvcGUucHJvZ3JhbXNMaXN0KS5sYXN0KCkuc3RhcnREYXRlOwogICAgICAgICAgICAkc2NvcGUuY29uZmlnLmN1cnJlbnRNb21lbnQgPSBtb21lbnQoJHNjb3BlLmNvbmZpZy5jdXJyZW50U3RhcnREYXRlLCAnWVlZWS1NTS1ERCcpOwo=</text>
@@ -669,9 +669,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50TW9udGhOdW1iZXJcPg==</last-search>
+      <last-search>13</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50TW9udGhOdW1iZXJcPg==</last-pattern>
+      <last-pattern>13</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>scope.weight</last-substitute>
       <last-dir>1</last-dir>
@@ -679,7 +679,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2R1bGl6ZXJcPg==</entry>
         <entry>this</entry>
         <entry encoding="base64">XDxNb2RlbENvbGxlY3Rpb25UeXBlXD4=</entry>
         <entry>safeget</entry>
@@ -699,6 +698,7 @@
         <entry encoding="base64">XDxjdXJyZW50TW9udGhcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50QWN0dWFsTW9udGhcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50TW9udGhOdW1iZXJcPg==</entry>
+        <entry>13</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
