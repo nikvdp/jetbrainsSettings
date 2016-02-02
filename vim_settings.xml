@@ -24,12 +24,11 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454374555867">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454376120228">
         <mark key="'" line="43" column="18" />
-        <mark key="[" line="284" column="87" />
-        <mark key="]" line="280" column="31" />
-        <mark key="." line="280" column="31" />
-        <mark key="^" line="280" column="31" />
+        <mark key="[" line="810" column="0" />
+        <mark key="]" line="810" column="0" />
+        <mark key="." line="810" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterArticleView.html" timestamp="1453162333605">
         <mark key="'" line="15" column="13" />
@@ -72,6 +71,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/auth.less" timestamp="1452120004096">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" timestamp="1453771909668">
         <mark key="'" line="11" column="0" />
@@ -124,6 +129,12 @@
         <mark key="]" line="15" column="48" />
         <mark key="." line="15" column="18" />
         <mark key="^" line="21" column="46" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" timestamp="1452643349556">
+        <mark key="'" line="131" column="4" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" timestamp="1454115870631">
         <mark key="'" line="7" column="10" />
@@ -207,6 +218,12 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1452108987745">
+        <mark key="'" line="229" column="20" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/WorkflowConfig.js" timestamp="1453759076426">
         <mark key="'" line="3" column="43" />
         <mark key="[" line="4" column="32" />
@@ -227,6 +244,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="^" line="30" column="17" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/styles/InterestSelectionView.less" timestamp="1453505929910">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/WeightQuestionView.html" timestamp="1454116518147">
         <mark key="'" line="20" column="0" />
@@ -406,6 +429,12 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/register.html" timestamp="1452120446953">
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/safeGet.js" timestamp="1452041118629">
         <mark key="'" line="58" column="4" />
         <mark key="[" line="58" column="0" />
@@ -419,6 +448,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/InterestSelectionController.js" timestamp="1453769509559">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/styles/ContentCenterArticleView.less" timestamp="1450316578261">
         <mark key="'" line="5" column="17" />
@@ -602,28 +637,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGZpbmRNb250aChtb250aFllYXIpIHsKICAgICAgCiAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>(</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>_.find</text>
       </register>
-      <register name="5" type="4">
-        <text>'</text>
-      </register>
-      <register name="6" type="4">
-        <text>'</text>
-      </register>
       <register name="7" type="4">
-        <text>summaryStartDateMoment</text>
+        <text>'</text>
       </register>
       <register name="8" type="4">
-        <text>MMM</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bW9udGgueWVhciA9PT0g</text>
+        <text>summaryStartDateMoment</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
