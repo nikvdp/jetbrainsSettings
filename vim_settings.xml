@@ -24,8 +24,8 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454369934235">
-        <mark key="'" line="1317" column="15" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454372508447">
+        <mark key="'" line="863" column="36" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -276,6 +276,13 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" timestamp="1454373521249">
+        <mark key="'" line="403" column="65" />
+        <mark key="[" line="427" column="78" />
+        <mark key="]" line="428" column="7" />
+        <mark key="^" line="428" column="7" />
+        <mark key="." line="428" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/DateQuestionView.html" timestamp="1454114052492">
         <mark key="'" line="2" column="24" />
         <mark key="[" line="48" column="23" />
@@ -462,10 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
-      <jump line="5" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" />
       <jump line="13" column="50" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
       <jump line="47" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="42" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
@@ -562,13 +565,17 @@
       <jump line="365" column="55" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="1317" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="1241" column="55" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="863" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="79" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
+      <jump line="430" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
+      <jump line="403" column="65" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIE9uYm9hcmRpbmcuY29sbGVjdEFuc3dlcnMgPSBmdW5jdGlvbihhbnN3ZXIpIHsKICAgICAgCiAgICB9Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>strict</text>
+        <text>'</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -583,40 +590,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>strict</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>strict</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChzY29wZS51bml0ID09PSAnbGJzJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAqIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0gZWxzZSBpZiAoc2NvcGUudW5pdCA9PT0gJ2tnJykgewogICAgICAgICAgICBzY29wZS53ZWlnaHQgPSBNYXRoLmZsb29yKHNjb3BlLndlaWdodCAvIHBvdW5kc0luQUtnKTsKICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>'YYYY-MM-DD'</text>
       </register>
       <register name="1" type="4">
-        <text>strict</text>
+        <text>'</text>
       </register>
       <register name="2" type="4">
-        <text>strict</text>
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>summaryStartDateMoment</text>
       </register>
       <register name="4" type="4">
-        <text>]</text>
+        <text>MMM</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">bW9udGgueWVhciA9PT0g</text>
       </register>
       <register name="6" type="4">
-        <text>[&quot;</text>
+        <text>YYYY</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      <register name="7" type="4">
+        <text>strict</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICgpIHsK</text>
+      <register name="8" type="4">
+        <text>strict</text>
       </register>
       <register name="9" type="4">
-        <text>$rootScope.onboarding</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
