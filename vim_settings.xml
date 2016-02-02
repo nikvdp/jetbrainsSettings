@@ -24,12 +24,13 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454448673780">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454449757427">
         <mark key="a" line="282" column="103" />
-        <mark key="'" line="800" column="46" />
-        <mark key="[" line="793" column="0" />
-        <mark key="^" line="800" column="109" />
-        <mark key="." line="793" column="0" />
+        <mark key="'" line="803" column="22" />
+        <mark key="[" line="293" column="41" />
+        <mark key="]" line="293" column="56" />
+        <mark key="^" line="293" column="56" />
+        <mark key="." line="293" column="56" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterArticleView.html" timestamp="1453162333605">
         <mark key="'" line="15" column="13" />
@@ -508,22 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" />
-      <jump line="42" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/challenges/JFChallenge.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/challenges/JFChallenge.js" />
-      <jump line="8" column="1" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/challenges/JFChallenges.js" />
-      <jump line="5" column="27" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/challenges/JFChallenges.js" />
-      <jump line="12" column="13" filename="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUserSettings.js" />
-      <jump line="523" column="52" filename="$USER_HOME$/Code/work/jiff/jiffjs/jspm_packages/github/es-shims/es6-shim@0.34.2/es6-shim.js" />
-      <jump line="42" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
-      <jump line="43" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
-      <jump line="31" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="14" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
@@ -573,17 +558,12 @@
       <jump line="79" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
       <jump line="430" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
       <jump line="403" column="65" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
-      <jump line="281" column="68" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="282" column="54" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="288" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="293" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="567" column="50" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="701" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="707" column="73" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="793" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="796" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="797" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="804" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="1223" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="1228" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="44" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
@@ -607,14 +587,35 @@
       <jump line="511" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="512" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="514" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="800" column="46" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="281" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="282" column="63" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="876" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="877" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="878" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="969" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="239" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="240" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="287" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="800" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="830" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="804" column="52" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="962" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="1003" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="1166" column="68" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="46" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="288" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="297" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="293" column="56" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="292" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="298" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="803" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIE9uYm9hcmRpbmcuY29sbGVjdEFuc3dlcnMgPSBmdW5jdGlvbihhbnN3ZXIpIHsKICAgICAgCiAgICB9Owo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmNvbmZpZy5jdXJyZW50U3RhcnREYXRlID0gXygkc2NvcGUucHJvZ3JhbXNMaXN0KS5sYXN0KCkuc3RhcnREYXRlOwogICAgICAkc2NvcGUuY29uZmlnLmN1cnJlbnRNb21lbnQgPSBtb21lbnQoJHNjb3BlLmNvbmZpZy5jdXJyZW50U3RhcnREYXRlLCAnWVlZWS1NTS1ERCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>currentMonth</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -629,49 +630,49 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>currentMonth</text>
       </register>
       <register name="/" type="4">
-        <text>13</text>
+        <text>partnerCurrentMonthData.*=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmNvbmZpZy5jdXJyZW50U3RhcnREYXRlID0gXygkc2NvcGUucHJvZ3JhbXNMaXN0KS5sYXN0KCkuc3RhcnREYXRlOwogICAgICAgICAgICAkc2NvcGUuY29uZmlnLmN1cnJlbnRNb21lbnQgPSBtb21lbnQoJHNjb3BlLmNvbmZpZy5jdXJyZW50U3RhcnREYXRlLCAnWVlZWS1NTS1ERCcpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmNvbmZpZy5jdXJyZW50U3RhcnREYXRlID0gXygkc2NvcGUucHJvZ3JhbXNMaXN0KS5sYXN0KCkuc3RhcnREYXRlOwogICAgICAkc2NvcGUuY29uZmlnLmN1cnJlbnRNb21lbnQgPSBtb21lbnQoJHNjb3BlLmNvbmZpZy5jdXJyZW50U3RhcnREYXRlLCAnWVlZWS1NTS1ERCcpOwo=</text>
+      <register name="1" type="4">
+        <text>currentMonth</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
-      </register>
-      <register name="3" type="4">
-        <text>startDate</text>
-      </register>
-      <register name="4" type="4">
-        <text>last().</text>
-      </register>
-      <register name="5" type="4">
-        <text>programsList).</text>
-      </register>
-      <register name="6" type="4">
-        <text>_($scope.</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">JHNjb3BlLmNvbmZpZy5jdXJyZW50TW9udGgg</text>
-      </register>
-      <register name="8" type="4">
         <text>month</text>
       </register>
+      <register name="3" type="4">
+        <text>currentMonth</text>
+      </register>
+      <register name="4" type="4">
+        <text>month</text>
+      </register>
+      <register name="5" type="4">
+        <text>currentMonth</text>
+      </register>
+      <register name="6" type="4">
+        <text>month</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgJHNjb3BlLmNvbmZpZy5jdXJyZW50U3RhcnREYXRlID0gXygkc2NvcGUucHJvZ3JhbXNMaXN0KS5sYXN0KCkuc3RhcnREYXRlOwogICAgICAkc2NvcGUuY29uZmlnLmN1cnJlbnRNb21lbnQgPSBtb21lbnQoJHNjb3BlLmNvbmZpZy5jdXJyZW50U3RhcnREYXRlLCAnWVlZWS1NTS1ERCcpOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>,</text>
+      </register>
       <register name="9" type="4">
-        <text>moment({month: $scope.config.currentMonthNumber})</text>
+        <text>startDate</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>13</last-search>
+      <last-search>partnerCurrentMonthData.*=</last-search>
       <last-offset />
-      <last-pattern>13</last-pattern>
+      <last-pattern>partnerCurrentMonthData.*=</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>scope.weight</last-substitute>
       <last-dir>1</last-dir>
@@ -679,10 +680,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this</entry>
-        <entry encoding="base64">XDxNb2RlbENvbGxlY3Rpb25UeXBlXD4=</entry>
-        <entry>safeget</entry>
-        <entry>Regexp.prototype</entry>
         <entry>n</entry>
         <entry encoding="base64">XDxuZXh0U2xpZGVcPg==</entry>
         <entry encoding="base64">XDxxdWVzdGlvblw+</entry>
@@ -699,6 +696,10 @@
         <entry encoding="base64">XDxjdXJyZW50QWN0dWFsTW9udGhcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50TW9udGhOdW1iZXJcPg==</entry>
         <entry>13</entry>
+        <entry encoding="base64">XDxjdXJyZW50U3RhcnREYXRlXD4=</entry>
+        <entry encoding="base64">XDxjdXJyZW50TW9udGhEYXRhXD4=</entry>
+        <entry>currentMonthData.*=</entry>
+        <entry>partnerCurrentMonthData.*=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
