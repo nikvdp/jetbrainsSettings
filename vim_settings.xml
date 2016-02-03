@@ -24,9 +24,12 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/InterestsServiceApi.js" timestamp="1454529833463">
-        <mark key="'" line="18" column="31" />
-        <mark key="[" line="20" column="5" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/InterestsServiceApi.js" timestamp="1454536548362">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454523875259">
         <mark key="'" line="804" column="0" />
@@ -555,7 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="863" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="79" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
       <jump line="430" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
       <jump line="403" column="65" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
@@ -655,13 +657,14 @@
       <jump line="182" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
       <jump line="364" column="0" filename="$USER_HOME$/Code/work/jiff/challenges-hybrid/src/states.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/challenges-hybrid/src/states.js" />
+      <jump line="9" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/InterestsServiceApi.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgc3RhcnREYXRlTW9tZW50ID0gbW9tZW50KHByb2dyYW0uc3RhcnREYXRlLCAnWVlZWS1NTS1ERCcpOwogICAgICAgIGlmICgkc2NvcGUuY29uZmlnLmN1cnJlbnRNb250aCA9PT0gJ092ZXJhbGwnKSB7CiAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIGlmIChzdGFydERhdGVNb21lbnQuZm9ybWF0KCdZWVlZTU0nKSA9PT0gJHNjb3BlLmNvbmZpZy5jdXJyZW50TW9tZW50LmZvcm1hdCgnWVlZWU1NJykpIHsKICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldFByb2R1Y3RzKCkgewogICAgICAKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -676,61 +679,60 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>function(StoreApi)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>product</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcm9kdWN0c1NlcnZpY2UsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldFByb2R1Y3RzKCkgewogICAgICAKICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>PROGRAMS</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBTdG9yZVNlcnZpY2UuZmV0Y2hQcm9kdWN0cygpLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpewogICAgICAgICAgICByZXR1cm4gcmVzcG9uc2U7CiAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldFByb2R1Y3RzKCkgewogICAgICAKICAgIH0K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBTdG9yZVNlcnZpY2UuZmV0Y2hQcm9kdWN0cygpLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpewogICAgICAgICAgICByZXR1cm4gcmVzcG9uc2U7CiAgICAgICAgICB9KTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICBmdW5jdGlvbihTdG9yZUFwaSkgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>function(StoreApi)</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>{
           return StoreService.fetchProducts().then(function(response){
             return response;
           });
         }</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>Api</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBQcm9kdWN0c1NlcnZpY2UuCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/,/,\r/g</text>
       </register>
     </registers>
     <search>
       <last-search>product</last-search>
       <last-offset />
-      <last-pattern>product</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>,\r</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50TW9udGhcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50QWN0dWFsTW9udGhcPg==</entry>
         <entry>13</entry>
         <entry encoding="base64">XDxjdXJyZW50U3RhcnREYXRlXD4=</entry>
@@ -750,9 +752,9 @@
         <entry encoding="base64">XDxnZXRJbnRlcmVzdHNGb3JVcmxcPg==</entry>
         <entry>interests</entry>
         <entry>product</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;/'/gc</entry>
         <entry encoding="base64">JzwsJz5zLyIvJ2c=</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvc2VsZi9n</entry>
@@ -772,6 +774,7 @@
         <entry encoding="base64">JzwsJz5zL3Njb3BlLndlaWdodC9pbnB1dC9n</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>w</entry>
+        <entry>s/,/,\r/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
