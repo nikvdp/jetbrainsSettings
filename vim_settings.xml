@@ -24,12 +24,12 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454452135644">
-        <mark key="'" line="528" column="41" />
-        <mark key="[" line="492" column="29" />
-        <mark key="]" line="492" column="77" />
-        <mark key="." line="492" column="77" />
-        <mark key="^" line="492" column="77" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454457070726">
+        <mark key="'" line="1008" column="24" />
+        <mark key="[" line="284" column="49" />
+        <mark key="]" line="284" column="88" />
+        <mark key="." line="284" column="49" />
+        <mark key="^" line="288" column="73" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterArticleView.html" timestamp="1453162333605">
         <mark key="'" line="15" column="13" />
@@ -507,13 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" />
-      <jump line="32" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
-      <jump line="10" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
-      <jump line="191" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="6" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
-      <jump line="136" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
-      <jump line="27" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="108" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
       <jump line="11" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainHomeCtrl.js" />
@@ -578,7 +571,6 @@
       <jump line="389" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="392" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="489" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="494" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="496" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="511" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="512" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
@@ -607,13 +599,21 @@
       <jump line="23" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="521" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="529" column="41" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="494" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="812" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="884" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="885" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="886" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="970" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="977" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="1011" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>moment(moment().format('YYYY-MM') + '-01', 'YYYY-MM-DD')</text>
       </register>
       <register name="&quot;" type="4">
-        <text>the current month</text>
+        <text>$scope.config.currentStartDate</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -628,49 +628,49 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>the current month</text>
+        <text>$scope.config.currentStartDate</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>currentStartDate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuY29uZmlnLmN1cnJlbnRNb21lbnQuYWRkKDEsICdtb250aCcpOwo=</text>
+      <register name="0" type="4">
+        <text>_($scope.programsList).last().startDate</text>
       </register>
       <register name="1" type="4">
-        <text>the current month</text>
+        <text>$scope.config.currentStartDate</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bW9udGgg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5jb25maWcuY3VycmVudFN0YXJ0RGF0ZSA9IDsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NldCB0aGUgbW9udGhOdW1iZXIgdG8gdGhlIG51bWJlciBvZiB0aGUgbGFzdCBhY3R1YWwgbW9udGguCiAgICAgICAgLy9hbmQgLTEgYmVjYXVzZSB3ZSBuZWVkIHRvIGRlY3JlbWVudCBpdCAoYXMgdGhlIHVzZXIgaXMgZ29pbmcgdG8gdGhlIGxlZnQpCg==</text>
+      <register name="3" type="4">
+        <text>$scope.config.currentStartDate</text>
       </register>
       <register name="4" type="4">
-        <text>moment(moment().format('YYYY-MM') + '-01', 'YYYY-MM-DD')</text>
+        <text>$scope.combinedList[slide].startDate</text>
       </register>
       <register name="5" type="4">
-        <text>moment(moment(new Date());</text>
+        <text>;</text>
       </register>
       <register name="6" type="4">
-        <text>null</text>
+        <text>;</text>
       </register>
-      <register name="7" type="4">
-        <text>.add(1, 'month');</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0RGF0ZTogJHNjb3BlLmNvbmZpZy5jdXJyZW50U3RhcnREYXRlCg==</text>
       </register>
       <register name="8" type="4">
-        <text>[]</text>
+        <text>currentStartDate</text>
       </register>
-      <register name="9" type="4">
-        <text>-= moment(</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5jb25maWcuY3VycmVudFN0YXJ0RGF0ZSA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50TW9udGhOdW1iZXJcPg==</last-search>
+      <last-search>currentStartDate</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>currentStartDate</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -678,8 +678,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scope.weight</entry>
-        <entry encoding="base64">XDxzZWdtZW50aW9cPg==</entry>
         <entry>segment</entry>
         <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
         <entry>splash</entry>
@@ -698,6 +696,8 @@
         <entry>currentMonthNumber</entry>
         <entry encoding="base64">XDxjdXJyZW50TW9udGhOdW1iZXJcPg==</entry>
         <entry>&quot;</entry>
+        <entry>currentMonthData</entry>
+        <entry>currentStartDate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
