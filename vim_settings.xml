@@ -24,8 +24,8 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454458534865">
-        <mark key="'" line="519" column="22" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454460823996">
+        <mark key="'" line="298" column="92" />
         <mark key="[" line="390" column="99" />
         <mark key="]" line="390" column="99" />
         <mark key="." line="390" column="99" />
@@ -552,8 +552,6 @@
       <jump line="1003" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="1166" column="68" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="46" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="297" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="298" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="803" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="292" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="299" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
@@ -607,6 +605,8 @@
       <jump line="491" column="57" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="500" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="519" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="297" column="110" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="298" column="92" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -631,7 +631,7 @@
         <text>.toDate()</text>
       </register>
       <register name="/" type="4">
-        <text>currentMoment</text>
+        <text encoding="base64">XDxjdXJyZW50TW9udGhEYXRhXD4=</text>
       </register>
       <register name="0" type="4">
         <text>_($scope.programsList).last().startDate</text>
@@ -668,9 +668,9 @@
       </register>
     </registers>
     <search>
-      <last-search>currentMoment</last-search>
+      <last-search encoding="base64">XDxjdXJyZW50TW9udGhEYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>currentMoment</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW50TW9udGhEYXRhXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -678,7 +678,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
         <entry>splash</entry>
         <entry>jenkins</entry>
         <entry>nsp:</entry>
@@ -690,7 +689,6 @@
         <entry>currentMonthData.*=</entry>
         <entry>partnerCurrentMonthData.*=</entry>
         <entry>setMonth</entry>
-        <entry encoding="base64">XDxjdXJyZW50TW9udGhEYXRhXD4=</entry>
         <entry>$scope.config.curentMonth</entry>
         <entry>currentMonthNumber</entry>
         <entry encoding="base64">XDxjdXJyZW50TW9udGhOdW1iZXJcPg==</entry>
@@ -698,6 +696,8 @@
         <entry>currentMonthData</entry>
         <entry>currentStartDate</entry>
         <entry>currentMoment</entry>
+        <entry encoding="base64">XDx0b3RhbHNcPg==</entry>
+        <entry encoding="base64">XDxjdXJyZW50TW9udGhEYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
