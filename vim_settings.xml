@@ -160,12 +160,6 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/StructuredResponseQuestionView.html" timestamp="1454115977113">
-        <mark key="[" line="9" column="54" />
-        <mark key="]" line="9" column="54" />
-        <mark key="^" line="9" column="54" />
-        <mark key="." line="9" column="54" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/QuestionView.html" timestamp="1453341027525">
         <mark key="'" line="3" column="5" />
         <mark key="[" line="8" column="7" />
@@ -268,12 +262,6 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/module.json" timestamp="1453750301420">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/module.json" timestamp="1453328409799">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="10" column="21" />
@@ -370,12 +358,6 @@
         <mark key="." line="15" column="38" />
         <mark key="^" line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/views/RewardsMainView.html" timestamp="1454098581757">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.less" timestamp="1453327512139">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="17" />
@@ -403,12 +385,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="56" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionInfoPageView.html" timestamp="1453504794538">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="9" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="7" column="9" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterVideoCtrl.js" timestamp="1450814691278">
         <mark key="'" line="15" column="19" />
@@ -479,6 +455,9 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/challenges-hybrid/src/states.js" timestamp="1454534706905">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" timestamp="1454529368357">
         <mark key="'" line="155" column="15" />
         <mark key="[" line="156" column="0" />
@@ -501,12 +480,6 @@
       <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/challenges/JFChallenge.js" timestamp="1453862653623">
         <mark key="'" line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/onboarding.md" timestamp="1453759410191">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="32" />
-        <mark key="^" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/accounts/JFUserSettings.js" timestamp="1453930947684">
         <mark key="'" line="12" column="13" />
       </file>
@@ -519,7 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1317" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="1241" column="55" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="863" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="79" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
@@ -619,6 +591,7 @@
       <jump line="151" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="155" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/services/QuestionProvider.js" />
       <jump line="182" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/challenges-hybrid/src/states.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -643,7 +616,7 @@
         <text>use this patt</text>
       </register>
       <register name="/" type="4">
-        <text>interests</text>
+        <text>product</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkc2NvcGUuY29uZmlnLmN1cnJlbnRNb250aCA9ICdPdmVyYWxsJzsK</text>
@@ -680,9 +653,9 @@
       </register>
     </registers>
     <search>
-      <last-search>interests</last-search>
+      <last-search>product</last-search>
       <last-offset />
-      <last-pattern>interests</last-pattern>
+      <last-pattern>product</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -690,7 +663,6 @@
     </search>
     <history>
       <history-search>
-        <entry>strict</entry>
         <entry encoding="base64">XDxjdXJyZW50TW9udGhcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50QWN0dWFsTW9udGhcPg==</entry>
         <entry>13</entry>
@@ -710,6 +682,7 @@
         <entry>inline</entry>
         <entry encoding="base64">XDxnZXRJbnRlcmVzdHNGb3JVcmxcPg==</entry>
         <entry>interests</entry>
+        <entry>product</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
