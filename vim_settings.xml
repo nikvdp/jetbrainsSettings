@@ -24,7 +24,7 @@
         <mark key="." line="160" column="35" />
         <mark key="^" line="160" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/InterestsServiceApi.js" timestamp="1454537669907">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/InterestsServiceApi.js" timestamp="1454539628782">
         <mark key="'" line="18" column="19" />
         <mark key="[" line="18" column="93" />
         <mark key="]" line="18" column="93" />
@@ -70,12 +70,12 @@
         <mark key="." line="15" column="66" />
         <mark key="^" line="15" column="66" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" timestamp="1454538107060">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="36" />
-        <mark key="^" line="30" column="5" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" timestamp="1454540410928">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1453845832436">
         <mark key="'" line="40" column="0" />
@@ -587,11 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="283" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="303" column="70" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="308" column="72" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/views/RewardsOrderCompleteView.html" />
       <jump line="75" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" />
       <jump line="1217" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="280" column="103" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
@@ -686,14 +681,19 @@
       <jump line="6" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
-      <jump line="13" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
+      <jump line="24" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
+      <jump line="13" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
+      <jump line="16" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
+      <jump line="8" column="44" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
+      <jump line="12" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgc3RhcnREYXRlTW9tZW50ID0gbW9tZW50KHByb2dyYW0uc3RhcnREYXRlLCAnWVlZWS1NTS1ERCcpOwogICAgICAgIGlmICgkc2NvcGUuY29uZmlnLmN1cnJlbnRNb250aCA9PT0gJ092ZXJhbGwnKSB7CiAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIGlmIChzdGFydERhdGVNb21lbnQuZm9ybWF0KCdZWVlZTU0nKSA9PT0gJHNjb3BlLmNvbmZpZy5jdXJyZW50TW9tZW50LmZvcm1hdCgnWVlZWU1NJykpIHsKICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>o</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -708,40 +708,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKYW5ndWxhcgogIC5tb2R1bGUoJ2ppZmYuSW5jZW50aXZlcy5Db21tb24nKQogIC5mYWN0b3J5KCdfJywgZnVuY3Rpb24gKCkgewoKICAgIHJldHVybiB3aW5kb3cuXzsKICB9KTsK</text>
+        <text encoding="base64">ICAgICAgdmFyIGxlZnRFc2NzID0gc3RyLmluZGV4T2YoJ1xceycpICE9PSAtMTsK</text>
       </register>
       <register name="1" type="4">
-        <text>_</text>
+        <text>o</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text>leafletInterpolater</text>
       </register>
-      <register name="3" type="4">
-        <text>)();</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>(</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYWtlSW50ZXJwb2xhdG9yCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN0ci5yZXBsYWNlKC9ceyAqKFtcd19dKykgKlx9L2csIGZ1bmN0aW9uIChzdHIsIGtleSkgewogICAgICAgIHZhciB2YWx1ZSA9IGRhdGFba2V5XTsKICAgICAgICBpZiAodmFsdWUgPT09IHVuZGVmaW5lZCkgewogICAgICAgICAgdmFsdWUgPSAnJzsKICAgICAgICB9IGVsc2UgaWYgKHR5cGVvZiB2YWx1ZSA9PT0gJ2Z1bmN0aW9uJykgewogICAgICAgICAgdmFsdWUgPSB2YWx1ZShkYXRhKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHZhbHVlOwogICAgICB9KTsK</text>
       </register>
       <register name="6" type="4">
-        <text>());</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>leftEscs</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHNpbXBsZSBzdHJpbmcgaW50ZXJwb2xhdGlvbiBiYXNlZCBvbiB1bmRlcnNjb3JlJ3MgXy50ZW1wbGF0ZQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IT09IC0xIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">dmFyIGxlZnRFc2NzID0gc3RyLmluZGV4T2YoJ1xceycpIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
