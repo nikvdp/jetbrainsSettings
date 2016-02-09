@@ -89,8 +89,8 @@
         <mark key="^" line="9" column="8" />
         <mark key="." line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1454982434716">
-        <mark key="'" line="1483" column="10" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1455053684800">
+        <mark key="'" line="241" column="15" />
         <mark key="[" line="813" column="74" />
         <mark key="]" line="814" column="11" />
         <mark key="." line="814" column="65" />
@@ -1119,12 +1119,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" timestamp="1454460163569">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" timestamp="1455053724813">
         <mark key="'" line="32" column="22" />
-        <mark key="[" line="176" column="35" />
-        <mark key="]" line="176" column="35" />
-        <mark key="^" line="176" column="35" />
-        <mark key="." line="176" column="35" />
+        <mark key="[" line="242" column="95" />
+        <mark key="]" line="242" column="104" />
+        <mark key="^" line="242" column="104" />
+        <mark key="." line="242" column="104" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageView.html" timestamp="1444002061393">
         <mark key="[" line="0" column="0" />
@@ -1177,9 +1177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="800" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="830" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="962" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="1003" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="1166" column="68" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
@@ -1277,6 +1274,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/tmp/middle/routes/common/constants.json" />
       <jump line="2" column="2" filename="$USER_HOME$/tmp/middle/routes/common/constants.json" />
       <jump line="3" column="2" filename="$USER_HOME$/tmp/middle/routes/common/constants.json" />
+      <jump line="47" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="240" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="241" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1301,7 +1301,7 @@
         <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>dev</text>
+        <text encoding="base64">XDxjdXJyZW50TW9udGhEYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXBwLnVzZShmdW5jdGlvbihlcnIsIHJlcSwgcmVzLCBuZXh0KSB7CiAgcmVzLnN0YXR1cyhlcnIuc3RhdHVzIHx8IDUwMCk7CiAgcmVzLnNlbmQoewogICAgbWVzc2FnZTogZXJyLm1lc3NhZ2UsCiAgICBlcnJvcjoge30KICB9KTsKfSk7Cg==</text>
@@ -1338,9 +1338,9 @@
       </register>
     </registers>
     <search>
-      <last-search>daysOnTrack</last-search>
+      <last-search encoding="base64">XDxjdXJyZW50TW9udGhEYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>dev</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW50TW9udGhEYXRhXD4=</last-pattern>
       <last-replace>prod</last-replace>
       <last-substitute>dev</last-substitute>
       <last-dir>1</last-dir>
@@ -1360,7 +1360,6 @@
         <entry>currentStartDate</entry>
         <entry>currentMoment</entry>
         <entry encoding="base64">XDx0b3RhbHNcPg==</entry>
-        <entry encoding="base64">XDxjdXJyZW50TW9udGhEYXRhXD4=</entry>
         <entry>inline</entry>
         <entry encoding="base64">XDxnZXRJbnRlcmVzdHNGb3JVcmxcPg==</entry>
         <entry>interests</entry>
@@ -1368,6 +1367,7 @@
         <entry>,</entry>
         <entry>daysOnTrack</entry>
         <entry>dev</entry>
+        <entry encoding="base64">XDxjdXJyZW50TW9udGhEYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
