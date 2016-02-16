@@ -472,10 +472,10 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/navbarDirective.html" timestamp="1455663213404">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/navbarDirective.html" timestamp="1455664743481">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="31" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterListView.html" timestamp="1452032475075">
@@ -1072,10 +1072,10 @@
         <mark key="." line="19751" column="0" />
         <mark key="^" line="19752" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/jiffViewDirective.js" timestamp="1455662874148">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/jiffViewDirective.js" timestamp="1455664749520">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
         <mark key="^" line="14" column="52" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/api/module.less" timestamp="1452292672008">
@@ -1247,7 +1247,7 @@
         <text encoding="base64">ICBqaWZmLWhlYWRlciB7CgogICAgaGVpZ2h0OiA0NXB4OwoKICAgIC5oZWFkZXItdGV4dCB7CiAgICAgIGZvbnQtc2l6ZTogMS4yNXJlbTsKICAgICAgdGV4dC1zaGFkb3c6IDFweCAxcHggMXB4IHJnYmEoMjU1LCAyNTUsIDI1NSwgLjMpOwogICAgICBib3R0b206IDEwcHg7CiAgICAgIGxlZnQ6IDUwcHg7CiAgICAgIHJpZ2h0OiA1MHB4OwogICAgICB3aWR0aDogYXV0bzsKICAgIH0KICB9CgogIGppZmYtY29udGVudCB7CiAgICBvdmVyZmxvdy15OiBhdXRvOwogICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjsKICB9CgogIC5zcGFjZXIgewogICAgaGVpZ2h0OiA3NXB4OwogICAgZGlzcGxheTogYmxvY2s7CiAgICBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsKICB9Cgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>NavBar:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1262,7 +1262,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>NavBar:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>How</text>
@@ -1271,35 +1271,35 @@
         <text encoding="base64">QGltcG9ydCAic3R5bGVzL25hdmJhckRpcmVjdGl2ZS5sZXNzIjsK</text>
       </register>
       <register name="1" type="4">
-        <text>NavBar:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="4">
+        <text>NavBar:</text>
+      </register>
+      <register name="4" type="4">
         <text>navbar</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICBqaWZmLWNvbnRlbnQgCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{
     overflow-y: auto;
     background-size: cover;
     top: 90px;
   }</text>
-      </register>
-      <register name="8" type="4">
-        <text>jiff-view</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
