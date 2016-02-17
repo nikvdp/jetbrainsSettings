@@ -802,9 +802,9 @@
         <mark key="." line="311" column="40" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" timestamp="1455669080079">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/api/JFInternalAPI.js" timestamp="1450487259851">
         <mark key="'" line="56" column="15" />
@@ -1019,12 +1019,12 @@
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1455663265672">
-        <mark key="'" line="59" column="5" />
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="33" />
-        <mark key="." line="1" column="33" />
-        <mark key="^" line="1" column="33" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1455670716805">
+        <mark key="'" line="61" column="5" />
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/duable/extension/config.json" timestamp="1399720501871">
         <mark key="[" line="1" column="24" />
@@ -1274,8 +1274,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICBqaWZmLWhlYWRlciB7CgogICAgaGVpZ2h0OiA0NXB4OwoKICAgIC5oZWFkZXItdGV4dCB7CiAgICAgIGZvbnQtc2l6ZTogMS4yNXJlbTsKICAgICAgdGV4dC1zaGFkb3c6IDFweCAxcHggMXB4IHJnYmEoMjU1LCAyNTUsIDI1NSwgLjMpOwogICAgICBib3R0b206IDEwcHg7CiAgICAgIGxlZnQ6IDUwcHg7CiAgICAgIHJpZ2h0OiA1MHB4OwogICAgICB3aWR0aDogYXV0bzsKICAgIH0KICB9CgogIGppZmYtY29udGVudCB7CiAgICBvdmVyZmxvdy15OiBhdXRvOwogICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjsKICB9CgogIC5zcGFjZXIgewogICAgaGVpZ2h0OiA3NXB4OwogICAgZGlzcGxheTogYmxvY2s7CiAgICBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsKICB9Cgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJqaWZmLkluY2VudGl2ZXMuQXBpcyIsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1290,7 +1290,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>help</text>
@@ -1298,32 +1298,32 @@
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAic3R5bGVzL25hdmJhckRpcmVjdGl2ZS5sZXNzIjsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJqaWZmLkluY2VudGl2ZXMuQXBpcyIsCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>'PAGETITLE'</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJqaWZmLkluY2VudGl2ZXMuQXBpcyIsCg==</text>
       </register>
       <register name="4" type="4">
-        <text>none</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>Apis</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>Apis</text>
+        <text>none</text>
       </register>
       <register name="7" type="4">
-        <text>Helpers</text>
+        <text>Apis</text>
       </register>
       <register name="8" type="4">
-        <text>::</text>
+        <text>Apis</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Helpers</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
