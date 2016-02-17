@@ -22,10 +22,10 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/styles/OnboardingQuestionPageView.less" timestamp="1455658752432">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/styles/OnboardingQuestionPageView.less" timestamp="1455749367069">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="26" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/middle/routes/challenges/index.js" timestamp="1455047587892">
         <mark key="[" line="2" column="0" />
@@ -503,11 +503,11 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/navbarDirective.html" timestamp="1455668645188">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-        <mark key="^" line="6" column="14" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/navbarDirective.html" timestamp="1455748883487">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterListView.html" timestamp="1452032475075">
         <mark key="'" line="0" column="0" />
@@ -614,12 +614,12 @@
         <mark key="^" line="4" column="95" />
         <mark key="." line="4" column="95" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/navbarDirective.js" timestamp="1455663244976">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/navbarDirective.js" timestamp="1455748823954">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="22" />
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="22" />
       </file>
       <file name="$USER_HOME$/tmp/betterworks/betterprogress/package.json" timestamp="1442793890584">
         <mark key="[" line="9" column="19" />
@@ -1069,12 +1069,12 @@
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1455670716805">
-        <mark key="'" line="61" column="5" />
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-        <mark key="^" line="3" column="9" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1455749134410">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
       <file name="$USER_HOME$/Dropbox/duable/extension/config.json" timestamp="1399720501871">
         <mark key="[" line="1" column="24" />
@@ -1234,9 +1234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
-      <jump line="8" column="44" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
-      <jump line="12" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
       <jump line="23" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
       <jump line="26" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
@@ -1334,13 +1331,16 @@
       <jump line="15" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/StructuredResponseQuestionView.less" />
       <jump line="9" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/StructuredResponseQuestionView.less" />
       <jump line="26" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/StructuredResponseQuestionView.less" />
+      <jump line="4" column="29" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
+      <jump line="59" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAuaW5wdXQtd3JhcHBlciB7CiAgICBib3JkZXI6IDFweCBzb2xpZCBAYm9yZGVyLWNvbG9yOwogICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsKICAgIG1hcmdpbjogNXB4IDIwcHg7CiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICBkaXNwbGF5OiBibG9jazsKCiAgICBkaXYgewogICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgICB9CgogICAgLmlucHV0ZGlzcGxheSwgaW5wdXQgewogICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICBwYWRkaW5nOiA1cHg7CiAgICAgIG1hcmdpbjogNXB4IDA7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkIEBib3JkZXItY29sb3I7CiAgICAgIGhlaWdodDogMmVtOwogICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgICAgIG92ZXJmbG93OiBoaWRkZW47CiAgICAgIGZvbnQ6IGJvbGQgMS4zZW0gSGVsdmV0aWNhOwogICAgfQoKICAgIC5pbnB1dGRpc3BsYXksIGlucHV0LmlubGluZSB7CiAgICAgIHdpZHRoOiAzZW07CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgIDxidXR0b24gY2xhc3M9Im5leHQtYnV0dG9uIGppZmYtYnV0dG9uLXByaW1hcnkiIG5nLWNsaWNrPSJPbmJvYXJkaW5nLm5leHRTbGlkZSgpIj5OZXh0PC9idXR0b24+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGFzc1JlcShyZXEpLmh0dHAuZ2V0Cg==</text>
+        <text encoding="base64">ICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1355,49 +1355,49 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>middleProxy(req)</text>
+        <text>!important</text>
       </register>
       <register name="/" type="4">
-        <text>help</text>
+        <text>transclude</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG5nLWNsYXNzPSJ7J2ltYWdlLWRpdmlkZXInOiAkaW5kZXggJSAyID09IDAsICdqaWZmLWJvcmRlci1wcmltYXJ5JzogJGluZGV4ICUgMiA9PSAwfSIK</text>
+        <text encoding="base64">ICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFzc1JlcShyZXEpLmh0dHAuZ2V0Cg==</text>
+        <text encoding="base64">ICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>middleProxy(req)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiBsaWdodGJsdWUgOyAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text>!important</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA5MCU7Cg==</text>
+      <register name="4" type="4">
+        <text>jiff-button-primary</text>
       </register>
       <register name="5" type="4">
-        <text>20px</text>
+        <text>button</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuZy10cmFuc2NsdWRlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAuaW5wdXRkaXNwbGF5IHsKICAgIGN1cnNvcjogdGV4dDsKICB9CgogIC5sYWJlbC10ZXh0IHsKICAgIGNvbG9yOiBkYXJrZ3JheTsKICB9Cgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">bmctdHJhbnNjbHVkZSA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAYmctY29sb3I6IHdoaXRlOwogIEBib3JkZXItY29sb3I6IGxpZ2h0Z3JheTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgQGJvcmRlci1jb2xvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>help</last-search>
+      <last-search>transclude</last-search>
       <last-offset />
-      <last-pattern>help</last-pattern>
+      <last-pattern>transclude</last-pattern>
       <last-replace>prod</last-replace>
       <last-substitute>dev</last-substitute>
       <last-dir>1</last-dir>
@@ -1405,7 +1405,6 @@
     </search>
     <history>
       <history-search>
-        <entry>currentMonthData</entry>
         <entry>currentStartDate</entry>
         <entry>currentMoment</entry>
         <entry encoding="base64">XDx0b3RhbHNcPg==</entry>
@@ -1425,6 +1424,7 @@
         <entry>how is</entry>
         <entry>How</entry>
         <entry>help</entry>
+        <entry>transclude</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
