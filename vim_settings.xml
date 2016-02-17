@@ -32,10 +32,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/ovia/views/index.html" timestamp="1455322737705">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="30" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/.tmp/index.html" timestamp="1449522711915">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -66,9 +62,6 @@
         <mark key="]" line="2" column="37" />
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/ovia/services/OviaViewModel.js" timestamp="1455322545958">
-        <mark key="'" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/jiffViewDirective.html" timestamp="1455661815764">
         <mark key="[" line="0" column="18" />
@@ -293,6 +286,12 @@
         <mark key="." line="43" column="18" />
         <mark key="^" line="43" column="18" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MultipleChoiceQuestionView.less" timestamp="1455671990699">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentApiAdapter.js" timestamp="1450817503648">
         <mark key="'" line="70" column="46" />
         <mark key="[" line="8" column="26" />
@@ -386,12 +385,12 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" timestamp="1454112503529">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="48" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="21" column="46" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" timestamp="1455672067632">
+        <mark key="'" line="23" column="15" />
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="36" />
+        <mark key="^" line="28" column="36" />
+        <mark key="." line="28" column="36" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/module.less" timestamp="1450759129819">
         <mark key="[" line="2" column="29" />
@@ -972,9 +971,6 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" timestamp="1455057594355">
-        <mark key="'" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/placepocket/angular-mobile-place-adder/src/modules/app/placepocket/searchController.js" timestamp="1435583421742">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="28" />
@@ -1045,9 +1041,6 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="57" column="60" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1455070779070">
-        <mark key="'" line="21" column="11" />
       </file>
       <file name="$USER_HOME$/tmp/townsqrd/src/js/app.js" timestamp="1443229365399">
         <mark key="[" line="5" column="33" />
@@ -1169,7 +1162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/InterestsServiceApi.js" />
       <jump line="30" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
       <jump line="32" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
       <jump line="6" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
@@ -1269,13 +1261,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/module.less" />
       <jump line="0" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/navbarDirective.less" />
       <jump line="15" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/navbarDirective.less" />
+      <jump line="27" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICBqaWZmLWhlYWRlciB7CgogICAgaGVpZ2h0OiA0NXB4OwoKICAgIC5oZWFkZXItdGV4dCB7CiAgICAgIGZvbnQtc2l6ZTogMS4yNXJlbTsKICAgICAgdGV4dC1zaGFkb3c6IDFweCAxcHggMXB4IHJnYmEoMjU1LCAyNTUsIDI1NSwgLjMpOwogICAgICBib3R0b206IDEwcHg7CiAgICAgIGxlZnQ6IDUwcHg7CiAgICAgIHJpZ2h0OiA1MHB4OwogICAgICB3aWR0aDogYXV0bzsKICAgIH0KICB9CgogIGppZmYtY29udGVudCB7CiAgICBvdmVyZmxvdy15OiBhdXRvOwogICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjsKICB9CgogIC5zcGFjZXIgewogICAgaGVpZ2h0OiA3NXB4OwogICAgZGlzcGxheTogYmxvY2s7CiAgICBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsKICB9Cgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1290,40 +1283,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>flex</text>
       </register>
       <register name="/" type="4">
         <text>help</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAic3R5bGVzL25hdmJhckRpcmVjdGl2ZS5sZXNzIjsK</text>
+      <register name="0" type="4">
+        <text>answer.image_url</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>'PAGETITLE'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC5kaXZpZGVyewo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJqaWZmLkluY2VudGl2ZXMuQXBpcyIsCg==</text>
+      <register name="3" type="4">
+        <text>flex</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZS1hbnN3ZXIK</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>image-answer</text>
       </register>
-      <register name="6" type="4">
-        <text>none</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Apis</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>Apis</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="9" type="4">
-        <text>Helpers</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
