@@ -49,11 +49,23 @@
         <mark key="." line="18" column="55" />
         <mark key="^" line="18" column="55" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/ProgramsHelper.js" timestamp="1455668854780">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/module.json" timestamp="1452293711793">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="7" column="25" />
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ProgramsApi.js" timestamp="1455668866205">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/ovia/services/OviaViewModel.js" timestamp="1455322545958">
         <mark key="'" line="18" column="0" />
@@ -472,11 +484,11 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/navbarDirective.html" timestamp="1455664743481">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="31" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/navbarDirective.html" timestamp="1455668645188">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterListView.html" timestamp="1452032475075">
         <mark key="'" line="0" column="0" />
@@ -544,6 +556,12 @@
         <mark key="^" line="57" column="38" />
         <mark key="." line="57" column="38" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/styles/directives.less" timestamp="1455669017712">
+        <mark key="[" line="109" column="28" />
+        <mark key="]" line="109" column="28" />
+        <mark key="." line="109" column="28" />
+        <mark key="^" line="90" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/WorkflowConfig.js" timestamp="1453759076426">
         <mark key="'" line="3" column="43" />
         <mark key="[" line="4" column="32" />
@@ -557,6 +575,12 @@
         <mark key="]" line="46" column="17" />
         <mark key="." line="46" column="17" />
         <mark key="^" line="46" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/SourcesApi.js" timestamp="1455668870356">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/OnboardingApi.js" timestamp="1454529427269">
         <mark key="'" line="182" column="18" />
@@ -691,7 +715,6 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/OnboardingApi.js" timestamp="1455311102847" />
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/js/tab-add-place.html" timestamp="1436451501185">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="8" />
@@ -777,6 +800,11 @@
         <mark key="]" line="311" column="40" />
         <mark key="^" line="311" column="40" />
         <mark key="." line="311" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/module.json" timestamp="1455669080079">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/api/JFInternalAPI.js" timestamp="1450487259851">
         <mark key="'" line="56" column="15" />
@@ -1246,8 +1274,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICBqaWZmLWhlYWRlciB7CgogICAgaGVpZ2h0OiA0NXB4OwoKICAgIC5oZWFkZXItdGV4dCB7CiAgICAgIGZvbnQtc2l6ZTogMS4yNXJlbTsKICAgICAgdGV4dC1zaGFkb3c6IDFweCAxcHggMXB4IHJnYmEoMjU1LCAyNTUsIDI1NSwgLjMpOwogICAgICBib3R0b206IDEwcHg7CiAgICAgIGxlZnQ6IDUwcHg7CiAgICAgIHJpZ2h0OiA1MHB4OwogICAgICB3aWR0aDogYXV0bzsKICAgIH0KICB9CgogIGppZmYtY29udGVudCB7CiAgICBvdmVyZmxvdy15OiBhdXRvOwogICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjsKICB9CgogIC5zcGFjZXIgewogICAgaGVpZ2h0OiA3NXB4OwogICAgZGlzcGxheTogYmxvY2s7CiAgICBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsKICB9Cgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJqaWZmLkluY2VudGl2ZXMuQXBpcyIsCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1262,53 +1290,49 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>How</text>
+        <text>help</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAic3R5bGVzL25hdmJhckRpcmVjdGl2ZS5sZXNzIjsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJqaWZmLkluY2VudGl2ZXMuQXBpcyIsCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>NavBar:</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>navbar</text>
+        <text>none</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>Apis</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>Apis</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>Helpers</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBqaWZmLWNvbnRlbnQgCg==</text>
+      <register name="8" type="4">
+        <text>::</text>
       </register>
       <register name="9" type="4">
-        <text>{
-    overflow-y: auto;
-    background-size: cover;
-    top: 90px;
-  }</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>How</last-search>
+      <last-search>help</last-search>
       <last-offset />
-      <last-pattern>How</last-pattern>
+      <last-pattern>help</last-pattern>
       <last-replace>prod</last-replace>
       <last-substitute>dev</last-substitute>
       <last-dir>1</last-dir>
@@ -1316,7 +1340,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>currentMonthData</entry>
         <entry>currentStartDate</entry>
         <entry>currentMoment</entry>
@@ -1336,6 +1359,7 @@
         <entry>MMM</entry>
         <entry>how is</entry>
         <entry>How</entry>
+        <entry>help</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
