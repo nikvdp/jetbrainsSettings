@@ -53,11 +53,11 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/jiffViewDirective.html" timestamp="1455661815764">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/views/jiffViewDirective.html" timestamp="1456353278157">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/JiffContentCenterListView.js" timestamp="1449794435398">
         <mark key="[" line="3" column="15" />
@@ -918,12 +918,12 @@
         <mark key="^" line="25" column="5" />
         <mark key="." line="25" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/jiffViewDirective.less" timestamp="1455932364908">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-        <mark key="^" line="0" column="32" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/jiffViewDirective.less" timestamp="1456353290165">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Code/coding-challenges/clover-health/app/states/showImage/showImageController.js" timestamp="1444002285161">
         <mark key="[" line="2" column="1" />
@@ -944,12 +944,11 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" timestamp="1456348385927">
-        <mark key="'" line="40" column="6" />
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="18" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" timestamp="1456353502406">
+        <mark key="'" line="4" column="11" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/js/SavedPlaces/tab-saved-places.html" timestamp="1436515801900">
         <mark key="[" line="15" column="35" />
@@ -1198,7 +1197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
       <jump line="218" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
       <jump line="21" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="744" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
@@ -1256,7 +1254,6 @@
       <jump line="36" column="41" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="43" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="45" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
-      <jump line="4" column="64" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="40" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="55" column="27" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="25" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
@@ -1298,13 +1295,15 @@
       <jump line="54" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="38" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
+      <jump line="10" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/jiffViewDirective.less" />
+      <jump line="4" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIGZpbmlzaFdvcmtmbG93SGFuZGxlcigpIHsKICAgICAgaWYgKFN0YXRlU3Rhc2guaGFzKCkpIHsKICAgICAgICBjb25zb2xlLmxvZygnd29ya2Zsb3cgZmluaXNoZWQnKTsKICAgICAgICBTdGF0ZVN0YXNoLmFwcGx5KCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgJHN0YXRlLmdvKCdkYXNoYm9hcmQnLCBudWxsLCBvcHRzKTsKICAgICAgfQogICAgfQoKICAgIHZhciBkZWJvdW5jZWRGaW5pc2hIYW5kbGVyID0gXy5kZWJvdW5jZShmaW5pc2hXb3JrZmxvd0hhbmRsZXIsIDUwMCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJ5aW5nIHRvIHRvYXN0Jyk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1322,46 +1321,46 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>Jiff\.</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="4">
         <text>window.plugins.toast.showShortCenter(msg);</text>
       </register>
-      <register name="1" type="4">
-        <text>f</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJ5aW5nIHRvIHRvYXN0Jyk7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>// it's encoded so that we can parse it properly</text>
+        <text>f</text>
       </register>
       <register name="3" type="4">
-        <text>// the link get's passed to us with URL already decoded, so make sure</text>
+        <text>// it's encoded so that we can parse it properly</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>// the link get's passed to us with URL already decoded, so make sure</text>
       </register>
       <register name="5" type="4">
-        <text>event.detail</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>url</text>
-      </register>
-      <register name="7" type="4">
         <text>event.detail</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXJsID0gZW5jb2RlVVJJKHVybCk7IC8vIHRoZSBsaW5rIGdldCdzIHBhc3Qgd2l0aCBVUkwgYWxyZWFkeSBkZWNvZGVkLCBzbyBtYWtlIHN1cmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGl0J3MgZW5jb2RlZCBzbyB0aGF0IHdlIGNhbiBwYXJzZSBpdCBwcm9wZXJseQo=</text>
+      <register name="7" type="4">
+        <text>url</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHJvcGVybHkg</text>
+      <register name="8" type="4">
+        <text>event.detail</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdXJsID0gZW5jb2RlVVJJKHVybCk7IC8vIHRoZSBsaW5rIGdldCdzIHBhc3Qgd2l0aCBVUkwgYWxyZWFkeSBkZWNvZGVkLCBzbyBtYWtlIHN1cmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGl0J3MgZW5jb2RlZCBzbyB0aGF0IHdlIGNhbiBwYXJzZSBpdCBwcm9wZXJseQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Jiff\.</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>Jiff\.</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1369,7 +1368,6 @@
     </search>
     <history>
       <history-search>
-        <entry>accounts.then</entry>
         <entry encoding="base64">XDxtb2RhbFw+</entry>
         <entry encoding="base64">XDxpdGVtc1w+</entry>
         <entry>ctrl.items</entry>
@@ -1389,6 +1387,7 @@
         <entry>Jiff.ident</entry>
         <entry>Jiff</entry>
         <entry>Jiff\.</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
