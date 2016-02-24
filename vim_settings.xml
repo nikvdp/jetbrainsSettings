@@ -944,6 +944,13 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" timestamp="1456348385927">
+        <mark key="'" line="40" column="6" />
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+      </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/js/SavedPlaces/tab-saved-places.html" timestamp="1436515801900">
         <mark key="[" line="15" column="35" />
         <mark key="]" line="15" column="42" />
@@ -1191,9 +1198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
-      <jump line="226" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
-      <jump line="222" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
       <jump line="227" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
       <jump line="218" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
       <jump line="21" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
@@ -1291,13 +1295,16 @@
       <jump line="23" column="73" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="49" column="47" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="21" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
+      <jump line="54" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
+      <jump line="38" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIGZpbmlzaFdvcmtmbG93SGFuZGxlcigpIHsKICAgICAgaWYgKFN0YXRlU3Rhc2guaGFzKCkpIHsKICAgICAgICBjb25zb2xlLmxvZygnd29ya2Zsb3cgZmluaXNoZWQnKTsKICAgICAgICBTdGF0ZVN0YXNoLmFwcGx5KCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgJHN0YXRlLmdvKCdkYXNoYm9hcmQnLCBudWxsLCBvcHRzKTsKICAgICAgfQogICAgfQoKICAgIHZhciBkZWJvdW5jZWRGaW5pc2hIYW5kbGVyID0gXy5kZWJvdW5jZShmaW5pc2hXb3JrZmxvd0hhbmRsZXIsIDUwMCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>window.plugins.toast.showShortCenter(msg);</text>
+        <text>f</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1312,7 +1319,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>stored</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>Jiff\.</text>
@@ -1321,31 +1328,31 @@
         <text>window.plugins.toast.showShortCenter(msg);</text>
       </register>
       <register name="1" type="4">
-        <text>stored</text>
+        <text>f</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text>// it's encoded so that we can parse it properly</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>// the link get's passed to us with URL already decoded, so make sure</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">biA=</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">dHJpZ2dlclR5cGUgd2lsbCBiZSBzdG9yZWQg</text>
+        <text>event.detail</text>
       </register>
       <register name="6" type="4">
-        <text>store</text>
+        <text>url</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>event.detail</text>
       </register>
-      <register name="8" type="4">
-        <text>parse</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdXJsID0gZW5jb2RlVVJJKHVybCk7IC8vIHRoZSBsaW5rIGdldCdzIHBhc3Qgd2l0aCBVUkwgYWxyZWFkeSBkZWNvZGVkLCBzbyBtYWtlIHN1cmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGl0J3MgZW5jb2RlZCBzbyB0aGF0IHdlIGNhbiBwYXJzZSBpdCBwcm9wZXJseQo=</text>
       </register>
       <register name="9" type="4">
-        <text>toast</text>
+        <text encoding="base64">cHJvcGVybHkg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
