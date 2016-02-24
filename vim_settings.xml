@@ -1018,9 +1018,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" timestamp="1456338431688">
-        <mark key="'" line="55" column="27" />
-        <mark key="[" line="39" column="28" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" timestamp="1456339064039">
+        <mark key="'" line="25" column="12" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="41" column="42" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/js/SavedPlaces/tab-saved-places.html" timestamp="1436515801900">
         <mark key="[" line="15" column="35" />
@@ -1274,8 +1277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
-      <jump line="82" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" />
       <jump line="180" column="105" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="207" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="177" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
@@ -1374,13 +1375,15 @@
       <jump line="4" column="64" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="40" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="55" column="27" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
+      <jump line="49" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
+      <jump line="25" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIGZpbmlzaFdvcmtmbG93SGFuZGxlcigpIHsKICAgICAgaWYgKFN0YXRlU3Rhc2guaGFzKCkpIHsKICAgICAgICBjb25zb2xlLmxvZygnd29ya2Zsb3cgZmluaXNoZWQnKTsKICAgICAgICBTdGF0ZVN0YXNoLmFwcGx5KCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgJHN0YXRlLmdvKCdkYXNoYm9hcmQnLCBudWxsLCBvcHRzKTsKICAgICAgfQogICAgfQoKICAgIHZhciBkZWJvdW5jZWRGaW5pc2hIYW5kbGVyID0gXy5kZWJvdW5jZShmaW5pc2hXb3JrZmxvd0hhbmRsZXIsIDUwMCk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKC8pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1395,7 +1398,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVwYXJhbSA9IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNcPg==</text>
@@ -1404,31 +1407,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlU3RhdGVMaW5rKG1hdGNoWzJdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKC8pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZGVwYXJhbSA9IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHBhcmFtcyA9IHF1ZXJ5U3RyaW5nVG9PYmplY3QodXJsKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>stateToVisit</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHF1ZXJ5U3RyaW5nVG9PYmplY3QodXJsKSkgewogICAgICAgIAogICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>handler</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGhhbmQK</text>
+      <register name="6" type="4">
+        <text>:</text>
       </register>
       <register name="7" type="4">
-        <text>status</text>
+        <text>querystring</text>
       </register>
-      <register name="8" type="4">
-        <text>match[2]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzdGFydCAhPT09IC0xIHx8IHJldHVybjsK</text>
       </register>
       <register name="9" type="4">
-        <text>match[2]</text>
+        <text>querystring.indexOf('?')</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
