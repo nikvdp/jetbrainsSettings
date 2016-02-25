@@ -394,6 +394,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1456357688525">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="27" column="111" />
+        <mark key="." line="27" column="111" />
+        <mark key="^" line="27" column="111" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" timestamp="1456283483824">
         <mark key="'" line="65" column="20" />
         <mark key="[" line="161" column="0" />
@@ -544,8 +550,8 @@
         <mark key="." line="109" column="28" />
         <mark key="^" line="90" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1456347166395">
-        <mark key="'" line="21" column="13" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1456357815986">
+        <mark key="'" line="176" column="53" />
         <mark key="[" line="178" column="53" />
         <mark key="]" line="178" column="93" />
         <mark key="^" line="178" column="93" />
@@ -1240,7 +1246,6 @@
       <jump line="16" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="33" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="127" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
-      <jump line="176" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="261" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="693" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="257" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
@@ -1326,6 +1331,7 @@
       <jump line="38" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="10" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/jiffViewDirective.less" />
       <jump line="4" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
+      <jump line="176" column="53" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
