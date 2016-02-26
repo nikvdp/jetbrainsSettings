@@ -398,6 +398,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1456514960112">
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="28" column="15" />
+        <mark key="^" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsMainCtrl.js" timestamp="1456283483824">
         <mark key="'" line="65" column="20" />
         <mark key="[" line="161" column="0" />
@@ -921,9 +927,12 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" timestamp="1456360515854">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" timestamp="1456514926710">
         <mark key="'" line="80" column="0" />
-        <mark key="^" line="22" column="40" />
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="13" />
+        <mark key="." line="24" column="7" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/SpecialOnboardingController1.js" timestamp="1453166570188">
         <mark key="[" line="3" column="15" />
@@ -970,8 +979,8 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" timestamp="1456353502406">
-        <mark key="'" line="4" column="11" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" timestamp="1456513734520">
+        <mark key="'" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/js/SavedPlaces/tab-saved-places.html" timestamp="1436515801900">
         <mark key="[" line="15" column="35" />
@@ -1040,10 +1049,6 @@
         <mark key="]" line="6" column="24" />
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" timestamp="1456361513566">
-        <mark key="a" line="112" column="40" />
-        <mark key="'" line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/angular-mobile-place-adder/src/modules/app/placepocket/locationProviders/FoursquareLocationProvider.js" timestamp="1435742166064">
         <mark key="[" line="138" column="54" />
@@ -1230,7 +1235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="694" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="263" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="158" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
@@ -1330,13 +1334,14 @@
       <jump line="123" column="44" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
       <jump line="102" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
       <jump line="98" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmIChjdHJsLmNvcmRvdmEpIHsKICAgICAgJHdpbmRvdy5uYXZpZ2F0b3Iuc3BsYXNoc2NyZWVuLmhpZGUoKTsKICAgIH0KCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>render</text>
+        <text encoding="base64">bmctY3NwIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1351,7 +1356,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>render</text>
+        <text encoding="base64">bmctY3NwIA==</text>
       </register>
       <register name="/" type="4">
         <text>'dashboard'</text>
@@ -1360,31 +1365,31 @@
         <text encoding="base64">ICAgICAgaWYgKHRvU3RhdGUubmFtZSAhPT0gJ2F1dGgnICYmCiAgICAgICAgdG9TdGF0ZS5uYW1lICE9PSAnbG9naW4nICYmCiAgICAgICAgdG9TdGF0ZS5uYW1lICE9PSAncmVnaXN0ZXInICYmCg==</text>
       </register>
       <register name="1" type="4">
-        <text>render</text>
+        <text encoding="base64">bmctY3NwIA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>render</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
         <text>actually</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgLy8gU2V0IEJyZWFkY3J1bWJzCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoY3RybC5jb3Jkb3ZhKSB7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>toState</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
