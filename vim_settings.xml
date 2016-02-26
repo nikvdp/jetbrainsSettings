@@ -587,6 +587,11 @@
         <mark key="^" line="57" column="38" />
         <mark key="." line="57" column="38" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/styles/EventsList.less" timestamp="1456526192393">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/styles/directives.less" timestamp="1455669017712">
         <mark key="[" line="109" column="28" />
         <mark key="]" line="109" column="28" />
@@ -794,6 +799,12 @@
         <mark key="]" line="16" column="44" />
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/styles/EventsDetails.less" timestamp="1456525398159">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/Code/work/placepocket/ionic-pocket/src/index.html" timestamp="1436436438497">
         <mark key="[" line="23" column="16" />
@@ -1425,7 +1436,7 @@
         <text encoding="base64">ICAgIGlmIChjdHJsLmNvcmRvdmEpIHsKICAgICAgJHdpbmRvdy5uYXZpZ2F0b3Iuc3BsYXNoc2NyZWVuLmhpZGUoKTsKICAgIH0KCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd0cnlpbmcgdG8gaGlkZSBzcGxhc2hzY3JlZW4nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1440,7 +1451,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmctY3NwIA==</text>
+        <text>inherit</text>
       </register>
       <register name="/" type="4">
         <text>'dashboard'</text>
@@ -1449,31 +1460,31 @@
         <text encoding="base64">ICAgICAgaWYgKHRvU3RhdGUubmFtZSAhPT0gJ2F1dGgnICYmCiAgICAgICAgdG9TdGF0ZS5uYW1lICE9PSAnbG9naW4nICYmCiAgICAgICAgdG9TdGF0ZS5uYW1lICE9PSAncmVnaXN0ZXInICYmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd0cnlpbmcgdG8gaGlkZSBzcGxhc2hzY3JlZW4nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0dGluZyBsb2FkY29tcGxldGUnKTsK</text>
+      <register name="2" type="4">
+        <text>inherit</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgd2lkdGg6IDEwMCU7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd0cnlpbmcgdG8gaGlkZSBzcGxhc2hzY3JlZW4nKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0dGluZyBsb2FkY29tcGxldGUnKTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ01vdmVkIHRvIHN0YXRlOiAnLCB0b1N0YXRlLm5hbWUpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">bmctY3NwIA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>render</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="4">
-        <text>actually</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gU2V0IEJyZWFkY3J1bWJzCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
