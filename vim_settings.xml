@@ -89,6 +89,11 @@
         <mark key="]" line="181" column="0" />
         <mark key="." line="181" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" timestamp="1456783109952">
+        <mark key="[" line="56" column="24" />
+        <mark key="]" line="56" column="24" />
+        <mark key="." line="56" column="24" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/InterestsServiceApi.js" timestamp="1454979995933">
         <mark key="[" line="18" column="52" />
         <mark key="]" line="18" column="54" />
@@ -216,6 +221,11 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/ovia/styles/common.less" timestamp="1455931958570">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListViewCtrl.js" timestamp="1450137970128">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="35" column="54" />
@@ -323,6 +333,11 @@
         <mark key="]" line="4" column="25" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" timestamp="1456185258221">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
       </file>
       <file name="$USER_HOME$/Dropbox/klinify/klinify_website/t-and-c.php" timestamp="1410428329603">
         <mark key="[" line="113" column="28" />
@@ -970,7 +985,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" timestamp="1456514926710">
-        <mark key="'" line="80" column="0" />
+        <mark key="'" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/challenges-hybrid/src/components/store/controllers/StoreProductListCtrl.js" timestamp="1454535007575">
         <mark key="[" line="12" column="0" />
@@ -1390,7 +1405,7 @@
         <text encoding="base64">ZnVuY3Rpb24gaW50ZXJwb2xhdGUoc3RyLCBkYXRhKSB7CiAgICAgICAgaWYgKGRhdGEgIT09IG51bGwgJiYgZGF0YSAhPT0gT2JqZWN0KGRhdGEpKSB7CiAgICAgICAgICByZXR1cm4gJyc7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gc3RyLnJlcGxhY2UoL1x7KFtcc1xTXSs/KVx9L2csIGZ1bmN0aW9uICgkMCwgJDEpIHsKICAgICAgICAgIHJldHVybiB0eXBlb2YgZGF0YVskMV0gIT09ICd1bmRlZmluZWQnID8gZGF0YVskMV0gOiAkMDsKICAgICAgICB9KTsKICAgICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>interpolate</text>
+        <text>'killnode',</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1405,7 +1420,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>interpolate</text>
+        <text>'killnode',</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJpbmdIZWxwZXJcPg==</text>
@@ -1414,7 +1429,7 @@
         <text encoding="base64">ICAgICAgaWYgKHRvU3RhdGUubmFtZSAhPT0gJ2F1dGgnICYmCiAgICAgICAgdG9TdGF0ZS5uYW1lICE9PSAnbG9naW4nICYmCiAgICAgICAgdG9TdGF0ZS5uYW1lICE9PSAncmVnaXN0ZXInICYmCg==</text>
       </register>
       <register name="1" type="4">
-        <text>interpolate</text>
+        <text>'killnode',</text>
       </register>
       <register name="2" type="4">
         <text>interpolate</text>
@@ -1426,19 +1441,19 @@
         <text>interpolate</text>
       </register>
       <register name="5" type="4">
+        <text>interpolate</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ZnVuY3Rpb24gaW50ZXJwb2xhdGUoc3RyLCBkYXRhKSB7CiAgICAgICAgaWYgKGRhdGEgIT09IG51bGwgJiYgZGF0YSAhPT0gT2JqZWN0KGRhdGEpKSB7CiAgICAgICAgICByZXR1cm4gJyc7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gc3RyLnJlcGxhY2UoL1x7KFtcc1xTXSs/KVx9L2csIGZ1bmN0aW9uICgkMCwgJDEpIHsKICAgICAgICAgIHJldHVybiB0eXBlb2YgZGF0YVskMV0gIT09ICd1bmRlZmluZWQnID8gZGF0YVskMV0gOiAkMDsKICAgICAgICB9KTsKICAgICAgfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>return</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>'interpolate':</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICdpbnRlcnBvbGF0ZSc6ICBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
