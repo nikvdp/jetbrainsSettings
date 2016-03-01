@@ -556,6 +556,13 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/breadcrumbs.js" timestamp="1456865472637">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="35" />
+        <mark key="." line="36" column="35" />
+        <mark key="^" line="36" column="35" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/HeightQuestion.js" timestamp="1453340692142">
         <mark key="'" line="3" column="19" />
         <mark key="[" line="14" column="44" />
@@ -601,13 +608,13 @@
         <mark key="." line="109" column="28" />
         <mark key="^" line="90" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1456860414829">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1456865596354">
         <mark key="a" line="189" column="41" />
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="180" column="58" />
-        <mark key="]" line="180" column="58" />
-        <mark key="." line="180" column="58" />
-        <mark key="^" line="180" column="58" />
+        <mark key="[" line="184" column="37" />
+        <mark key="]" line="184" column="38" />
+        <mark key="." line="184" column="38" />
+        <mark key="^" line="184" column="36" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/WorkflowConfig.js" timestamp="1453759076426">
         <mark key="'" line="3" column="43" />
@@ -1355,7 +1362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/deviceManagement.html" />
       <jump line="115" column="52" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="116" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="89" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
@@ -1455,13 +1461,14 @@
       <jump line="176" column="41" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="20" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/breadcrumbs.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ZnVuY3Rpb24gaW50ZXJwb2xhdGUoc3RyLCBkYXRhKSB7CiAgICAgICAgaWYgKGRhdGEgIT09IG51bGwgJiYgZGF0YSAhPT0gT2JqZWN0KGRhdGEpKSB7CiAgICAgICAgICByZXR1cm4gJyc7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gc3RyLnJlcGxhY2UoL1x7KFtcc1xTXSs/KVx9L2csIGZ1bmN0aW9uICgkMCwgJDEpIHsKICAgICAgICAgIHJldHVybiB0eXBlb2YgZGF0YVskMV0gIT09ICd1bmRlZmluZWQnID8gZGF0YVskMV0gOiAkMDsKICAgICAgICB9KTsKICAgICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGhlIA==</text>
+        <text>crumbs[0];</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1476,7 +1483,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhlIA==</text>
+        <text>crumbs[0];</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmNvZGVVUklDb21wb25lbnRcPg==</text>
@@ -1485,31 +1492,31 @@
         <text>stateToReturnTo</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dGhlIA==</text>
+        <text>crumbs[0];</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgIHtr</text>
+        <text encoding="base64">IDogY3J1bWJzOw==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>count ?</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">dGhlIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBzdGF0ZVRvUmV0dXJuVG8gPSAkc3RhdGUuY3VycmVudC5uYW1lOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgIHtr</text>
       </register>
       <register name="7" type="4">
-        <text>Breadcrumbs.list(2)</text>
+        <text encoding="base64">ICAgICAgICAgIA==</text>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>$state.current.name,</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
