@@ -563,8 +563,8 @@
         <mark key="." line="14" column="49" />
         <mark key="^" line="14" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1456361267392">
-        <mark key="'" line="98" column="39" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1456856671544">
+        <mark key="'" line="139" column="5" />
         <mark key="[" line="271" column="0" />
         <mark key="]" line="271" column="0" />
         <mark key="." line="271" column="0" />
@@ -1012,7 +1012,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" timestamp="1456514926710">
-        <mark key="'" line="80" column="0" />
+        <mark key="'" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/challenges-hybrid/src/components/store/controllers/StoreProductListCtrl.js" timestamp="1454535007575">
         <mark key="[" line="12" column="0" />
@@ -1347,7 +1347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/deviceManagement.html" />
       <jump line="28" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="70" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="132" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
@@ -1447,6 +1446,7 @@
       <jump line="22" column="29" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
       <jump line="35" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
       <jump line="27" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/.gitignore" />
+      <jump line="139" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1471,7 +1471,7 @@
         <text encoding="base64">YWdyZWVtZW50LXRleHQg</text>
       </register>
       <register name="/" type="4">
-        <text>plug</text>
+        <text>license</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaWYgKHRvU3RhdGUubmFtZSAhPT0gJ2F1dGgnICYmCiAgICAgICAgdG9TdGF0ZS5uYW1lICE9PSAnbG9naW4nICYmCiAgICAgICAgdG9TdGF0ZS5uYW1lICE9PSAncmVnaXN0ZXInICYmCg==</text>
@@ -1508,9 +1508,9 @@
       </register>
     </registers>
     <search>
-      <last-search>plug</last-search>
+      <last-search>license</last-search>
       <last-offset />
-      <last-pattern>plug</last-pattern>
+      <last-pattern>license</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1518,7 +1518,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\.add</entry>
         <entry encoding="base64">XDxhZGREZXZpY2VDdHJsXD4=</entry>
         <entry>link</entry>
         <entry>\.link</entry>
@@ -1538,6 +1537,7 @@
         <entry encoding="base64">XDxpbnRlcnBvbGF0ZVw+</entry>
         <entry encoding="base64">XDxTdHJpbmdIZWxwZXJcPg==</entry>
         <entry>plug</entry>
+        <entry>license</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
