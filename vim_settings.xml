@@ -298,8 +298,8 @@
         <mark key="^" line="64" column="12" />
         <mark key="." line="64" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" timestamp="1457477013235">
-        <mark key="'" line="49" column="18" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" timestamp="1457477821940">
+        <mark key="'" line="71" column="23" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/skinifyUrlFilter.js" timestamp="1456777314775">
         <mark key="[" line="4" column="13" />
@@ -1225,10 +1225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
-      <jump line="45" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
-      <jump line="40" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
-      <jump line="55" column="27" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="25" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="242" column="51" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="94" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
@@ -1325,6 +1321,10 @@
       <jump line="68" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="49" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="115" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
+      <jump line="55" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
+      <jump line="56" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
+      <jump line="70" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
+      <jump line="71" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1349,7 +1349,7 @@
         <text>stateToReturnTo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyRGF0YVw+</text>
+        <text encoding="base64">XDxhdXRoXD4=</text>
       </register>
       <register name="0" type="4">
         <text>stateToReturnTo</text>
@@ -1386,9 +1386,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyRGF0YVw+</last-search>
+      <last-search encoding="base64">XDxhdXRoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyRGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRoXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1396,7 +1396,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Jiff.ident</entry>
         <entry>Jiff</entry>
         <entry>Jiff\.</entry>
         <entry>console.log</entry>
@@ -1416,6 +1415,7 @@
         <entry encoding="base64">XDxmaWVsZFRvTWF0Y2hcPg==</entry>
         <entry>wwid</entry>
         <entry encoding="base64">XDx1c2VyRGF0YVw+</entry>
+        <entry encoding="base64">XDxhdXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
