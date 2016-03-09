@@ -307,12 +307,12 @@
         <mark key="^" line="64" column="12" />
         <mark key="." line="64" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" timestamp="1457488500898">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" timestamp="1457547870310">
         <mark key="'" line="125" column="9" />
-        <mark key="[" line="90" column="69" />
-        <mark key="]" line="90" column="70" />
-        <mark key="." line="90" column="70" />
-        <mark key="^" line="90" column="70" />
+        <mark key="[" line="84" column="4" />
+        <mark key="]" line="84" column="7" />
+        <mark key="." line="84" column="7" />
+        <mark key="^" line="84" column="7" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/skinifyUrlFilter.js" timestamp="1456777314775">
         <mark key="[" line="4" column="13" />
@@ -1344,7 +1344,7 @@
         <text encoding="base64">ICAgICAgICAkc2NvcGUubWF0Y2hlZCA9ICRzY29wZS51c2VyRGF0YVt0eXBlXSA9PT0gZmllbGRUb01hdGNoOwoKICAgICAgICBpZiAoISRzY29wZS5tYXRjaGVkKSB7CiAgICAgICAgICAkc2NvcGUuZXJyb3JzLnB1c2goJ1RoZSBmaWVsZHMgZG8gbm90IG1hdGNoLicpOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$scope</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1359,7 +1359,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$scope</text>
       </register>
       <register name="/" type="4">
         <text>clearErrors</text>
@@ -1368,31 +1368,31 @@
         <text>requiredAttributes.length === 1</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$scope</text>
       </register>
       <register name="2" type="4">
-        <text>confirmationPresent = true;</text>
+        <text>birthday</text>
       </register>
-      <register name="3" type="4">
-        <text>will be stored in</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmICh2YWxpZCkgewogICAgICBjdHJsLmNsZWFyRXJyb3JzKCk7CiAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>required</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YWxpZCA9IGZhbHNlOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cmVxdWlyZWQg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdmFsaWQgPSBmYWxzZTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZmllbGQg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhciB2YWxpZCA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>from</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+      <register name="8" type="4">
+        <text>confirmationPresent = true;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtbwo=</text>
+      <register name="9" type="4">
+        <text>will be stored in</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
