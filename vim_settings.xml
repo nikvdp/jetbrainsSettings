@@ -22,12 +22,6 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/styles/OnboardingQuestionPageView.less" timestamp="1455932034791">
-        <mark key="'" line="13" column="2" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/ovia/views/index.html" timestamp="1455930836105" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/.tmp/index.html" timestamp="1449522711915">
         <mark key="[" line="29" column="0" />
@@ -140,11 +134,12 @@
         <mark key="." line="116" column="17" />
         <mark key="^" line="116" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/verify-modal.html" timestamp="1457488561577">
-        <mark key="'" line="7" column="16" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/verify-modal.html" timestamp="1457548957225">
+        <mark key="'" line="40" column="10" />
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="10" />
+        <mark key="^" line="25" column="53" />
+        <mark key="." line="28" column="10" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterLinkView.html" timestamp="1450811132220">
         <mark key="'" line="13" column="0" />
@@ -1238,7 +1233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/auth.js" />
       <jump line="52" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/auth.js" />
       <jump line="54" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/auth.js" />
       <jump line="63" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/auth.js" />
@@ -1299,7 +1293,6 @@
       <jump line="94" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="76" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="61" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
-      <jump line="39" column="52" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/verify-modal.html" />
       <jump line="38" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/verify-modal.html" />
       <jump line="84" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="140" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
@@ -1338,13 +1331,15 @@
       <jump line="79" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="125" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="133" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/verify-modal.html" />
+      <jump line="39" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/verify-modal.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkc2NvcGUubWF0Y2hlZCA9ICRzY29wZS51c2VyRGF0YVt0eXBlXSA9PT0gZmllbGRUb01hdGNoOwoKICAgICAgICBpZiAoISRzY29wZS5tYXRjaGVkKSB7CiAgICAgICAgICAkc2NvcGUuZXJyb3JzLnB1c2goJ1RoZSBmaWVsZHMgZG8gbm90IG1hdGNoLicpOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>$scope</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1359,40 +1354,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$scope</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>clearErrors</text>
       </register>
-      <register name="0" type="4">
-        <text>requiredAttributes.length === 1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgbmctaW5pdD0iYXR0cmlidXRlID0gcmVxdWlyZWRBdHRyaWJ1dGVzWzBdIgo=</text>
       </register>
       <register name="1" type="4">
-        <text>$scope</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
-      <register name="2" type="4">
-        <text>birthday</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5nLWNoYW5nZT0iVmVyaWZ5LnZhbGlkYXRlKGF0dHJpYnV0ZSkiCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh2YWxpZCkgewogICAgICBjdHJsLmNsZWFyRXJyb3JzKCk7CiAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5nLWNoYW5nZT0iVmVyaWZ5LmNoZWNrQW5kQ2xlYXIodXNlckRhdGFbJ2ZpZWxkVG9NYXRjaCddKSI+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsaWQgPSBmYWxzZTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciB2YWxpZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5nLW1vZGVsPSJ1c2VyRGF0YVsnZmllbGRUb01hdGNoJ10iCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5nLWluaXQ9ImF0dHJpYnV0ZSA9IHJlcXVpcmVkQXR0cmlidXRlc1swXSIK</text>
       </register>
       <register name="8" type="4">
-        <text>confirmationPresent = true;</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
-      <register name="9" type="4">
-        <text>will be stored in</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgbmctaW5pdD0iYXR0cmlidXRlID0gcmVxdWlyZWRBdHRyaWJ1dGVzWzBdIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
