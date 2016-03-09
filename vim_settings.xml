@@ -22,6 +22,12 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/styles/OnboardingQuestionPageView.less" timestamp="1455932034791">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/ovia/views/index.html" timestamp="1455930836105" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/.tmp/index.html" timestamp="1449522711915">
         <mark key="[" line="29" column="0" />
@@ -134,12 +140,11 @@
         <mark key="." line="116" column="17" />
         <mark key="^" line="116" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/verify-modal.html" timestamp="1457484003463">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/verify-modal.html" timestamp="1457488561577">
         <mark key="'" line="7" column="16" />
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="41" />
-        <mark key="." line="40" column="41" />
-        <mark key="^" line="29" column="51" />
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterLinkView.html" timestamp="1450811132220">
         <mark key="'" line="13" column="0" />
@@ -302,12 +307,12 @@
         <mark key="^" line="64" column="12" />
         <mark key="." line="64" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" timestamp="1457484234473">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" timestamp="1457488500898">
         <mark key="'" line="125" column="9" />
-        <mark key="[" line="102" column="5" />
-        <mark key="]" line="104" column="24" />
-        <mark key="." line="104" column="24" />
-        <mark key="^" line="104" column="24" />
+        <mark key="[" line="90" column="69" />
+        <mark key="]" line="90" column="70" />
+        <mark key="." line="90" column="70" />
+        <mark key="^" line="90" column="70" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/skinifyUrlFilter.js" timestamp="1456777314775">
         <mark key="[" line="4" column="13" />
@@ -1338,8 +1343,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkc2NvcGUubWF0Y2hlZCA9ICRzY29wZS51c2VyRGF0YVt0eXBlXSA9PT0gZmllbGRUb01hdGNoOwoKICAgICAgICBpZiAoISRzY29wZS5tYXRjaGVkKSB7CiAgICAgICAgICAkc2NvcGUuZXJyb3JzLnB1c2goJ1RoZSBmaWVsZHMgZG8gbm90IG1hdGNoLicpOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1354,40 +1359,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>clearErrors</text>
       </register>
       <register name="0" type="4">
-        <text>The fields do not match.</text>
+        <text>requiredAttributes.length === 1</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>confirmationPresent = true;</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ISAkc2NvcGUubWF0Y2hlZCA=</text>
+        <text>will be stored in</text>
       </register>
       <register name="4" type="4">
-        <text>$scope.userData[attr.name] !== $scope.userData[attr.name + 'Confirmation']</text>
+        <text>required</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">cmVxdWlyZWQg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgID0gJHNjb3BlLnVzZXJEYXRhW2F0dHIubmFtZV0gIT09ICRzY29wZS51c2VyRGF0YVthdHRyLm5hbWUgKyAnQ29uZmlybWF0aW9uJ107Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZmllbGQg</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">JHNjb3BlLm1hdGNoZWQg</text>
+        <text>from</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciB2YWxpZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBtbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
