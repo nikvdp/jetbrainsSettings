@@ -289,6 +289,12 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/bower.json" timestamp="1457556715503">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/work/placepocket/angular-mobile-place-adder/gulp/tasks/browserify.js" timestamp="1435739391968">
         <mark key="[" line="26" column="7" />
         <mark key="]" line="26" column="3" />
@@ -498,11 +504,10 @@
         <mark key="^" line="14" column="67" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1454364595692">
-        <mark key="'" line="143" column="5" />
-        <mark key="[" line="151" column="9" />
-        <mark key="]" line="151" column="15" />
-        <mark key="^" line="151" column="15" />
-        <mark key="." line="151" column="15" />
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="42" column="15" />
+        <mark key="^" line="42" column="15" />
+        <mark key="." line="42" column="15" />
       </file>
       <file name="$USER_HOME$/tmp/middle/bin/www" timestamp="1455046924303">
         <mark key="[" line="14" column="23" />
@@ -573,7 +578,7 @@
         <mark key="." line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" timestamp="1454365257007">
-        <mark key="'" line="74" column="11" />
+        <mark key="'" line="46" column="11" />
         <mark key="[" line="46" column="11" />
         <mark key="]" line="46" column="17" />
         <mark key="." line="46" column="17" />
@@ -1232,7 +1237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/auth.js" />
       <jump line="54" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/auth.js" />
       <jump line="63" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/auth.js" />
       <jump line="79" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/auth.js" />
@@ -1332,6 +1336,7 @@
       <jump line="133" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="15" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/verify-modal.html" />
       <jump line="39" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/verify-modal.html" />
+      <jump line="1" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
