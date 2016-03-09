@@ -134,12 +134,11 @@
         <mark key="." line="116" column="17" />
         <mark key="^" line="116" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/verify-modal.html" timestamp="1457548957225">
-        <mark key="'" line="40" column="10" />
-        <mark key="[" line="28" column="10" />
-        <mark key="]" line="28" column="10" />
-        <mark key="^" line="25" column="53" />
-        <mark key="." line="28" column="10" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/verify-modal.html" timestamp="1457551333388">
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="29" column="10" />
+        <mark key="^" line="29" column="14" />
+        <mark key="." line="29" column="10" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterLinkView.html" timestamp="1450811132220">
         <mark key="'" line="13" column="0" />
@@ -526,10 +525,10 @@
         <mark key="^" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1456878637783">
-        <mark key="'" line="752" column="25" />
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="0" />
-        <mark key="." line="266" column="0" />
+        <mark key="'" line="775" column="25" />
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="289" column="0" />
+        <mark key="." line="289" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterArticleCtrl.js" timestamp="1450814714462">
         <mark key="'" line="21" column="0" />
@@ -1339,7 +1338,7 @@
         <text encoding="base64">ICAgICAgICAkc2NvcGUubWF0Y2hlZCA9ICRzY29wZS51c2VyRGF0YVt0eXBlXSA9PT0gZmllbGRUb01hdGNoOwoKICAgICAgICBpZiAoISRzY29wZS5tYXRjaGVkKSB7CiAgICAgICAgICAkc2NvcGUuZXJyb3JzLnB1c2goJ1RoZSBmaWVsZHMgZG8gbm90IG1hdGNoLicpOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text />
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1354,40 +1353,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>clearErrors</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbmctaW5pdD0iYXR0cmlidXRlID0gcmVxdWlyZWRBdHRyaWJ1dGVzWzBdIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgdHlwZT0ie3thdHRyaWJ1dGUudHlwZX19Igo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5nLWNoYW5nZT0iVmVyaWZ5LnZhbGlkYXRlKGF0dHJpYnV0ZSkiCg==</text>
+      <register name="2" type="4">
+        <text>.$</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">ICAgICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5nLWNoYW5nZT0iVmVyaWZ5LmNoZWNrQW5kQ2xlYXIodXNlckRhdGFbJ2ZpZWxkVG9NYXRjaCddKSI+Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5nLWNoYW5nZT0iVmVyaWZ5LnZhbGlkYXRlKGF0dHJpYnV0ZSkiCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5nLW1vZGVsPSJ1c2VyRGF0YVsnZmllbGRUb01hdGNoJ10iCg==</text>
+      <register name="6" type="4">
+        <text>requiredAttributes[0]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5nLWluaXQ9ImF0dHJpYnV0ZSA9IHJlcXVpcmVkQXR0cmlidXRlc1swXSIK</text>
+        <text encoding="base64">ICAgICAgICAgIG5nLWNoYW5nZT0iVmVyaWZ5LnZhbGlkYXRlKGF0dHJpYnV0ZSkiCg==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbmctaW5pdD0iYXR0cmlidXRlID0gcmVxdWlyZWRBdHRyaWJ1dGVzWzBdIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGU9Int7cmVxdWlyZWRBdHRyaWJ1dGVzWzBdLnR5cGV9fSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
