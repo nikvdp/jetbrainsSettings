@@ -83,12 +83,12 @@
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" timestamp="1457570776888">
-        <mark key="'" line="70" column="8" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="23" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" timestamp="1457571437309">
+        <mark key="'" line="161" column="1" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="162" column="0" />
+        <mark key="^" line="129" column="5" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/apis/InterestsServiceApi.js" timestamp="1454979995933">
         <mark key="[" line="18" column="52" />
@@ -139,12 +139,12 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" timestamp="1457560688042">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="20" column="58" />
-        <mark key="]" line="20" column="58" />
-        <mark key="." line="20" column="58" />
-        <mark key="^" line="20" column="58" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" timestamp="1457571453501">
+        <mark key="'" line="3" column="32" />
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="28" column="44" />
+        <mark key="." line="28" column="44" />
+        <mark key="^" line="28" column="44" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/services/ContentItemsAdapter.js" timestamp="1450737309881">
         <mark key="'" line="70" column="17" />
@@ -1307,16 +1307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
-      <jump line="23" column="73" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
-      <jump line="49" column="47" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
-      <jump line="21" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
-      <jump line="54" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
-      <jump line="38" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
-      <jump line="10" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/jiffViewDirective.less" />
-      <jump line="4" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
-      <jump line="27" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/config.xml" />
       <jump line="20" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/splash.less" />
       <jump line="12" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/config.xml" />
       <jump line="70" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
@@ -1407,13 +1397,23 @@
       <jump line="27" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
       <jump line="51" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/auth.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
+      <jump line="163" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
+      <jump line="168" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
+      <jump line="130" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
+      <jump line="23" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
+      <jump line="161" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
+      <jump line="25" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
+      <jump line="3" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIGlmIChhcmdzLm5vbnNwKSB7CiAgICAgIGd1bHAudGFzaygnbnNwOmxlbmllbnQnLCBbXSk7CiAgICAgIGd1bHAudGFzaygnbnNwOnN0cmljdCcsIFtdKTsKICAgIH0K</text>
+        <text encoding="base64">Ci8vIGRpc2FibGUgbnNwIGlmIG5lZWRlZAppZiAoYXJncy5ub25zcCkgewogIGd1bHAudGFzaygnbnNwOmxlbmllbnQnLCBbXSk7CiAgZ3VscC50YXNrKCduc3A6c3RyaWN0JywgW10pOwp9Cgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChhcmdzLm5vbnNwKSB7CiAgICAgIGd1bHAudGFzaygnbnNwOmxlbmllbnQnLCBbXSk7CiAgICAgIGd1bHAudGFzaygnbnNwOnN0cmljdCcsIFtdKTsKICAgIH0K</text>
+        <text encoding="base64">dmFyIGFyZ3MgPSByZXF1aXJlKCd5YXJncycpLmFyZ3Y7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -1431,46 +1431,46 @@
         <text>message</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dpblw+</text>
+        <text>nsp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2hyaW5rd3JhcDogX19kaXJuYW1lICsgJy8uLi8uLi9ucG0tc2hyaW5rd3JhcC5qc29uJwo=</text>
+        <text encoding="base64">dmFyIGFyZ3MgPSByZXF1aXJlKCd5YXJncycpLmFyZ3Y7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChhcmdzLm5vbnNwKSB7CiAgICAgIGd1bHAudGFzaygnbnNwOmxlbmllbnQnLCBbXSk7CiAgICAgIGd1bHAudGFzaygnbnNwOnN0cmljdCcsIFtdKTsKICAgIH0K</text>
+        <text encoding="base64">Ci8vIGRpc2FibGUgbnNwIGlmIG5lZWRlZAppZiAoYXJncy5ub25zcCkgewogIGd1bHAudGFzaygnbnNwOmxlbmllbnQnLCBbXSk7CiAgZ3VscC50YXNrKCduc3A6c3RyaWN0JywgW10pOwp9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGRhdGEuc3RhdHVzID09PSA0MDEpIHsKICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gZGlzYWJsZSBuc3AgaWYgbmVlZGVkCmlmIChhcmdzLm5vbnNwKSB7CiAgZ3VscC50YXNrKCduc3A6bGVuaWVudCcsIFtdKTsKICBndWxwLnRhc2soJ25zcDpzdHJpY3QnLCBbXSk7Cn0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIChhcmdzLm5vbnNwKSB7CiAgICAgIGd1bHAudGFzaygnbnNwOmxlbmllbnQnLCBbXSk7CiAgICAgIGd1bHAudGFzaygnbnNwOnN0cmljdCcsIFtdKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlZ21lbnRpby50cmFjaygnU2lnbiBVcCAtIEF1dGhvcml6YXRpb24gRXJyb3InLCB7J3JlYXNvbic6IGRhdGEubWVzc2FnZX0pOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGRhdGEuc3RhdHVzID09PSA0MDEpIHsKICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>message</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdtZW50aW8udHJhY2soJ1NpZ24gVXAgLSBBdXRob3JpemF0aW9uIEVycm9yJyk7Cg==</text>
+        <text encoding="base64">ICAgIHNlZ21lbnRpby50cmFjaygnU2lnbiBVcCAtIEF1dGhvcml6YXRpb24gRXJyb3InLCB7J3JlYXNvbic6IGRhdGEubWVzc2FnZX0pOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>/n</text>
+        <text>message</text>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWdtZW50aW8udHJhY2soJ1NpZ24gVXAgLSBBdXRob3JpemF0aW9uIEVycm9yJyk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dpblw+</last-search>
+      <last-search>nsp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dpblw+</last-pattern>
+      <last-pattern>nsp</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1478,7 +1478,6 @@
     </search>
     <history>
       <history-search>
-        <entry>encode</entry>
         <entry encoding="base64">XDxlbmNvZGVVUklDb21wb25lbnRcPg==</entry>
         <entry>'dashboard</entry>
         <entry encoding="base64">XDxlcnJvcnNcPg==</entry>
@@ -1498,6 +1497,7 @@
         <entry>env</entry>
         <entry>param</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
+        <entry>nsp</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
