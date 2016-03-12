@@ -216,9 +216,6 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" timestamp="1456777238798">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/main.js" timestamp="1453861862116">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="0" column="45" />
@@ -951,9 +948,6 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/deviceManagement.html" timestamp="1456283527741">
-        <mark key="'" line="27" column="31" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/profileImg.js" timestamp="1456516066309">
         <mark key="'" line="31" column="22" />
       </file>
@@ -1024,9 +1018,6 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/userAgentPlatform.js" timestamp="1456516115678">
-        <mark key="'" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/templateChunksDirective.html" timestamp="1450748925290">
         <mark key="[" line="0" column="0" />
@@ -1140,8 +1131,8 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1455928401718">
-        <mark key="'" line="56" column="34" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1457740454945">
+        <mark key="'" line="154" column="32" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/module.less" timestamp="1453339902751">
         <mark key="[" line="1" column="16" />
@@ -1373,11 +1364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/config.xml" />
-      <jump line="70" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
-      <jump line="34" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/splash.less" />
-      <jump line="32" column="83" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" />
-      <jump line="24" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/splash.less" />
       <jump line="35" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/styles/splash.less" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
       <jump line="18" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
@@ -1473,6 +1459,11 @@
       <jump line="25" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
       <jump line="3" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/package.json" />
+      <jump line="534" column="29" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="56" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="437" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="39" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="154" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1497,7 +1488,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>nsp</text>
+        <text encoding="base64">XDxwYXJ0aWNpcGFudElkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyIGFyZ3MgPSByZXF1aXJlKCd5YXJncycpLmFyZ3Y7Cg==</text>
@@ -1534,9 +1525,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nsp</last-search>
+      <last-search encoding="base64">XDxwYXJ0aWNpcGFudElkXD4=</last-search>
       <last-offset />
-      <last-pattern>nsp</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJ0aWNpcGFudElkXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1544,9 +1535,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmNvZGVVUklDb21wb25lbnRcPg==</entry>
-        <entry>'dashboard</entry>
-        <entry encoding="base64">XDxlcnJvcnNcPg==</entry>
         <entry encoding="base64">XDxjaGVja0FuZENsZWFyXD4=</entry>
         <entry>Verify.submit</entry>
         <entry>employee_iud</entry>
@@ -1564,6 +1552,9 @@
         <entry>param</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry>nsp</entry>
+        <entry>getParticipant</entry>
+        <entry encoding="base64">XDw7XD4=</entry>
+        <entry encoding="base64">XDxwYXJ0aWNpcGFudElkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
