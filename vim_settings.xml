@@ -32,12 +32,12 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="129" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1457981365038">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1457983046895">
         <mark key="'" line="764" column="17" />
-        <mark key="[" line="1306" column="0" />
-        <mark key="]" line="1306" column="29" />
-        <mark key="." line="31" column="17" />
-        <mark key="^" line="31" column="17" />
+        <mark key="[" line="919" column="32" />
+        <mark key="]" line="919" column="45" />
+        <mark key="." line="919" column="45" />
+        <mark key="^" line="919" column="45" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/views/ContentCenterArticleView.html" timestamp="1453162333605">
         <mark key="'" line="15" column="13" />
@@ -688,8 +688,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ci8vIGRpc2FibGUgbnNwIGlmIG5lZWRlZAppZiAoYXJncy5ub25zcCkgewogIGd1bHAudGFzaygnbnNwOmxlbmllbnQnLCBbXSk7CiAgZ3VscC50YXNrKCduc3A6c3RyaWN0JywgW10pOwp9Cgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ2NjYTpkcmF3YWJsZXMnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>'YYYY-MM-DD'</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -704,40 +704,40 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>MMYYYY</text>
       </register>
       <register name="/" type="4">
         <text>displayProgram</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dmFyIGFyZ3MgPSByZXF1aXJlKCd5YXJncycpLmFyZ3Y7Cg==</text>
+      <register name="0" type="4">
+        <text>'YYYY-MM-DD'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ2NjYTpkcmF3YWJsZXMnLAo=</text>
+      <register name="1" type="4">
+        <text>MMYYYY</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjY2EiOiAiXjAuOC4xIiwK</text>
+        <text encoding="base64">ICAgICAgJ2NjYTpkcmF3YWJsZXMnLAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICJjY2EiOiAiXjAuOC4xIiwK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICJjY2EiOiAiXjAuOC4xIiwKICAgICJjb21wcmVzc2lvbiI6ICJeMS4wLjIiLAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text />
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoYXJncy5ub25zcCkgewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnQXJncyBub25zcCBpczogJywgYXJncy5ub25zcCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICBpZiAoYXJncy5ub25zcCkgewo=</text>
       </register>
-      <register name="9" type="4">
-        <text />
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnQXJncyBub25zcCBpczogJywgYXJncy5ub25zcCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpZiAoYXJncy5ub25zcCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
