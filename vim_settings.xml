@@ -273,6 +273,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" timestamp="1458065966719">
+        <mark key="'" line="106" column="3" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/challenges-hybrid/src/components/store/controllers/StoreProductListCtrl.js" timestamp="1454535007575">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -507,10 +513,10 @@
         <mark key="^" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1458002513143">
-        <mark key="'" line="775" column="25" />
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="289" column="0" />
-        <mark key="." line="289" column="0" />
+        <mark key="'" line="793" column="25" />
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="307" column="0" />
+        <mark key="." line="307" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterArticleCtrl.js" timestamp="1450814714462">
         <mark key="'" line="21" column="0" />
@@ -592,6 +598,12 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/module.json" timestamp="1456177000415">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" timestamp="1453855768904">
         <mark key="'" line="42" column="11" />
         <mark key="[" line="61" column="101" />
@@ -622,10 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
-      <jump line="123" column="44" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
-      <jump line="98" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="31" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/profileImg.js" />
       <jump line="4" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/userAgentPlatform.js" />
@@ -722,13 +730,17 @@
       <jump line="113" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="16" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="25" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
+      <jump line="49" column="59" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
+      <jump line="63" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
+      <jump line="107" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmICgkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXSAmJiAkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXS5sZW5ndGggPCAxKSB7CiAgICAgIHB1c2hFcnJvcihhdHRyLnRpdGxlICsgJyBjYW5cJ3QgYmUgYmxhbmsuJyk7CiAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi50cmFuc2xhdGlvbmV4Y2hhbmdlLmNvbS90b29scy90bWwtYW5ndWxhci9zdGFibGUvdG1sLWFuZ3VsYXIuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -746,46 +758,46 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXRjaGVkXD4=</text>
+        <text>tml</text>
       </register>
       <register name="0" type="4">
         <text>$scope.userData[attr.name]</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi50cmFuc2xhdGlvbmV4Y2hhbmdlLmNvbS90b29scy90bWwtYW5ndWxhci9zdGFibGUvdG1sLWFuZ3VsYXIuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="2" type="4">
+        <text>,</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICYmICRzY29wZS51c2VyRGF0YVthdHRyLm5hbWVdLmxlbmd0aCA8IDE=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGlmICgkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXSAmJiAkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXS5sZW5ndGggPCAxKSB7CiAgICAgIHB1c2hFcnJvcihhdHRyLnRpdGxlICsgJyBjYW5cJ3QgYmUgYmxhbmsuJyk7CiAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>}) {</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmICgkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXSAmJiAkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXS5sZW5ndGggPCAxKSB7CiAgICAgIHB1c2hFcnJvcihhdHRyLnRpdGxlICsgJyBjYW5cJ3QgYmUgYmxhbmsuJyk7CiAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXRjaGVkXD4=</last-search>
+      <last-search>tml</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXRjaGVkXD4=</last-pattern>
+      <last-pattern>tml</last-pattern>
       <last-replace>startDate</last-replace>
       <last-substitute>endDate</last-substitute>
       <last-dir>1</last-dir>
@@ -793,7 +805,6 @@
     </search>
     <history>
       <history-search>
-        <entry>employee_id</entry>
         <entry encoding="base64">XDxmaWVsZFRvTWF0Y2hcPg==</entry>
         <entry>wwid</entry>
         <entry encoding="base64">XDx1c2VyRGF0YVw+</entry>
@@ -813,6 +824,7 @@
         <entry>displayProgram</entry>
         <entry>endDate</entry>
         <entry encoding="base64">XDxtYXRjaGVkXD4=</entry>
+        <entry>tml</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyRzY29wZS9RdWVzdGlvbi9n</entry>
