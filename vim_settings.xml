@@ -67,12 +67,11 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/middle-tier/tests/jiff/httpPassthrough.js" timestamp="1458343995628">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="79" />
-        <mark key="^" line="1" column="79" />
-        <mark key="." line="1" column="79" />
+      <file name="$USER_HOME$/Code/work/jiff/middle-tier/tests/jiff/httpPassthrough.js" timestamp="1458344808364">
+        <mark key="'" line="5" column="3" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="60" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/QuestionResponderService.js" timestamp="1455933169525">
         <mark key="'" line="27" column="11" />
@@ -624,7 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
       <jump line="8" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
@@ -724,13 +722,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/bootstrap.js" />
       <jump line="122" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/bootstrap.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/tests/jiff/httpPassthrough.js" />
+      <jump line="5" column="3" filename="$USER_HOME$/Code/work/jiff/middle-tier/tests/jiff/httpPassthrough.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmICgkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXSAmJiAkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXS5sZW5ndGggPCAxKSB7CiAgICAgIHB1c2hFcnJvcihhdHRyLnRpdGxlICsgJyBjYW5cJ3QgYmUgYmxhbmsuJyk7CiAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGh0dHBQYXNzdGhyb3VnaCA9IHJlcXVpcmUoJy4uLy4uL2ppZmYvaHR0cFBhc3N0aHJvdWdoJyk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -745,7 +744,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>node ./tests/tests</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRUb1J1c3NpYW5cPg==</text>
@@ -754,31 +753,31 @@
         <text>$scope.userData[attr.name]</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">dmFyIGh0dHBQYXNzdGhyb3VnaCA9IHJlcXVpcmUoJy4uLy4uL2ppZmYvaHR0cFBhc3N0aHJvdWdoJyk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>]</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>node ./tests/tests</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICogICBUT0RPOiB0aGVzZSBuZWVkIHRvIGJlIGtlcHQgc2VwYXJhdGUgZm9yIGVhY2ggcmVxdWVzdCBoYW5kbGVyLAogKiAgICAgICAgIG9uY2Ugd2UgaGF2ZSBtdWx0aXBsZSBjbGllbnRzIHVzaW5nIHRoZSBtaWRkbGUgdGllcgogKiAgICAgICAgIHRoaXMgYXBwcm9hY2ggd2lsbCBicmVhayBkb3duLCBidXQgaXMgZ29vZCBlbm91Z2ggdG8gc3RhcnQKICogICAgICAgICBkZXZlbG9wbWVudCB3aGlsZSB3ZSB3YWl0IGZvciBnYXRla2VlcGVyCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">KiAgIA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">b2JqZWN0IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>on the httpPassthrough</text>
-      </register>
-      <register name="7" type="4">
-        <text>Passthrough</text>
-      </register>
-      <register name="8" type="4">
-        <text>'arguments'</text>
-      </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>on the httpPassthrough</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
