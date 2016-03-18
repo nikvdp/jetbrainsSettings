@@ -67,6 +67,13 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/middle-tier/tests/jiff/httpPassthrough.js" timestamp="1458343995628">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="79" />
+        <mark key="^" line="1" column="79" />
+        <mark key="." line="1" column="79" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/QuestionResponderService.js" timestamp="1455933169525">
         <mark key="'" line="27" column="11" />
         <mark key="[" line="27" column="10" />
@@ -247,11 +254,11 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/middle-tier/package.json" timestamp="1458339329685">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="29" />
+      <file name="$USER_HOME$/Code/work/jiff/middle-tier/package.json" timestamp="1458343670510">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MultipleChoiceQuestionView.less" timestamp="1455931511771">
         <mark key="[" line="1" column="13" />
@@ -617,7 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/userAgentPlatform.js" />
       <jump line="16" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
       <jump line="8" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/interpolate.js" />
@@ -717,13 +723,14 @@
       <jump line="107" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/bootstrap.js" />
       <jump line="122" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/bootstrap.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/tests/jiff/httpPassthrough.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmICgkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXSAmJiAkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXS5sZW5ndGggPCAxKSB7CiAgICAgIHB1c2hFcnJvcihhdHRyLnRpdGxlICsgJyBjYW5cJ3QgYmUgYmxhbmsuJyk7CiAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogICBUT0RPOiB0aGVzZSBuZWVkIHRvIGJlIGtlcHQgc2VwYXJhdGUgZm9yIGVhY2ggcmVxdWVzdCBoYW5kbGVyLAogKiAgICAgICAgIG9uY2Ugd2UgaGF2ZSBtdWx0aXBsZSBjbGllbnRzIHVzaW5nIHRoZSBtaWRkbGUgdGllcgogKiAgICAgICAgIHRoaXMgYXBwcm9hY2ggd2lsbCBicmVhayBkb3duLCBidXQgaXMgZ29vZCBlbm91Z2ggdG8gc3RhcnQKICogICAgICAgICBkZXZlbG9wbWVudCB3aGlsZSB3ZSB3YWl0IGZvciBnYXRla2VlcGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -738,7 +745,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KiAgIA==</text>
+        <text>node ./tests/tests</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRUb1J1c3NpYW5cPg==</text>
@@ -747,31 +754,31 @@
         <text>$scope.userData[attr.name]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogICBUT0RPOiB0aGVzZSBuZWVkIHRvIGJlIGtlcHQgc2VwYXJhdGUgZm9yIGVhY2ggcmVxdWVzdCBoYW5kbGVyLAogKiAgICAgICAgIG9uY2Ugd2UgaGF2ZSBtdWx0aXBsZSBjbGllbnRzIHVzaW5nIHRoZSBtaWRkbGUgdGllcgogKiAgICAgICAgIHRoaXMgYXBwcm9hY2ggd2lsbCBicmVhayBkb3duLCBidXQgaXMgZ29vZCBlbm91Z2ggdG8gc3RhcnQKICogICAgICAgICBkZXZlbG9wbWVudCB3aGlsZSB3ZSB3YWl0IGZvciBnYXRla2VlcGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">KiAgIA==</text>
+        <text>node ./tests/tests</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">b2JqZWN0IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICogICBUT0RPOiB0aGVzZSBuZWVkIHRvIGJlIGtlcHQgc2VwYXJhdGUgZm9yIGVhY2ggcmVxdWVzdCBoYW5kbGVyLAogKiAgICAgICAgIG9uY2Ugd2UgaGF2ZSBtdWx0aXBsZSBjbGllbnRzIHVzaW5nIHRoZSBtaWRkbGUgdGllcgogKiAgICAgICAgIHRoaXMgYXBwcm9hY2ggd2lsbCBicmVhayBkb3duLCBidXQgaXMgZ29vZCBlbm91Z2ggdG8gc3RhcnQKICogICAgICAgICBkZXZlbG9wbWVudCB3aGlsZSB3ZSB3YWl0IGZvciBnYXRla2VlcGVyCg==</text>
       </register>
       <register name="4" type="4">
-        <text>on the httpPassthrough</text>
+        <text encoding="base64">KiAgIA==</text>
       </register>
       <register name="5" type="4">
-        <text>Passthrough</text>
+        <text encoding="base64">b2JqZWN0IA==</text>
       </register>
       <register name="6" type="4">
-        <text>'arguments'</text>
+        <text>on the httpPassthrough</text>
       </register>
       <register name="7" type="4">
+        <text>Passthrough</text>
+      </register>
+      <register name="8" type="4">
+        <text>'arguments'</text>
+      </register>
+      <register name="9" type="4">
         <text>n</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y3AgY29uZmlnL2thcm1hLmNpLmNvbmYuanMuc2FtcGxlIGthcm1hLmNpLmNvbmYuanMKY3AgY29uZmlnL2thcm1hLndlYi5wcmVjb21waWxlLmNvbmYuanMuc2FtcGxlIGthcm1hLndlYi5wcmVjb21waWxlLmNvbmYuanMKY3AgY29uZmlnL2thcm1hLndlYi5wb3N0Y29tcGlsZS5jb25mLmpzLnNhbXBsZSBrYXJtYS53ZWIucG9zdGNvbXBpbGUuY29uZi5qcwpjcCBjb25maWcva2FybWEubW9iaWxlLnBvc3Rjb21waWxlLmNvbmYuanMuc2FtcGxlIGthcm1hLm1vYmlsZS5wb3N0Y29tcGlsZS5jb25mLmpzCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi50cmFuc2xhdGlvbmV4Y2hhbmdlLmNvbS90b29scy90bWwtYW5ndWxhci9zdGFibGUvdG1sLWFuZ3VsYXIuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
