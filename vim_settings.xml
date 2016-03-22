@@ -483,6 +483,11 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1458668710277">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/breadcrumbs.js" timestamp="1457475868382">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="36" column="35" />
@@ -723,8 +728,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmICgkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXSAmJiAkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXS5sZW5ndGggPCAxKSB7CiAgICAgIHB1c2hFcnJvcihhdHRyLnRpdGxlICsgJyBjYW5cJ3QgYmUgYmxhbmsuJyk7CiAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnY29weTp0cmFjZXVyJywK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -747,29 +752,29 @@
       <register name="0" type="4">
         <text>$scope.userData[attr.name]</text>
       </register>
-      <register name="1" type="4">
-        <text>s</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAnY29weTp0cmFjZXVyJywK</text>
       </register>
       <register name="2" type="4">
+        <text>s</text>
+      </register>
+      <register name="3" type="4">
         <text>,</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgcGFyYW1zOiB7CiAgICAgICAgaWQ6IDQyCiAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>user/42</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>request</text>
       </register>
-      <register name="7" type="4">
-        <text>number of m</text>
-      </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>number of m</text>
       </register>
       <register name="9" type="4">
         <text>)</text>
