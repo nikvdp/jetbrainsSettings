@@ -17,8 +17,8 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/bootstrap.js" timestamp="1458172342705">
-        <mark key="'" line="122" column="11" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/bootstrap.js" timestamp="1458935496006">
+        <mark key="'" line="79" column="17" />
         <mark key="[" line="78" column="39" />
         <mark key="]" line="51" column="16" />
         <mark key="." line="51" column="16" />
@@ -208,7 +208,7 @@
         <mark key="." line="9" column="48" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainHomeView.html" timestamp="1458933919746" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainHomeView.html" timestamp="1458935371406" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/module.less" timestamp="1455663161278">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="22" column="16" />
@@ -622,7 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="49" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="115" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="55" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
@@ -722,6 +721,7 @@
       <jump line="40" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" />
       <jump line="16" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainLicenseCtrl.js" />
       <jump line="12" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainLicenseCtrl.js" />
+      <jump line="79" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/bootstrap.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
