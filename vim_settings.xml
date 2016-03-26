@@ -289,11 +289,11 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/bower.json" timestamp="1458949185332">
-        <mark key="[" line="42" column="20" />
-        <mark key="]" line="42" column="29" />
-        <mark key="." line="42" column="29" />
-        <mark key="^" line="42" column="29" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/bower.json" timestamp="1458949818752">
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="29" />
+        <mark key="." line="32" column="29" />
+        <mark key="^" line="32" column="29" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/skinifyUrlFilter.js" timestamp="1456777314775">
         <mark key="[" line="4" column="13" />
@@ -416,11 +416,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" timestamp="1458933894885">
-        <mark key="[" line="127" column="10" />
-        <mark key="]" line="127" column="23" />
-        <mark key="." line="127" column="23" />
-        <mark key="^" line="127" column="23" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" timestamp="1458950643208">
+        <mark key="'" line="133" column="23" />
+        <mark key="[" line="120" column="13" />
+        <mark key="]" line="120" column="43" />
+        <mark key="." line="120" column="43" />
+        <mark key="^" line="120" column="43" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/InterestSelectionQuestion.js" timestamp="1453769635799">
         <mark key="'" line="26" column="0" />
@@ -628,7 +629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="115" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="55" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="56" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
@@ -728,13 +728,14 @@
       <jump line="16" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainLicenseCtrl.js" />
       <jump line="12" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainLicenseCtrl.js" />
       <jump line="79" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/bootstrap.js" />
+      <jump line="138" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIGlmICgkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXSAmJiAkc2NvcGUudXNlckRhdGFbYXR0ci5uYW1lXS5sZW5ndGggPCAxKSB7CiAgICAgIHB1c2hFcnJvcihhdHRyLnRpdGxlICsgJyBjYW5cJ3QgYmUgYmxhbmsuJyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcm9vdFNjb3BlLmppZmZMb2FkQ29tcGxldGUgPSB0cnVlOwogICAgICAgIGlmICh3aW5kb3cuY29yZG92YSAmJiBuYXZpZ2F0b3IgJiYgbmF2aWdhdG9yLnNwbGFzaHNjcmVlbikgewogICAgICAgICAgJHdpbmRvdy5uYXZpZ2F0b3Iuc3BsYXNoc2NyZWVuLmhpZGUoKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>tml-angular.js</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICRyb290U2NvcGUuamlmZkxvYWRDb21wbGV0ZSA9IHRydWU7CiAgICAgICAgICBpZiAod2luZG93LmNvcmRvdmEgJiYgbmF2aWdhdG9yICYmIG5hdmlnYXRvci5zcGxhc2hzY3JlZW4pIHsKICAgICAgICAgICAgJHdpbmRvdy5uYXZpZ2F0b3Iuc3BsYXNoc2NyZWVuLmhpZGUoKTsKICAgICAgICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -754,35 +755,35 @@
       <register name="/" type="4">
         <text>$</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJ0bWwtYW5ndWxhciI6IHsKICAgICAgIm1haW4iOiAic3JjL3RtbC1hbmd1bGFyLmpzIgogICAgfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAkcm9vdFNjb3BlLmppZmZMb2FkQ29tcGxldGUgPSB0cnVlOwogICAgICAgIGlmICh3aW5kb3cuY29yZG92YSAmJiBuYXZpZ2F0b3IgJiYgbmF2aWdhdG9yLnNwbGFzaHNjcmVlbikgewogICAgICAgICAgJHdpbmRvdy5uYXZpZ2F0b3Iuc3BsYXNoc2NyZWVuLmhpZGUoKTsKICAgICAgICB9CiA=</text>
       </register>
-      <register name="1" type="4">
-        <text>tml-angular.js</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICRyb290U2NvcGUuamlmZkxvYWRDb21wbGV0ZSA9IHRydWU7CiAgICAgICAgICBpZiAod2luZG93LmNvcmRvdmEgJiYgbmF2aWdhdG9yICYmIG5hdmlnYXRvci5zcGxhc2hzY3JlZW4pIHsKICAgICAgICAgICAgJHdpbmRvdy5uYXZpZ2F0b3Iuc3BsYXNoc2NyZWVuLmhpZGUoKTsKICAgICAgICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>src</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>s</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkcm9vdFNjb3BlLmppZmZMb2FkQ29tcGxldGUgPSB0cnVlOwogICAgICAgIGlmICh3aW5kb3cuY29yZG92YSAmJiBuYXZpZ2F0b3IgJiYgbmF2aWdhdG9yLnNwbGFzaHNjcmVlbikgewogICAgICAgICAgJHdpbmRvdy5uYXZpZ2F0b3Iuc3BsYXNoc2NyZWVuLmhpZGUoKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>angular</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>startSt</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICRyb290U2NvcGUuamlmZkxvYWRDb21wbGV0ZSA9IHRydWU7CiAgICAgICAgICBpZiAod2luZG93LmNvcmRvdmEgJiYgbmF2aWdhdG9yICYmIG5hdmlnYXRvci5zcGxhc2hzY3JlZW4pIHsKICAgICAgICAgICAgJHdpbmRvdy5uYXZpZ2F0b3Iuc3BsYXNoc2NyZWVuLmhpZGUoKTsKICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>;</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>'Agreement'</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLy8gc3RyaXAgb2ZmIGFueXRoaW5nIGFmdGVyIGEgJy4nIHNvIHRoYXQgd2UgY2FuIHN0bGwgbWF0Y2ggYnkgc3Vic3RhdGVzIChlLmcuIG9uYm9hcmRpbmcucHJvZmlsZV9wYWdlKQogICAgICB2YXIgdG9TdGF0ZU5hbWUgPSB0b1N0YXRlLm5hbWUucmVwbGFjZSgvXC4qLywgJycpOwoKICAgICAgLy8gZG9uJ3QgcmVtb3ZlIHRoZSBhbmRyb2lkIHNwbGFzaHNjcmVlbiB1bnRpbCB3ZSBhcmUgYWN0dWFsbHkgcmVhZHkgdG8gc2hvdyB0aGUgYXBwCiAgICAgIHZhciBhcHBFbnRyeVBvaW50cyA9IFsnYXV0aCcsICdsb2dpbicsICdyZWdpc3RlcicsICdkYXNoYm9hcmQnLCAnb25ib2FyZGluZyddOwoKICAgICAgLy8gdXNlIEpTT04uc3RyaW5naWZ5IGZpcnN0IHNvIHRoYXQgc3Vic3RhdGVzIChlLmcuIG9uYm9hcmRpbmcuPHNvbWUgb25ib2FyZGluZyBwYWdlPgogICAgICAvLyB3b3JrIGNvcnJlY3RseQogICAgICBpZiAoSlNPTi5zdHJpbmdpZnkoYXBwRW50cnlQb2ludHMpLmluZGV4T2YodG9TdGF0ZU5hbWUpICE9PSAtMSkgewogICAgICAgICRyb290U2NvcGUuamlmZkxvYWRDb21wbGV0ZSA9IHRydWU7CiAgICAgICAgaWYod2luZG93LmNvcmRvdmEgJiYgbmF2aWdhdG9yICYmIG5hdmlnYXRvci5zcGxhc2hzY3JlZW4pIHsKICAgICAgICAgICR3aW5kb3cubmF2aWdhdG9yLnNwbGFzaHNjcmVlbi5oaWRlKCk7CiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
