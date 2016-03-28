@@ -10,9 +10,6 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1457721855726">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/tmp/middle/routes/challenges/index.js" timestamp="1455047587892">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -62,6 +59,11 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingPopupModal.html" timestamp="1459191271702">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/http.js" timestamp="1455745900028">
         <mark key="[" line="6" column="0" />
@@ -148,6 +150,10 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1459191120858">
+        <mark key="'" line="37" column="6" />
+        <mark key="[" line="69" column="60" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1459181558469">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -171,9 +177,10 @@
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1455930844405">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="48" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1459191265340">
+        <mark key="'" line="42" column="13" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="42" column="15" />
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
@@ -213,10 +220,6 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/styles/EventsList.less" timestamp="1456775064191">
         <mark key="[" line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" timestamp="1458693572832">
-        <mark key="'" line="56" column="0" />
-        <mark key="^" line="46" column="17" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/api/module.less" timestamp="1452292672008">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -232,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="56" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="70" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="71" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
@@ -332,13 +334,14 @@
       <jump line="79" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/bootstrap.js" />
       <jump line="138" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
+      <jump line="42" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkcm9vdFNjb3BlLmppZmZMb2FkQ29tcGxldGUgPSB0cnVlOwogICAgICAgIGlmICh3aW5kb3cuY29yZG92YSAmJiBuYXZpZ2F0b3IgJiYgbmF2aWdhdG9yLnNwbGFzaHNjcmVlbikgewogICAgICAgICAgJHdpbmRvdy5uYXZpZ2F0b3Iuc3BsYXNoc2NyZWVuLmhpZGUoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi50cmFuc2xhdGlvbmV4Y2hhbmdlLmNvbS90b29scy90bWwvc3RhYmxlL3RtbC5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgbmctaWY9Ik9uYm9hcmRpbmcuY3VycmVudFN0ZXAuc3BlY2lhbF9vbmJvYXJkaW5nX2tleSI+CiAgICAgIDxkaXYgbmctc3dpdGNoPSJPbmJvYXJkaW5nLmN1cnJlbnRTdGVwLnNwZWNpYWxfb25ib2FyZGluZ19rZXkiPgogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzPSJzcGVjaWFsX29uYm9hcmRpbmcxIgogICAgICAgICAgbmctc3dpdGNoLXdoZW49InNwZWNpYWxfb25ib2FyZGluZzEiCiAgICAgICAgICBuZy1pbml0PSJxdWVzdGlvbiA9IE9uYm9hcmRpbmcuY3VycmVudFN0ZXAucXVlc3Rpb25zWzBdIj4KCiAgICAgICAgICA8aW1nIGNsYXNzPSJxdWVzdGlvbi1pY29uIiBuZy1zcmM9Int7IHF1ZXN0aW9uLmljb24udXJsIHwgc2tpbmlmeVVybCB9fSI+CiAgICAgICAgICA8cCBjbGFzcz0icXVlc3Rpb24tdGV4dCI+IHt7IHF1ZXN0aW9uLnRleHQgfX0gPC9wPgogICAgICAgICAgPGRpdgogICAgICAgICAgICBuZy1yZXBlYXQ9ImJ1dHRvbiBpbiBxdWVzdGlvbi5hbnN3ZXJzIgogICAgICAgICAgICBuZy1jbGFzcz0ie2J1dHRvbnM6IGJ1dHRvbi5sYWJlbCAmJiAhIGJ1dHRvbi5zaG93X3BvcHVwLCAncG9wdXAtbGluayc6IGJ1dHRvbi5zaG93X3BvcHVwfSI+CiAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICBuZy1pZj0iYnV0dG9uLmxhYmVsICYmICEgYnV0dG9uLnNob3dfcG9wdXAiCiAgICAgICAgICAgICAgY2xhc3M9ImppZmYtYnV0dG9uLXByaW1hcnkiCiAgICAgICAgICAgICAgbmctY2xpY2s9Ik9uYm9hcmRpbmcuY29sbGVjdEFuc3dlcnMocXVlc3Rpb24sIGJ1dHRvbi5pbnRlcm5hbF9pZCk7IE9uYm9hcmRpbmcubmV4dFNsaWRlKCkiPgogICAgICAgICAgICAgIHt7IGJ1dHRvbi5sYWJlbCB9fQogICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIGNsYXNzPSJwb3B1cC1saW5rIgogICAgICAgICAgICAgIG5nLWlmPSJidXR0b24uc2hvd19wb3B1cCI+CiAgICAgICAgICAgICAgPGgzPgogICAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgICAgaHJlZj0iamF2YXNjcmlwdDp2b2lkKDApIgogICAgICAgICAgICAgICAgICBjbGFzcz0iamlmZi1jb2xvci1saW5rIgogICAgICAgICAgICAgICAgICBuZy1jbGljaz0iT25ib2FyZGluZy5zaG93UG9wdXAocXVlc3Rpb24ucG9wdXBzW2J1dHRvbi5zaG93X3BvcHVwXSkiPgogICAgICAgICAgICAgICAgICB7eyBidXR0b24ubGFiZWwgfX0KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -358,8 +361,8 @@
       <register name="/" type="4">
         <text>$</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAkcm9vdFNjb3BlLmppZmZMb2FkQ29tcGxldGUgPSB0cnVlOwogICAgICAgIGlmICh3aW5kb3cuY29yZG92YSAmJiBuYXZpZ2F0b3IgJiYgbmF2aWdhdG9yLnNwbGFzaHNjcmVlbikgewogICAgICAgICAgJHdpbmRvdy5uYXZpZ2F0b3Iuc3BsYXNoc2NyZWVuLmhpZGUoKTsKICAgICAgICB9CiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxkaXYgbmctaWY9Ik9uYm9hcmRpbmcuY3VycmVudFN0ZXAuc3BlY2lhbF9vbmJvYXJkaW5nX2tleSI+CiAgICAgIDxkaXYgbmctc3dpdGNoPSJPbmJvYXJkaW5nLmN1cnJlbnRTdGVwLnNwZWNpYWxfb25ib2FyZGluZ19rZXkiPgogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzPSJzcGVjaWFsX29uYm9hcmRpbmcxIgogICAgICAgICAgbmctc3dpdGNoLXdoZW49InNwZWNpYWxfb25ib2FyZGluZzEiCiAgICAgICAgICBuZy1pbml0PSJxdWVzdGlvbiA9IE9uYm9hcmRpbmcuY3VycmVudFN0ZXAucXVlc3Rpb25zWzBdIj4KCiAgICAgICAgICA8aW1nIGNsYXNzPSJxdWVzdGlvbi1pY29uIiBuZy1zcmM9Int7IHF1ZXN0aW9uLmljb24udXJsIHwgc2tpbmlmeVVybCB9fSI+CiAgICAgICAgICA8cCBjbGFzcz0icXVlc3Rpb24tdGV4dCI+IHt7IHF1ZXN0aW9uLnRleHQgfX0gPC9wPgogICAgICAgICAgPGRpdgogICAgICAgICAgICBuZy1yZXBlYXQ9ImJ1dHRvbiBpbiBxdWVzdGlvbi5hbnN3ZXJzIgogICAgICAgICAgICBuZy1jbGFzcz0ie2J1dHRvbnM6IGJ1dHRvbi5sYWJlbCAmJiAhIGJ1dHRvbi5zaG93X3BvcHVwLCAncG9wdXAtbGluayc6IGJ1dHRvbi5zaG93X3BvcHVwfSI+CiAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICBuZy1pZj0iYnV0dG9uLmxhYmVsICYmICEgYnV0dG9uLnNob3dfcG9wdXAiCiAgICAgICAgICAgICAgY2xhc3M9ImppZmYtYnV0dG9uLXByaW1hcnkiCiAgICAgICAgICAgICAgbmctY2xpY2s9Ik9uYm9hcmRpbmcuY29sbGVjdEFuc3dlcnMocXVlc3Rpb24sIGJ1dHRvbi5pbnRlcm5hbF9pZCk7IE9uYm9hcmRpbmcubmV4dFNsaWRlKCkiPgogICAgICAgICAgICAgIHt7IGJ1dHRvbi5sYWJlbCB9fQogICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIGNsYXNzPSJwb3B1cC1saW5rIgogICAgICAgICAgICAgIG5nLWlmPSJidXR0b24uc2hvd19wb3B1cCI+CiAgICAgICAgICAgICAgPGgzPgogICAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgICAgaHJlZj0iamF2YXNjcmlwdDp2b2lkKDApIgogICAgICAgICAgICAgICAgICBjbGFzcz0iamlmZi1jb2xvci1saW5rIgogICAgICAgICAgICAgICAgICBuZy1jbGljaz0iT25ib2FyZGluZy5zaG93UG9wdXAocXVlc3Rpb24ucG9wdXBzW2J1dHRvbi5zaG93X3BvcHVwXSkiPgogICAgICAgICAgICAgICAgICB7eyBidXR0b24ubGFiZWwgfX0KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi50cmFuc2xhdGlvbmV4Y2hhbmdlLmNvbS90b29scy90bWwvc3RhYmxlL3RtbC5taW4uanMiPjwvc2NyaXB0Pgo=</text>
