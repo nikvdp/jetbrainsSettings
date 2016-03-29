@@ -321,11 +321,12 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainLicenseCtrl.js" timestamp="1458768291238">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainLicenseCtrl.js" timestamp="1459290020043">
         <mark key="'" line="12" column="3" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="21" column="4" />
+        <mark key="^" line="21" column="4" />
+        <mark key="." line="21" column="4" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" timestamp="1456185258221">
         <mark key="[" line="12" column="9" />
@@ -568,10 +569,6 @@
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1459284726081">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="92" column="32" />
-        <mark key="." line="92" column="32" />
-        <mark key="^" line="92" column="32" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/bower_components/jiff-js/dist/ng-jiff-bundle.js" timestamp="1450384180337">
         <mark key="'" line="51" column="7" />
@@ -756,8 +753,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Device.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -772,43 +769,43 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Device.</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUcmFuc2xhdGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>$ionicModal</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2goZSkgewo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Device.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY3RybC5UcmFuc2xhdGUgPSBUcmFuc2xhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>ctrl</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGN0cmwuYWdyZWVtZW50ID0gJHN0YXRlLmN1cnJlbnQuZGF0YS5wYXlsb2FkLmNvbnRlbnRzWzBdLnRleHQ7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>scope</text>
+        <text>P</text>
       </register>
-      <register name="5" type="4">
-        <text>trl</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGN0cmwuYWdyZWVtZW50ID0gJHN0YXRlLmN1cnJlbnQuZGF0YS5wYXlsb2FkLmNvbnRlbnRzWzBdLnRleHQ7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>trl</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY3RybC5hZ3JlZW1lbnQgPSAnJzsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dG1sLXRyIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY3RybC5hZ3JlZW1lbnQgPSAkc3RhdGUuY3VycmVudC5kYXRhLnBheWxvYWQuY29udGVudHNbMF0udGV4dDsK</text>
       </register>
-      <register name="8" type="4">
-        <text>}}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY3RybC5hZ3JlZW1lbnQgPSAkc3RhdGUuY3VycmVudC5kYXRhLnBheWxvYWQuY29udGVudHNbMF0udGV4dDsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dG1sLXRyIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY3RybC5hZ3JlZW1lbnQgPSAkc3RhdGUuY3VycmVudC5kYXRhLnBheWxvYWQuY29udGVudHNbMF0udGV4dDsKICAgIH0gY2F0Y2goZSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
