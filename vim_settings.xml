@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingPopupModal.html" timestamp="1459373210343">
-        <mark key="[" line="24" column="10" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1458754015718">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="17" />
@@ -31,6 +28,12 @@
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1459369738727">
         <mark key="'" line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" timestamp="1459375869700">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/deviceManagement.html" timestamp="1459284734329">
         <mark key="[" line="42" column="68" />
@@ -88,6 +91,13 @@
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" timestamp="1458001021273">
         <mark key="'" line="38" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" timestamp="1459376047492">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="77" column="40" />
+        <mark key="]" line="77" column="40" />
+        <mark key="^" line="77" column="15" />
+        <mark key="." line="77" column="40" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/routes/incentives/index.js" timestamp="1455745048343">
         <mark key="[" line="2" column="0" />
@@ -204,9 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
-      <jump line="70" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
-      <jump line="8" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
       <jump line="51" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/auth.js" />
@@ -304,13 +311,16 @@
       <jump line="25" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingPopupModal.html" />
       <jump line="18" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingPopupModal.html" />
       <jump line="11" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingPopupModal.html" />
+      <jump line="23" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
+      <jump line="78" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
+      <jump line="6" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHZhciB0aW1lU3RhbXAgPSBNYXRoLmZsb29yKG5ldyBEYXRlKCkuZ2V0VGltZSgpIC8gMTAwMDAwKS50b0ZpeGVkKDApOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>.apply(this, arguments)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -325,10 +335,10 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>case</text>
+        <text>.apply(this, arguments)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDaGFsbGVuZ2VzUmVkaXJlY3RTZXJ2aWNlXD4=</text>
+        <text>getImage</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ISEhISE+Pj4+</text>
@@ -336,41 +346,41 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>.apply(this, arguments)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICA8aW1nIGNsYXNzPSJxdWVzdGlvbi1pY29uIiBuZy1zcmM9Int7IHF1ZXN0aW9uLmljb24udXJsIHwgc2tpbmlmeVVybCB9fSI+CiAgPHAgY2xhc3M9InF1ZXN0aW9uLXRleHQgamlmZi1jb2xvci1wcmltYXJ5Ij4ge3sgcXVlc3Rpb24udGV4dCB9fSA8L3A+CiAgPHAgbmctaWY9InF1ZXN0aW9uLnN1YnRleHQiCiAgICAgY2xhc3M9InF1ZXN0aW9uLXN1YnRleHQgamlmZi1jb2xvci1zZWNvbmRhcnkiCiAgPgogICAge3sgcXVlc3Rpb24uc3VidGV4dCB9fQogIDwvcD4KICA8ZGl2IGNsYXNzPSJidXR0b25zIj4KICAgICAgPGRpdgogICAgICAgIG5nLXJlcGVhdD0iYnV0dG9uIGluIHF1ZXN0aW9uLmFuc3dlcnMiCiAgICAgICAgbmctaWY9ImJ1dHRvbi5sYWJlbCIKICAgICAgICBuZy1jbGljaz0iT25ib2FyZGluZy5jb2xsZWN0QW5zd2VycyhxdWVzdGlvbiwgYnV0dG9uLmludGVybmFsX2lkKTsgT25ib2FyZGluZy5uZXh0U2xpZGUoKTsgY2xvc2UoKSI+CiAgICAgICAge3sgYnV0dG9uLmxhYmVsIH19CiAgICAgIDwvZGl2PgogIDwvZGl2Pgo=</text>
+      <register name="2" type="4">
+        <text>function() {</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJidXR0b25zIj4KICAgICAgPGRpdgogICAgICAgIG5nLXJlcGVhdD0iYnV0dG9uIGluIHF1ZXN0aW9uLmFuc3dlcnMiCiAgICAgICAgbmctaWY9ImJ1dHRvbi5sYWJlbCIKICAgICAgICBuZy1jbGljaz0iT25ib2FyZGluZy5jb2xsZWN0QW5zd2VycyhxdWVzdGlvbiwgYnV0dG9uLmludGVybmFsX2lkKTsgT25ib2FyZGluZy5uZXh0U2xpZGUoKTsgY2xvc2UoKSI+CiAgICAgICAge3sgYnV0dG9uLmxhYmVsIH19CiAgICAgIDwvZGl2PgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZGVidWcoJz4+PiBnZXQgaW1hZ2UgY2FsbGVkIHdpdGg6ICcsIGFyZ3VtZW50cyk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>case</text>
+        <text>,</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHR5cGVvZiBzY29wZSkK</text>
+      <register name="6" type="4">
+        <text>ng-</text>
       </register>
-      <register name="7" type="4">
-        <text>scope.hasOwnProperty()close</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>'close'</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICA8aW1nIGNsYXNzPSJxdWVzdGlvbi1pY29uIiBuZy1zcmM9Int7IHF1ZXN0aW9uLmljb24udXJsIHwgc2tpbmlmeVVybCB9fSI+CiAgPHAgY2xhc3M9InF1ZXN0aW9uLXRleHQgamlmZi1jb2xvci1wcmltYXJ5Ij4ge3sgcXVlc3Rpb24udGV4dCB9fSA8L3A+CiAgPHAgbmctaWY9InF1ZXN0aW9uLnN1YnRleHQiCiAgICAgY2xhc3M9InF1ZXN0aW9uLXN1YnRleHQgamlmZi1jb2xvci1zZWNvbmRhcnkiCiAgPgogICAge3sgcXVlc3Rpb24uc3VidGV4dCB9fQogIDwvcD4KICA8ZGl2IGNsYXNzPSJidXR0b25zIj4KICAgICAgPGRpdgogICAgICAgIG5nLXJlcGVhdD0iYnV0dG9uIGluIHF1ZXN0aW9uLmFuc3dlcnMiCiAgICAgICAgbmctaWY9ImJ1dHRvbi5sYWJlbCIKICAgICAgICBuZy1jbGljaz0iT25ib2FyZGluZy5jb2xsZWN0QW5zd2VycyhxdWVzdGlvbiwgYnV0dG9uLmludGVybmFsX2lkKTsgT25ib2FyZGluZy5uZXh0U2xpZGUoKTsgY2xvc2UoKSI+CiAgICAgICAge3sgYnV0dG9uLmxhYmVsIH19CiAgICAgIDwvZGl2PgogIDwvZGl2Pgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJidXR0b25zIj4KICAgICAgPGRpdgogICAgICAgIG5nLXJlcGVhdD0iYnV0dG9uIGluIHF1ZXN0aW9uLmFuc3dlcnMiCiAgICAgICAgbmctaWY9ImJ1dHRvbi5sYWJlbCIKICAgICAgICBuZy1jbGljaz0iT25ib2FyZGluZy5jb2xsZWN0QW5zd2VycyhxdWVzdGlvbiwgYnV0dG9uLmludGVybmFsX2lkKTsgT25ib2FyZGluZy5uZXh0U2xpZGUoKTsgY2xvc2UoKSI+CiAgICAgICAge3sgYnV0dG9uLmxhYmVsIH19CiAgICAgIDwvZGl2PgogIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDaGFsbGVuZ2VzUmVkaXJlY3RTZXJ2aWNlXD4=</last-search>
+      <last-search>getImage</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDaGFsbGVuZ2VzUmVkaXJlY3RTZXJ2aWNlXD4=</last-pattern>
+      <last-pattern>getImage</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -378,7 +388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>param</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry>nsp</entry>
         <entry>getParticipant</entry>
@@ -398,6 +407,7 @@
         <entry>cordova</entry>
         <entry>color</entry>
         <entry encoding="base64">XDxDaGFsbGVuZ2VzUmVkaXJlY3RTZXJ2aWNlXD4=</entry>
+        <entry>getImage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2l0ZW1zL3F1ZXN0aW9uL2c=</entry>
@@ -417,8 +427,8 @@
         <entry>w!</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>s/endDate/startDate/g</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zLyQvOy9n</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
