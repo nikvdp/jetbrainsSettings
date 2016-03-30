@@ -151,10 +151,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" timestamp="1458950643208">
         <mark key="'" line="138" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1459196282001">
-        <mark key="[" line="39" column="30" />
-        <mark key="]" line="39" column="30" />
-        <mark key="." line="39" column="30" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1459368291063">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="57" column="10" />
+        <mark key="]" line="58" column="11" />
+        <mark key="." line="58" column="11" />
+        <mark key="^" line="58" column="11" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/jiffjs/lib/platform/JiffPlatform.js" timestamp="1453919459304">
         <mark key="[" line="9" column="0" />
@@ -207,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
-      <jump line="18" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
       <jump line="12" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
       <jump line="13" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
       <jump line="26" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/nsp.js" />
@@ -307,6 +307,8 @@
       <jump line="71" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/bump.js" />
       <jump line="10" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="77" column="57" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/bump.js" />
+      <jump line="60" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
