@@ -16,12 +16,12 @@
         <mark key="." line="18" column="62" />
         <mark key="^" line="18" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1459388834039">
-        <mark key="'" line="7" column="10" />
-        <mark key="[" line="67" column="67" />
-        <mark key="]" line="67" column="73" />
-        <mark key="^" line="67" column="73" />
-        <mark key="." line="67" column="73" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1459389770805">
+        <mark key="'" line="64" column="9" />
+        <mark key="[" line="59" column="13" />
+        <mark key="]" line="59" column="13" />
+        <mark key="^" line="62" column="50" />
+        <mark key="." line="59" column="13" />
       </file>
       <file name="/a.dummy" timestamp="1459384893049">
         <mark key="[" line="0" column="0" />
@@ -200,12 +200,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" timestamp="1459187452679">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/challenges-hybrid/src/components/store/controllers/StoreProductListCtrl.js" timestamp="1454535007575">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -229,16 +223,15 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" timestamp="1459369558652">
-        <mark key="'" line="98" column="15" />
-        <mark key="[" line="66" column="46" />
-        <mark key="]" line="66" column="46" />
-        <mark key="." line="66" column="46" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" timestamp="1459390501808">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="19" />
+        <mark key="." line="68" column="19" />
+        <mark key="^" line="68" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
-      <jump line="49" column="59" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
       <jump line="63" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
       <jump line="107" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/bootstrap.js" />
@@ -337,13 +330,15 @@
       <jump line="22" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
       <jump line="21" column="49" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
       <jump line="25" column="54" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
+      <jump line="64" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHZhciB0aW1lU3RhbXAgPSBNYXRoLmZsb29yKG5ldyBEYXRlKCkuZ2V0VGltZSgpIC8gMTAwMDAwKS50b0ZpeGVkKDApOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dG8g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -358,48 +353,43 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG8g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>selected:</text>
       </register>
-      <register name="0" type="4">
-        <text>jiff-bg-color-link: isSelected(answer)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdCA9IGdldEludGVyZXN0cyhhbnN3ZXIuc291cmNlKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dG8g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cmVzcG9uc2Ug</text>
+        <text>although this is just repeating above right now,</text>
       </register>
       <register name="3" type="4">
-        <text>for</text>
+        <text>answers</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bWV0aG9kIA==</text>
+        <text>prepoplate t</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">dGhpcyA=</text>
+        <text>the future</text>
       </register>
       <register name="6" type="4">
-        <text>The [ { answer: xxxx } ] format is required by roz service</text>
+        <text>source</text>
       </register>
       <register name="7" type="4">
-        <text>[
-        {
-          question_internal_id: ,
-          answers: response
-        }
-      ]</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>question.answer;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.*</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
