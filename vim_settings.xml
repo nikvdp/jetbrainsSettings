@@ -27,11 +27,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" timestamp="1459379775314">
-        <mark key="'" line="16" column="8" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" timestamp="1459387288377">
+        <mark key="'" line="25" column="54" />
+        <mark key="[" line="21" column="49" />
+        <mark key="]" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="21" column="49" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1459181558469">
         <mark key="[" line="23" column="0" />
@@ -249,9 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
       <jump line="49" column="59" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
       <jump line="63" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
@@ -349,13 +347,16 @@
       <jump line="37" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" />
       <jump line="15" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" />
       <jump line="22" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" />
+      <jump line="22" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
+      <jump line="21" column="49" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
+      <jump line="25" column="54" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHZhciB0aW1lU3RhbXAgPSBNYXRoLmZsb29yKG5ldyBEYXRlKCkuZ2V0VGltZSgpIC8gMTAwMDAwKS50b0ZpeGVkKDApOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.*</text>
+        <text>jiff-bg-color-link: isSelected(answer)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -373,10 +374,10 @@
         <text>.*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBseVN0eWxlc1w+</text>
+        <text>selected:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmV0IGlzOiAnLCByZXQpOwo=</text>
+      <register name="0" type="4">
+        <text>jiff-bg-color-link: isSelected(answer)</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
@@ -413,9 +414,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBseVN0eWxlc1w+</last-search>
+      <last-search>selected:</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBseVN0eWxlc1w+</last-pattern>
+      <last-pattern>selected:</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -423,7 +424,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDxwYXJ0aWNpcGFudElkXD4=</entry>
         <entry>displayProgram</entry>
         <entry>endDate</entry>
@@ -443,6 +443,7 @@
         <entry>&quot;</entry>
         <entry>+</entry>
         <entry encoding="base64">XDxhcHBseVN0eWxlc1w+</entry>
+        <entry>selected:</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2l0ZW1zL3F1ZXN0aW9uL2c=</entry>
