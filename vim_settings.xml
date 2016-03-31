@@ -19,6 +19,9 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1459369738727">
         <mark key="'" line="7" column="10" />
       </file>
+      <file name="/a.dummy" timestamp="1459384893049">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/S3.js" timestamp="1459382050376">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -69,6 +72,13 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1459299518252">
         <mark key="'" line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" timestamp="1459386079000">
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="52" column="13" />
+        <mark key="." line="52" column="13" />
+        <mark key="^" line="52" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" timestamp="1453755391171">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -77,12 +87,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" timestamp="1458950643208">
         <mark key="'" line="138" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" timestamp="1459383461598">
-        <mark key="'" line="34" column="8" />
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="16" />
-        <mark key="^" line="11" column="16" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" timestamp="1459384766256">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="52" />
+        <mark key="." line="15" column="52" />
+        <mark key="^" line="15" column="52" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsDetailsCtrl.js" timestamp="1459193963277">
         <mark key="[" line="119" column="0" />
@@ -110,6 +120,9 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/a.txt" timestamp="1459183537576">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" timestamp="1457562719433">
         <mark key="[" line="59" column="0" />
@@ -143,6 +156,9 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/styles/EventsList.less" timestamp="1456775064191">
+        <mark key="[" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1459284726081">
         <mark key="'" line="24" column="4" />
@@ -233,11 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="32" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="38" column="56" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" />
-      <jump line="912" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="76" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
-      <jump line="100" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="113" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="16" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
       <jump line="25" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/verifyModal.js" />
@@ -333,13 +344,18 @@
       <jump line="38" column="59" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" />
       <jump line="42" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" />
       <jump line="29" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" />
+      <jump line="13" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" />
+      <jump line="37" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" />
+      <jump line="22" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHZhciB0aW1lU3RhbXAgPSBNYXRoLmZsb29yKG5ldyBEYXRlKCkuZ2V0VGltZSgpIC8gMTAwMDAwKS50b0ZpeGVkKDApOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGxpZ2h0Ymx1ZTsK</text>
+      <register name="&quot;" type="4">
+        <text>.*</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -354,10 +370,10 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cssAttrs</text>
+        <text>.*</text>
       </register>
       <register name="/" type="4">
-        <text>+</text>
+        <text encoding="base64">XDxhcHBseVN0eWxlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmV0IGlzOiAnLCByZXQpOwo=</text>
@@ -365,41 +381,41 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGxpZ2h0Ymx1ZTsK</text>
+      <register name="1" type="4">
+        <text>.*</text>
       </register>
       <register name="2" type="4">
-        <text>cssAttrs</text>
+        <text>css.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text>color</text>
+        <text>, cssProps</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>styles</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnMSByZXQgaXM6ICcsIHJldCk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">dG8g</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJldDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY2xhc3Nlc0xlbmd0aCA9IDsK</text>
+      <register name="8" type="4">
+        <text>;</text>
       </register>
-      <register name="9" type="4">
-        <text>classesLength</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>+</last-search>
+      <last-search encoding="base64">XDxhcHBseVN0eWxlc1w+</last-search>
       <last-offset />
-      <last-pattern>+</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBseVN0eWxlc1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -407,7 +423,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getParticipant</entry>
         <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDxwYXJ0aWNpcGFudElkXD4=</entry>
         <entry>displayProgram</entry>
@@ -427,6 +442,7 @@
         <entry>getImage</entry>
         <entry>&quot;</entry>
         <entry>+</entry>
+        <entry encoding="base64">XDxhcHBseVN0eWxlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2l0ZW1zL3F1ZXN0aW9uL2c=</entry>
