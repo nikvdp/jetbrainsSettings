@@ -34,12 +34,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/humanize.js" timestamp="1459807527879">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/humanize.js" timestamp="1459809630854">
         <mark key="'" line="14" column="22" />
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="5" />
-        <mark key="^" line="22" column="5" />
-        <mark key="." line="22" column="5" />
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="64" />
+        <mark key="^" line="6" column="64" />
+        <mark key="." line="6" column="64" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1459181558469">
         <mark key="[" line="23" column="0" />
@@ -135,11 +135,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" timestamp="1459807361759">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="2" />
-        <mark key="." line="39" column="2" />
-        <mark key="^" line="39" column="2" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" timestamp="1459809589751">
+        <mark key="'" line="51" column="38" />
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="29" />
+        <mark key="^" line="40" column="62" />
+        <mark key="." line="40" column="29" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" timestamp="1458768672573">
         <mark key="'" line="41" column="0" />
@@ -268,7 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
       <jump line="42" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
       <jump line="41" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
@@ -368,13 +368,14 @@
       <jump line="40" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/productType.js" />
       <jump line="14" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/humanize.js" />
+      <jump line="51" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogVW5mb3J0dW5hdGVseSB0aGUgYmFja2VuZCByZXR1cm5zIGBudWxsYCBmb3IgZWFjaCBvcHRpb24ncyBgbmFtZWAgYXR0cmlidXRlCiAgICAgKiBzbyB0aGUgb25seSB3YXkgdG8gZ2V0IGEgaHVtYW4gcmVhZGFibGUgdmFsdWUgaXMgdG8gbXVuZ2UgdGhlIGB2YWx1ZWAgYXR0cmlidXRlCiAgICAgKiBpbnRvIHNvbWV0aGluZyBodW1hbiByZWFkYWJsZSBieSByZXBsYWNpbmcgYF9gcyB3aXRoIHNwYWNlcyBhbmQgY2FwaXRhbGl6aW5nCiAgICAgKiB0aGUgZmlyc3QgbGV0dGVyIG9mIGVhY2ggd29yZAogICAgICoKICAgICAqIEBwYXJhbSBpbnRlcm5hbElkCiAgICAgKi8KICAgIHRoaXMuaHVtYW5pemUgPSAoaW50ZXJuYWxJZCkgPT4gewogICAgICByZXR1cm4gaW50ZXJuYWxJZAogICAgICAgIC5zcGxpdCgnXycpCiAgICAgICAgLm1hcChmdW5jdGlvbiAod29yZCkgewogICAgICAgICAgcmV0dXJuIHdvcmQucmVwbGFjZSgvXihbQS16XSkvLCBmdW5jdGlvbiAoJDEpIHsKICAgICAgICAgICAgcmV0dXJuICQxLnRvVXBwZXJDYXNlKCk7CiAgICAgICAgICB9KTsKICAgICAgICB9KQogICAgICAgIC5qb2luKCcgJyk7CiAgICB9OwoKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>s</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -389,7 +390,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>add program</text>
@@ -401,31 +402,31 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>s</text>
       </register>
       <register name="2" type="4">
-        <text>store.product.</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="5" type="4">
         <text>;</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dGhpcy5odW1hbml6ZSA9IA==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZnVuY3Rpb24ocHJvZHVjdENvbGxlY3Rpb24sIGNhdGVnb3J5SWQpIHsKICAgICAgdmFyIGksCiAgICAgICAgbmV3Q29sbGVjdGlvbjsKCiAgICAgIHZhciByZXQgPSBwcm9kdWN0Q29sbGVjdGlvbjsKCiAgICAgIGlmIChwcm9kdWN0Q29sbGVjdGlvbiAhPT0gdW5kZWZpbmVkICYmIGNhdGVnb3J5SWQgIT09IHVuZGVmaW5lZCkgewogICAgICAgIG5ld0NvbGxlY3Rpb24gPSBbXTsKCiAgICAgICAgZm9yIChpID0gMDsgaSA8IHByb2R1Y3RDb2xsZWN0aW9uLmxlbmd0aDsgaSArPSAxKSB7CiAgICAgICAgICBpZiAocHJvZHVjdENvbGxlY3Rpb25baV0uY2F0YWxvZ3VlQ2F0ZWdvcnlJZHMuaW5kZXhPZihjYXRlZ29yeUlkKSAhPT0gLTEpIHsKICAgICAgICAgICAgbmV3Q29sbGVjdGlvbi5wdXNoKHByb2R1Y3RDb2xsZWN0aW9uW2ldKTsKICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldCA9IG5ld0NvbGxlY3Rpb247CiAgICAgIH0KCiAgICAgIHJldHVybiByZXQ7CiAgICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text>productType</text>
-      </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByb2R1Y3Quc2VsZWN0ZWRPcHRpb25zID0ge307CgogICAgaWYgKHRoaXMucHJvZHVjdC5zaXplKSBwcm9kdWN0LnNlbGVjdGVkT3B0aW9ucy5zaXplID0gdGhpcy5wcm9kdWN0LnNpemU7CiAgICBpZiAodGhpcy5wcm9kdWN0LmNvbG9yKSBwcm9kdWN0LnNlbGVjdGVkT3B0aW9ucy5jb2xvciA9IHRoaXMucHJvZHVjdC5jb2xvcjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByb2R1Y3Quc2VsZWN0ZWRPcHRpb25zID0ge307Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
