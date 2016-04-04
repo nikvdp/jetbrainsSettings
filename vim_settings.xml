@@ -66,6 +66,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1459299518252">
         <mark key="'" line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/views/productOptions.html" timestamp="1459804213909">
+        <mark key="[" line="48" column="79" />
+        <mark key="]" line="48" column="79" />
+        <mark key="^" line="48" column="79" />
+        <mark key="." line="48" column="79" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" timestamp="1459386079000">
         <mark key="'" line="22" column="13" />
       </file>
@@ -117,11 +123,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" timestamp="1459548476888">
-        <mark key="'" line="52" column="1" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" timestamp="1459803740498">
+        <mark key="'" line="32" column="3" />
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="33" column="56" />
+        <mark key="." line="33" column="56" />
+        <mark key="^" line="33" column="56" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" timestamp="1458768672573">
         <mark key="'" line="41" column="0" />
@@ -245,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="3" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" />
       <jump line="22" column="2" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" />
       <jump line="40" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" />
@@ -345,13 +351,14 @@
       <jump line="0" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
       <jump line="29" column="64" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
       <jump line="53" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
+      <jump line="32" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgZnVuY3Rpb24gZ2V0UGFydGljaXBhbnRHdWlkKCkgewogICAgICAgIHJldHVybiBXb3JrZmxvd0RpcmVjdG9yLmdldFBhcnRpY2lwYW50KCk7CiAgICAgIH0KCiAgICAgIGZ1bmN0aW9uIGdldEludGVyZXN0c0NhdGFsb2dHdWlkKCkgewogICAgICAgIHJldHVybiBXb3JrZmxvd0RpcmVjdG9yLmdldEludGVyZXN0c0NhdGFsb2dHdWlkKCk7CiAgICAgIH0KCiAgICAgIGZ1bmN0aW9uIGdldEludGVyZXN0cyhzb3VyY2VVcmwpIHsKICAgICAgICB2YXIgaW50ZXJlc3RDYXRHdWlkID0gZ2V0SW50ZXJlc3RzQ2F0YWxvZ0d1aWQoKTsKICAgICAgICB2YXIgcGFydGljaXBhbnRHdWlkID0gZ2V0UGFydGljaXBhbnRHdWlkKCk7CgogICAgICAgIHJldHVybiBJbnRlcmVzdHNTZXJ2aWNlQXBpCiAgICAgICAgICAuZ2V0SW50ZXJlc3RzKGludGVyZXN0Q2F0R3VpZCwgcGFydGljaXBhbnRHdWlkLCBzb3VyY2VVcmwpCiAgICAgICAgICAudGhlbihkZURhdGEpCiAgICAgICAgICAudGhlbihmdW5jdGlvbihpbnRlcmVzdHNMaXN0KSB7CiAgICAgICAgICAgIHJldHVybiBpbnRlcmVzdHNMaXN0LmludGVyZXN0cy5tYXAoaW50ZXJlc3RBbnN3ZXJUb1F1ZXN0aW9uQW5zd2VyKTsKICAgICAgICAgIH0pOwogICAgICB9CgogICAgICAvKioKICAgICAgICogQ29udmVydCBhbiAiYW5zd2VyIiBmcm9tIHRoZSBpbnRlcmVzdHMgc2VydmljZSBpbnRvIHRoZSBhbnN3ZXIgZm9ybWF0CiAgICAgICAqIHVzZWQgYnkgUXVlc3Rpb25zCiAgICAgICAqCiAgICAgICAqIEBwYXJhbSBxdWVzdGlvbgogICAgICAgKiBAcmV0dXJucyB7Kn0KICAgICAgICovCiAgICAgIGZ1bmN0aW9uIGludGVyZXN0QW5zd2VyVG9RdWVzdGlvbkFuc3dlcihxdWVzdGlvbikgewogICAgICAgIHF1ZXN0aW9uLmxhYmVsID0gcXVlc3Rpb24uZGlzcGxheVRleHQ7CiAgICAgICAgcXVlc3Rpb24uaW50ZXJuYWxfaWQgPSBxdWVzdGlvbi5pbnRlcmVzdFR5cGUuaW50ZXJlc3RUeXBlS2V5OwogICAgICAgIHJldHVybiBxdWVzdGlvbjsKICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>optionType</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -366,43 +373,43 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>link-primary</text>
+        <text>optionType</text>
       </register>
       <register name="/" type="4">
         <text>add program</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZUV4dGVybmFsQ2FsbCA9IHRydWU7Cg==</text>
+      <register name="0" type="4">
+        <text>this.product.productOptionsHash[option.type]</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text>optionType</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text>Color</text>
       </register>
       <register name="3" type="4">
-        <text>link-primary</text>
+        <text>optionType as optionType.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2NvcGU6IHsKICAgICAgICBvbkFuc3dlcjogJz0nLAogICAgICAgIHF1ZXN0aW9uRGF0YTogJz0nCiAgICAgIH0sCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">b3B0aW9uIGFzIG9wdGlvbi5uYW1lIGZvciBvcHRpb24gaW4g</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2NvcGU6IHsKICAgICAgICBvbkFuc3dlcjogJz0nLAogICAgICAgIHF1ZXN0aW9uRGF0YTogJz0nCiAgICAgIH0sCg==</text>
+      <register name="5" type="4">
+        <text>.name in option.</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IGNsYXNzPSJpdGVtIGl0ZW0tdGV4dC13cmFwIg==</text>
+        <text>option.name as option.value | titlecase for optionVal in option</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PC9pb24tbGlzdD4K</text>
+      <register name="7" type="4">
+        <text>append</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGlvbi1saXN0IHNob3ctcmVvcmRlcj0idHJ1ZSI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxpb24tcmVvcmRlci1idXR0b24gY2xhc3M9Imlvbi1uYXZpY29uIiBvbi1yZW9yZGVyPSJtb3ZlSXRlbShhbnN3ZXIsICRmcm9tSW5kZXgsICR0b0luZGV4KSI+CiAgICA8L2lvbi1yZW9yZGVyLWJ1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJpdGVtIGl0ZW0taW5wdXQgdHJhbnNwYXJlbnQgaXRlbS1zZWxlY3QtY29weSBqaWZmLWRpdmlkZXIiIG5nLWlmPSJzdG9yZS5wcm9kdWN0LnNpemVzLmxlbmd0aCI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dC1sYWJlbCI+CiAgICAgICAgICAgIDxoNSBjbGFzcz0iamlmZi1jb2xvci1wcmltYXJ5IHRleHRDb2xvcjEiPlNpemU8L2g1PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8c2VsZWN0IG5nLW1vZGVsPSJzdG9yZS5wcm9kdWN0LnNpemUiCiAgICAgICAgICAgIGNsYXNzPSJ0cmFuc3BhcmVudCBqaWZmLWNvbG9yLXByaW1hcnkgdGV4dENvbG9yMSIKICAgICAgICAgICAgbmctb3B0aW9ucz0ic2l6ZSBhcyBzaXplLnZhbHVlIGZvciBzaXplIGluIHN0b3JlLnByb2R1Y3Quc2l6ZXMiPgogICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICA8aSBjbGFzcz0iaWNvbiBpb24tY2hldnJvbi1yaWdodCBqaWZmIGppZmYtY29sb3ItcHJpbWFyeSB0ZXh0Q29sb3IxIj48L2k+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
