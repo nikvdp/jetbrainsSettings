@@ -58,6 +58,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/workflow.js" timestamp="1459890529338">
+        <mark key="'" line="48" column="31" />
+        <mark key="[" line="45" column="61" />
+        <mark key="]" line="45" column="63" />
+        <mark key="^" line="45" column="63" />
+        <mark key="." line="45" column="63" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/providers/tmlProvider.js" timestamp="1459545887096" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1458760170976">
         <mark key="'" line="14" column="2" />
@@ -210,13 +217,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" timestamp="1459396630222">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/providers/core.js" timestamp="1450828581193">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -272,6 +272,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="25" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/views/confirmation.html" timestamp="1459890959666">
+        <mark key="[" line="43" column="43" />
+        <mark key="]" line="43" column="48" />
+        <mark key="." line="43" column="48" />
+        <mark key="^" line="43" column="48" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/scripts/setup" timestamp="1458170806644">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -282,8 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
-      <jump line="43" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
       <jump line="69" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
       <jump line="7" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
       <jump line="16" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingPopupModal.html" />
@@ -382,13 +386,15 @@
       <jump line="51" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" />
       <jump line="794" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" />
+      <jump line="48" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/workflow.js" />
+      <jump line="32" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogVW5mb3J0dW5hdGVseSB0aGUgYmFja2VuZCByZXR1cm5zIGBudWxsYCBmb3IgZWFjaCBvcHRpb24ncyBgbmFtZWAgYXR0cmlidXRlCiAgICAgKiBzbyB0aGUgb25seSB3YXkgdG8gZ2V0IGEgaHVtYW4gcmVhZGFibGUgdmFsdWUgaXMgdG8gbXVuZ2UgdGhlIGB2YWx1ZWAgYXR0cmlidXRlCiAgICAgKiBpbnRvIHNvbWV0aGluZyBodW1hbiByZWFkYWJsZSBieSByZXBsYWNpbmcgYF9gcyB3aXRoIHNwYWNlcyBhbmQgY2FwaXRhbGl6aW5nCiAgICAgKiB0aGUgZmlyc3QgbGV0dGVyIG9mIGVhY2ggd29yZAogICAgICoKICAgICAqIEBwYXJhbSBpbnRlcm5hbElkCiAgICAgKi8KICAgIHRoaXMuaHVtYW5pemUgPSAoaW50ZXJuYWxJZCkgPT4gewogICAgICByZXR1cm4gaW50ZXJuYWxJZAogICAgICAgIC5zcGxpdCgnXycpCiAgICAgICAgLm1hcChmdW5jdGlvbiAod29yZCkgewogICAgICAgICAgcmV0dXJuIHdvcmQucmVwbGFjZSgvXihbQS16XSkvLCBmdW5jdGlvbiAoJDEpIHsKICAgICAgICAgICAgcmV0dXJuICQxLnRvVXBwZXJDYXNlKCk7CiAgICAgICAgICB9KTsKICAgICAgICB9KQogICAgICAgIC5qb2luKCcgJyk7CiAgICB9OwoKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">OnRoaXMg</text>
+        <text>$index != Object.keys(purchase.product.selectedOptions).length - 1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -403,43 +409,43 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OnRoaXMg</text>
+        <text>$index != Object.keys(purchase.product.selectedOptions).length - 1</text>
       </register>
       <register name="/" type="4">
         <text>add program</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKYW5ndWxhcgogIC5tb2R1bGUoJ2ppZmYuSW5jZW50aXZlcy5TdG9yZScpCiAgLmZpbHRlcigncHJvZHVjdFR5cGUnLCBmdW5jdGlvbigpIHsKICAgIHJldHVybiBmdW5jdGlvbihwcm9kdWN0Q29sbGVjdGlvbiwgY2F0ZWdvcnlJZCkgewogICAgICB2YXIgaSwKICAgICAgICBuZXdDb2xsZWN0aW9uOwoKICAgICAgdmFyIHJldCA9IHByb2R1Y3RDb2xsZWN0aW9uOwoKICAgICAgaWYgKHByb2R1Y3RDb2xsZWN0aW9uICE9PSB1bmRlZmluZWQgJiYgY2F0ZWdvcnlJZCAhPT0gdW5kZWZpbmVkKSB7CiAgICAgICAgbmV3Q29sbGVjdGlvbiA9IFtdOwoKICAgICAgICBmb3IgKGkgPSAwOyBpIDwgcHJvZHVjdENvbGxlY3Rpb24ubGVuZ3RoOyBpICs9IDEpIHsKICAgICAgICAgIGlmIChwcm9kdWN0Q29sbGVjdGlvbltpXS5jYXRhbG9ndWVDYXRlZ29yeUlkcy5pbmRleE9mKGNhdGVnb3J5SWQpICE9PSAtMSkgewogICAgICAgICAgICBuZXdDb2xsZWN0aW9uLnB1c2gocHJvZHVjdENvbGxlY3Rpb25baV0pOwogICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0ID0gbmV3Q29sbGVjdGlvbjsKICAgICAgfQoKICAgICAgcmV0dXJuIHJldDsKICAgIH07CiAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>purchase.product.selectedOptions.</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">OnRoaXMg</text>
+        <text>$index != Object.keys(purchase.product.selectedOptions).length - 1</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">fCA=</text>
+        <text>product</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dGl0bGVjYXNlIA==</text>
+        <text>name</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>product</text>
       </register>
       <register name="5" type="4">
-        <text>trl(</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">VEVTVDogJmx0OyB7eyBhY3RpdmVDYXRlZ29yeS5uYW1lIH19ICZndDs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIG5nLWlmPSJwdXJjaGFzZS5wcm9kdWN0LnNlbGVjdGVkT3B0aW9ucy5jb2xvciI+e3sgcHVyY2hhc2UucHJvZHVjdC5zZWxlY3RlZE9wdGlvbnMuY29sb3IudmFsdWUgfX08L3NwYW4+CiAgICAgICAgICA8c3BhbiBuZy1pZj0icHVyY2hhc2UucHJvZHVjdC5zZWxlY3RlZE9wdGlvbnMuc2l6ZSI+LCB7eyBwdXJjaGFzZS5wcm9kdWN0LnNlbGVjdGVkT3B0aW9ucy5zaXplLnZhbHVlIH19PC9zcGFuPgo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PC90bWwtdHI+</text>
+        <text>purchase.product.selectedOptions.color.</text>
       </register>
       <register name="8" type="4">
-        <text>tracker do I have?</text>
+        <text encoding="base64">IGluIG5nLWlmPSJwdXJjaGFzZS5wcm9kdWN0LnNlbGVjdGVkT3B0aW9ucy5jb2xvciI=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PHRtbC10cj4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIHNlbGVjdGVkT3B0aW9ucyBtYXkgY29udGFpbiBjb2xvciBhbmQvb3Igc2l6ZSBvcHRpb24ocykKICAgICAgICAgIGlmIChwcm9kdWN0LnNlbGVjdGVkT3B0aW9ucyAmJiBwcm9kdWN0LnNlbGVjdGVkT3B0aW9ucy5jb2xvcikgewogICAgICAgICAgICBzZWxlY3RlZE9wdGlvbnMucHVzaChwcm9kdWN0LnNlbGVjdGVkT3B0aW9ucy5jb2xvci5pZCk7CiAgICAgICAgICB9CgogICAgICAgICAgaWYgKHByb2R1Y3Quc2VsZWN0ZWRPcHRpb25zICYmIHByb2R1Y3Quc2VsZWN0ZWRPcHRpb25zLnNpemUpIHsKICAgICAgICAgICAgc2VsZWN0ZWRPcHRpb25zLnB1c2gocHJvZHVjdC5zZWxlY3RlZE9wdGlvbnMuc2l6ZS5pZCk7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
