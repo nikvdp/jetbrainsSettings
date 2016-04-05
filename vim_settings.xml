@@ -202,6 +202,9 @@
         <mark key="." line="304" column="52" />
         <mark key="^" line="304" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" timestamp="1459887366599">
+        <mark key="'" line="794" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/auth.html" timestamp="1452104557108">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -279,8 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
-      <jump line="42" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
       <jump line="41" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
       <jump line="43" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
       <jump line="69" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
@@ -379,6 +380,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/productType.js" />
       <jump line="14" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/humanize.js" />
       <jump line="51" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" />
+      <jump line="794" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
