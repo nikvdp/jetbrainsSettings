@@ -78,11 +78,11 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1459299518252">
         <mark key="'" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/views/productOptions.html" timestamp="1459813549978">
-        <mark key="[" line="2" column="71" />
-        <mark key="]" line="2" column="71" />
-        <mark key="^" line="2" column="73" />
-        <mark key="." line="2" column="71" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/views/productOptions.html" timestamp="1459817866200">
+        <mark key="[" line="48" column="85" />
+        <mark key="]" line="48" column="85" />
+        <mark key="^" line="48" column="85" />
+        <mark key="." line="48" column="85" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" timestamp="1459386079000">
         <mark key="'" line="22" column="13" />
@@ -125,11 +125,10 @@
         <mark key="]" line="16" column="33" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/chooseTracker.html" timestamp="1459814039884">
-        <mark key="[" line="14" column="60" />
-        <mark key="]" line="14" column="94" />
-        <mark key="." line="14" column="94" />
-        <mark key="^" line="14" column="94" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/chooseTracker.html" timestamp="1459817775966">
+        <mark key="[" line="14" column="61" />
+        <mark key="]" line="14" column="61" />
+        <mark key="." line="14" column="61" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/setup-dev-environment.sh" timestamp="1450761121989">
         <mark key="[" line="5" column="0" />
@@ -386,7 +385,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogVW5mb3J0dW5hdGVseSB0aGUgYmFja2VuZCByZXR1cm5zIGBudWxsYCBmb3IgZWFjaCBvcHRpb24ncyBgbmFtZWAgYXR0cmlidXRlCiAgICAgKiBzbyB0aGUgb25seSB3YXkgdG8gZ2V0IGEgaHVtYW4gcmVhZGFibGUgdmFsdWUgaXMgdG8gbXVuZ2UgdGhlIGB2YWx1ZWAgYXR0cmlidXRlCiAgICAgKiBpbnRvIHNvbWV0aGluZyBodW1hbiByZWFkYWJsZSBieSByZXBsYWNpbmcgYF9gcyB3aXRoIHNwYWNlcyBhbmQgY2FwaXRhbGl6aW5nCiAgICAgKiB0aGUgZmlyc3QgbGV0dGVyIG9mIGVhY2ggd29yZAogICAgICoKICAgICAqIEBwYXJhbSBpbnRlcm5hbElkCiAgICAgKi8KICAgIHRoaXMuaHVtYW5pemUgPSAoaW50ZXJuYWxJZCkgPT4gewogICAgICByZXR1cm4gaW50ZXJuYWxJZAogICAgICAgIC5zcGxpdCgnXycpCiAgICAgICAgLm1hcChmdW5jdGlvbiAod29yZCkgewogICAgICAgICAgcmV0dXJuIHdvcmQucmVwbGFjZSgvXihbQS16XSkvLCBmdW5jdGlvbiAoJDEpIHsKICAgICAgICAgICAgcmV0dXJuICQxLnRvVXBwZXJDYXNlKCk7CiAgICAgICAgICB9KTsKICAgICAgICB9KQogICAgICAgIC5qb2luKCcgJyk7CiAgICB9OwoKICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}}</text>
+        <text encoding="base64">OnRoaXMg</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -401,7 +400,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}}</text>
+        <text encoding="base64">OnRoaXMg</text>
       </register>
       <register name="/" type="4">
         <text>add program</text>
@@ -413,31 +412,31 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>}}</text>
+        <text encoding="base64">OnRoaXMg</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">dG1sLXRyIA==</text>
+        <text encoding="base64">fCA=</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text encoding="base64">dGl0bGVjYXNlIA==</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">fX0g</text>
+        <text>trl(</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHRtbC10cg==</text>
+        <text encoding="base64">VEVTVDogJmx0OyB7eyBhY3RpdmVDYXRlZ29yeS5uYW1lIH19ICZndDs=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvZHVjdC5jb2xvcnMgPSBbXTsKICAgIHRoaXMucHJvZHVjdC5zaXplcyA9IFtdOwoK</text>
+      <register name="7" type="4">
+        <text encoding="base64">PC90bWwtdHI+</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>tracker do I have?</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PHRtbC10cj4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
