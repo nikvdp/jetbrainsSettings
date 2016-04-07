@@ -57,12 +57,12 @@
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/middle-tier/.jshintrc" timestamp="1459989720599">
+      <file name="$USER_HOME$/Code/work/jiff/middle-tier/.jshintrc" timestamp="1459992245093">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="11" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/routes/incentives/index.js" timestamp="1459903081219">
         <mark key="[" line="0" column="30" />
@@ -113,12 +113,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" timestamp="1459989609019">
-        <mark key="'" line="90" column="55" />
-        <mark key="[" line="101" column="74" />
-        <mark key="]" line="101" column="74" />
-        <mark key="^" line="101" column="74" />
-        <mark key="." line="101" column="74" />
+      <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" timestamp="1459992254212">
+        <mark key="'" line="109" column="35" />
+        <mark key="[" line="79" column="74" />
+        <mark key="]" line="79" column="74" />
+        <mark key="^" line="79" column="74" />
+        <mark key="." line="79" column="74" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" timestamp="1459987993363">
         <mark key="'" line="0" column="0" />
@@ -189,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MultipleChoiceQuestion.js" />
       <jump line="17" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
       <jump line="61" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
       <jump line="60" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
@@ -289,6 +288,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/bin/www" />
       <jump line="90" column="55" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/.jshintrc" />
+      <jump line="109" column="35" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
