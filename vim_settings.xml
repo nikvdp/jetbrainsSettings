@@ -59,10 +59,10 @@
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/.jshintrc" timestamp="1459992245093">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/routes/incentives/index.js" timestamp="1459903081219">
         <mark key="[" line="0" column="30" />
@@ -113,15 +113,8 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/lib/routes.js" timestamp="1459912780534">
         <mark key="'" line="100" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/middle-tier/app.js" timestamp="1459988839449">
-        <mark key="'" line="43" column="14" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" timestamp="1459992254212">
-        <mark key="'" line="109" column="35" />
+        <mark key="'" line="110" column="35" />
         <mark key="[" line="79" column="74" />
         <mark key="]" line="79" column="74" />
         <mark key="^" line="79" column="74" />
@@ -133,6 +126,13 @@
         <mark key="]" line="10" column="43" />
         <mark key="." line="36" column="1" />
         <mark key="^" line="33" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1460140291807">
+        <mark key="'" line="253" column="11" />
+        <mark key="[" line="384" column="19" />
+        <mark key="]" line="384" column="20" />
+        <mark key="." line="384" column="20" />
+        <mark key="^" line="384" column="20" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/deviceManagement.html" timestamp="1459284734329">
         <mark key="[" line="42" column="68" />
@@ -196,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
       <jump line="9" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
       <jump line="31" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
       <jump line="30" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
@@ -296,13 +295,14 @@
       <jump line="109" column="35" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/tests/jiff/httpPassthrough.js" />
       <jump line="20" column="38" filename="$USER_HOME$/Code/work/jiff/middle-tier/tests/jiff/httpPassthrough.js" />
+      <jump line="253" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CmlmICh5YXJncy5kZXYpIHsKICBnbG9iYWwuZGV2bW9kZSA9IHRydWU7Cn0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>globals</text>
+        <text encoding="base64">c2ZhO2xzZGtmamE7bHNrZGZqIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -317,7 +317,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>globals</text>
+        <text encoding="base64">c2ZhO2xzZGtmamE7bHNrZGZqIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqd3RcPg==</text>
@@ -329,31 +329,31 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>globals</text>
+        <text encoding="base64">c2ZhO2xzZGtmamE7bHNrZGZqIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAianNoaW50Q29uZmlnIjogIi4vLmpzaGludHJjIiwK</text>
+      <register name="2" type="4">
+        <text>toast</text>
       </register>
       <register name="3" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhY3Rpb246IAo=</text>
       </register>
       <register name="5" type="4">
-        <text>have any prefixed slashes</text>
+        <text>dashboard</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Ly8gcmVnZXggaXMganVzdCB0byA=</text>
+        <text>state</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9UTFNfUkVKRUNUX1VOQVVUSE9SSVpFRCA9ICIwIjsK</text>
+      <register name="7" type="4">
+        <text>?asdfasdf</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>globals</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3lhcmdzLmRldiBpczogJywgeWFyZ3MuZGV2KTsK</text>
+        <text encoding="base64">ICAianNoaW50Q29uZmlnIjogIi4vLmpzaGludHJjIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
