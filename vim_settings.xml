@@ -208,12 +208,12 @@
         <mark key="." line="304" column="52" />
         <mark key="^" line="304" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" timestamp="1460489946734">
-        <mark key="'" line="14" column="25" />
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="18" column="6" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" timestamp="1460501878115">
+        <mark key="'" line="65" column="26" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="66" column="51" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" timestamp="1459887366599">
         <mark key="'" line="794" column="0" />
@@ -290,8 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
-      <jump line="106" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
       <jump line="109" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
       <jump line="127" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
       <jump line="65" column="49" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
@@ -390,13 +388,15 @@
       <jump line="14" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/login.html" />
       <jump line="84" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/login.html" />
+      <jump line="40" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" />
+      <jump line="65" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIHNhbml0aXplSnVjYW1lcmFPdXRwdXQoYmFzZTY0KSB7CiAgICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9hLzE2MjQ1NzY4CiAgICAgIHZhciBieXRlQ2hhcjsKICAgICAgdHJ5IHsKICAgICAgICBieXRlQ2hhciA9IHdpbmRvdy5hdG9iKGJhc2U2NCk7CiAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAvLyBkZXBlbmRpbmcgd2hpY2ggdmVyc2lvbiBvZiBjYW1lcmEgcGx1Z2luIHdlJ3JlIHVzaW5nIHdlIG1heSBnZXQgYSBzdHJpbmdpZmllZCBqc29uCiAgICAgICAgLy8gb2JqZWN0IGJhY2ssIG9yIGp1c3QgdGhlIGJhc2U2NCBzdHJpbmcgZGlyZWN0bHkKICAgICAgICBieXRlQ2hhciA9IHdpbmRvdy5hdG9iKEpTT04ucGFyc2UoYmFzZTY0KS5iYXNlNjQpOwogICAgICB9CgogICAgICB2YXIgYnl0ZU51bWJlcnMgPSBBcnJheS5mcm9tKHtsZW5ndGg6IGJ5dGVDaGFyLmxlbmd0aH0sIGZ1bmN0aW9uKHYsIGspIHsKICAgICAgICByZXR1cm4gYnl0ZUNoYXIuY2hhckNvZGVBdChrKTsKICAgICAgfSk7CgogICAgICB2YXIgYnl0ZUFycmF5ID0gbmV3IFVpbnQ4QXJyYXkoYnl0ZU51bWJlcnMpOwogICAgICByZXR1cm4gbmV3IEJsb2IoW2J5dGVBcnJheV0sIHt0eXBlOiAnaW1hZ2UvcG5nJ30pOwogICAgfQoK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8L2lvbi1jb250ZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NvbWV0aGluZyB3ZW50IHdyb25nIHdpdGggZ2V0dGluZyBjYW1lcmEgcGVybWlzc2lvbnMhISEnLCBhcmd1bWVudHMpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -411,10 +411,10 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>', arguments);</text>
       </register>
       <register name="/" type="4">
-        <text>toast</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24oYmxvYikgewogICAgICAgICAgICAgIHNjb3BlLnNlbGVjdCh7JGZpbGU6IGJsb2J9KTsKICAgICAgICAgICAgfSk7Cg==</text>
@@ -423,57 +423,40 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8L2lvbi1jb250ZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NvbWV0aGluZyB3ZW50IHdyb25nIHdpdGggZ2V0dGluZyBjYW1lcmEgcGVybWlzc2lvbnMhISEnLCBhcmd1bWVudHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygncGVybWlzc2lvbiBncmFudGVkJywgc3RhdHVzZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBzYW5pdGl6ZUp1Y2FtZXJhT3V0cHV0KGJhc2U2NCkgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlcXVlc3RpbmcgcGVybWlzc2lvbicpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>{
-          // http://stackoverflow.com/a/16245768
-          var byteChar;
-          try {
-            byteChar = window.atob(base64);
-          } catch (e) {
-            // depending which version of camera plugin we're using we may get a stringified json
-            // object back, or just the base64 string directly
-            byteChar = window.atob(JSON.parse(base64).base64);
-          }
-
-          var byteNumbers = Array.from({length: byteChar.length}, function (v, k) {
-            return byteChar.charCodeAt(k);
-          });
-
-          var byteArray = new Uint8Array(byteNumbers);
-          return new Blob([byteArray], {type: 'image/png'});
-        }</text>
+        <text>', arguments);</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>'</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBjb25maXJtUG9wdXAgPSAkaW9uaWNQb3B1cC5jb25maXJtKHsKICAgICAgICAgICAgdGl0bGU6ICdTZWxlY3Qgc291cmNlJywKICAgICAgICAgICAgY2FuY2VsVGV4dDogJ1Bob3RvIExpYnJhcnknLAogICAgICAgICAgICBva1RleHQ6ICdDYW1lcmEnCiAgICAgICAgICB9KTsKCiAgICAgICAgICBjb25maXJtUG9wdXAudGhlbihmdW5jdGlvbiAocmVzKSB7CiAgICAgICAgICAgIHZhciBzb3VyY2UgPSByZXMgPyB3aW5kb3cubmF2aWdhdG9yLmNhbWVyYS5QaWN0dXJlU291cmNlVHlwZS5DQU1FUkEgOiB3aW5kb3cubmF2aWdhdG9yLmNhbWVyYS5QaWN0dXJlU291cmNlVHlwZS5TQVZFRFBIT1RPQUxCVU07CiAgICAgICAgICAgIGp1Q2FtZXJhLnRha2VQaWN0dXJlKHsKICAgICAgICAgICAgICBhbGxvd0VkaXQ6IHRydWUsCiAgICAgICAgICAgICAgdGFyZ2V0V2lkdGg6IDMwMCwKICAgICAgICAgICAgICB0YXJnZXRIZWlnaHQ6IDMwMCwKICAgICAgICAgICAgICBzb3VyY2VUeXBlOiBzb3VyY2UKICAgICAgICAgICAgfSkudGhlbihzYW5pdGl6ZUp1Y2FtZXJhT3V0cHV0KQogICAgICAgICAgICAgIC50aGVuKGZ1bmN0aW9uIChibG9iKSB7CiAgICAgICAgICAgICAgICBzY29wZS5zZWxlY3QoeyRmaWxlOiBibG9ifSk7CiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICB9KTsK</text>
+      <register name="6" type="4">
+        <text>console.log(</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzb21ldGhpbmcgd2VudCB3cm9uZyBidXQga2VlcCBnb2luZycsIGFyZ3VtZW50cyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHNhbml0aXplSnVjYW1lcmFPdXRwdXQoYmFzZTY0KSB7CiAgICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9hLzE2MjQ1NzY4CiAgICAgIHZhciBieXRlQ2hhcjsKICAgICAgdHJ5IHsKICAgICAgICBieXRlQ2hhciA9IHdpbmRvdy5hdG9iKGJhc2U2NCk7CiAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAvLyBkZXBlbmRpbmcgd2hpY2ggdmVyc2lvbiBvZiBjYW1lcmEgcGx1Z2luIHdlJ3JlIHVzaW5nIHdlIG1heSBnZXQgYSBzdHJpbmdpZmllZCBqc29uCiAgICAgICAgLy8gb2JqZWN0IGJhY2ssIG9yIGp1c3QgdGhlIGJhc2U2NCBzdHJpbmcgZGlyZWN0bHkKICAgICAgICBieXRlQ2hhciA9IHdpbmRvdy5hdG9iKEpTT04ucGFyc2UoYmFzZTY0KS5iYXNlNjQpOwogICAgICB9CgogICAgICB2YXIgYnl0ZU51bWJlcnMgPSBBcnJheS5mcm9tKHtsZW5ndGg6IGJ5dGVDaGFyLmxlbmd0aH0sIGZ1bmN0aW9uKHYsIGspIHsKICAgICAgICByZXR1cm4gYnl0ZUNoYXIuY2hhckNvZGVBdChrKTsKICAgICAgfSk7CgogICAgICB2YXIgYnl0ZUFycmF5ID0gbmV3IFVpbnQ4QXJyYXkoYnl0ZU51bWJlcnMpOwogICAgICByZXR1cm4gbmV3IEJsb2IoW2J5dGVBcnJheV0sIHt0eXBlOiAnaW1hZ2UvcG5nJ30pOwogICAgfQoK</text>
+        <text encoding="base64">ICA8L2lvbi1jb250ZW50Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>toast</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>toast</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -481,7 +464,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$</entry>
         <entry>displayName</entry>
         <entry encoding="base64">XDxUcmFuc2xhdGVcPg==</entry>
         <entry>cordova</entry>
@@ -501,6 +483,7 @@
         <entry>Saved</entry>
         <entry>saved</entry>
         <entry>toast</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2l0ZW1zL3F1ZXN0aW9uL2c=</entry>
