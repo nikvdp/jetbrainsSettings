@@ -34,15 +34,10 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/humanize.js" timestamp="1459811175414">
-        <mark key="'" line="18" column="22" />
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="5" />
-        <mark key="^" line="17" column="5" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/select-file.js" timestamp="1460429318701">
-        <mark key="'" line="70" column="31" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/select-file.js" timestamp="1460490098052">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="41" column="15" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1459181558469">
         <mark key="[" line="23" column="0" />
@@ -60,13 +55,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/workflow.js" timestamp="1459893836505">
-        <mark key="'" line="48" column="31" />
-        <mark key="[" line="44" column="45" />
-        <mark key="]" line="44" column="50" />
-        <mark key="^" line="44" column="50" />
-        <mark key="." line="44" column="50" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/providers/tmlProvider.js" timestamp="1459545887096" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1458760170976">
@@ -111,13 +99,6 @@
         <mark key="'" line="138" column="23" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/styles/JiffIncentivesDashboardMainView.less" timestamp="1459541362604" />
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" timestamp="1459384766256">
-        <mark key="'" line="16" column="4" />
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="52" />
-        <mark key="." line="15" column="52" />
-        <mark key="^" line="15" column="52" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" timestamp="1459979120895">
         <mark key="'" line="0" column="0" />
       </file>
@@ -227,12 +208,12 @@
         <mark key="." line="304" column="52" />
         <mark key="^" line="304" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" timestamp="1460430903335">
-        <mark key="'" line="77" column="18" />
-        <mark key="[" line="70" column="25" />
-        <mark key="]" line="71" column="11" />
-        <mark key="^" line="71" column="11" />
-        <mark key="." line="71" column="11" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" timestamp="1460489946734">
+        <mark key="'" line="14" column="25" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="18" column="6" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" timestamp="1459887366599">
         <mark key="'" line="794" column="0" />
@@ -277,13 +258,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" timestamp="1459381477146">
-        <mark key="'" line="131" column="11" />
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="27" />
-        <mark key="^" line="42" column="27" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/bower.json" timestamp="1458949818752">
         <mark key="[" line="32" column="20" />
         <mark key="]" line="32" column="29" />
@@ -310,10 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
-      <jump line="137" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
-      <jump line="31" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
       <jump line="20" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
       <jump line="76" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
       <jump line="64" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
@@ -410,13 +380,17 @@
       <jump line="200" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
       <jump line="245" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
       <jump line="77" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" />
+      <jump line="104" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" />
+      <jump line="18" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" />
+      <jump line="15" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" />
+      <jump line="14" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oc2V0UGhvdG8pCg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHNhbml0aXplSnVjYW1lcmFPdXRwdXQoYmFzZTY0KSB7CiAgICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9hLzE2MjQ1NzY4CiAgICAgIHZhciBieXRlQ2hhcjsKICAgICAgdHJ5IHsKICAgICAgICBieXRlQ2hhciA9IHdpbmRvdy5hdG9iKGJhc2U2NCk7CiAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAvLyBkZXBlbmRpbmcgd2hpY2ggdmVyc2lvbiBvZiBjYW1lcmEgcGx1Z2luIHdlJ3JlIHVzaW5nIHdlIG1heSBnZXQgYSBzdHJpbmdpZmllZCBqc29uCiAgICAgICAgLy8gb2JqZWN0IGJhY2ssIG9yIGp1c3QgdGhlIGJhc2U2NCBzdHJpbmcgZGlyZWN0bHkKICAgICAgICBieXRlQ2hhciA9IHdpbmRvdy5hdG9iKEpTT04ucGFyc2UoYmFzZTY0KS5iYXNlNjQpOwogICAgICB9CgogICAgICB2YXIgYnl0ZU51bWJlcnMgPSBBcnJheS5mcm9tKHtsZW5ndGg6IGJ5dGVDaGFyLmxlbmd0aH0sIGZ1bmN0aW9uKHYsIGspIHsKICAgICAgICByZXR1cm4gYnl0ZUNoYXIuY2hhckNvZGVBdChrKTsKICAgICAgfSk7CgogICAgICB2YXIgYnl0ZUFycmF5ID0gbmV3IFVpbnQ4QXJyYXkoYnl0ZU51bWJlcnMpOwogICAgICByZXR1cm4gbmV3IEJsb2IoW2J5dGVBcnJheV0sIHt0eXBlOiAnaW1hZ2UvcG5nJ30pOwogICAgfQoK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -436,38 +410,55 @@
       <register name="/" type="4">
         <text>toast</text>
       </register>
-      <register name="0" type="4">
-        <text>$ionicPopup</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24oYmxvYikgewogICAgICAgICAgICAgIHNjb3BlLnNlbGVjdCh7JGZpbGU6IGJsb2J9KTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihzZXRQaG90byk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBzYW5pdGl6ZUp1Y2FtZXJhT3V0cHV0KGJhc2U2NCkgCg==</text>
       </register>
       <register name="3" type="4">
-        <text>;</text>
+        <text>{
+          // http://stackoverflow.com/a/16245768
+          var byteChar;
+          try {
+            byteChar = window.atob(base64);
+          } catch (e) {
+            // depending which version of camera plugin we're using we may get a stringified json
+            // object back, or just the base64 string directly
+            byteChar = window.atob(JSON.parse(base64).base64);
+          }
+
+          var byteNumbers = Array.from({length: byteChar.length}, function (v, k) {
+            return byteChar.charCodeAt(k);
+          });
+
+          var byteArray = new Uint8Array(byteNumbers);
+          return new Blob([byteArray], {type: 'image/png'});
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihzZXRQaG90bykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciBjb25maXJtUG9wdXAgPSAkaW9uaWNQb3B1cC5jb25maXJtKHsKICAgICAgICAgICAgdGl0bGU6ICdTZWxlY3Qgc291cmNlJywKICAgICAgICAgICAgY2FuY2VsVGV4dDogJ1Bob3RvIExpYnJhcnknLAogICAgICAgICAgICBva1RleHQ6ICdDYW1lcmEnCiAgICAgICAgICB9KTsKCiAgICAgICAgICBjb25maXJtUG9wdXAudGhlbihmdW5jdGlvbiAocmVzKSB7CiAgICAgICAgICAgIHZhciBzb3VyY2UgPSByZXMgPyB3aW5kb3cubmF2aWdhdG9yLmNhbWVyYS5QaWN0dXJlU291cmNlVHlwZS5DQU1FUkEgOiB3aW5kb3cubmF2aWdhdG9yLmNhbWVyYS5QaWN0dXJlU291cmNlVHlwZS5TQVZFRFBIT1RPQUxCVU07CiAgICAgICAgICAgIGp1Q2FtZXJhLnRha2VQaWN0dXJlKHsKICAgICAgICAgICAgICBhbGxvd0VkaXQ6IHRydWUsCiAgICAgICAgICAgICAgdGFyZ2V0V2lkdGg6IDMwMCwKICAgICAgICAgICAgICB0YXJnZXRIZWlnaHQ6IDMwMCwKICAgICAgICAgICAgICBzb3VyY2VUeXBlOiBzb3VyY2UKICAgICAgICAgICAgfSkudGhlbihzYW5pdGl6ZUp1Y2FtZXJhT3V0cHV0KQogICAgICAgICAgICAgIC50aGVuKGZ1bmN0aW9uIChibG9iKSB7CiAgICAgICAgICAgICAgICBzY29wZS5zZWxlY3QoeyRmaWxlOiBibG9ifSk7CiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihzZXRQaG90byk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KS50aGVuKEppZmZQaG90by5iYXNlNjRUb0Jsb2IpCg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHNhbml0aXplSnVjYW1lcmFPdXRwdXQoYmFzZTY0KSB7CiAgICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9hLzE2MjQ1NzY4CiAgICAgIHZhciBieXRlQ2hhcjsKICAgICAgdHJ5IHsKICAgICAgICBieXRlQ2hhciA9IHdpbmRvdy5hdG9iKGJhc2U2NCk7CiAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAvLyBkZXBlbmRpbmcgd2hpY2ggdmVyc2lvbiBvZiBjYW1lcmEgcGx1Z2luIHdlJ3JlIHVzaW5nIHdlIG1heSBnZXQgYSBzdHJpbmdpZmllZCBqc29uCiAgICAgICAgLy8gb2JqZWN0IGJhY2ssIG9yIGp1c3QgdGhlIGJhc2U2NCBzdHJpbmcgZGlyZWN0bHkKICAgICAgICBieXRlQ2hhciA9IHdpbmRvdy5hdG9iKEpTT04ucGFyc2UoYmFzZTY0KS5iYXNlNjQpOwogICAgICB9CgogICAgICB2YXIgYnl0ZU51bWJlcnMgPSBBcnJheS5mcm9tKHtsZW5ndGg6IGJ5dGVDaGFyLmxlbmd0aH0sIGZ1bmN0aW9uKHYsIGspIHsKICAgICAgICByZXR1cm4gYnl0ZUNoYXIuY2hhckNvZGVBdChrKTsKICAgICAgfSk7CgogICAgICB2YXIgYnl0ZUFycmF5ID0gbmV3IFVpbnQ4QXJyYXkoYnl0ZU51bWJlcnMpOwogICAgICByZXR1cm4gbmV3IEJsb2IoW2J5dGVBcnJheV0sIHt0eXBlOiAnaW1hZ2UvcG5nJ30pOwogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqdUNhbWVyYS50YWtlUGljdHVyZSh7CiAgICAgICAgICBhbGxvd0VkaXQ6IHRydWUsCiAgICAgICAgICB0YXJnZXRXaWR0aDogMzAwLAogICAgICAgICAgdGFyZ2V0SGVpZ2h0OiAzMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuJGFwcGx5KCk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIHRha2VQaWN0dXJlOiB0YWtlUGljdHVyZSwKICAgICAgdXBsb2FkOiB1cGxvYWQsCiAgICAgIHJlc2l6ZTogcmVzaXplLAogICAgICBiYXNlNjRUb0Jsb2I6IGJhc2U2NFRvQmxvYgogICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
