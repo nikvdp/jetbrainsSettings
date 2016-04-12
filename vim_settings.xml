@@ -17,6 +17,9 @@
         <mark key="^" line="62" column="50" />
         <mark key="." line="59" column="13" />
       </file>
+      <file name="/a.dummy" timestamp="1460419849521">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" timestamp="1460149321690">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -109,6 +112,9 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/a.txt" timestamp="1459183537576">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" timestamp="1457562719433">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -154,6 +160,9 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/styles/EventsList.less" timestamp="1456775064191">
+        <mark key="[" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1459284726081">
         <mark key="'" line="24" column="4" />
@@ -205,6 +214,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1460419761870">
+        <mark key="a" line="204" column="10" />
+        <mark key="'" line="207" column="9" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="11" />
+        <mark key="." line="218" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/challenges-hybrid/src/components/store/controllers/StoreProductListCtrl.js" timestamp="1454535007575">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -223,9 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
-      <jump line="31" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
-      <jump line="30" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
       <jump line="18" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
       <jump line="3" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
@@ -323,13 +336,16 @@
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/tests/jiff/httpPassthrough.js" />
       <jump line="20" column="38" filename="$USER_HOME$/Code/work/jiff/middle-tier/tests/jiff/httpPassthrough.js" />
       <jump line="253" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
+      <jump line="204" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
+      <jump line="205" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">CmlmICh5YXJncy5kZXYpIHsKICBnbG9iYWwuZGV2bW9kZSA9IHRydWU7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgIFskd2luZG93LmNvcmRvdmEucGx1Z2lucy5kaWFnbm9zdGljLnJ1bnRpbWVQZXJtaXNzaW9uLldSSVRFX0VYVEVSTkFMX1NUT1JBR0UsCiAgICAgICAgICAgICR3aW5kb3cuY29yZG92YS5wbHVnaW5zLmRpYWdub3N0aWMucnVudGltZVBlcm1pc3Npb24uUkVBRF9FWFRFUk5BTF9TVE9SQUdFCiAgICAgICAgICBdCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -344,43 +360,43 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2ZhO2xzZGtmamE7bHNrZGZqIA==</text>
+        <text>WRITE_EXTERNAL_STORAGE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqd3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3Muc3Rkb3V0LndyaXRlKGNvbG9yc1tjb2xvcl0ocykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICR3aW5kb3cuY29yZG92YS5wbHVnaW5zLmRpYWdub3N0aWMucnVudGltZVBlcm1pc3Npb24uV1JJVEVfRVhURVJOQUxfU1RPUkFHRSwK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">c2ZhO2xzZGtmamE7bHNrZGZqIA==</text>
+        <text>WRITE_EXTERNAL_STORAGE</text>
       </register>
-      <register name="3" type="4">
-        <text>toast</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb246IAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="4">
-        <text>dashboard</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIFskd2luZG93LmNvcmRvdmEucGx1Z2lucy5kaWFnbm9zdGljLnJ1bnRpbWVQZXJtaXNzaW9uLldSSVRFX0VYVEVSTkFMX1NUT1JBR0UsCiAgICAgICAgICAgICR3aW5kb3cuY29yZG92YS5wbHVnaW5zLmRpYWdub3N0aWMucnVudGltZVBlcm1pc3Npb24uUkVBRF9FWFRFUk5BTF9TVE9SQUdFCiAgICAgICAgICBdCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>state</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIH0pOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>?asdfasdf</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text>globals</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
