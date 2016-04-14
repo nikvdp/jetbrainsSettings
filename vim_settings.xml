@@ -118,11 +118,11 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" timestamp="1459386079000">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" timestamp="1460656621246">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="28" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="25" column="23" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/StructuredResponseQuestion.js" timestamp="1460658154240">
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="48" />
+        <mark key="^" line="27" column="48" />
+        <mark key="." line="27" column="48" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environmentConfig.js" timestamp="1459897888535">
         <mark key="[" line="3" column="18" />
@@ -319,7 +319,7 @@
         <text encoding="base64">CmlmICh5YXJncy5kZXYpIHsKICBnbG9iYWwuZGV2bW9kZSA9IHRydWU7Cn0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>scope</text>
+        <text>scope.answer.number</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -339,8 +339,8 @@
       <register name="/" type="4">
         <text>number</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlLmFuc3dlci5udW1iZXIgPSBxdWVzdGlvbi5mb3JjZVBvc2l0aXZlTnVtYmVyKHNjb3BlLmFuc3dlci5udW1iZXIpOwogICAgICAgICAgICAgICAgcXVlc3Rpb24ub25BbnN3ZXIoc2NvcGUucXVlc3Rpb25EYXRhLCBzY29wZS5hbnN3ZXIubnVtYmVyKTsK</text>
+      <register name="0" type="4">
+        <text>scope.answer.number</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
@@ -349,28 +349,28 @@
         <text>scope</text>
       </register>
       <register name="2" type="4">
-        <text>scope</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>scope</text>
+        <text>scope.answer.number</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgc2NvcGU6IHsKICAgICAgICBvbkFuc3dlcjogJz0nLAogICAgICAgIHF1ZXN0aW9uRGF0YTogJz0nCiAgICAgIH0s</text>
+        <text>Number(String(scope.answer.number)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>scope</text>
       </register>
       <register name="6" type="4">
-        <text>;</text>
+        <text>scope</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciByZXM7CiAgICAgICAgICB0cnkgewogICAgICAgICAgICByZXMgPSBwYXJzZUZsb2F0KGlucHV0KTsKICAgICAgICAgIH0gY2F0Y2goZSkgewogICAgICAgICAgICByZXR1cm4gJyc7CiAgICAgICAgICB9CiAgICAgICAgICByZXR1cm4gcmVzIDwgMCA/ICcnIDogU3RyaW5nKHJlcyk7CiAgICAgICAgfTsK</text>
+      <register name="7" type="4">
+        <text>scope</text>
       </register>
       <register name="8" type="4">
-        <text>function(input) {</text>
+        <text>scope</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Zm9yY2VQb3NpdGl2ZU51bWJlciA=</text>
+        <text encoding="base64">ICAgICAgc2NvcGU6IHsKICAgICAgICBvbkFuc3dlcjogJz0nLAogICAgICAgIHF1ZXN0aW9uRGF0YTogJz0nCiAgICAgIH0s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
