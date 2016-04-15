@@ -137,6 +137,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" timestamp="1459812672432">
+        <mark key="'" line="44" column="38" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" timestamp="1459992254212">
         <mark key="'" line="110" column="35" />
         <mark key="[" line="79" column="74" />
@@ -253,6 +259,12 @@
         <mark key="^" line="201" column="25" />
         <mark key="." line="201" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" timestamp="1459187452679">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/challenges-hybrid/src/components/store/controllers/StoreProductListCtrl.js" timestamp="1454535007575">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -269,6 +281,12 @@
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="16" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/styles/templates.less" timestamp="1460750444710">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="." line="282" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/scripts/setup" timestamp="1458170806644">
         <mark key="[" line="5" column="0" />
@@ -290,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="30" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
       <jump line="127" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
       <jump line="65" column="49" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
       <jump line="48" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
@@ -390,13 +407,14 @@
       <jump line="84" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/views/login.html" />
       <jump line="40" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" />
       <jump line="65" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/styles/templates.less" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIHNhbml0aXplSnVjYW1lcmFPdXRwdXQoYmFzZTY0KSB7CiAgICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9hLzE2MjQ1NzY4CiAgICAgIHZhciBieXRlQ2hhcjsKICAgICAgdHJ5IHsKICAgICAgICBieXRlQ2hhciA9IHdpbmRvdy5hdG9iKGJhc2U2NCk7CiAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAvLyBkZXBlbmRpbmcgd2hpY2ggdmVyc2lvbiBvZiBjYW1lcmEgcGx1Z2luIHdlJ3JlIHVzaW5nIHdlIG1heSBnZXQgYSBzdHJpbmdpZmllZCBqc29uCiAgICAgICAgLy8gb2JqZWN0IGJhY2ssIG9yIGp1c3QgdGhlIGJhc2U2NCBzdHJpbmcgZGlyZWN0bHkKICAgICAgICBieXRlQ2hhciA9IHdpbmRvdy5hdG9iKEpTT04ucGFyc2UoYmFzZTY0KS5iYXNlNjQpOwogICAgICB9CgogICAgICB2YXIgYnl0ZU51bWJlcnMgPSBBcnJheS5mcm9tKHtsZW5ndGg6IGJ5dGVDaGFyLmxlbmd0aH0sIGZ1bmN0aW9uKHYsIGspIHsKICAgICAgICByZXR1cm4gYnl0ZUNoYXIuY2hhckNvZGVBdChrKTsKICAgICAgfSk7CgogICAgICB2YXIgYnl0ZUFycmF5ID0gbmV3IFVpbnQ4QXJyYXkoYnl0ZU51bWJlcnMpOwogICAgICByZXR1cm4gbmV3IEJsb2IoW2J5dGVBcnJheV0sIHt0eXBlOiAnaW1hZ2UvcG5nJ30pOwogICAgfQoK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NvbWV0aGluZyB3ZW50IHdyb25nIHdpdGggZ2V0dGluZyBjYW1lcmEgcGVybWlzc2lvbnMhISEnLCBhcmd1bWVudHMpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -423,31 +441,31 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NvbWV0aGluZyB3ZW50IHdyb25nIHdpdGggZ2V0dGluZyBjYW1lcmEgcGVybWlzc2lvbnMhISEnLCBhcmd1bWVudHMpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygncGVybWlzc2lvbiBncmFudGVkJywgc3RhdHVzZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NvbWV0aGluZyB3ZW50IHdyb25nIHdpdGggZ2V0dGluZyBjYW1lcmEgcGVybWlzc2lvbnMhISEnLCBhcmd1bWVudHMpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygncGVybWlzc2lvbiBncmFudGVkJywgc3RhdHVzZXMpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlcXVlc3RpbmcgcGVybWlzc2lvbicpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>', arguments);</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>'</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>console.log(</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzb21ldGhpbmcgd2VudCB3cm9uZyBidXQga2VlcCBnb2luZycsIGFyZ3VtZW50cyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICA8L2lvbi1jb250ZW50Pgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKTsK</text>
+        <text encoding="base64">ICA8L2lvbi1jb250ZW50Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
