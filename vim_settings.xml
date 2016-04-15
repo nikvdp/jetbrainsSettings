@@ -63,12 +63,12 @@
         <mark key="^" line="38" column="2" />
         <mark key="." line="38" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/HeightQuestionView.html" timestamp="1460680484493">
-        <mark key="'" line="44" column="15" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="50" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="12" column="51" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/HeightQuestionView.html" timestamp="1460681771171">
+        <mark key="'" line="8" column="3" />
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+        <mark key="^" line="34" column="20" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/workflow.js" timestamp="1459893836505">
         <mark key="'" line="48" column="31" />
@@ -145,6 +145,13 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/StructuredResponseQuestionView.less" timestamp="1460681861977">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" timestamp="1459384766256">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="15" column="45" />
@@ -211,6 +218,12 @@
         <mark key="^" line="79" column="74" />
         <mark key="." line="79" column="74" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" timestamp="1460681830241">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" timestamp="1459987993363">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
@@ -232,8 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/S3.js" />
       <jump line="35" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" />
       <jump line="38" column="59" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" />
       <jump line="42" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" />
@@ -332,13 +343,15 @@
       <jump line="44" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/HeightQuestionView.html" />
       <jump line="47" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/HeightQuestion.js" />
       <jump line="48" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/HeightQuestion.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/StructuredResponseQuestionView.less" />
+      <jump line="8" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/HeightQuestionView.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBmb3JjZVBvc2l0aXZlTnVtYmVyIChpbnB1dCkgewogICAgICAgICAgdmFyIHJlczsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJlcyA9IHBhcnNlRmxvYXQoaW5wdXQpOwogICAgICAgICAgfSBjYXRjaChlKSB7CiAgICAgICAgICAgIHJldHVybiAnJzsKICAgICAgICAgIH0KICAgICAgICAgIHJldHVybiByZXMgPCAwID8gJycgOiBTdHJpbmcocmVzKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>scope</text>
+        <text>right</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -353,43 +366,43 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>scope</text>
+        <text>right</text>
       </register>
       <register name="/" type="4">
         <text>questionData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbmctY2hhbmdlPSJjbSA9IHZhbGlkYXRlQW5zd2VyKGNtKSIK</text>
+        <text encoding="base64">ICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgICAgbGVmdDogMDsKICAgICAgICB3aWR0aDogNDglOwogICAgICAgIHRleHQtYWxpZ246IHJpZ2h0Owo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>scope</text>
+        <text>right</text>
       </register>
       <register name="2" type="4">
-        <text>scope</text>
+        <text>left</text>
       </register>
-      <register name="3" type="4">
-        <text>scope</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmctY2hhbmdlPSJpbmNoZXMgPSB2YWxpZGF0ZUFuc3dlcihpbmNoZXMpIgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y2xhc3M9ImNtIiA=</text>
       </register>
-      <register name="6" type="4">
-        <text>$value</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>scope.weight</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICBsZWZ0OiAwOwogICAgICB3aWR0aDogNDglOwogICAgICB0ZXh0LWFsaWduOiByaWdodDsK</text>
       </register>
-      <register name="8" type="4">
-        <text>scope.weight =</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text>scope, element</text>
+        <text>-input</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
