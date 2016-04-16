@@ -17,12 +17,10 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" timestamp="1460764360228">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="42" column="30" />
-        <mark key="]" line="37" column="35" />
-        <mark key="." line="42" column="31" />
-        <mark key="^" line="37" column="35" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" timestamp="1460765318727">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="36" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deData.js" timestamp="1459369516827">
         <mark key="[" line="18" column="60" />
@@ -478,8 +476,8 @@
       <register name="a" type="2">
         <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNDgwcHgpIHsKICAqIHsKICAgIGZvbnQtc2l6ZTogMTJweCAhaW1wb3J0YW50OwogIH0KfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBnZXRJbnRlcmVzdHNDYWNoZWQgPSBjYWNoZWlmeShnZXRJbnRlcmVzdHMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -505,17 +503,17 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBnZXRJbnRlcmVzdHNDYWNoZWQgPSBjYWNoZWlmeShnZXRJbnRlcmVzdHMpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHZhciBjCg==</text>
-      </register>
-      <register name="3" type="4">
+      <register name="1" type="4">
         <text>)</text>
       </register>
-      <register name="4" type="4">
+      <register name="2" type="4">
         <text>cacheify(</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBnZXRJbnRlcmVzdHNDYWNoZWQgPSBjYWNoZWlmeShnZXRJbnRlcmVzdHMpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIHZhciBjCg==</text>
       </register>
       <register name="5" type="4">
         <text>)</text>
@@ -523,14 +521,14 @@
       <register name="6" type="4">
         <text>cacheify(</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>480</text>
+        <text>cacheify(</text>
       </register>
-      <register name="9" type="4">
-        <text>width</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
