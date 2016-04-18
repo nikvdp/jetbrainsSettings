@@ -232,8 +232,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/styles/EventsList.less" timestamp="1456775064191">
         <mark key="[" line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1461013107910">
-        <mark key="'" line="111" column="4" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1461015266337">
+        <mark key="'" line="199" column="38" />
+        <mark key="[" line="200" column="36" />
+        <mark key="]" line="200" column="46" />
+        <mark key="." line="200" column="46" />
+        <mark key="^" line="200" column="46" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/ovia/styles/common.less" timestamp="1455931958570">
         <mark key="[" line="2" column="0" />
@@ -363,8 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
-      <jump line="40" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/productType.js" />
       <jump line="14" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/humanize.js" />
       <jump line="51" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
@@ -463,13 +465,15 @@
       <jump line="18" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="111" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
+      <jump line="190" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
+      <jump line="198" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNDgwcHgpIHsKICAqIHsKICAgIGZvbnQtc2l6ZTogMTJweCAhaW1wb3J0YW50OwogIH0KfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>url</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -484,43 +488,43 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24oYmxvYikgewogICAgICAgICAgICAgIHNjb3BlLnNlbGVjdCh7JGZpbGU6IGJsb2J9KTsKICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>angular.element.param(params)</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>url</text>
       </register>
       <register name="2" type="4">
-        <text>cacheify(</text>
+        <text encoding="base64">Yysg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBnZXRJbnRlcmVzdHNDYWNoZWQgPSBjYWNoZWlmeShnZXRJbnRlcmVzdHMpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">b21waWxlZFVybCA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHZhciBjCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">dXJsICsgYW5ndWxhci5lbGVtZW50LnBhcmFtKHBhcmFtcykrIA==</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>url + angular.element.param(params)</text>
       </register>
-      <register name="6" type="4">
-        <text>cacheify(</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbXBpbGVkVXJsID0gJHNjZS50cnVzdEFzUmVzb3VyY2VVcmwodXJsICsgJyYnICsgYW5ndWxhci5lbGVtZW50LnBhcmFtKHBhcmFtcykpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>finalUrl</text>
       </register>
       <register name="8" type="4">
-        <text>cacheify(</text>
+        <text>s</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
