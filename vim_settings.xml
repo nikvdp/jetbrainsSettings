@@ -23,6 +23,12 @@
         <mark key="." line="18" column="62" />
         <mark key="^" line="18" column="62" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" timestamp="1461101126568">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1459389770805">
         <mark key="'" line="64" column="9" />
         <mark key="[" line="59" column="13" />
@@ -30,13 +36,16 @@
         <mark key="^" line="62" column="50" />
         <mark key="." line="59" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1460764234801">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" timestamp="1460149321690">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" timestamp="1461100868078">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/humanize.js" timestamp="1459811175414">
         <mark key="'" line="18" column="22" />
@@ -300,6 +309,9 @@
         <mark key="]" line="6" column="66" />
         <mark key="." line="6" column="66" />
       </file>
+      <file name="/a.regexp" timestamp="1461100552006">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/templateChunksDirective.html" timestamp="1450748925290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -364,11 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/productType.js" />
-      <jump line="14" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/humanize.js" />
-      <jump line="51" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" />
-      <jump line="794" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" />
       <jump line="48" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/workflow.js" />
       <jump line="32" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
       <jump line="13" column="36" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" />
@@ -464,13 +471,18 @@
       <jump line="111" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="190" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="198" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
+      <jump line="7" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
+      <jump line="32" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNDgwcHgpIHsKICAqIHsKICAgIGZvbnQtc2l6ZTogMTJweCAhaW1wb3J0YW50OwogIH0KfQo=</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIF9zaG93TW9kYWwoKSB7CiAgICAgICRpb25pY01vZGFsLmZyb21UZW1wbGF0ZVVybCgnbW9kdWxlcy9tYWluL3ZpZXdzL0Jvb2xlYW5Nb2RhbC5odG1sJywgewogICAgICAgIHNjb3BlOiAkcm9vdFNjb3BlLAogICAgICAgIGFuaW1hdGlvbjogJ3NsaWRlLWluLXVwJywKICAgICAgICBiYWNrZHJvcENsaWNrVG9DbG9zZTogZmFsc2UsCiAgICAgICAgaGFyZHdhcmVCYWNrQnV0dG9uQ2xvc2U6IGZhbHNlCiAgICAgIH0pLnRoZW4oZnVuY3Rpb24obW9kYWwpIHsKICAgICAgICAkcm9vdFNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwubW9kYWxUZXh0ID0gJ1lvdXIgcmV3YXJkIHBvaW50cyBleHBpcmUgaW4gJyArIGRheXNMZWZ0ICsgJyBkYXlzLiBEb25cJ3QgbWlzcyBvdXQnOwogICAgICAgIG1vZGFsLmJ1dHRvbjEgPSAnT2theSc7CiAgICAgICAgbW9kYWwuYnV0dG9uMiA9ICdTZWUgUmV3YXJkcyc7CgogICAgICAgIG1vZGFsLmNsaWNrQnV0dG9uMSA9IGZ1bmN0aW9uKCkgewogICAgICAgICAgX2Nsb3NlTW9kYWwoKTsKICAgICAgICB9OwoKICAgICAgICBtb2RhbC5jbGlja0J1dHRvbjIgPSBmdW5jdGlvbigpIHsKICAgICAgICAgICRzdGF0ZS5nbygncmV3YXJkcycpOwogICAgICAgICAgX2Nsb3NlTW9kYWwoKTsKICAgICAgICB9OwogICAgICAgIG1vZGFsLnNob3coKTsKICAgICAgfSk7CiAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>url</text>
+        <text>cancelText = options.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -485,43 +497,43 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>cancelText = options.</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
-      <register name="0" type="4">
-        <text>angular.element.param(params)</text>
+      <register name="0" type="2">
+        <text encoding="base64">YW5ndWxhcgogIC5tb2R1bGUoJ2ppZmYuSW5jZW50aXZlcy5Db21tb24nKQogIC5mYWN0b3J5KCdFeHBpcmVkUG9pbnRzJywgZnVuY3Rpb24oCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>url</text>
+        <text>cancelText = options.</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Yysg</text>
+        <text>options.</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">b21waWxlZFVybCA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgb3B0aW9ucy4K</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dXJsICsgYW5ndWxhci5lbGVtZW50LnBhcmFtKHBhcmFtcykrIA==</text>
+        <text encoding="base64">OyA=</text>
       </register>
       <register name="5" type="4">
-        <text>url + angular.element.param(params)</text>
+        <text encoding="base64">fHwg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbXBpbGVkVXJsID0gJHNjZS50cnVzdEFzUmVzb3VyY2VVcmwodXJsICsgJyYnICsgYW5ndWxhci5lbGVtZW50LnBhcmFtKHBhcmFtcykpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">b3B0aW9ucy5jb25maXJtVGV4dCA=</text>
       </register>
       <register name="7" type="4">
-        <text>finalUrl</text>
+        <text encoding="base64">ID0g</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>confirmText = options.confirmText || 'Okay';</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgaWYgKCEgb3B0aW9ucy5oYXNPd25Qcm9wZXJ0eSgnY29uZmlybVRleHQnKSkgewogICAgICAgIAogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
