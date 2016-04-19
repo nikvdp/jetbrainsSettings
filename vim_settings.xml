@@ -23,11 +23,12 @@
         <mark key="." line="18" column="62" />
         <mark key="^" line="18" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" timestamp="1461101126568">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="6" />
-        <mark key="." line="12" column="6" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" timestamp="1461104380570">
+        <mark key="'" line="32" column="31" />
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="46" column="9" />
+        <mark key="." line="46" column="9" />
+        <mark key="^" line="46" column="9" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1459389770805">
         <mark key="'" line="64" column="9" />
@@ -376,11 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/workflow.js" />
-      <jump line="32" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/purchase.js" />
-      <jump line="13" column="36" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/node_modules/gulp-live-server/index.js" />
-      <jump line="3" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/lib/routes.js" />
       <jump line="100" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/lib/routes.js" />
       <jump line="124" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
@@ -475,14 +471,19 @@
       <jump line="6" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
       <jump line="7" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
-      <jump line="32" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
+      <jump line="27" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
+      <jump line="8" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
+      <jump line="16" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
+      <jump line="21" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
+      <jump line="32" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIF9zaG93TW9kYWwoKSB7CiAgICAgICRpb25pY01vZGFsLmZyb21UZW1wbGF0ZVVybCgnbW9kdWxlcy9tYWluL3ZpZXdzL0Jvb2xlYW5Nb2RhbC5odG1sJywgewogICAgICAgIHNjb3BlOiAkcm9vdFNjb3BlLAogICAgICAgIGFuaW1hdGlvbjogJ3NsaWRlLWluLXVwJywKICAgICAgICBiYWNrZHJvcENsaWNrVG9DbG9zZTogZmFsc2UsCiAgICAgICAgaGFyZHdhcmVCYWNrQnV0dG9uQ2xvc2U6IGZhbHNlCiAgICAgIH0pLnRoZW4oZnVuY3Rpb24obW9kYWwpIHsKICAgICAgICAkcm9vdFNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwubW9kYWxUZXh0ID0gJ1lvdXIgcmV3YXJkIHBvaW50cyBleHBpcmUgaW4gJyArIGRheXNMZWZ0ICsgJyBkYXlzLiBEb25cJ3QgbWlzcyBvdXQnOwogICAgICAgIG1vZGFsLmJ1dHRvbjEgPSAnT2theSc7CiAgICAgICAgbW9kYWwuYnV0dG9uMiA9ICdTZWUgUmV3YXJkcyc7CgogICAgICAgIG1vZGFsLmNsaWNrQnV0dG9uMSA9IGZ1bmN0aW9uKCkgewogICAgICAgICAgX2Nsb3NlTW9kYWwoKTsKICAgICAgICB9OwoKICAgICAgICBtb2RhbC5jbGlja0J1dHRvbjIgPSBmdW5jdGlvbigpIHsKICAgICAgICAgICRzdGF0ZS5nbygncmV3YXJkcycpOwogICAgICAgICAgX2Nsb3NlTW9kYWwoKTsKICAgICAgICB9OwogICAgICAgIG1vZGFsLnNob3coKTsKICAgICAgfSk7CiAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>cancelText = options.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBvcHRpb25zLmNhbmNlbEFjdGlvbigpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -497,43 +498,43 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cancelText = options.</text>
+        <text>// fill in any options that weren't passed with default vals</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YW5ndWxhcgogIC5tb2R1bGUoJ2ppZmYuSW5jZW50aXZlcy5Db21tb24nKQogIC5mYWN0b3J5KCdFeHBpcmVkUG9pbnRzJywgZnVuY3Rpb24oCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9wdGlvbnMuY29uZmlybUFjdGlvbigpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>cancelText = options.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBvcHRpb25zLmNhbmNlbEFjdGlvbigpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>options.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBvcHRpb25zLmNvbmZpcm1BY3Rpb24oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9ucy4K</text>
+        <text encoding="base64">ICAgICAgICAgIG9wdGlvbnMuY29uZmlybUFjdGlvbigpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">OyA=</text>
+        <text>// fill in any options that weren't passed with default vals</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">fHwg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICRzdGF0ZS5nbygncmV3YXJkcycpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">b3B0aW9ucy5jb25maXJtVGV4dCA=</text>
+        <text>confirmAction();</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ID0g</text>
+        <text>confirmAction</text>
       </register>
       <register name="8" type="4">
-        <text>confirmText = options.confirmText || 'Okay';</text>
+        <text>'Okay',</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCEgb3B0aW9ucy5oYXNPd25Qcm9wZXJ0eSgnY29uZmlybVRleHQnKSkgewogICAgICAgIAogICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>'See Rewards';</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
