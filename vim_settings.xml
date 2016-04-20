@@ -44,11 +44,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/controllers/ProgramsCtrl.js" timestamp="1461178272536">
         <mark key="'" line="92" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" timestamp="1461177321942">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" timestamp="1461181721382">
+        <mark key="'" line="64" column="2" />
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="39" column="17" />
+        <mark key="." line="39" column="17" />
+        <mark key="^" line="39" column="17" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/humanize.js" timestamp="1459811175414">
         <mark key="'" line="18" column="22" />
@@ -176,11 +177,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/lib/routes.js" timestamp="1459912780534">
         <mark key="'" line="100" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" timestamp="1461175046841">
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="20" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" timestamp="1461181836445">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="51" column="14" />
+        <mark key="]" line="51" column="14" />
+        <mark key="^" line="52" column="26" />
+        <mark key="." line="51" column="14" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/setup-dev-environment.sh" timestamp="1450761121989">
         <mark key="[" line="5" column="0" />
@@ -386,14 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/index.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/index.js" />
-      <jump line="60" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/index.js" />
-      <jump line="126" column="16" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/app.js" />
-      <jump line="19" column="50" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/bin/www" />
       <jump line="99" column="68" filename="$USER_HOME$/Code/work/jiff/middle-tier/bin/www" />
       <jump line="15" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/app.js" />
@@ -483,16 +477,24 @@
       <jump line="38" column="43" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
       <jump line="39" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
       <jump line="92" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/controllers/ProgramsCtrl.js" />
       <jump line="52" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/controllers/ProgramsCtrl.js" />
+      <jump line="9" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
+      <jump line="51" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
+      <jump line="8" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
+      <jump line="62" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
+      <jump line="51" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
+      <jump line="4" column="63" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgdmFyIHRvZGF5VW5peCA9IF9nZXRUb2RheVVuaXgoKTsKCiAgICAgIENsaWVudFN0b3JhZ2UuX3VwZGF0ZURhdGEoeyBwb2ludHNfZXhwaXJhdGlvbl9jaGVjazogdG9kYXlVbml4IH0pOwogICAgICByZXR1cm4gQ2xpZW50U3RvcmFnZS4kc3luYygpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -507,52 +509,52 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>fuction</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bml0VHlwZVw+</text>
+        <text encoding="base64">XDxyb290U2NvcGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>instanceof Object || {</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICByZXNvbHZlKHRydWUpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>true</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pLnRoZW4oZnVuY3Rpb24ocmVzKSB7Cg==</text>
+      <register name="4" type="4">
+        <text>resolve</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>res === false</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pLnRoZW4oZnVuY3Rpb24ocmVzKSB7Cg==</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHRvZGF5VW5peCA9IF9nZXRUb2RheVVuaXgoKTsKCiAgICAgIENsaWVudFN0b3JhZ2UuX3VwZGF0ZURhdGEoeyBwb2ludHNfZXhwaXJhdGlvbl9jaGVjazogdG9kYXlVbml4IH0pOwogICAgICByZXR1cm4gQ2xpZW50U3RvcmFnZS4kc3luYygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYW5jZWxBY3Rpb246IGZ1bmN0aW9uKCkge3dpbmRvdy5hbGVydCgneW91IHNhaWQgbm8gbWFuJyk7fQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>fuction</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25maXJtQWN0aW9uOiBmdW5jdGlvbigpIHt3aW5kb3cuYWxlcnQoJ3lvdSBzYWlkIHllcyBtYW4nKTt9LAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>et</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1vZGFsLnNob3coKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bml0VHlwZVw+</last-search>
+      <last-search encoding="base64">XDxyb290U2NvcGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bml0VHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxyb290U2NvcGVcPg==</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -560,8 +562,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUcmFuc2xhdGVcPg==</entry>
-        <entry>cordova</entry>
         <entry>color</entry>
         <entry encoding="base64">XDxDaGFsbGVuZ2VzUmVkaXJlY3RTZXJ2aWNlXD4=</entry>
         <entry>getImage</entry>
@@ -580,6 +580,8 @@
         <entry>toast</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDx1bml0VHlwZVw+</entry>
+        <entry encoding="base64">XDxpb25pY01vZGFsXD4=</entry>
+        <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZlZXQvaW5jaGVzL2c=</entry>
