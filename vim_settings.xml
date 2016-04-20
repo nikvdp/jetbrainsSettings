@@ -41,12 +41,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" timestamp="1461107960308">
-        <mark key="'" line="52" column="26" />
-        <mark key="[" line="37" column="17" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
-        <mark key="^" line="37" column="18" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" timestamp="1461175349758">
+        <mark key="'" line="38" column="43" />
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/humanize.js" timestamp="1459811175414">
         <mark key="'" line="18" column="22" />
@@ -173,11 +172,11 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/lib/routes.js" timestamp="1459912780534">
         <mark key="'" line="100" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" timestamp="1461108015320">
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="42" />
-        <mark key="^" line="26" column="29" />
-        <mark key="." line="26" column="42" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" timestamp="1461175046841">
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="20" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/setup-dev-environment.sh" timestamp="1450761121989">
         <mark key="[" line="5" column="0" />
@@ -383,7 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
       <jump line="57" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
       <jump line="87" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
@@ -472,7 +470,6 @@
       <jump line="111" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="190" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="198" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
       <jump line="7" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
@@ -483,13 +480,15 @@
       <jump line="21" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
       <jump line="32" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" />
       <jump line="50" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
+      <jump line="51" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
+      <jump line="38" column="43" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>options,</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -504,43 +503,43 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgXy5leHRlbmQob3B0aW9ucywgZGVmYXVsdHMpOwo=</text>
+      <register name="0" type="4">
+        <text>instanceof Object || {</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>;</text>
       </register>
-      <register name="2" type="4">
-        <text>popupDefaults</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zaG93TW9kYWwoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>(</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIF9zaG93TW9kYWwoKSB7CiAgICAgIEJvb2xlYW5Qb3B1cAogICAgICAkaW9uaWNNb2RhbC5mcm9tVGVtcGxhdGVVcmwoJ21vZHVsZXMvbWFpbi92aWV3cy9Cb29sZWFuTW9kYWwuaHRtbCcsIHsKICAgICAgICBzY29wZTogJHJvb3RTY29wZSwKICAgICAgICBhbmltYXRpb246ICdzbGlkZS1pbi11cCcsCiAgICAgICAgYmFja2Ryb3BDbGlja1RvQ2xvc2U6IGZhbHNlLAogICAgICAgIGhhcmR3YXJlQmFja0J1dHRvbkNsb3NlOiBmYWxzZQogICAgICB9KS50aGVuKGZ1bmN0aW9uKG1vZGFsKSB7CiAgICAgICAgJHJvb3RTY29wZS5tb2RhbCA9IG1vZGFsOwoKICAgICAgICBtb2RhbC5jbGlja0J1dHRvbjEgPSBmdW5jdGlvbigpIHsKICAgICAgICAgIF9jbG9zZU1vZGFsKCk7CiAgICAgICAgfTsKCiAgICAgICAgbW9kYWwuY2xpY2tCdXR0b24yID0gZnVuY3Rpb24oKSB7CiAgICAgICAgICAkc3RhdGUuZ28oJ3Jld2FyZHMnKTsKICAgICAgICAgIF9jbG9zZU1vZGFsKCk7CiAgICAgICAgfTsKICAgICAgICBtb2RhbC5zaG93KCk7CiAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="5" type="4">
-        <text>options,</text>
+        <text>'',</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>|| {</text>
       </register>
       <register name="7" type="4">
-        <text>options,</text>
+        <text />
       </register>
-      <register name="8" type="4">
-        <text>defaults</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RhbC5tb2RhbFRleHQgPSAnWW91ciByZXdhcmQgcG9pbnRzIGV4cGlyZSBpbiAnICsgZGF5c0xlZnQgKyAnIGRheXMuIERvblwndCBtaXNzIG91dCc7CgogICAgICAgIG1vZGFsLmJ1dHRvbjEgPSAnT2theSc7CiAgICAgICAgbW9kYWwuYnV0dG9uMiA9ICdTZWUgUmV3YXJkcyc7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{})</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
