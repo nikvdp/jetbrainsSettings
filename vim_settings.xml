@@ -110,8 +110,12 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1459299518252">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1461188760619">
         <mark key="'" line="10" column="4" />
+        <mark key="[" line="299" column="43" />
+        <mark key="]" line="299" column="43" />
+        <mark key="." line="299" column="43" />
+        <mark key="^" line="299" column="43" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/views/productOptions.html" timestamp="1459817866200">
         <mark key="[" line="2" column="85" />
@@ -189,9 +193,6 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/a.txt" timestamp="1459183537576">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" timestamp="1457562719433">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -249,9 +250,6 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/styles/EventsList.less" timestamp="1456775064191">
-        <mark key="[" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1461017303446">
         <mark key="'" line="199" column="38" />
@@ -320,9 +318,6 @@
         <mark key="[" line="6" column="66" />
         <mark key="]" line="6" column="66" />
         <mark key="." line="6" column="66" />
-      </file>
-      <file name="/a.regexp" timestamp="1461178032965">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/templateChunksDirective.html" timestamp="1450748925290">
         <mark key="[" line="0" column="0" />
@@ -494,7 +489,7 @@
         <text encoding="base64">ICAgICAgdmFyIHRvZGF5VW5peCA9IF9nZXRUb2RheVVuaXgoKTsKCiAgICAgIENsaWVudFN0b3JhZ2UuX3VwZGF0ZURhdGEoeyBwb2ludHNfZXhwaXJhdGlvbl9jaGVjazogdG9kYXlVbml4IH0pOwogICAgICByZXR1cm4gQ2xpZW50U3RvcmFnZS4kc3luYygpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>browser</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -509,7 +504,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>browser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb290U2NvcGVcPg==</text>
@@ -521,31 +516,31 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>browser</text>
       </register>
       <register name="2" type="4">
-        <text>||</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>||</text>
+        <text encoding="base64">LyA=</text>
       </register>
       <register name="5" type="4">
-        <text>extend</text>
+        <text>app</text>
       </register>
       <register name="6" type="4">
-        <text>extend</text>
+        <text>jiff_platform</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>cordova.platformId</text>
       </register>
       <register name="8" type="4">
-        <text>popupO</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>||</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
