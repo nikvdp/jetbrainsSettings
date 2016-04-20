@@ -41,6 +41,9 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/controllers/ProgramsCtrl.js" timestamp="1461178272536">
+        <mark key="'" line="92" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" timestamp="1461177321942">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="41" column="0" />
@@ -54,6 +57,7 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/services/ProgramsViewModel.js" timestamp="1461178476100" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/select-file.js" timestamp="1460752144122">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="41" column="15" />
@@ -183,6 +187,9 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/a.txt" timestamp="1459183537576">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" timestamp="1457562719433">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -240,6 +247,9 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/styles/EventsList.less" timestamp="1456775064191">
+        <mark key="[" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1461017303446">
         <mark key="'" line="199" column="38" />
@@ -309,6 +319,9 @@
         <mark key="]" line="6" column="66" />
         <mark key="." line="6" column="66" />
       </file>
+      <file name="/a.regexp" timestamp="1461178032965">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/directives/templateChunksDirective.html" timestamp="1450748925290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -373,8 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
-      <jump line="58" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/index.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/index.js" />
@@ -473,6 +484,8 @@
       <jump line="39" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
       <jump line="51" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
+      <jump line="92" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/controllers/ProgramsCtrl.js" />
+      <jump line="52" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/controllers/ProgramsCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -497,7 +510,7 @@
         <text>fuction</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text encoding="base64">XDx1bml0VHlwZVw+</text>
       </register>
       <register name="0" type="4">
         <text>instanceof Object || {</text>
@@ -537,9 +550,9 @@
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search encoding="base64">XDx1bml0VHlwZVw+</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern encoding="base64">XDx1bml0VHlwZVw+</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -547,7 +560,6 @@
     </search>
     <history>
       <history-search>
-        <entry>displayName</entry>
         <entry encoding="base64">XDxUcmFuc2xhdGVcPg==</entry>
         <entry>cordova</entry>
         <entry>color</entry>
@@ -567,6 +579,7 @@
         <entry>saved</entry>
         <entry>toast</entry>
         <entry>console.log</entry>
+        <entry encoding="base64">XDx1bml0VHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZlZXQvaW5jaGVzL2c=</entry>
