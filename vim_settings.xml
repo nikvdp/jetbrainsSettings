@@ -16,6 +16,10 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/MainHomeViewModel.js" timestamp="1461262969011">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="40" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deData.js" timestamp="1459369516827">
         <mark key="[" line="18" column="60" />
         <mark key="]" line="18" column="62" />
@@ -165,6 +169,13 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/lib/routes.js" timestamp="1459912780534">
         <mark key="'" line="100" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1461262940999">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="25" />
+        <mark key="." line="32" column="25" />
+        <mark key="^" line="31" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" timestamp="1461262705377">
         <mark key="[" line="54" column="30" />
         <mark key="]" line="54" column="39" />
@@ -257,12 +268,25 @@
         <mark key="." line="304" column="52" />
         <mark key="^" line="304" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/StartupNotificationChecks.js" timestamp="1461264139428">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" timestamp="1460501878115">
         <mark key="'" line="65" column="26" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="^" line="66" column="51" />
         <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/ExpiredPointsPopupCheck.js" timestamp="1461264112249">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="6" />
+        <mark key="^" line="34" column="28" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/framework.less" timestamp="1460752516453">
         <mark key="'" line="243" column="0" />
@@ -365,12 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
-      <jump line="50" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
-      <jump line="40" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/productType.js" />
-      <jump line="14" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/humanize.js" />
       <jump line="51" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/productOptions.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" />
       <jump line="794" column="0" filename="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" />
@@ -465,13 +483,19 @@
       <jump line="5" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="18" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
+      <jump line="31" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="76" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="32" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/StartupNotificationChecks.js" />
+      <jump line="8" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/StartupNotificationChecks.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/StartupNotificationChecks.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNDgwcHgpIHsKICAqIHsKICAgIGZvbnQtc2l6ZTogMTJweCAhaW1wb3J0YW50OwogIH0KfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ISA=</text>
+        <text>Check</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -486,52 +510,52 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ISA=</text>
+        <text>Check</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text encoding="base64">XDxTdGFydHVwTm90aWZpY2F0aW9uQ2hlY2tzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>options.confirmText</text>
+        <text>checkHasntBeenShown</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ISA=</text>
+        <text>Check</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnPj4+IGNvbmZpcm1lZCB3YXM6ICcsIGJ1dHRvblZhbCk7Cg==</text>
+      <register name="2" type="4">
+        <text>hasNotBeenShown</text>
       </register>
       <register name="3" type="4">
-        <text>clickedOk</text>
+        <text>hasNotBeenShown</text>
       </register>
-      <register name="4" type="4">
-        <text>clickedOk</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>'See Rewards'</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBydW47Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>'Okay'</text>
+        <text>_</text>
       </register>
       <register name="7" type="4">
-        <text>goToRewards</text>
+        <text>;</text>
       </register>
       <register name="8" type="4">
-        <text>confirmText</text>
+        <text>!</text>
       </register>
       <register name="9" type="4">
-        <text>resolve</text>
+        <text>checkHasBeenShown</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search encoding="base64">XDxTdGFydHVwTm90aWZpY2F0aW9uQ2hlY2tzXD4=</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern encoding="base64">XDxTdGFydHVwTm90aWZpY2F0aW9uQ2hlY2tzXD4=</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -539,7 +563,6 @@
     </search>
     <history>
       <history-search>
-        <entry>displayName</entry>
         <entry encoding="base64">XDxUcmFuc2xhdGVcPg==</entry>
         <entry>cordova</entry>
         <entry>color</entry>
@@ -559,6 +582,7 @@
         <entry>saved</entry>
         <entry>toast</entry>
         <entry>console.log</entry>
+        <entry encoding="base64">XDxTdGFydHVwTm90aWZpY2F0aW9uQ2hlY2tzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZlZXQvaW5jaGVzL2c=</entry>
