@@ -134,6 +134,7 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/lib/routes.js" timestamp="1459912780534">
         <mark key="'" line="100" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1461616768841" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" timestamp="1461351513138">
         <mark key="'" line="26" column="27" />
         <mark key="[" line="4" column="64" />
@@ -164,12 +165,11 @@
         <mark key="." line="36" column="1" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/PrivacyPolicyPopupCheck.js" timestamp="1461351618962">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="43" column="157" />
-        <mark key="]" line="43" column="157" />
-        <mark key="^" line="43" column="157" />
-        <mark key="." line="43" column="157" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/PrivacyPolicyPopupCheck.js" timestamp="1461616278185">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1460140291807">
         <mark key="'" line="253" column="11" />
@@ -304,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
       <jump line="18" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
       <jump line="70" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/select-file.js" />
       <jump line="170" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
@@ -404,13 +403,14 @@
       <jump line="12" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/PrivacyPolicyPopupCheck.js" />
       <jump line="29" column="45" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
       <jump line="22" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/PrivacyPolicyPopupCheck.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdOZXdzZmVlZCAtIFZpZXcgUG9zdCcpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRvc0FjY2VwdGVkRGF0ZSA9ICA/IG1vbWVudChjbGllbnRTdG9yYWdlW3BvbGljeVNlZW5LZXldLCAnWVlZWS1NTS1ERCcpIDogdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -425,7 +425,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hasNotbeenShown</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCcmVhZGNydW1ic1w+</text>
@@ -436,32 +436,32 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRvc0FjY2VwdGVkRGF0ZSA9ICA/IG1vbWVudChjbGllbnRTdG9yYWdlW3BvbGljeVNlZW5LZXldLCAnWVlZWS1NTS1ERCcpIDogdW5kZWZpbmVkOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgICBpZiAoISApIHsKICAgICAgICAgICAgaGFzTm90YmVlblNob3duID0gdHJ1ZTsKICAgICAgICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIENsaWVudFN0b3JhZ2UsCg==</text>
+      <register name="3" type="4">
+        <text>hasNotbeenShown</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFNhZmVHZXQsCg==</text>
+      <register name="4" type="4">
+        <text>clientStorage[policySeenKey]</text>
       </register>
-      <register name="5" type="4">
-        <text>SafeGet</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciBoYXNOb3RiZWVuU2hvd24gPSBmYWxzZTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEJvb2xlYW5Qb3B1cCwK</text>
+      <register name="6" type="4">
+        <text>tosAcceptedDate</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vbWVudCwK</text>
+      <register name="7" type="4">
+        <text>clientStorage[policySeenKey]</text>
       </register>
       <register name="8" type="4">
-        <text>, Translate</text>
+        <text>clientStorage</text>
       </register>
       <register name="9" type="4">
-        <text>should</text>
+        <text>privacy_policy_update_april2016</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
