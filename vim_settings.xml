@@ -10,7 +10,6 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" timestamp="1461013098162" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" timestamp="1461107812840">
         <mark key="'" line="32" column="31" />
         <mark key="[" line="4" column="24" />
@@ -23,6 +22,13 @@
         <mark key="]" line="59" column="13" />
         <mark key="^" line="62" column="50" />
         <mark key="." line="59" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1460140291807">
+        <mark key="'" line="253" column="11" />
+        <mark key="[" line="384" column="19" />
+        <mark key="]" line="384" column="20" />
+        <mark key="." line="384" column="20" />
+        <mark key="^" line="384" column="20" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/controllers/ProgramsCtrl.js" timestamp="1461178272536">
         <mark key="'" line="92" column="17" />
@@ -41,7 +47,13 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/services/ProgramsViewModel.js" timestamp="1461178476100" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" timestamp="1461194918026">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1459298630054">
         <mark key="'" line="91" column="29" />
         <mark key="[" line="38" column="3" />
@@ -52,12 +64,18 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/variables.less" timestamp="1460752433670">
         <mark key="'" line="31" column="30" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/styles/EventsList.less" timestamp="1456775064191">
+        <mark key="[" line="15" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/services/workflow.js" timestamp="1459893836505">
         <mark key="'" line="48" column="31" />
         <mark key="[" line="44" column="45" />
         <mark key="]" line="44" column="50" />
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="50" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" timestamp="1459299907704">
+        <mark key="'" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1458760170976">
         <mark key="'" line="14" column="2" />
@@ -66,6 +84,13 @@
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" timestamp="1459541481450">
+        <mark key="'" line="38" column="56" />
+        <mark key="[" line="304" column="43" />
+        <mark key="]" line="304" column="52" />
+        <mark key="." line="304" column="52" />
+        <mark key="^" line="304" column="52" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/.jshintrc" timestamp="1459992245093">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="20" />
@@ -73,8 +98,22 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" timestamp="1460501878115">
+        <mark key="'" line="65" column="26" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="66" column="51" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1461192894499">
-        <mark key="'" line="275" column="35" />
+        <mark key="'" line="277" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/framework.less" timestamp="1460752516453">
+        <mark key="'" line="243" column="0" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="12" column="33" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/tests/jiff/httpPassthrough.js" timestamp="1459993341788">
         <mark key="'" line="20" column="38" />
@@ -83,7 +122,9 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/splash.js" timestamp="1461228894290" />
+      <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" timestamp="1459887366599">
+        <mark key="'" line="794" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/core/services/styleInjector.js" timestamp="1460404462117">
         <mark key="'" line="22" column="13" />
       </file>
@@ -100,15 +141,38 @@
         <mark key="." line="15" column="52" />
         <mark key="^" line="15" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/middle-tier/bin/www" timestamp="1459988884106">
+        <mark key="'" line="1" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1461189464751">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1459368291063">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="10" />
-        <mark key="]" line="58" column="11" />
-        <mark key="." line="58" column="11" />
-        <mark key="^" line="58" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/login.js" timestamp="1461189538706">
+        <mark key="'" line="33" column="15" />
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="36" />
+        <mark key="^" line="33" column="51" />
+        <mark key="." line="33" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" timestamp="1459381477146">
+        <mark key="'" line="131" column="11" />
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="27" />
+        <mark key="." line="42" column="27" />
+        <mark key="^" line="42" column="27" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/lib/routes.js" timestamp="1459912780534">
         <mark key="'" line="100" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/controllers/post.js" timestamp="1461197004005">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" timestamp="1461199486013">
         <mark key="'" line="26" column="27" />
@@ -127,84 +191,6 @@
         <mark key="^" line="79" column="74" />
         <mark key="." line="79" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" timestamp="1459987993363">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="36" column="1" />
-        <mark key="^" line="33" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1460140291807">
-        <mark key="'" line="253" column="11" />
-        <mark key="[" line="384" column="19" />
-        <mark key="]" line="384" column="20" />
-        <mark key="." line="384" column="20" />
-        <mark key="^" line="384" column="20" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" timestamp="1461194918026">
-        <mark key="'" line="9" column="4" />
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/styles/EventsList.less" timestamp="1456775064191">
-        <mark key="[" line="15" column="25" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" timestamp="1459299907704">
-        <mark key="'" line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" timestamp="1459541481450">
-        <mark key="'" line="38" column="56" />
-        <mark key="[" line="304" column="43" />
-        <mark key="]" line="304" column="52" />
-        <mark key="." line="304" column="52" />
-        <mark key="^" line="304" column="52" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/photo.js" timestamp="1460501878115">
-        <mark key="'" line="65" column="26" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="66" column="51" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/framework.less" timestamp="1460752516453">
-        <mark key="'" line="243" column="0" />
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="12" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environments/dev-vpc.json" timestamp="1459887366599">
-        <mark key="'" line="794" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/middle-tier/bin/www" timestamp="1459988884106">
-        <mark key="'" line="1" column="0" />
-      </file>
-      <file name="/a.regexp" timestamp="1461189464751">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/login.js" timestamp="1461189538706">
-        <mark key="'" line="33" column="15" />
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="36" />
-        <mark key="^" line="33" column="51" />
-        <mark key="." line="33" column="36" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" timestamp="1459381477146">
-        <mark key="'" line="131" column="11" />
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="27" />
-        <mark key="^" line="42" column="27" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/controllers/post.js" timestamp="1461197004005">
-        <mark key="'" line="9" column="4" />
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/profile/controllers/profile.js" timestamp="1460429599396">
         <mark key="'" line="116" column="24" />
         <mark key="[" line="115" column="28" />
@@ -212,7 +198,13 @@
         <mark key="." line="116" column="30" />
         <mark key="^" line="116" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/emergencyBroadcast.js" timestamp="1461199578770" />
+      <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" timestamp="1459987993363">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="36" column="1" />
+        <mark key="^" line="33" column="37" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/index.js" timestamp="1459979058529">
         <mark key="'" line="39" column="2" />
       </file>
