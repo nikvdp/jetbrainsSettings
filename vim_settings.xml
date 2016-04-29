@@ -54,6 +54,12 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/OnboardingApi.js" timestamp="1461954824793">
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="28" column="68" />
+        <mark key="^" line="28" column="68" />
+        <mark key="." line="28" column="68" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1459298630054">
         <mark key="'" line="91" column="29" />
         <mark key="[" line="38" column="3" />
@@ -189,6 +195,13 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/lib/routes.js" timestamp="1459912780534">
         <mark key="'" line="100" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1461954798371">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="42" column="34" />
+        <mark key="." line="42" column="34" />
+        <mark key="^" line="42" column="34" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/controllers/post.js" timestamp="1461197004005">
         <mark key="'" line="9" column="4" />
         <mark key="[" line="8" column="17" />
@@ -232,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
       <jump line="18" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
       <jump line="70" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/select-file.js" />
       <jump line="170" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
@@ -332,13 +344,14 @@
       <jump line="19" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/.gitignore" />
       <jump line="7" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/.gitignore" />
       <jump line="15" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/.gitignore" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdOZXdzZmVlZCAtIFZpZXcgUG9zdCcpOwo=</text>
+        <text encoding="base64">ICAgICR3aW5kb3cudHJpZ2dlckR1bW15T25ib2FyZGluZ0V2ZW50ID0gZnVuY3Rpb24gKCkgewogICAgICBnZXROZXh0T25ib2FyZGluZ1N0ZXBEdW1teURhdGEoKS50aGVuKGZ1bmN0aW9uIChzdGVwKSB7CiAgICAgICAgaWYgKHN0ZXAuaGFzT3duUHJvcGVydHkoJ2luaXRpYWxpemF0aW9uX3BheWxvYWQnKSkgewogICAgICAgICAgc3RlcC5wYXlsb2FkID0gc3RlcC5pbml0aWFsaXphdGlvbl9wYXlsb2FkOwogICAgICAgIH0KICAgICAgICAkZXZlbnQuZW1pdChKSUZGX0lOQ0VOVElWRVNfTUFJTl9XT1JLRkxPV19LRVlTLlF1ZXN0aW9uLnN0YXJ0RXZlbnQsIHN0ZXApOwogICAgICB9KTsKICAgIH07Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJ1bl9jY2EK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -364,32 +377,32 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJ1bl9jY2EK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="1" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>are,</text>
+      <register name="2" type="4">
+        <text>TODO: Delete below function,</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>these</text>
+        <text>log</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+      <register name="5" type="4">
+        <text>onboarding');</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">L2Rpc3QvCi93d3cK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICR3aW5kb3cudHJpZ2dlckR1bW15T25ib2FyZGluZ0V2ZW50ID0gZnVuY3Rpb24gKCkgewogICAgICBnZXROZXh0T25ib2FyZGluZ1N0ZXBEdW1teURhdGEoKS50aGVuKGZ1bmN0aW9uIChzdGVwKSB7CiAgICAgICAgaWYgKHN0ZXAuaGFzT3duUHJvcGVydHkoJ2luaXRpYWxpemF0aW9uX3BheWxvYWQnKSkgewogICAgICAgICAgc3RlcC5wYXlsb2FkID0gc3RlcC5pbml0aWFsaXphdGlvbl9wYXlsb2FkOwogICAgICAgIH0KICAgICAgICAkZXZlbnQuZW1pdChKSUZGX0lOQ0VOVElWRVNfTUFJTl9XT1JLRkxPV19LRVlTLlF1ZXN0aW9uLnN0YXJ0RXZlbnQsIHN0ZXApOwogICAgICB9KTsKICAgIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">L3BsYXRmb3Jtcy9hbmRyb2lkL3Jlcwo=</text>
+        <text encoding="base64">ICAgIHJ1bl9jY2EK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyBkb24ndCB2ZXJzaW9uIElERSBmb2xkZXJzCi8uaWRlYQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
