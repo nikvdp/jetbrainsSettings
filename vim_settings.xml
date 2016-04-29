@@ -23,6 +23,12 @@
         <mark key="^" line="62" column="50" />
         <mark key="." line="59" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/PrivacyPolicyPopupCheck.js" timestamp="1461956478589">
+        <mark key="[" line="34" column="44" />
+        <mark key="]" line="34" column="57" />
+        <mark key="." line="34" column="57" />
+        <mark key="^" line="34" column="57" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1460140291807">
         <mark key="'" line="253" column="11" />
         <mark key="[" line="384" column="19" />
@@ -351,7 +357,7 @@
         <text encoding="base64">ICAgICR3aW5kb3cudHJpZ2dlckR1bW15T25ib2FyZGluZ0V2ZW50ID0gZnVuY3Rpb24gKCkgewogICAgICBnZXROZXh0T25ib2FyZGluZ1N0ZXBEdW1teURhdGEoKS50aGVuKGZ1bmN0aW9uIChzdGVwKSB7CiAgICAgICAgaWYgKHN0ZXAuaGFzT3duUHJvcGVydHkoJ2luaXRpYWxpemF0aW9uX3BheWxvYWQnKSkgewogICAgICAgICAgc3RlcC5wYXlsb2FkID0gc3RlcC5pbml0aWFsaXphdGlvbl9wYXlsb2FkOwogICAgICAgIH0KICAgICAgICAkZXZlbnQuZW1pdChKSUZGX0lOQ0VOVElWRVNfTUFJTl9XT1JLRkxPV19LRVlTLlF1ZXN0aW9uLnN0YXJ0RXZlbnQsIHN0ZXApOwogICAgICB9KTsKICAgIH07Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>status not changed</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -366,43 +372,47 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>status not changed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWdtZW50aW9cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ21vYmlsZTpjbGVhbjpwb3N0JywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAkd2luZG93LmFsZXJ0KCdwcml2YWN5IHBvbGljeSBzdGF0dXMgbm90IGNoYW5nZWQnKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>status not changed</text>
       </register>
       <register name="2" type="4">
-        <text>TODO: Delete below function,</text>
+        <text>Check</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">JHEuYWxsKFtDbGllbnRTdG9yYWdlLiRyZWFkKCksIFdvcmtmbG93RGlyZWN0b3IuZ2V0RGlyZWN0b3JEYXRhKCldKQogICAgICAgIC50aGVuKGZ1bmN0aW9uKHJlcykgewogICAgICAgICAgdmFyIGNsaWVudFN0b3JhZ2UgPSByZXNbMF07CiAgICAgICAgICB2YXIgZXBpc29kZURhdGEgPSBTYWZlR2V0KHJlcywgJ1sxXS5lcGlzb2Rlc1swXScpOwogICAgICAgICAgdmFyIGVucm9sbG1lbnREYXRlID0gbW9tZW50LnVuaXgoZXBpc29kZURhdGEuY3JlYXRlZF9hdCk7CgogICAgICAgICAgdmFyIGFscmVhZHlTaG93biA9IEJvb2xlYW4oY2xpZW50U3RvcmFnZVtwb2xpY3lTZWVuS2V5XSk7CgogICAgICAgICAgcmV0dXJuICghIGFscmVhZHlTaG93bikgJiYgZW5yb2xsbWVudERhdGUuaXNCZWZvcmUobW9tZW50KCcyMDE2LTAzLTIyJywgJ1lZWVktTU0tREQnKSk7CiAgICAgICAgfSk7</text>
       </register>
-      <register name="4" type="4">
-        <text>log</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAkd2luZG93Lm9wZW4oJ2h0dHBzOi8vd3d3LmppZmYuY29tL3ByaXZhY3knLCAnX2JsYW5rJyk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>onboarding');</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFjY2VwdGVkKSB7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>true</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICR3aW5kb3cudHJpZ2dlckR1bW15T25ib2FyZGluZ0V2ZW50ID0gZnVuY3Rpb24gKCkgewogICAgICBnZXROZXh0T25ib2FyZGluZ1N0ZXBEdW1teURhdGEoKS50aGVuKGZ1bmN0aW9uIChzdGVwKSB7CiAgICAgICAgaWYgKHN0ZXAuaGFzT3duUHJvcGVydHkoJ2luaXRpYWxpemF0aW9uX3BheWxvYWQnKSkgewogICAgICAgICAgc3RlcC5wYXlsb2FkID0gc3RlcC5pbml0aWFsaXphdGlvbl9wYXlsb2FkOwogICAgICAgIH0KICAgICAgICAkZXZlbnQuZW1pdChKSUZGX0lOQ0VOVElWRVNfTUFJTl9XT1JLRkxPV19LRVlTLlF1ZXN0aW9uLnN0YXJ0RXZlbnQsIHN0ZXApOwogICAgICB9KTsKICAgIH07Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJ1bl9jY2EK</text>
+      <register name="8" type="4">
+        <text>Translate(''),
+          {
+            confirmText: Translate('Read'),
+            cancelText: Translate('OK')
+          }</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Your privacy is important to Jiff. Please read Jiff\'s updated Privacy and Cookie Statement at www.jiff.com/privacy.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
