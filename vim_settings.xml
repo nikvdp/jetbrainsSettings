@@ -61,6 +61,11 @@
         <mark key="^" line="38" column="2" />
         <mark key="." line="38" column="2" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/jiff-dev.sh" timestamp="1461903269830">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/variables.less" timestamp="1460752433670">
         <mark key="'" line="31" column="30" />
       </file>
@@ -74,8 +79,12 @@
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" timestamp="1459299907704">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" timestamp="1461903099051">
         <mark key="'" line="56" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="26" />
+        <mark key="^" line="65" column="25" />
+        <mark key="." line="65" column="25" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1458760170976">
         <mark key="'" line="14" column="2" />
@@ -328,8 +337,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdOZXdzZmVlZCAtIFZpZXcgUG9zdCcpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJ1bl9jY2EK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -350,37 +359,37 @@
         <text encoding="base64">XDxzZWdtZW50aW9cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZighaGFzQmVlblNob3duKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgJ21vYmlsZTpjbGVhbjpwb3N0JywK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJ1bl9jY2EK</text>
       </register>
       <register name="2" type="4">
-        <text>are,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
+        <text>are,</text>
+      </register>
+      <register name="4" type="4">
         <text>these</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">L2Rpc3QvCi93d3cK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">L3BsYXRmb3Jtcy9hbmRyb2lkL3Jlcwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">IyBkb24ndCB2ZXJzaW9uIElERSBmb2xkZXJzCi8uaWRlYQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>dev enviro</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
