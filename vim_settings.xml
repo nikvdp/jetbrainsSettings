@@ -75,12 +75,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MaterialListChooserView.html" timestamp="1461990842295">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="17" column="55" />
-        <mark key="]" line="17" column="68" />
-        <mark key="." line="17" column="68" />
-        <mark key="^" line="17" column="68" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MaterialListChooserView.html" timestamp="1462049675449">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1458760170976">
         <mark key="'" line="14" column="2" />
@@ -89,12 +88,11 @@
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" timestamp="1461990912292">
-        <mark key="'" line="18" column="12" />
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="71" />
-        <mark key="." line="33" column="71" />
-        <mark key="^" line="33" column="71" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" timestamp="1462046335325">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/.jshintrc" timestamp="1459992245093">
         <mark key="'" line="0" column="0" />
@@ -143,10 +141,10 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1461954798371">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1462044818016">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="42" column="29" />
-        <mark key="]" line="42" column="34" />
+        <mark key="[" line="785" column="0" />
+        <mark key="]" line="790" column="8" />
         <mark key="." line="42" column="34" />
         <mark key="^" line="42" column="34" />
       </file>
@@ -156,6 +154,13 @@
         <mark key="]" line="22" column="71" />
         <mark key="^" line="22" column="70" />
         <mark key="." line="22" column="71" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MaterialListChooserView.less" timestamp="1462049930467">
+        <mark key="'" line="55" column="27" />
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="59" column="36" />
+        <mark key="^" line="59" column="36" />
+        <mark key="." line="59" column="36" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" timestamp="1459992254212">
         <mark key="'" line="110" column="35" />
@@ -244,11 +249,12 @@
         <mark key="^" line="33" column="51" />
         <mark key="." line="33" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MaterialListChooser.js" timestamp="1461989754624">
-        <mark key="[" line="46" column="33" />
-        <mark key="]" line="46" column="40" />
-        <mark key="." line="46" column="40" />
-        <mark key="^" line="46" column="40" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MaterialListChooser.js" timestamp="1462048442300">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="44" column="47" />
+        <mark key="]" line="44" column="67" />
+        <mark key="^" line="44" column="67" />
+        <mark key="." line="44" column="67" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" timestamp="1459381477146">
         <mark key="'" line="131" column="11" />
@@ -273,17 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
-      <jump line="38" column="43" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
-      <jump line="39" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
-      <jump line="92" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/controllers/ProgramsCtrl.js" />
-      <jump line="52" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/controllers/ProgramsCtrl.js" />
-      <jump line="9" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
-      <jump line="51" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
-      <jump line="8" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
       <jump line="62" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
       <jump line="51" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
       <jump line="4" column="63" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
@@ -373,13 +368,24 @@
       <jump line="20" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MaterialListChooserView.less" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MaterialListChooserView.html" />
       <jump line="27" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MaterialListChooserView.html" />
+      <jump line="42" column="23" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MaterialListChooser.js" />
+      <jump line="4" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MaterialListChooser.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MaterialListChooserView.html" />
+      <jump line="48" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MaterialListChooser.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MaterialListChooser.js" />
+      <jump line="47" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MaterialListChooser.js" />
+      <jump line="3" column="51" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MaterialListChooser.js" />
+      <jump line="19" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MaterialListChooser.js" />
+      <jump line="9" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MaterialListChooser.js" />
+      <jump line="53" column="27" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MaterialListChooserView.less" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsKICBoZWlnaHQ6IDEwMCU7CiAgcG9zaXRpb246IGZpeGVkOwogIHRvcDogMDsKICBsZWZ0OiAwOwogIGJvdHRvbTogMDsKICByaWdodDogMDsKICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDcwLDY3LDY4LDAuOCk7CiAgei1pbmRleDogOTk5OTk5OTk5ICFpbXBvcnRhbnQ7Cg==</text>
+      <register name="a" type="4">
+        <text>getSelection() == item.label</text>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>#fff</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -394,64 +400,62 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>#fff</text>
       </register>
       <register name="/" type="4">
-        <text>border</text>
+        <text>selection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHotaW5kZXg6IEBvdmVybGF5LXppbmRleCAhaW1wb3J0YW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXI6IDJweCBzb2xpZCAjMDhjMGQzOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>null</text>
+        <text>#fff</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">bmctY2xpY2s9ImhpZGUoKSIg</text>
+        <text>dark</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PA==</text>
+        <text>blue</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgei1pbmRleDogQG92ZXJsYXktemluZGV4ICFpbXBvcnRhbnQ7Cg==</text>
+      <register name="4" type="4">
+        <text>lightyellow</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bmctY2xpY2s9ImhpZGUoKSIg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>-right</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>selected</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwogICAgaGVpZ2h0OiAxMDAlOwogICAgcG9zaXRpb246IGZpeGVkOwogICAgdG9wOiAwOwogICAgbGVmdDogMDsKICAgIGJvdHRvbTogMDsKICAgIHJpZ2h0OiAwOwo=</text>
+      <register name="8" type="4">
+        <text>)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>selecte</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>border</last-search>
+      <last-search>selection</last-search>
       <last-offset />
-      <last-pattern>border</last-pattern>
-      <last-replace>year</last-replace>
-      <last-substitute>month</last-substitute>
+      <last-pattern>selection</last-pattern>
+      <last-replace>,\r</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>add program</entry>
         <entry encoding="base64">XDxqd3RcPg==</entry>
         <entry>uploadFile</entry>
         <entry>juCamera</entry>
-        <entry>,</entry>
         <entry encoding="base64">XDxKaWZmUGhvdG9cPg==</entry>
         <entry>Saved</entry>
         <entry>saved</entry>
@@ -467,6 +471,8 @@
         <entry>month</entry>
         <entry>test</entry>
         <entry>border</entry>
+        <entry>,</entry>
+        <entry>selection</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlbGVjdC9zd2l0Y2gvZw==</entry>
@@ -483,11 +489,11 @@
         <entry encoding="base64">JzwsJz5zLyQvOy9n</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s/&quot;/'/g</entry>
-        <entry>s/,/,\r/g</entry>
         <entry>:w</entry>
         <entry>s/month/day/g</entry>
         <entry>s/day/year/g</entry>
         <entry>s/month/year/g</entry>
+        <entry>s/,/,\r/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
