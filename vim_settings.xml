@@ -24,12 +24,12 @@
         <mark key="^" line="28" column="68" />
         <mark key="." line="28" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" timestamp="1461971910757">
-        <mark key="'" line="15" column="22" />
-        <mark key="[" line="30" column="35" />
-        <mark key="]" line="30" column="53" />
-        <mark key="." line="30" column="53" />
-        <mark key="^" line="30" column="53" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" timestamp="1462126028069">
+        <mark key="'" line="31" column="11" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="33" column="222" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/jiff-dev.sh" timestamp="1461903269830">
         <mark key="[" line="153" column="0" />
@@ -153,12 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
-      <jump line="32" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
-      <jump line="52" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
-      <jump line="9" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
-      <jump line="26" column="27" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
-      <jump line="300" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="278" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="33" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/login.js" />
       <jump line="25" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/services/post.js" />
@@ -253,13 +247,19 @@
       <jump line="74" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MaterialListChooserView.less" />
       <jump line="38" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MaterialListChooserView.less" />
       <jump line="50" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MaterialListChooserView.less" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
+      <jump line="34" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
+      <jump line="45" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
+      <jump line="31" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MultipleChoiceQuestionView.html" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>getSelection() == item.label</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgbmctaWY9ImFuc3dlci5pbWFnZV91cmwiCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.margin-bottom</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICBuZy1jbGFzcz0ie30iCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -274,43 +274,43 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.margin-bottom</text>
+        <text encoding="base64">J3NlbGVjdGVkJzogaXNTZWxlY3RlZChhbnN3ZXIpICYmICFhbnN3ZXIuaW1hZ2VfdXJsLCAnamlmZi1iZy1jb2xvci1saW5rJzogaXNTZWxlY3RlZChhbnN3ZXIpICYmICFhbnN3ZXIuaW1hZ2VfdXJs</text>
       </register>
       <register name="/" type="4">
         <text>months</text>
       </register>
       <register name="0" type="4">
-        <text>ng-click=&quot;ask('day')&quot;</text>
+        <text>!answer.image_url</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>.margin-bottom</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICBuZy1jbGFzcz0ie30iCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuZnVsbC1zaXplOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">J3NlbGVjdGVkJzogaXNTZWxlY3RlZChhbnN3ZXIpICYmICFhbnN3ZXIuaW1hZ2VfdXJsLCAnamlmZi1iZy1jb2xvci1saW5rJzogaXNTZWxlY3RlZChhbnN3ZXIpICYmICFhbnN3ZXIuaW1hZ2VfdXJs</text>
       </register>
-      <register name="3" type="4">
-        <text>55</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIGNsYXNzPSJpdGVtIGl0ZW0tdGV4dC13cmFwIgo=</text>
       </register>
       <register name="4" type="4">
-        <text>8vh</text>
+        <text encoding="base64">ICYmIGFuc3dlci5sYWJlbA==</text>
       </register>
-      <register name="5" type="4">
-        <text>2.8vh</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICBuZy1pbml0PSIgPSBhbnN3ZXIuaW1hZ2VfdXJsIgo=</text>
       </register>
       <register name="6" type="4">
-        <text>5px</text>
+        <text>image_answer</text>
       </register>
       <register name="7" type="4">
-        <text>auto</text>
+        <text>answer-label jiff-color-secondary</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA5MCU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text>2.5vh</text>
+        <text encoding="base64">IGFuc3dlci1sYWJlbA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
