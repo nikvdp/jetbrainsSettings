@@ -141,6 +141,12 @@
         <mark key="^" line="4" column="74" />
         <mark key="." line="4" column="64" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MaterialListChooserView.less" timestamp="1462312590458">
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+        <mark key="^" line="32" column="23" />
+      </file>
       <file name="/a.txt" timestamp="1461189466810">
         <mark key="[" line="0" column="0" />
       </file>
@@ -267,6 +273,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MaterialListChooser.js" timestamp="1462312358739">
+        <mark key="[" line="77" column="48" />
+        <mark key="]" line="77" column="53" />
+        <mark key="^" line="77" column="53" />
+        <mark key="." line="77" column="53" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" timestamp="1459381477146">
         <mark key="'" line="131" column="11" />
@@ -417,8 +429,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdOZXdzZmVlZCAtIFZpZXcgUG9zdCcpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>enrolled</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -433,7 +445,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>enrolled</text>
+        <text>self.selection</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -444,32 +456,32 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>enrolled</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text>true</text>
+        <text>self.selection</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">KCEgYWxyZWFkeVNob3duKSAmJiBlbnJvbGxtZW50RGF0ZS5pc0JlZm9yZShtb21lbnQoJzIwMTYtMDMtMjInLCAnWVlZWS1NTS1ERCcpKTs=</text>
+        <text>self.selection</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAoISBhbHJlYWR5U2hvd24pICYmIGVucm9sbG1lbnREYXRlLmlzQmVmb3JlKG1vbWVudCgnMjAxNi0wMy0yMicsICdZWVlZLU1NLUREJykpOwo=</text>
+      <register name="4" type="4">
+        <text>enrolled</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICR3aW5kb3csCg==</text>
+      <register name="5" type="4">
+        <text>true</text>
       </register>
       <register name="6" type="4">
-        <text>state</text>
+        <text encoding="base64">KCEgYWxyZWFkeVNob3duKSAmJiBlbnJvbGxtZW50RGF0ZS5pc0JlZm9yZShtb21lbnQoJzIwMTYtMDMtMjInLCAnWVlZWS1NTS1ERCcpKTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkc3RhdGUuZ28oJ3ByaXZhY3knKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAoISBhbHJlYWR5U2hvd24pICYmIGVucm9sbG1lbnREYXRlLmlzQmVmb3JlKG1vbWVudCgnMjAxNi0wMy0yMicsICdZWVlZLU1NLUREJykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCchIT4+IGVucnJvbGxtZW50OiAnLCBlbnJvbGxtZW50RGF0ZSk7CiAgICAgICAgICBlbnJvbGxtZW50RGF0ZSA9IG1vbWVudCgnMjAxNS0wMS0wMScsICdZWVlZLU1NLUREJyk7CiAgICAgICAgICBjb25zb2xlLmxvZygnISE+PiBlbnJyb2xsbWVudDogJywgZW5yb2xsbWVudERhdGUpOwo=</text>
+        <text encoding="base64">ICAgICR3aW5kb3csCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>state</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
