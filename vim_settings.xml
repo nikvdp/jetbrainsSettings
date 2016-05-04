@@ -195,11 +195,11 @@
         <mark key="." line="93" column="29" />
         <mark key="^" line="93" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" timestamp="1462324211189">
-        <mark key="[" line="58" column="26" />
-        <mark key="]" line="58" column="27" />
-        <mark key="." line="58" column="27" />
-        <mark key="^" line="58" column="27" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" timestamp="1462325627619">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="23" />
+        <mark key="." line="45" column="23" />
+        <mark key="^" line="45" column="23" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/PrivacyPolicyPopupCheck.js" timestamp="1461723854940">
         <mark key="'" line="4" column="6" />
@@ -292,6 +292,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" timestamp="1462325698311">
+        <mark key="'" line="7" column="41" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/bin/www" timestamp="1459988884106">
         <mark key="'" line="1" column="0" />
       </file>
@@ -355,7 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="18" column="36" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="111" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
@@ -455,13 +461,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/standards.less" />
       <jump line="4" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" />
       <jump line="14" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/WeightQuestionView.less" />
+      <jump line="7" column="41" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC51bml0LXN3YXBwZXIgewogICAgICB0ZXh0LWFsaWduOiByaWdodDsKICAgICAgbWFyZ2luOiAxMnB4IDE5cHg7CiAgICAgIGxpbmUtaGVpZ2h0OiAxNnB4OwogICAgICBmb250LXNpemU6IDE0cHg7CiAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>lbs</text>
+        <text>n</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -476,7 +483,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>lbs</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>white</text>
@@ -488,31 +495,31 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>lbs</text>
+        <text>n</text>
       </register>
       <register name="2" type="4">
-        <text>kg</text>
+        <text>lbs</text>
       </register>
       <register name="3" type="4">
         <text>kg</text>
       </register>
       <register name="4" type="4">
-        <text>lbs</text>
+        <text>kg</text>
       </register>
       <register name="5" type="4">
         <text>lbs</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
+        <text>lbs</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzY29wZS5zd2FwVW5pdHMgPSBmdW5jdGlvbigpIHsKICAgICAgICAgIHNjb3BlLnVuaXQgPSBzY29wZS51bml0ID09PSAnbGJzJyA/ICdrZycgOiAnbGJzJzsKICAgICAgICB9OwoK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">c2NvcGUudW5pdCA=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ZGRPCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgIHNjb3BlLmlucHV0QWN0aXZlID0gIXNjb3BlLmlucHV0QWN0aXZlOwoKICAgICAgICAgIC8vICR0aW1lb3V0IGlzIG5lZWRlZCBzbyB0aGF0IGEgZGlnZXN0IGN5Y2xlIGNhbiBydW4gYW5kIGFuZ3VsYXIgY2FuIGZpbmlzaCBoaWRpbmcvc2hvd2luZyB0aGluZ3MKICAgICAgICAgICR0aW1lb3V0KGZ1bmN0aW9uKCkgewogICAgICAgICAgICBlbGVtZW50LmZpbmQoJ1tuZy1tb2RlbD13ZWlnaHRdJykuZm9jdXMoKTsKICAgICAgICAgIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
