@@ -163,6 +163,12 @@
         <mark key="^" line="79" column="74" />
         <mark key="." line="79" column="74" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" timestamp="1462319696835">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" timestamp="1459987993363">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
@@ -203,12 +209,12 @@
         <mark key="^" line="42" column="74" />
         <mark key="." line="42" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/HeightQuestionView.html" timestamp="1462315023812">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/HeightQuestionView.html" timestamp="1462319598732">
         <mark key="'" line="4" column="6" />
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="8" column="26" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="41" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/styles/EventsList.less" timestamp="1456775064191">
         <mark key="[" line="15" column="25" />
@@ -261,6 +267,11 @@
         <mark key="]" line="3" column="52" />
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/StructuredResponseQuestionView.less" timestamp="1462318916806">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/bin/www" timestamp="1459988884106">
         <mark key="'" line="1" column="0" />
@@ -442,8 +453,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgc2VnbWVudGlvLnRyYWNrKCdOZXdzZmVlZCAtIFZpZXcgUG9zdCcpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>box</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -461,49 +472,49 @@
         <text>box</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>55</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzcGFuIG5nLXNob3c9InVuaXQgPT0gJ2luY2hlcyciPiBtZXRlcnMgPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>box</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>meters</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLmNtIHsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsKICAgICAgICBjb2xvcjogYmxhY2s7CiAgICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>inches</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb2xvcjogYmxhY2s7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>{{ unit == 'inches' ? 'cm' : 'inches' }}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text>cm</text>
+        <text>box</text>
       </register>
-      <register name="6" type="4">
-        <text>inches</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>cm</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>answer.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICYK</text>
       </register>
-      <register name="9" type="4">
-        <text>answer.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCcmVhZGNydW1ic1w+</last-search>
+      <last-search>55</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>55</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -511,7 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry>+</entry>
         <entry encoding="base64">XDxhcHBseVN0eWxlc1w+</entry>
         <entry>selected:</entry>
         <entry>add program</entry>
@@ -531,6 +541,7 @@
         <entry encoding="base64">XDxzZWdtZW50aW9cPg==</entry>
         <entry encoding="base64">XDxCcmVhZGNydW1ic1w+</entry>
         <entry>&quot;</entry>
+        <entry>55</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dlbmRlci9zdWJsYWJlbC9n</entry>
