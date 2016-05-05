@@ -135,6 +135,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/lib/routes.js" timestamp="1459912780534">
         <mark key="'" line="100" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1462407565597">
+        <mark key="[" line="53" column="49" />
+        <mark key="]" line="53" column="56" />
+        <mark key="^" line="53" column="56" />
+        <mark key="." line="53" column="56" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" timestamp="1461351513138">
         <mark key="'" line="26" column="27" />
         <mark key="[" line="4" column="64" />
@@ -479,8 +485,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC51bml0LXN3YXBwZXIgewogICAgICB0ZXh0LWFsaWduOiByaWdodDsKICAgICAgbWFyZ2luOiAxMnB4IDE5cHg7CiAgICAgIGxpbmUtaGVpZ2h0OiAxNnB4OwogICAgICBmb250LXNpemU6IDE0cHg7CiAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiA1MHB4ICFpbXBvcnRhbnQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -495,43 +501,43 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>35px</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>white</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAic3R5bGVzL01hdGVyaWFsTGlzdENob29zZXJWaWV3Lmxlc3MiOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3F1ZXN0aW9uIHN0YXJ0aW5nJywgZGF0YSk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiA1MHB4ICFpbXBvcnRhbnQ7Cg==</text>
+      <register name="1" type="4">
+        <text>data</text>
       </register>
       <register name="2" type="4">
-        <text>35px</text>
+        <text>$event.on(JIFF_INCENTIVES_MAIN_EVENT_KEYS.question_finished.actual, function(response</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiA1MHB4ICFpbXBvcnRhbnQ7Cg==</text>
+      <register name="3" type="4">
+        <text>{}</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGppZmYtIA==</text>
+        <text>throttle</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1sZWZ0OiAxcHggc29saWQgYmxhY2sgIWltcG9ydGFudDsK</text>
+      <register name="5" type="4">
+        <text>starting</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQ6IDFweCBzb2xpZCBibGFjazsK</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiA1MHB4ICFpbXBvcnRhbnQ7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
+      <register name="7" type="4">
+        <text>35px</text>
       </register>
-      <register name="8" type="4">
-        <text>f</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiA1MHB4ICFpbXBvcnRhbnQ7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICAgIGxlZnQ6IDMwcHg7CiAgICB9Zgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGppZmYtIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
