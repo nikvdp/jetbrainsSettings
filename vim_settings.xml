@@ -9,7 +9,11 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" timestamp="1462405546410" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" timestamp="1462408475507">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/bootstrap.js" timestamp="1458935496006">
         <mark key="'" line="76" column="17" />
         <mark key="[" line="75" column="39" />
@@ -29,6 +33,9 @@
         <mark key="]" line="59" column="13" />
         <mark key="^" line="62" column="50" />
         <mark key="." line="59" column="13" />
+      </file>
+      <file name="/a.dummy" timestamp="1462408219010">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/controllers/ProgramsCtrl.js" timestamp="1461178272536">
         <mark key="'" line="92" column="17" />
@@ -135,7 +142,7 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/lib/routes.js" timestamp="1459912780534">
         <mark key="'" line="100" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1462407565597">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1462408011020">
         <mark key="[" line="53" column="49" />
         <mark key="]" line="53" column="56" />
         <mark key="^" line="53" column="56" />
@@ -161,7 +168,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/a.txt" timestamp="1461189466810">
+      <file name="/a.txt" timestamp="1462408019676">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" timestamp="1459992254212">
@@ -319,7 +326,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="/a.regexp" timestamp="1462398078076">
+      <file name="/a.regexp" timestamp="1462408223962">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1460430810176">
@@ -485,8 +492,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC51bml0LXN3YXBwZXIgewogICAgICB0ZXh0LWFsaWduOiByaWdodDsKICAgICAgbWFyZ2luOiAxMnB4IDE5cHg7CiAgICAgIGxpbmUtaGVpZ2h0OiAxNnB4OwogICAgICBmb250LXNpemU6IDE0cHg7CiAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -501,7 +508,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">ICR3aW5kb3cuaGlzdG9yeS5mb3J3YXJkKCk=</text>
       </register>
       <register name="/" type="4">
         <text>white</text>
@@ -512,32 +519,32 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>data</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>$event.on(JIFF_INCENTIVES_MAIN_EVENT_KEYS.question_finished.actual, function(response</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICRodHRwLnB1dChhcGkuQ0hFQ0sucmVwbGFjZSgvXHtpZFx9Lywgd29ya2Zsb3dJZCkKICAgICAgICAgICAgLnJlcGxhY2UoL1x7YWN0aW9uSWRcfS8sIGFjdGlvbklkKSwgZGF0YS5wYXlsb2FkKQogICAgICAgICAgICAudGhlbihoYW5kbGVSZXNwb25zZShjZmcpKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>throttle</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>starting</text>
+        <text encoding="base64">ICR3aW5kb3cuaGlzdG9yeS5mb3J3YXJkKCk=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiA1MHB4ICFpbXBvcnRhbnQ7Cg==</text>
+      <register name="6" type="4">
+        <text>data</text>
       </register>
       <register name="7" type="4">
-        <text>35px</text>
+        <text>$event.on(JIFF_INCENTIVES_MAIN_EVENT_KEYS.question_finished.actual, function(response</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiA1MHB4ICFpbXBvcnRhbnQ7Cg==</text>
+      <register name="8" type="4">
+        <text>{}</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGppZmYtIA==</text>
+        <text>throttle</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
