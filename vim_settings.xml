@@ -23,6 +23,12 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" timestamp="1462571887497">
+        <mark key="[" line="42" column="69" />
+        <mark key="]" line="42" column="68" />
+        <mark key="^" line="42" column="68" />
+        <mark key="." line="42" column="68" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deData.js" timestamp="1459369516827">
         <mark key="[" line="18" column="60" />
         <mark key="]" line="18" column="62" />
@@ -317,7 +323,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="/a.regexp" timestamp="1462408223962">
+      <file name="/a.regexp" timestamp="1462571696063">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1460430810176">
@@ -478,7 +484,7 @@
         <text encoding="base64">ICAgICAgICAgIGZ1bmN0aW9uIGhhbmRsZUVuZEV2ZW50KGRhdGEpIHsKICAgICAgICAgICAgaWYgKGNmZy5vbmNlKSB7CiAgICAgICAgICAgICAgY2ZnLm9uY2UgPSBmYWxzZTsKICAgICAgICAgICAgICByZXR1cm4gJHdpbmRvdy5oaXN0b3J5LmZvcndhcmQoKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgJGh0dHAucHV0KGFwaS5DSEVDSy5yZXBsYWNlKC9ce2lkXH0vLCB3b3JrZmxvd0lkKQogICAgICAgICAgICAgIC5yZXBsYWNlKC9ce2FjdGlvbklkXH0vLCBhY3Rpb25JZCksIGRhdGEucGF5bG9hZCkKICAgICAgICAgICAgICAudGhlbihoYW5kbGVSZXNwb25zZShjZmcpKTsKICAgICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, '_blank'</text>
+        <text>getInterestsCached(answer.interests_source)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -493,7 +499,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, '_blank'</text>
+        <text>getInterestsCached(answer.interests_source)</text>
       </register>
       <register name="/" type="4">
         <text>white</text>
@@ -505,31 +511,31 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>, '_blank'</text>
+        <text>getInterestsCached(answer.interests_source)</text>
       </register>
       <register name="2" type="4">
-        <text>1000</text>
+        <text>, '_blank'</text>
       </register>
       <register name="3" type="4">
-        <text>, true</text>
+        <text>1000</text>
       </register>
       <register name="4" type="4">
+        <text>, true</text>
+      </register>
+      <register name="5" type="4">
         <text>replyToRoz</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICRodHRwLnB1dChhcGkuQ0hFQ0sucmVwbGFjZSgvXHtpZFx9Lywgd29ya2Zsb3dJZCkKICAgICAgICAgICAgLnJlcGxhY2UoL1x7YWN0aW9uSWRcfS8sIGFjdGlvbklkKSwgZGF0YS5wYXlsb2FkKQogICAgICAgICAgICAudGhlbihoYW5kbGVSZXNwb25zZShjZmcpKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">dmFyIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
