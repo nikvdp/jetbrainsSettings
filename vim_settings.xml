@@ -9,11 +9,9 @@
         <mark key="]" line="42" column="54" />
         <mark key="." line="42" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/styles/OnboardingQuestionPageView.less" timestamp="1462203765811">
-        <mark key="[" line="95" column="16" />
-        <mark key="]" line="96" column="22" />
-        <mark key="." line="96" column="22" />
-        <mark key="^" line="96" column="22" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/styles/OnboardingQuestionPageView.less" timestamp="1462502208687">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="52" column="24" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopupService.js" timestamp="1461107812840">
         <mark key="'" line="32" column="31" />
@@ -75,6 +73,12 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1462502080413">
+        <mark key="'" line="20" column="22" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1462044818016">
         <mark key="'" line="43" column="0" />
@@ -139,21 +143,11 @@
       <file name="/a.regexp" timestamp="1461189464751">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MultipleChoiceQuestionView.less" timestamp="1461977581103">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="10" />
-        <mark key="^" line="10" column="5" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/MaterialListChooser.js" timestamp="1462054014283">
         <mark key="'" line="9" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/controllers/post.js" />
-      <jump line="74" column="54" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/services/post.js" />
-      <jump line="6" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/services/post.js" />
       <jump line="59" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/services/post.js" />
       <jump line="75" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/services/post.js" />
       <jump line="47" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/services/post.js" />
@@ -251,13 +245,16 @@
       <jump line="223" column="41" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
       <jump line="13" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
+      <jump line="44" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
+      <jump line="20" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/styles/OnboardingQuestionPageView.less" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgbmctaWY9ImFuc3dlci5pbWFnZV91cmwiCg==</text>
+        <text encoding="base64">ICAucXVlc3Rpb24taWNvbiB7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICBoZWlnaHQ6IDE3MXB4OwogIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFVuc2NyZXcgJGV2ZW50Lm9uY2UgZmFpbGluZyBhbmQgYXZvaWRpbmcgdGhpcyBzY3Jld2VkIHVwIGhhY2sK</text>
+        <text encoding="base64">ICAgIC5zcGVjaWFsX29uYm9hcmRpbmc7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -275,7 +272,7 @@
         <text>card</text>
       </register>
       <register name="/" type="4">
-        <text>thrott</text>
+        <text>question-icon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaGVpZ2h0OiA2NXB4Owo=</text>
@@ -284,40 +281,40 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFVuc2NyZXcgJGV2ZW50Lm9uY2UgZmFpbGluZyBhbmQgYXZvaWRpbmcgdGhpcyBzY3Jld2VkIHVwIGhhY2sK</text>
+        <text encoding="base64">ICAgIC5zcGVjaWFsX29uYm9hcmRpbmc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXI6IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luLWJvdHRvbTogNnZoOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>card</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbjogNXZ3IDJ2aDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICBuZy1jbGFzcz0ie30iCg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgNzBweDsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">J3NlbGVjdGVkJzogaXNTZWxlY3RlZChhbnN3ZXIpICYmICFhbnN3ZXIuaW1hZ2VfdXJsLCAnamlmZi1iZy1jb2xvci1saW5rJzogaXNTZWxlY3RlZChhbnN3ZXIpICYmICFhbnN3ZXIuaW1hZ2VfdXJs</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGNsYXNzPSJpdGVtIGl0ZW0tdGV4dC13cmFwIgo=</text>
+        <text encoding="base64">ICAucXVlc3Rpb24taWNvbiB7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICBoZWlnaHQ6IDE3MXB4OwogIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICYmIGFuc3dlci5sYWJlbA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgNDBweDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBuZy1pbml0PSIgPSBhbnN3ZXIuaW1hZ2VfdXJsIgo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgNDBweDsK</text>
       </register>
-      <register name="9" type="4">
-        <text>image_answer</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgNDBweDsKICAgIGZvbnQtc2l6ZTogMjBweDsKICAgIGxpbmUtaGVpZ2h0OiAxLjE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>thrott</last-search>
+      <last-search>question-icon</last-search>
       <last-offset />
-      <last-pattern>thrott</last-pattern>
+      <last-pattern>question-icon</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -325,7 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saved</entry>
         <entry>toast</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDx1bml0VHlwZVw+</entry>
@@ -345,6 +341,7 @@
         <entry>event.once</entry>
         <entry>once</entry>
         <entry>thrott</entry>
+        <entry>question-icon</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlbGVjdC9zd2l0Y2gvZw==</entry>
