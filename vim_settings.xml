@@ -23,12 +23,12 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" timestamp="1462818671305">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="50" column="13" />
-        <mark key="]" line="50" column="35" />
-        <mark key="." line="50" column="35" />
-        <mark key="^" line="50" column="35" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" timestamp="1462827554355">
+        <mark key="'" line="64" column="24" />
+        <mark key="[" line="65" column="23" />
+        <mark key="]" line="65" column="57" />
+        <mark key="^" line="65" column="57" />
+        <mark key="." line="65" column="57" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deData.js" timestamp="1459369516827">
         <mark key="[" line="18" column="60" />
@@ -116,11 +116,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1461192894499">
         <mark key="'" line="277" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" timestamp="1462823380525">
-        <mark key="'" line="38" column="27" />
-        <mark key="[" line="17" column="102" />
-        <mark key="]" line="17" column="102" />
-        <mark key="." line="17" column="102" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" timestamp="1462825808586">
+        <mark key="'" line="39" column="37" />
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="40" column="7" />
+        <mark key="." line="40" column="7" />
+        <mark key="^" line="40" column="7" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/views/productOptions.html" timestamp="1459817866200">
         <mark key="[" line="2" column="85" />
@@ -392,13 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
-      <jump line="62" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" />
-      <jump line="51" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
-      <jump line="4" column="63" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
       <jump line="53" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
       <jump line="32" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
       <jump line="52" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
@@ -488,17 +482,27 @@
       <jump line="43" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
       <jump line="11" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" />
       <jump line="13" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
-      <jump line="55" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="36" column="44" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="35" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
-      <jump line="38" column="27" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
+      <jump line="60" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
+      <jump line="113" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
+      <jump line="38" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
+      <jump line="14" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deData.js" />
+      <jump line="66" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
+      <jump line="55" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
+      <jump line="74" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
+      <jump line="64" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZ1bmN0aW9uIGhhbmRsZUVuZEV2ZW50KGRhdGEpIHsKICAgICAgICAgICAgaWYgKGNmZy5vbmNlKSB7CiAgICAgICAgICAgICAgY2ZnLm9uY2UgPSBmYWxzZTsKICAgICAgICAgICAgICByZXR1cm4gJHdpbmRvdy5oaXN0b3J5LmZvcndhcmQoKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgJGh0dHAucHV0KGFwaS5DSEVDSy5yZXBsYWNlKC9ce2lkXH0vLCB3b3JrZmxvd0lkKQogICAgICAgICAgICAgIC5yZXBsYWNlKC9ce2FjdGlvbklkXH0vLCBhY3Rpb25JZCksIGRhdGEucGF5bG9hZCkKICAgICAgICAgICAgICAudGhlbihoYW5kbGVSZXNwb25zZShjZmcpKTsKICAgICAgICAgIH0K</text>
+      <register name="a" type="4">
+        <text>.filter(function(response) {
+             // then filter out interests the user didn't select
+             return _.contains(response.answers, response)
+           })</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">dmFyIHByZXZpb3VzUmVzcG9uc2VzID0g</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -513,7 +517,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">dmFyIHByZXZpb3VzUmVzcG9uc2VzID0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFeHRlcm5hbFF1ZXN0aW9uU2VydmljZVw+</text>
@@ -525,35 +529,34 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text encoding="base64">dmFyIHByZXZpb3VzUmVzcG9uc2VzID0g</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>GET_</text>
+        <text>interests</text>
       </register>
-      <register name="3" type="4">
-        <text>SAVE_</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIHByZXZpb3VzUmVzcG9uc2VzCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>SAVE_</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgR0VUX1JFU1BPTlNFUzogSmlmZkVudmlyb25tZW50Q29uZmlnLmFwaURvbWFpbiArICcvdjMvcXVlc3Rpb25uYWlyZXMvcmVzcG9uc2VzJwo=</text>
+      <register name="5" type="4">
+        <text>;</text>
       </register>
-      <register name="6" type="4">
-        <text>return</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgLmFuc3dlcnMK</text>
       </register>
       <register name="7" type="4">
-        <text>be an array the question internal ids of the interests the user selected 
-             // previously</text>
+        <text>;</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgLm1hcChmdW5jdGlvbihyZXNwb25zZSkgewogICAgICAgICAgICAgICAgIC8vIGdyYWIgdGhlIHN0b3JlZCByZXNwb25zZXMgYW5kIGRpc2NhcmQgdGhlIHJlc3Qgb2YgdGhlIHJlc3BvbnNlIHdyYXBwZXIKICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UuYW5zd2VyczsKICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bm93IA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
