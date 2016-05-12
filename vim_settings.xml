@@ -36,9 +36,6 @@
         <mark key="^" line="62" column="50" />
         <mark key="." line="59" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1462408219010">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/programs/controllers/ProgramsCtrl.js" timestamp="1461178272536">
         <mark key="'" line="92" column="17" />
       </file>
@@ -157,12 +154,13 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/lib/routes.js" timestamp="1459912780534">
         <mark key="'" line="100" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1463011228898">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" timestamp="1463012909494">
         <mark key="a" line="83" column="7" />
-        <mark key="[" line="84" column="92" />
-        <mark key="]" line="84" column="109" />
-        <mark key="." line="84" column="109" />
-        <mark key="^" line="84" column="109" />
+        <mark key="'" line="93" column="57" />
+        <mark key="[" line="87" column="32" />
+        <mark key="]" line="87" column="32" />
+        <mark key="^" line="87" column="32" />
+        <mark key="." line="87" column="32" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1462408809194">
         <mark key="'" line="40" column="74" />
@@ -193,7 +191,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/a.txt" timestamp="1462408019676">
+      <file name="/a.txt" timestamp="1463011926791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" timestamp="1459992254212">
@@ -338,9 +336,6 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="/a.regexp" timestamp="1463010838153">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1460430810176">
         <mark key="[" line="200" column="32" />
         <mark key="]" line="201" column="25" />
@@ -401,7 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="52" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" />
       <jump line="104" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/controllers/post.js" />
       <jump line="9" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/controllers/post.js" />
       <jump line="9" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" />
@@ -501,6 +495,7 @@
       <jump line="83" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="84" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="272" column="81" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
+      <jump line="93" column="57" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -509,8 +504,8 @@
              return _.contains(response.answers, response)
            })</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>_blank</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -525,46 +520,46 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ion</text>
+        <text>_blank</text>
       </register>
       <register name="/" type="4">
         <text>cordova</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3F1ZXN0aW9uIHN0YXJ0aW5nJywgZGF0YSk7Cg==</text>
+      <register name="0" type="4">
+        <text>$window.cordova.InAppBrowser.open.apply</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>_blank</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICR3aW5kb3cub3BlbiA9IGNvcmRvdmEuSW5BcHBCcm93c2VyLm9wZW47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VHJhbnNsYXRlKCdiYWxsYmEnKTsK</text>
+        <text encoding="base64">ICAgICAgICAkd2luZG93LmNvcmRvdmEuSW5BcHBCcm93c2VyLm9wZW47Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaGFjayBzbyB0aGUgcHJvbWlzZSBjaGFpbiB3aWxsIGNvbnRpbnVlIHdpdGhvdXQgZXJyb3IKICAgICAgICAgICAgZXBpc29kZSA9IGRhdGEuZXBpc29kZXNbMF07Cg==</text>
+      <register name="4" type="4">
+        <text>$window.open.apply</text>
       </register>
       <register name="5" type="4">
-        <text>ion</text>
+        <text>open</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGlja2VkJywgY2F0ZWdvcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2F0ZWdvcmllcycsIGNhdGVnb3JpZXMpOwo=</text>
+      <register name="7" type="4">
+        <text>Array.splice()</text>
       </register>
       <register name="8" type="4">
-        <text>flex-start</text>
+        <text>{kkkk})</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
