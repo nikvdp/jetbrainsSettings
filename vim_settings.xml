@@ -89,12 +89,6 @@
         <mark key="." line="8" column="58" />
         <mark key="^" line="8" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/providers/tmlProvider.js" timestamp="1463010486182">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1458760170976">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="21" column="10" />
@@ -107,6 +101,13 @@
         <mark key="]" line="36" column="0" />
         <mark key="^" line="34" column="33" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" timestamp="1463720869686">
+        <mark key="'" line="16" column="21" />
+        <mark key="[" line="37" column="52" />
+        <mark key="]" line="38" column="3" />
+        <mark key="." line="38" column="3" />
+        <mark key="^" line="38" column="3" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/.jshintrc" timestamp="1459992245093">
         <mark key="'" line="0" column="0" />
@@ -407,10 +408,12 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" timestamp="1463714382287">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" timestamp="1463719059041">
+        <mark key="'" line="37" column="52" />
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="13" column="52" />
+        <mark key="." line="13" column="52" />
+        <mark key="^" line="50" column="56" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/skinifyUrlFilter.js" timestamp="1463712725519">
         <mark key="[" line="6" column="46" />
@@ -432,12 +435,6 @@
         <mark key="." line="42" column="74" />
         <mark key="^" line="42" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/emergencyBroadcast.js" timestamp="1463428647263">
-        <mark key="'" line="29" column="14" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/RankableQuestionView.less" timestamp="1462328046888">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="4" column="0" />
@@ -457,16 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="55" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MaterialListChooserView.html" />
-      <jump line="15" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MaterialListChooserView.html" />
-      <jump line="16" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MaterialListChooserView.html" />
-      <jump line="26" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MaterialListChooserView.html" />
-      <jump line="7" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/MaterialListChooserView.html" />
-      <jump line="36" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/HeightQuestion.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" />
-      <jump line="19" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" />
-      <jump line="12" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" />
-      <jump line="11" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/standards.less" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/standards.less" />
       <jump line="4" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" />
       <jump line="14" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/WeightQuestionView.less" />
@@ -557,13 +544,23 @@
       <jump line="5" column="45" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
       <jump line="66" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.conf.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
+      <jump line="46" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
+      <jump line="48" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
+      <jump line="49" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
+      <jump line="37" column="52" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" />
+      <jump line="15" column="54" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" />
+      <jump line="52" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" />
+      <jump line="16" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>stub out the Jiff provider</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgIC8vIHN0dWIgb3V0IHRoZSBKaWZmIHByb3ZpZGVyIHdpdGggYW4gb2JqZWN0IHRoYXQgc2V0cwogICAgLy8gSmlmZi5JZGVudGl0eS51c2VyLmFwcFNraW4gdG8gYHVuZGVmaW5lZGAKICAgIGJlZm9yZUVhY2gobW9kdWxlKGZ1bmN0aW9uICgkcHJvdmlkZSkgewogICAgICAkcHJvdmlkZS52YWx1ZSgnSmlmZicsIHtJZGVudGl0eToge3VzZXI6IHthcHBza2luOiB1bmRlZmluZWR9fX0pOwogICAgfSkpOwoK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBjYWNoZWRQcm92aWRlciA9IGNhY2hlaWZ5KGZha2VEYXRhUHJvdmlkZXIpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -578,46 +575,46 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>provider</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>module('jiff.Incentives.Questions',</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhciBjYWNoZWRQcm92aWRlciA9IGNhY2hlaWZ5KGZha2VEYXRhUHJvdmlkZXIpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>provider</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgc2tpbmlmeVVybCwgSmlmZjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text>Object ab</text>
+      </register>
+      <register name="4" type="4">
+        <text>arguments</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvLyBpbnNlcnQgbW9kdWxlcyB3ZSdsbCBiZSB1c2luZwogIGJlZm9yZUVhY2gobW9kdWxlKCdqaWZmLkluY2VudGl2ZXMuUXVlc3Rpb25zJykpOwoKICAvLyBhbmd1bGFyIGF1dG9tYXRpY2FsbHkgZmluZHMgdGhlIHJpZ2h0IHRoaW5nIGRlc3BpdGUgdGhlIF91bmRlcnNjb3Jlc18KICBiZWZvcmVFYWNoKGluamVjdChmdW5jdGlvbiAoX3NraW5pZnlVcmxGaWx0ZXJfKSB7CiAgICBza2luaWZ5VXJsID0gX3NraW5pZnlVcmxGaWx0ZXJfOwogIH0pKTsK</text>
-      </register>
-      <register name="5" type="4">
-        <text>)</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>fakeDataProvider</text>
       </register>
-      <register name="7" type="4">
-        <text>module('jiff.Incentives.Questions'</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiZWZvcmVFYWNoKG1vZHVsZSgnamlmZi5JbmNlbnRpdmVzLlF1ZXN0aW9ucycpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>provider</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
