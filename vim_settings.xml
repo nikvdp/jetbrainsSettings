@@ -72,11 +72,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardEarningViewModel.js" timestamp="1463767151446">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardEarningViewModel.js" timestamp="1464027885477">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/variables.less" timestamp="1460752433670">
         <mark key="'" line="31" column="30" />
@@ -151,12 +150,12 @@
         <mark key="^" line="43" column="88" />
         <mark key="." line="43" column="88" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" timestamp="1463722875145">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" timestamp="1464027854919">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="112" column="5" />
-        <mark key="]" line="113" column="14" />
-        <mark key="." line="113" column="14" />
-        <mark key="^" line="113" column="14" />
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="43" />
+        <mark key="." line="20" column="43" />
+        <mark key="^" line="20" column="43" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" timestamp="1459384766256">
         <mark key="'" line="16" column="4" />
@@ -421,11 +420,10 @@
         <mark key="." line="13" column="52" />
         <mark key="^" line="50" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/skinifyUrlFilter.js" timestamp="1463712725519">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="^" line="6" column="45" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/skinifyUrlFilter.js" timestamp="1464027498499">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/profile/controllers/profile.js" timestamp="1460429599396">
         <mark key="'" line="116" column="24" />
@@ -565,8 +563,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8vIHN0dWIgb3V0IHRoZSBKaWZmIHByb3ZpZGVyIHdpdGggYW4gb2JqZWN0IHRoYXQgc2V0cwogICAgLy8gSmlmZi5JZGVudGl0eS51c2VyLmFwcFNraW4gdG8gYHVuZGVmaW5lZGAKICAgIGJlZm9yZUVhY2gobW9kdWxlKGZ1bmN0aW9uICgkcHJvdmlkZSkgewogICAgICAkcHJvdmlkZS52YWx1ZSgnSmlmZicsIHtJZGVudGl0eToge3VzZXI6IHthcHBza2luOiB1bmRlZmluZWR9fX0pOwogICAgfSkpOwoK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -592,35 +590,35 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBTZXJ2ZXIgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgLy9hc2QgCg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhciBTZXJ2ZXIgPSA7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>Server</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>require('karma').Server</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXJuYW1lIGlzOiAnLCBfX2Rpcm5hbWUpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="9" type="4">
-        <text>return</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
