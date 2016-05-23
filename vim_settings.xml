@@ -155,7 +155,13 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" timestamp="1464043473881" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" timestamp="1464046089828">
+        <mark key="'" line="9" column="5" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/inject.js" timestamp="1463695284645">
         <mark key="[" line="31" column="1" />
         <mark key="]" line="31" column="1" />
@@ -426,8 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/standards.less" />
-      <jump line="4" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" />
       <jump line="14" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/WeightQuestionView.less" />
       <jump line="7" column="41" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/module.less" />
@@ -526,13 +530,15 @@
       <jump line="15" column="54" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" />
       <jump line="52" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" />
       <jump line="16" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" />
+      <jump line="69" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" />
+      <jump line="9" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8vIHN0dWIgb3V0IHRoZSBKaWZmIHByb3ZpZGVyIHdpdGggYW4gb2JqZWN0IHRoYXQgc2V0cwogICAgLy8gSmlmZi5JZGVudGl0eS51c2VyLmFwcFNraW4gdG8gYHVuZGVmaW5lZGAKICAgIGJlZm9yZUVhY2gobW9kdWxlKGZ1bmN0aW9uICgkcHJvdmlkZSkgewogICAgICAkcHJvdmlkZS52YWx1ZSgnSmlmZicsIHtJZGVudGl0eToge3VzZXI6IHthcHBza2luOiB1bmRlZmluZWR9fX0pOwogICAgfSkpOwoK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ21vYmlsZTppbmplY3Q6a2FybWEnLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -559,34 +565,34 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ21vYmlsZTppbmplY3Q6a2FybWEnLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ21vYmlsZTppbmplY3Q6a2FybWEnLAo=</text>
+        <text encoding="base64">ICAgICAgdG1sLmNoYW5nZUxhbmd1YWdlKGxhbmd1YWdlLmxvY2FsZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgJ21vYmlsZTppbmplY3Q6a2FybWEnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy9hc2QgCg==</text>
+        <text encoding="base64">ICAgICAgJ21vYmlsZTppbmplY3Q6a2FybWEnLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBTZXJ2ZXIgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgLy9hc2QgCg==</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhciBTZXJ2ZXIgPSA7Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>Server</text>
-      </register>
-      <register name="8" type="4">
-        <text>require('karma').Server</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXJuYW1lIGlzOiAnLCBfX2Rpcm5hbWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
