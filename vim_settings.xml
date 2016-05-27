@@ -56,6 +56,13 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/OnboardingApi.js" timestamp="1464320462337">
+        <mark key="'" line="13" column="6" />
+        <mark key="[" line="520" column="7" />
+        <mark key="]" line="520" column="8" />
+        <mark key="^" line="520" column="7" />
+        <mark key="." line="520" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1459298630054">
         <mark key="'" line="91" column="29" />
         <mark key="[" line="38" column="3" />
@@ -181,11 +188,6 @@
         <mark key="]" line="79" column="74" />
         <mark key="^" line="79" column="74" />
         <mark key="." line="79" column="74" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" timestamp="1462323505916">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/logo.js" timestamp="1459987993363">
         <mark key="'" line="0" column="0" />
@@ -379,18 +381,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" timestamp="1462916712454" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/index.js" timestamp="1459979058529">
         <mark key="'" line="39" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
-      <jump line="26" column="27" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/BooleanPopup.js" />
-      <jump line="300" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="278" column="35" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="33" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/login.js" />
-      <jump line="25" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/services/post.js" />
       <jump line="22" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/services/post.js" />
       <jump line="97" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/controllers/post.js" />
       <jump line="74" column="54" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/social/services/post.js" />
@@ -485,6 +480,12 @@
       <jump line="57" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="56" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="85" column="71" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
+      <jump line="47" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/OnboardingApi.js" />
+      <jump line="30" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/OnboardingApi.js" />
+      <jump line="49" column="22" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/OnboardingApi.js" />
+      <jump line="195" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/OnboardingApi.js" />
+      <jump line="493" column="44" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/OnboardingApi.js" />
+      <jump line="13" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/OnboardingApi.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -493,8 +494,8 @@
              return _.contains(response.answers, response)
            })</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -509,46 +510,46 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIHByZXZpb3VzUmVzcG9uc2VzID0g</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>cons</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3F1ZXN0aW9uIHN0YXJ0aW5nJywgZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICduYW1lJzogJ1BlcnNvbmFsaXphdGlvbiBRdWVzdGlvbicsCiAgICAgICAgICAndHlwZSc6ICdRdWVzdGlvbicsCiAgICAgICAgICAnaW5pdGlhbGl6YXRpb25fcGF5bG9hZCc6IHsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdnb3QgcmVzcG9uc2VzOiAnLCByZXNwb25zZXMpOwo=</text>
+      <register name="2" type="4">
+        <text>;</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dmFyIHByZXZpb3VzUmVzcG9uc2VzID0g</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="4">
-        <text>interests</text>
+        <text>;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHByZXZpb3VzUmVzcG9uc2VzCg==</text>
+      <register name="5" type="4">
+        <text>;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>Personalization</text>
       </register>
       <register name="7" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLmFuc3dlcnMK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -557,7 +558,7 @@
     <search>
       <last-search>cons</last-search>
       <last-offset />
-      <last-pattern>cons</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -576,7 +577,6 @@
         <entry>cordova</entry>
         <entry encoding="base64">XDxzZWdtZW50aW9cPg==</entry>
         <entry encoding="base64">XDxCcmVhZGNydW1ic1w+</entry>
-        <entry>&quot;</entry>
         <entry>55</entry>
         <entry>label</entry>
         <entry encoding="base64">XDxzZXRTZWxlY3Rpb25cPg==</entry>
@@ -585,6 +585,7 @@
         <entry>console.l</entry>
         <entry>console</entry>
         <entry>cons</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dlbmRlci9zdWJsYWJlbC9n</entry>
@@ -602,10 +603,10 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s/,/,\r/g</entry>
         <entry>:w</entry>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>s/&quot;/'g</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
