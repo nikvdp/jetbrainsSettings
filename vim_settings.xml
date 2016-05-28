@@ -42,6 +42,12 @@
         <mark key="^" line="62" column="50" />
         <mark key="." line="59" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/tests/StyleStringBuilder.spec.js" timestamp="1464421645775">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="16" column="72" />
+        <mark key="." line="11" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/directives/templateHeaderDirective.js" timestamp="1464417499927">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="46" />
@@ -127,10 +133,10 @@
         <mark key="^" line="34" column="33" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" timestamp="1463720869686">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" timestamp="1464420718297">
         <mark key="'" line="16" column="21" />
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="38" column="3" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="5" />
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
@@ -141,9 +147,9 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.common.js" timestamp="1463712404771">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.common.js" timestamp="1464421545536">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="44" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
@@ -267,12 +273,12 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="30" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.conf.js" timestamp="1463712439184">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.conf.js" timestamp="1464421482792">
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="67" column="61" />
-        <mark key="]" line="67" column="68" />
-        <mark key="." line="67" column="68" />
-        <mark key="^" line="67" column="68" />
+        <mark key="[" line="82" column="16" />
+        <mark key="]" line="82" column="25" />
+        <mark key="." line="82" column="25" />
+        <mark key="^" line="82" column="25" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/HeightQuestion.js" timestamp="1462322535975">
         <mark key="'" line="36" column="18" />
@@ -443,10 +449,10 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" timestamp="1463719059041">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" timestamp="1464421568576">
         <mark key="'" line="37" column="52" />
-        <mark key="[" line="13" column="51" />
-        <mark key="]" line="13" column="52" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="52" />
         <mark key="." line="13" column="52" />
         <mark key="^" line="50" column="56" />
       </file>
@@ -484,12 +490,12 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/services/StyleStringBuilder.js" timestamp="1464387317320">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/services/StyleStringBuilder.js" timestamp="1464421578420">
         <mark key="'" line="15" column="38" />
-        <mark key="[" line="17" column="50" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="18" column="11" />
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="40" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" timestamp="1463701136527">
         <mark key="'" line="1" column="3" />
@@ -612,8 +618,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGN0cmwuc3RhcnRTbGlkZXNob3cgPSBmdW5jdGlvbigpIHsKICAgICAgY3RybC5pbWFnZXNMb2FkZWQgPSB0cnVlOwogICAgICB2YXIgc2xpZGVib3ggPSAkaW9uaWNTbGlkZUJveERlbGVnYXRlLiRnZXRCeUhhbmRsZSgnaW50cm8tc2xpZGVib3gnKTsKICAgICAgc2xpZGVib3guZW5hYmxlU2xpZGUoJHdpbmRvdy5jb3Jkb3ZhKTsKICAgICAgc2xpZGVib3gudXBkYXRlKCk7CiAgICAgICRpb25pY0xvYWRpbmcuaGlkZSgpOwogICAgfTsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDkwJQo=</text>
+      <register name="&quot;" type="4">
+        <text>jiff.Incentives.Questions</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -628,46 +634,46 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>jiff.Incentives.Questions</text>
       </register>
       <register name="/" type="4">
         <text>startSlideshow</text>
       </register>
       <register name="0" type="4">
-        <text>Slides.i18nSlides</text>
+        <text>jiff.Incentives.Templates</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDkwJQo=</text>
+      <register name="1" type="4">
+        <text>jiff.Incentives.Questions</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogMjBweDsK</text>
+      <register name="2" type="4">
+        <text>Chrome</text>
       </register>
-      <register name="3" type="4">
-        <text>d</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">cmVjZWl2ZSA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkaW9uaWNMb2FkaW5nLmhpZGUoKTsK</text>
+      <register name="5" type="4">
+        <text>it</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>Returns</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+      <register name="7" type="4">
+        <text>Will Return</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IHRyYWNrIGJ5ICRpbmRleA==</text>
+        <text>'</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">V2lsbCBlY2hvIGJhY2sgYSBzdHJpbmcgaWYg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
