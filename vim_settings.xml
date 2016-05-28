@@ -321,12 +321,9 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1464389784191">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1464419559900">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="32" column="27" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" timestamp="1464417821186">
         <mark key="'" line="40" column="0" />
@@ -476,12 +473,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainSlidesView.html" timestamp="1464391979055">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainSlidesView.html" timestamp="1464419412886">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="2" column="59" />
-        <mark key="]" line="2" column="59" />
+        <mark key="[" line="9" column="80" />
+        <mark key="]" line="9" column="80" />
         <mark key="^" line="2" column="73" />
-        <mark key="." line="2" column="59" />
+        <mark key="." line="9" column="80" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/services/StyleStringBuilder.js" timestamp="1464387317320">
         <mark key="'" line="15" column="38" />
@@ -612,7 +609,7 @@
         <text encoding="base64">ICAgIGN0cmwuc3RhcnRTbGlkZXNob3cgPSBmdW5jdGlvbigpIHsKICAgICAgY3RybC5pbWFnZXNMb2FkZWQgPSB0cnVlOwogICAgICB2YXIgc2xpZGVib3ggPSAkaW9uaWNTbGlkZUJveERlbGVnYXRlLiRnZXRCeUhhbmRsZSgnaW50cm8tc2xpZGVib3gnKTsKICAgICAgc2xpZGVib3guZW5hYmxlU2xpZGUoJHdpbmRvdy5jb3Jkb3ZhKTsKICAgICAgc2xpZGVib3gudXBkYXRlKCk7CiAgICAgICRpb25pY0xvYWRpbmcuaGlkZSgpOwogICAgfTsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAkaW9uaWNMb2FkaW5nLmhpZGUoKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -627,7 +624,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LnNsaWRlcy12aWV3IA==</text>
+        <text encoding="base64">IHRyYWNrIGJ5ICRpbmRleA==</text>
       </register>
       <register name="/" type="4">
         <text>startSlideshow</text>
@@ -639,18 +636,30 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAkaW9uaWNMb2FkaW5nLmhpZGUoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAycHggc29saWQgcmVkOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC50ZW1wbGF0ZS1pbWFnZSAK</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IHRyYWNrIGJ5ICRpbmRleA==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAycHggc29saWQgcmVkOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC50ZW1wbGF0ZS1pbWFnZSAK</text>
+      </register>
+      <register name="8" type="4">
         <text>{
       display: block;
       width: 260px;
@@ -660,18 +669,6 @@
       margin-right: auto;
       margin-left: auto;
     }</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">LnNsaWRlcy12aWV3IA==</text>
-      </register>
-      <register name="6" type="4">
-        <text>.slides-view .</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LnNsaWRlcy12aWV3IA==</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">LnNsaWRlcy12aWV3IA==</text>
