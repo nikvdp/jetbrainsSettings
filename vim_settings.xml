@@ -42,11 +42,11 @@
         <mark key="^" line="62" column="50" />
         <mark key="." line="59" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/directives/templateHeaderDirective.js" timestamp="1464390525916">
-        <mark key="[" line="8" column="53" />
-        <mark key="]" line="8" column="75" />
-        <mark key="^" line="6" column="78" />
-        <mark key="." line="8" column="53" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/directives/templateHeaderDirective.js" timestamp="1464417499927">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="6" column="46" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" timestamp="1461198621358">
         <mark key="'" line="65" column="2" />
@@ -167,11 +167,11 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/directives/templateTextDirective.js" timestamp="1464390637161">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="77" />
-        <mark key="." line="8" column="69" />
-        <mark key="^" line="8" column="69" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/directives/templateTextDirective.js" timestamp="1464417487653">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="47" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" timestamp="1463428763518">
         <mark key="'" line="44" column="7" />
@@ -328,12 +328,8 @@
         <mark key="." line="27" column="3" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" timestamp="1464416886836">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" timestamp="1464417821186">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="39" column="4" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1463605677796">
         <mark key="'" line="135" column="17" />
@@ -616,7 +612,7 @@
         <text encoding="base64">ICAgIGN0cmwuc3RhcnRTbGlkZXNob3cgPSBmdW5jdGlvbigpIHsKICAgICAgY3RybC5pbWFnZXNMb2FkZWQgPSB0cnVlOwogICAgICB2YXIgc2xpZGVib3ggPSAkaW9uaWNTbGlkZUJveERlbGVnYXRlLiRnZXRCeUhhbmRsZSgnaW50cm8tc2xpZGVib3gnKTsKICAgICAgc2xpZGVib3guZW5hYmxlU2xpZGUoJHdpbmRvdy5jb3Jkb3ZhKTsKICAgICAgc2xpZGVib3gudXBkYXRlKCk7CiAgICAgICRpb25pY0xvYWRpbmcuaGlkZSgpOwogICAgfTsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAycHggc29saWQgcmVkOwo=</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -643,15 +639,18 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAycHggc29saWQgcmVkOwo=</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAycHggc29saWQgcmVkOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIC50ZW1wbGF0ZS1pbWFnZSAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
       display: block;
       width: 260px;
@@ -662,17 +661,14 @@
       margin-left: auto;
     }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">LnNsaWRlcy12aWV3IA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>.slides-view .</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">LnNsaWRlcy12aWV3IA==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">LnNsaWRlcy12aWV3IA==</text>
