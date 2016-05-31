@@ -29,9 +29,6 @@
         <mark key="^" line="62" column="50" />
         <mark key="." line="59" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1464225473321">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" timestamp="1461198621358">
         <mark key="'" line="65" column="2" />
         <mark key="[" line="30" column="0" />
@@ -334,10 +331,10 @@
         <mark key="." line="20" column="5" />
         <mark key="^" line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/ExpiredPointsPopupCheck.js" timestamp="1461627271572">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/ExpiredPointsPopupCheck.js" timestamp="1464721498105">
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="46" />
+        <mark key="." line="38" column="46" />
         <mark key="^" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/styles/framework.less" timestamp="1460752516453">
@@ -544,7 +541,7 @@
         <text>'inject:karma'</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">8J+YqPCfmKjwn5io</text>
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -559,7 +556,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">8J+YqPCfmKjwn5io</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -571,34 +568,34 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">8J+YqPCfmKjwn5io</text>
+        <text>;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>...</text>
+        <text encoding="base64">8J+YqPCfmKjwn5io</text>
       </register>
       <register name="3" type="4">
-        <text>console.log</text>
+        <text>...</text>
       </register>
       <register name="4" type="4">
+        <text>console.log</text>
+      </register>
+      <register name="5" type="4">
         <text>notify</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dmFyIG5vdGlmeSA9IHJlcXVpcmU5JycK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgJ3Rlc3RzJywK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dmFyIGFyZ3MgPSByZXF1aXJlKCd5YXJncycpLmFyZ3Y7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvbmUoKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
