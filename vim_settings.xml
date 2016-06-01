@@ -27,6 +27,11 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardEarningViewModel.js" timestamp="1464027885477">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" timestamp="1462321977824">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -74,6 +79,11 @@
         <mark key="^" line="31" column="1" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/images.js" timestamp="1464039236182" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/styles/RewardsDetailsView.less" timestamp="1464740777482">
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/views/RewardsDetailsView.html" timestamp="1464737167442">
         <mark key="[" line="137" column="102" />
         <mark key="]" line="137" column="103" />
@@ -95,6 +105,16 @@
       <file name="/a.txt" timestamp="1464225239124">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" timestamp="1462323505916">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1463701302480">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" timestamp="1462325627619">
         <mark key="[" line="45" column="23" />
         <mark key="]" line="45" column="23" />
@@ -106,12 +126,6 @@
         <mark key="]" line="42" column="68" />
         <mark key="^" line="42" column="74" />
         <mark key="." line="42" column="68" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" timestamp="1464039191479">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/tests.js" timestamp="1464225554949" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/ExpiredPointsPopupCheck.js" timestamp="1464735759995">
@@ -146,6 +160,16 @@
         <mark key="]" line="20" column="10" />
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/skinifyUrlFilter.js" timestamp="1464027498499">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/styles/RewardsView.less" timestamp="1464740527631">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -254,8 +278,8 @@
       <register name="a" type="4">
         <text encoding="base64">Y3RybC5jb25maWcucHJvZHVjdC5zd2VlcHN0YWtlIA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>display_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvbgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -281,35 +305,35 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>display_</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZvbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">fHwg</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgIEBtZWRpYShtYXgtd2lkdGg6IEBzY3JlZW4teHMtbWF4KSB7CiAgICAgICAgLmp1c3RpZnktY29udGVudChmbGV4LXN0YXJ0KTsKICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y3RybC5jb25maWcucHJvZHVjdC5zd2VlcHN0YWtlIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>atke</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAucHJvZHVjdHM6YWZ0ZXIgewo=</text>
       </register>
       <register name="5" type="4">
-        <text>;</text>
+        <text>display_</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">8J+YqPCfmKjwn5io</text>
+        <text encoding="base64">fHwg</text>
       </register>
       <register name="7" type="4">
-        <text>...</text>
+        <text encoding="base64">Y3RybC5jb25maWcucHJvZHVjdC5zd2VlcHN0YWtlIA==</text>
       </register>
       <register name="8" type="4">
-        <text>console.log</text>
+        <text>atke</text>
       </register>
       <register name="9" type="4">
-        <text>notify</text>
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
