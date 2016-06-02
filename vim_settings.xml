@@ -186,6 +186,13 @@
         <mark key="^" line="43" column="88" />
         <mark key="." line="43" column="88" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" timestamp="1464387041596">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="17" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="133" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" timestamp="1459384766256">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="15" column="45" />
@@ -293,6 +300,13 @@
         <mark key="." line="31" column="21" />
         <mark key="^" line="31" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1460140291807">
+        <mark key="'" line="253" column="11" />
+        <mark key="[" line="384" column="19" />
+        <mark key="]" line="384" column="20" />
+        <mark key="." line="384" column="20" />
+        <mark key="^" line="384" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" timestamp="1461194918026">
         <mark key="'" line="9" column="4" />
         <mark key="[" line="8" column="16" />
@@ -305,9 +319,6 @@
         <mark key="]" line="42" column="68" />
         <mark key="^" line="42" column="74" />
         <mark key="." line="42" column="68" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/notifications/views/NotificationsView.html" timestamp="1464820692419">
-        <mark key="'" line="23" column="40" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/HeightQuestionView.html" timestamp="1462323656850">
         <mark key="'" line="4" column="6" />
@@ -502,6 +513,7 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="56" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="85" column="71" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="57" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/styles/list.less" />
       <jump line="525" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -601,7 +613,6 @@
       <jump line="19" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainSlidesView.html" />
       <jump line="8" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="41" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
-      <jump line="23" column="40" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/notifications/views/NotificationsView.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -626,7 +637,7 @@
         <text>jiff.Incentives.Questions</text>
       </register>
       <register name="/" type="4">
-        <text>repeat</text>
+        <text>startSlideshow</text>
       </register>
       <register name="0" type="4">
         <text>jiff.Incentives.Templates</text>
@@ -669,9 +680,9 @@
       </register>
     </registers>
     <search>
-      <last-search>repeat</last-search>
+      <last-search>startSlideshow</last-search>
       <last-offset />
-      <last-pattern>repeat</last-pattern>
+      <last-pattern>startSlideshow</last-pattern>
       <last-replace>text</last-replace>
       <last-substitute>image</last-substitute>
       <last-dir>1</last-dir>
@@ -679,6 +690,8 @@
     </search>
     <history>
       <history-search>
+        <entry encoding="base64">XDxhbmd1bGFyRmlsZXNvcnRcPg==</entry>
+        <entry>jiff-uni</entry>
         <entry>unity</entry>
         <entry>tml-js</entry>
         <entry>jiff</entry>
@@ -697,8 +710,6 @@
         <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
         <entry>.hide</entry>
         <entry>startSlideshow</entry>
-        <entry>social_user</entry>
-        <entry>repeat</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Njb3BlLndlaWdodC91bml0L2c=</entry>
