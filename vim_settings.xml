@@ -186,10 +186,6 @@
         <mark key="^" line="43" column="88" />
         <mark key="." line="43" column="88" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" timestamp="1464387041596">
-        <mark key="'" line="0" column="0" />
-        <mark key="^" line="20" column="17" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/skinUtil.js" timestamp="1459384766256">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="15" column="45" />
@@ -203,6 +199,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" timestamp="1464925922219">
+        <mark key="'" line="42" column="25" />
+        <mark key="[" line="38" column="58" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="58" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/inject.js" timestamp="1463695284645">
         <mark key="[" line="31" column="1" />
@@ -242,6 +245,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" timestamp="1464926146584">
+        <mark key="'" line="41" column="7" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" timestamp="1459992254212">
         <mark key="'" line="110" column="35" />
@@ -330,10 +336,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" timestamp="1464924031702">
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="36" column="23" />
-        <mark key="." line="36" column="23" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" timestamp="1464926633740">
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" timestamp="1464920792114">
         <mark key="[" line="2" column="2" />
@@ -513,9 +519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="244" column="49" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="258" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="46" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="192" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/providers/tmlProvider.js" />
@@ -613,13 +616,16 @@
       <jump line="27" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="42" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="20" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
+      <jump line="37" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" />
+      <jump line="15" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
+      <jump line="41" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-LT</text>
+        <text>, 'es-LT'</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -634,10 +640,10 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-LT</text>
+        <text>, 'es-LT'</text>
       </register>
       <register name="/" type="4">
-        <text>startSlideshow</text>
+        <text encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHRtbC5jaGFuZ2VMYW5ndWFnZShsb2NhbGUpOwo=</text>
@@ -646,43 +652,43 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>-LT</text>
+        <text>, 'es-LT'</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>locale</text>
+        <text>use it</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0bWwuY2hhbmdlTGFuZ3VhZ2UoKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">c3VyZSA=</text>
       </register>
       <register name="4" type="4">
-        <text>});</text>
+        <text encoding="base64">bWFrZSA=</text>
       </register>
-      <register name="5" type="4">
-        <text>.then(function(){console.log('success: ', arguments)}, function(){console.log('fail: ', arguments)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBpZiBtYWtlIHN1cmUgVE1MIGFuZCBlbXBsb3llciBib3RoIAo=</text>
       </register>
       <register name="6" type="4">
-        <text>:</text>
+        <text encoding="base64">SmlmZiBhbmQgRW1wbG9lcnkg</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">aWYg</text>
+        <text>localeH</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZSA=</text>
+        <text>LcoaleH</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">YW1rZSBzdXIg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>startSlideshow</last-search>
+      <last-search encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</last-search>
       <last-offset />
-      <last-pattern>startSlideshow</last-pattern>
+      <last-pattern encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</last-pattern>
       <last-replace>text</last-replace>
       <last-substitute>image</last-substitute>
       <last-dir>1</last-dir>
@@ -690,7 +696,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbmd1bGFyRmlsZXNvcnRcPg==</entry>
         <entry>jiff-uni</entry>
         <entry>unity</entry>
         <entry>tml-js</entry>
@@ -710,6 +715,7 @@
         <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
         <entry>.hide</entry>
         <entry>startSlideshow</entry>
+        <entry encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Njb3BlLndlaWdodC91bml0L2c=</entry>
