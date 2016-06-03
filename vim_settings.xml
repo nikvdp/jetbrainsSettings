@@ -81,6 +81,12 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="8" column="53" />
       </file>
+      <file name="$USER_HOME$/Downloads/jenkins-master/groovyTest.groovy" timestamp="1464976959006">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1463703319909">
         <mark key="[" line="96" column="31" />
         <mark key="]" line="96" column="31" />
@@ -517,7 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/providers/tmlProvider.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/StartupNotificationChecks.js" />
       <jump line="33" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
@@ -617,13 +622,14 @@
       <jump line="41" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" />
       <jump line="8" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
+      <jump line="5" column="17" filename="$USER_HOME$/Downloads/jenkins-master/groovyTest.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -650,39 +656,34 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBkZWZhdWx0TG9jYWxlID0gX2dldFN1cHBvcnRlZExvY2FsZXMoKVswXTsK</text>
+        <text encoding="base64">YS5nZXRQbHVnaW4oKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhciBkZWZhdWx0TG9jYWxlID0gX2dldFN1cHBvcnRlZExvY2FsZXMoKVswXTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgdmFyIGRlZmF1bHRMb2NhbGUgPSBfZ2V0U3VwcG9ydGVkTG9jYWxlcygpWzBdOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>_getSupportedLocales()[0]</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>locale</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB9IAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>catch (e) {
-          // tml throws an exception that stops the whole app if it can't switch
-          // languages properly, so catch that here
-          console.log('catch tml exception :', e);
-          tml.changeLanguage('en');
-        }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
