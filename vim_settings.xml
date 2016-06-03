@@ -324,16 +324,17 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1464419559900">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="32" column="27" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1464919096276">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" timestamp="1464420280097">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="34" column="16" />
-        <mark key="]" line="34" column="16" />
-        <mark key="." line="34" column="16" />
-        <mark key="^" line="34" column="16" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" timestamp="1464919504102">
+        <mark key="[" line="67" column="32" />
+        <mark key="]" line="67" column="41" />
+        <mark key="." line="67" column="41" />
+        <mark key="^" line="67" column="41" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/deviceManagement.js" timestamp="1463605677796">
         <mark key="'" line="135" column="17" />
@@ -510,8 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
-      <jump line="85" column="71" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="57" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/styles/list.less" />
       <jump line="525" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="37" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -610,13 +609,37 @@
       <jump line="19" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainSlidesView.html" />
       <jump line="8" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="41" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
+      <jump line="70" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
+      <jump line="66" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgIGN0cmwuc3RhcnRTbGlkZXNob3cgPSBmdW5jdGlvbigpIHsKICAgICAgY3RybC5pbWFnZXNMb2FkZWQgPSB0cnVlOwogICAgICB2YXIgc2xpZGVib3ggPSAkaW9uaWNTbGlkZUJveERlbGVnYXRlLiRnZXRCeUhhbmRsZSgnaW50cm8tc2xpZGVib3gnKTsKICAgICAgc2xpZGVib3guZW5hYmxlU2xpZGUoJHdpbmRvdy5jb3Jkb3ZhKTsKICAgICAgc2xpZGVib3gudXBkYXRlKCk7CiAgICAgICRpb25pY0xvYWRpbmcuaGlkZSgpOwogICAgfTsKCg==</text>
+      <register name="a" type="4">
+        <text>img {
+        position: absolute;
+        display: block;
+        max-width: 100%;
+        max-height: 100%;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        height: 100%;
+      }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>jiff.Incentives.Questions</text>
+        <text>img {
+        position: absolute;
+        display: block;
+        max-width: 100%;
+        max-height: 100%;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        height: 100%;
+      }</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -631,46 +654,57 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>jiff.Incentives.Questions</text>
+        <text>.legacy-onboarding-slides .</text>
       </register>
       <register name="/" type="4">
         <text>startSlideshow</text>
       </register>
-      <register name="0" type="4">
-        <text>jiff.Incentives.Templates</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY3RybC5pMThuU2xpZGVzID0gdHJ1ZTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>jiff.Incentives.Questions</text>
+        <text>img {
+        position: absolute;
+        display: block;
+        max-width: 100%;
+        max-height: 100%;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        height: 100%;
+      }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>Chrome</text>
+        <text>.legacy-onboarding-slides .</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cmVjZWl2ZSA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAubGVnYWN5LW9uYm9hcmRpbmctc2xpZGVzIC5pbWcgewogICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICAgICAgICBtYXgtaGVpZ2h0OiAxMDAlOwogICAgICAgICAgbGVmdDogMDsKICAgICAgICAgIHJpZ2h0OiAwOwogICAgICAgICAgdG9wOiAwOwogICAgICAgICAgYm90dG9tOiAwOwogICAgICAgICAgbWFyZ2luOiBhdXRvOwogICAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgIH0KICAgICAgICAubGVnYWN5LW9uYm9hcmRpbmctc2xpZGVzIC5vbmJvYXJkaW5nSW1hZ2UgewogICAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgICAgbWFyZ2luLWxlZnQ6IGF1dG87CiAgICAgICAgICBtYXJnaW4tcmlnaHQ6IGF1dG87CiAgICAgICAgICBwYWRkaW5nOiAyOCU7CiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>it</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbWcgewogICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICAgICAgICBtYXgtaGVpZ2h0OiAxMDAlOwogICAgICAgICAgbGVmdDogMDsKICAgICAgICAgIHJpZ2h0OiAwOwogICAgICAgICAgdG9wOiAwOwogICAgICAgICAgYm90dG9tOiAwOwogICAgICAgICAgbWFyZ2luOiBhdXRvOwogICAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="4">
-        <text>Returns</text>
+        <text encoding="base64">LmxlZ2FjeS1vbmJvYXJkaW5nLXNsaWRlcyA=</text>
       </register>
       <register name="7" type="4">
-        <text>Will Return</text>
+        <text>.</text>
       </register>
-      <register name="8" type="4">
-        <text>'</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">V2lsbCBlY2hvIGJhY2sgYSBzdHJpbmcgaWYg</text>
+        <text encoding="base64">KSA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
