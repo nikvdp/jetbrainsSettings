@@ -158,13 +158,6 @@
         <mark key="." line="45" column="23" />
         <mark key="^" line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" timestamp="1464982364582">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="14" column="97" />
-        <mark key="]" line="14" column="97" />
-        <mark key="." line="14" column="97" />
-        <mark key="^" line="14" column="97" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/tests.js" timestamp="1463722950415">
         <mark key="'" line="35" column="1" />
         <mark key="[" line="9" column="0" />
@@ -285,8 +278,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8vIHN0dWIgb3V0IHRoZSBKaWZmIHByb3ZpZGVyIHdpdGggYW4gb2JqZWN0IHRoYXQgc2V0cwogICAgLy8gSmlmZi5JZGVudGl0eS51c2VyLmFwcFNraW4gdG8gYHVuZGVmaW5lZGAKICAgIGJlZm9yZUVhY2gobW9kdWxlKGZ1bmN0aW9uICgkcHJvdmlkZSkgewogICAgICAkcHJvdmlkZS52YWx1ZSgnSmlmZicsIHtJZGVudGl0eToge3VzZXI6IHthcHBza2luOiB1bmRlZmluZWR9fX0pOwogICAgfSkpOwoK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKi8K</text>
+      <register name="&quot;" type="4">
+        <text>Need to get</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -301,7 +294,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Need to get</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -312,35 +305,35 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKi8K</text>
+      <register name="1" type="4">
+        <text>Need to get</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLyogCg==</text>
+        <text encoding="base64">ICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgdHJ5IHsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZXhjZXBwdGlvbiB3YXM6IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aXMgdGhyb3dpbmcgYSA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIHRtbC5jaGFuZ2VMYW5ndWFnZShsb2NhbGUpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aGFzIGEg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIHRtbC5jaGFuZ2VMYW5ndWFnZShsb2NhbGUpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>an issue where</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICoqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIENoZWNrIGZvciB1c2VyJ3MgbG9jYWxlIGFuZCBkaXNwbGF5IGluIHRoYXQgbGFuZ3VhZ2UgaWYgYXZhaWxhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
