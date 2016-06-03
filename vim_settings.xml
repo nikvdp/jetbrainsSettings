@@ -3,17 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1464799891540">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/routes/index.js" timestamp="1459557123124">
         <mark key="[" line="13" column="78" />
         <mark key="]" line="14" column="24" />
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1463701302480">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deData.js" timestamp="1459369516827">
         <mark key="[" line="18" column="60" />
         <mark key="]" line="18" column="62" />
         <mark key="." line="18" column="62" />
         <mark key="^" line="18" column="62" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" timestamp="1462325627619">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="23" />
+        <mark key="." line="45" column="23" />
+        <mark key="^" line="45" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/deviceManagement.html" timestamp="1459284734329">
+        <mark key="[" line="42" column="68" />
+        <mark key="]" line="42" column="68" />
+        <mark key="^" line="42" column="74" />
+        <mark key="." line="42" column="68" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/NotificationModal.html" timestamp="1461367283155">
         <mark key="[" line="0" column="25" />
@@ -23,71 +43,6 @@
       </file>
       <file name="find.xml" timestamp="1464799856796">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/templateChunksDirective.html" timestamp="1464209112181" />
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsDetailsCtrl.js" timestamp="1464737015392">
-        <mark key="'" line="55" column="9" />
-        <mark key="[" line="58" column="52" />
-        <mark key="]" line="58" column="52" />
-        <mark key="^" line="58" column="85" />
-        <mark key="." line="58" column="52" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" timestamp="1464046089828">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/styles/RewardsDetailsView.less" timestamp="1464746530470" />
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MaterialListChooserView.less" timestamp="1462312590458">
-        <mark key="[" line="31" column="36" />
-        <mark key="]" line="32" column="23" />
-        <mark key="." line="32" column="23" />
-        <mark key="^" line="32" column="23" />
-      </file>
-      <file name="/a.txt" timestamp="1464225239124">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" timestamp="1462323505916">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/deviceManagement.html" timestamp="1459284734329">
-        <mark key="[" line="42" column="68" />
-        <mark key="]" line="42" column="68" />
-        <mark key="^" line="42" column="74" />
-        <mark key="." line="42" column="68" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environmentConfig.js" timestamp="1459897888535">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="52" />
-        <mark key="." line="3" column="52" />
-        <mark key="^" line="3" column="52" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1460430810176">
-        <mark key="[" line="200" column="32" />
-        <mark key="]" line="201" column="25" />
-        <mark key="^" line="201" column="25" />
-        <mark key="." line="201" column="25" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/auth.js" timestamp="1464802741552">
-        <mark key="[" line="18" column="47" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="20" column="27" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/views/list.html" timestamp="1464737855173">
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="10" />
-        <mark key="^" line="20" column="10" />
-        <mark key="." line="20" column="10" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/skinifyUrlFilter.js" timestamp="1463712725519">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="^" line="6" column="45" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1463703319909">
         <mark key="[" line="96" column="31" />
@@ -101,13 +56,19 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/tests.js" timestamp="1463722950415">
+        <mark key="'" line="35" column="1" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/DateQuestion.js" timestamp="1462321977824">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="34" column="33" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1464731319022" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.common.js" timestamp="1463712404771">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="0" />
@@ -120,13 +81,49 @@
         <mark key="^" line="2" column="85" />
         <mark key="." line="2" column="85" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environmentConfig.js" timestamp="1459897888535">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="52" />
+        <mark key="." line="3" column="52" />
+        <mark key="^" line="3" column="52" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/WeightQuestionView.html" timestamp="1462324041275">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsDetailsCtrl.js" timestamp="1464737015392">
+        <mark key="'" line="55" column="9" />
+        <mark key="[" line="58" column="52" />
+        <mark key="]" line="58" column="52" />
+        <mark key="^" line="58" column="85" />
+        <mark key="." line="58" column="52" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1460430810176">
+        <mark key="[" line="200" column="32" />
+        <mark key="]" line="201" column="25" />
+        <mark key="^" line="201" column="25" />
+        <mark key="." line="201" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" timestamp="1464046089828">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/auth.js" timestamp="1464802741552">
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/inject.js" timestamp="1463695284645">
         <mark key="[" line="31" column="1" />
         <mark key="]" line="31" column="1" />
         <mark key="." line="31" column="1" />
         <mark key="^" line="31" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/images.js" timestamp="1464039236182" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/views/RewardsDetailsView.html" timestamp="1464737167442">
         <mark key="[" line="137" column="102" />
         <mark key="]" line="137" column="103" />
@@ -139,41 +136,44 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="11" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/provision-jenkins.sh" timestamp="1464989865597">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MaterialListChooserView.less" timestamp="1462312590458">
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+        <mark key="^" line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/views/list.html" timestamp="1464737855173">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="10" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+      </file>
+      <file name="/a.txt" timestamp="1464225239124">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/list.js" timestamp="1464746736020">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="vim_settings.xml" timestamp="1464799891540">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/skinifyUrlFilter.js" timestamp="1463712725519">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1463701302480">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" timestamp="1462325627619">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="23" />
-        <mark key="." line="45" column="23" />
-        <mark key="^" line="45" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/tests.js" timestamp="1463722950415">
-        <mark key="'" line="35" column="1" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/WeightQuestionView.html" timestamp="1462324041275">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="3" column="37" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" timestamp="1462323505916">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="1" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/WeightQuestionView.less" />
       <jump line="7" column="41" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/module.less" />
       <jump line="1" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/RankableQuestionView.less" />
@@ -273,13 +273,14 @@
       <jump line="16" column="21" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" />
       <jump line="19" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/auth.js" />
       <jump line="7" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
+      <jump line="4" column="11" filename="$USER_HOME$/Code/work/jiff/docker-jenkins/provision-jenkins.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8vIHN0dWIgb3V0IHRoZSBKaWZmIHByb3ZpZGVyIHdpdGggYW4gb2JqZWN0IHRoYXQgc2V0cwogICAgLy8gSmlmZi5JZGVudGl0eS51c2VyLmFwcFNraW4gdG8gYHVuZGVmaW5lZGAKICAgIGJlZm9yZUVhY2gobW9kdWxlKGZ1bmN0aW9uICgkcHJvdmlkZSkgewogICAgICAkcHJvdmlkZS52YWx1ZSgnSmlmZicsIHtJZGVudGl0eToge3VzZXI6IHthcHBza2luOiB1bmRlZmluZWR9fX0pOwogICAgfSkpOwoK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZXhjZXBwdGlvbiB3YXM6IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -294,7 +295,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhjZXBwdGlvbiB3YXM6IA==</text>
+        <text>be a method name</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -305,35 +306,35 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZXhjZXBwdGlvbiB3YXM6IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aXMgdGhyb3dpbmcgYSA=</text>
+        <text>be a method name</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aGFzIGEg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>an issue where</text>
+      <register name="4" type="2">
+        <text encoding="base64">CnRhc2tzPTw8X1RBU0tMSVNUXwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">dGFza3M9InBsdWdpbnMgam9icyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIENoZWNrIGZvciB1c2VyJ3MgbG9jYWxlIGFuZCBkaXNwbGF5IGluIHRoYXQgbGFuZ3VhZ2UgaWYgYXZhaWxhYmxlCg==</text>
+        <text encoding="base64">dGFza3M9PDxFTkRfVEFTS1MKCkVORF9UQVNLUwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>S</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgTG9jYWxlSGVscGVyLmluaXQoKTsK</text>
+        <text encoding="base64">SkVOS0lOU19DTEk9CgptYWluKCkgewogICAgamVua2luc19jbGkgaGVscAp9CgpqZW5raW5zX2NsaSgpIHsKICAgIFtbIC1uICRKRU5LSU5TX0NMSSBdXSB8fCBnZXRfY2xpICMgZG93bmxvYWQgY2xpIGlmIG5lZWRlZAogICAgamF2YSAtamFyICRKRU5LSU5TX0NMSSAtcyAkSkVOS0lOU19VUkwgJEAKfQoKZ2V0X2NsaSgpIHsKICAgIGlmICEgW1sgLWYgJFNDUklQVF9MT0NBVElPTi9qZW5raW5zLWNsaS5qYXIgXV07IHRoZW4KICAgICAgICBsb2cgIkRvd25sb2FkaW5nIEplbmtpbnMgQ0xJLi4uIgogICAgICAgIGN1cmwgLUwgJEpFTktJTlNfVVJML2pubHBKYXJzL2plbmtpbnMtY2xpLmphciA+ICRTQ1JJUFRfTE9DQVRJT04vamVua2lucy1jbGkuamFyCiAgICBmaQogICAgSkVOS0lOU19DTEk9IiRTQ1JJUFRfTE9DQVRJT04vamVua2lucy1jbGkuamFyIgogICAgIyByZXR1cm4gbm9uLXplcm8gaWYgY2xpIHN0aWxsIG5vdCBmb3VuZAogICAgW1sgLWYgJEpFTktJTlNfQ0xJIF1dCn0KCmxvZygpIHsKICAgIGVjaG8gIiQoZGF0ZSArJXMpOiAkQCIKfQoKPDxNSVNDCgojIGpvYi1kc2wgcGx1Z2luIApodHRwOi8vdXBkYXRlcy5qZW5raW5zLWNpLm9yZy9sYXRlc3Qvam9iLWRzbC5ocGkKCk1JU0MKCm1haW4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZXhjZXBwdGlvbiB3YXM6IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
