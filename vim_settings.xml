@@ -200,12 +200,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" timestamp="1464925922219">
-        <mark key="'" line="42" column="25" />
-        <mark key="[" line="38" column="58" />
-        <mark key="]" line="38" column="58" />
-        <mark key="." line="38" column="58" />
-        <mark key="^" line="38" column="58" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" timestamp="1464927338655">
+        <mark key="'" line="44" column="25" />
+        <mark key="[" line="39" column="46" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/inject.js" timestamp="1463695284645">
         <mark key="[" line="31" column="1" />
@@ -336,10 +333,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" timestamp="1464926633740">
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="36" column="18" />
-        <mark key="." line="36" column="18" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" timestamp="1464927542642">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" timestamp="1464920792114">
         <mark key="[" line="2" column="2" />
@@ -519,7 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="192" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/providers/tmlProvider.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/StartupNotificationChecks.js" />
@@ -612,20 +609,21 @@
       <jump line="70" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="66" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="40" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
-      <jump line="8" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="27" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="42" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="20" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="37" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" />
       <jump line="15" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="41" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" />
+      <jump line="8" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, 'es-LT'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -640,46 +638,51 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, 'es-LT'</text>
+        <text>_getSupportedLocales()[0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRtbC5jaGFuZ2VMYW5ndWFnZShsb2NhbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0bWwuY2hhbmdlTGFuZ3VhZ2UobG9jYWxlKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>, 'es-LT'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>use it</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhciBkZWZhdWx0TG9jYWxlID0gX2dldFN1cHBvcnRlZExvY2FsZXMoKVswXTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">c3VyZSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGRlZmF1bHRMb2NhbGUgPSBfZ2V0U3VwcG9ydGVkTG9jYWxlcygpWzBdOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bWFrZSA=</text>
+        <text>_getSupportedLocales()[0]</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiBtYWtlIHN1cmUgVE1MIGFuZCBlbXBsb3llciBib3RoIAo=</text>
+      <register name="5" type="4">
+        <text>locale</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">SmlmZiBhbmQgRW1wbG9lcnkg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>localeH</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>LcoaleH</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">YW1rZSBzdXIg</text>
+        <text>catch (e) {
+          // tml throws an exception that stops the whole app if it can't switch
+          // languages properly, so catch that here
+          console.log('catch tml exception :', e);
+          tml.changeLanguage('en');
+        }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
