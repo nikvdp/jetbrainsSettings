@@ -325,10 +325,15 @@
         <mark key="." line="9" column="35" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" timestamp="1464919096276">
-        <mark key="'" line="46" column="0" />
+        <mark key="'" line="48" column="0" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" timestamp="1464924031702">
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" timestamp="1464920792114">
         <mark key="[" line="2" column="2" />
@@ -417,9 +422,6 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/services/TemplateImages.js" timestamp="1464385949835">
-        <mark key="'" line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1460430810176">
         <mark key="[" line="200" column="32" />
         <mark key="]" line="201" column="25" />
@@ -481,12 +483,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainSlidesView.html" timestamp="1464419412886">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainSlidesView.html" timestamp="1464921614102">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="9" column="80" />
-        <mark key="]" line="9" column="80" />
-        <mark key="^" line="2" column="73" />
-        <mark key="." line="9" column="80" />
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="25" column="45" />
+        <mark key="." line="25" column="45" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/services/StyleStringBuilder.js" timestamp="1464421578420">
         <mark key="'" line="15" column="38" />
@@ -511,10 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="525" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="37" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="95" column="53" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="118" column="53" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="252" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="244" column="49" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="258" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -611,13 +609,17 @@
       <jump line="70" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="66" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="40" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
+      <jump line="8" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
+      <jump line="27" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
+      <jump line="42" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
+      <jump line="20" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIAogICAgLmxlZ2FjeS1vbmJvYXJkaW5nLXNsaWRlcyBpb24tc2xpZGUgLm9uYm9hcmRpbmdJbWFnZSB7CiAgICAgIGhlaWdodDogMTAwJTsKICAgICAgbWFyZ2luLWxlZnQ6IGF1dG87CiAgICAgIG1hcmdpbi1yaWdodDogYXV0bzsKICAgICAgcGFkZGluZzogMjglOwogICAgICBpbWcgewogICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICAgICAgbWF4LWhlaWdodDogMTAwJTsKICAgICAgICBsZWZ0OiAwOwogICAgICAgIHJpZ2h0OiAwOwogICAgICAgIHRvcDogMDsKICAgICAgICBib3R0b206IDA7CiAgICAgICAgbWFyZ2luOiBhdXRvOwogICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-LT</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -632,57 +634,46 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.legacy-onboarding-slides .</text>
+        <text>-LT</text>
       </register>
       <register name="/" type="4">
         <text>startSlideshow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY3RybC5pMThuU2xpZGVzID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRtbC5jaGFuZ2VMYW5ndWFnZShsb2NhbGUpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>-LT</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>locale</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgLmxlZ2FjeS1vbmJvYXJkaW5nLXNsaWRlcyBpb24tc2xpZGUgLm9uYm9hcmRpbmdJbWFnZSB7CiAgICAgIGhlaWdodDogMTAwJTsKICAgICAgbWFyZ2luLWxlZnQ6IGF1dG87CiAgICAgIG1hcmdpbi1yaWdodDogYXV0bzsKICAgICAgcGFkZGluZzogMjglOwogICAgICBpbWcgewogICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICAgICAgbWF4LWhlaWdodDogMTAwJTsKICAgICAgICBsZWZ0OiAwOwogICAgICAgIHJpZ2h0OiAwOwogICAgICAgIHRvcDogMDsKICAgICAgICBib3R0b206IDA7CiAgICAgICAgbWFyZ2luOiBhdXRvOwogICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0bWwuY2hhbmdlTGFuZ3VhZ2UoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>});</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmxlZ2FjeS1vbmJvYXJkaW5nLXNsaWRlcyBpb24tc2xpZGUgLm9uYm9hcmRpbmdJbWFnZSB7CiAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwogICAgICAgIG1hcmdpbi1yaWdodDogYXV0bzsKICAgICAgICBwYWRkaW5nOiAyOCU7CiAgICAgICAgaW1nIHsKICAgICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgICAgbWF4LXdpZHRoOiAxMDAlOwogICAgICAgICAgbWF4LWhlaWdodDogMTAwJTsKICAgICAgICAgIGxlZnQ6IDA7CiAgICAgICAgICByaWdodDogMDsKICAgICAgICAgIHRvcDogMDsKICAgICAgICAgIGJvdHRvbTogMDsKICAgICAgICAgIG1hcmdpbjogYXV0bzsKICAgICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICB9CiAgICAgIH0K</text>
+      <register name="5" type="4">
+        <text>.then(function(){console.log('success: ', arguments)}, function(){console.log('fail: ', arguments)</text>
       </register>
       <register name="6" type="4">
-        <text>img {
-        position: absolute;
-        display: block;
-        max-width: 100%;
-        max-height: 100%;
-        left: 0;
-        right: 0;
-        top: 0;
-        bottom: 0;
-        margin: auto;
-        height: 100%;
-      }</text>
+        <text>:</text>
       </register>
       <register name="7" type="4">
-        <text>.legacy-onboarding-slides .</text>
+        <text encoding="base64">aWYg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZSA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAubGVnYWN5LW9uYm9hcmRpbmctc2xpZGVzIC5pbWcgewogICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICAgICAgICBtYXgtaGVpZ2h0OiAxMDAlOwogICAgICAgICAgbGVmdDogMDsKICAgICAgICAgIHJpZ2h0OiAwOwogICAgICAgICAgdG9wOiAwOwogICAgICAgICAgYm90dG9tOiAwOwogICAgICAgICAgbWFyZ2luOiBhdXRvOwogICAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgIH0KICAgICAgICAubGVnYWN5LW9uYm9hcmRpbmctc2xpZGVzIC5vbmJvYXJkaW5nSW1hZ2UgewogICAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgICAgbWFyZ2luLWxlZnQ6IGF1dG87CiAgICAgICAgICBtYXJnaW4tcmlnaHQ6IGF1dG87CiAgICAgICAgICBwYWRkaW5nOiAyOCU7CiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
