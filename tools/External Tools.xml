@@ -8,8 +8,8 @@
   </tool>
   <tool name="Open sourcetreee" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/usr/local/bin/stree" />
-      <option name="PARAMETERS" value="$ProjectFileDir$" />
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="-c &quot;open -a /Applications/SourceTree.app $ProjectFileDir$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
