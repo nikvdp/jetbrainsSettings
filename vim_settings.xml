@@ -65,12 +65,6 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1460430810176">
-        <mark key="[" line="200" column="32" />
-        <mark key="]" line="201" column="25" />
-        <mark key="^" line="201" column="25" />
-        <mark key="." line="201" column="25" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/auth.js" timestamp="1464802741552">
         <mark key="[" line="18" column="47" />
         <mark key="]" line="20" column="27" />
@@ -107,7 +101,13 @@
         <mark key="^" line="34" column="33" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1464731319022" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1465242012303">
+        <mark key="'" line="277" column="8" />
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="51" column="28" />
+        <mark key="^" line="51" column="28" />
+        <mark key="." line="51" column="28" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.common.js" timestamp="1463712404771">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="0" />
@@ -173,8 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="41" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/module.less" />
       <jump line="1" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/RankableQuestionView.less" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/RankableQuestionView.less" />
       <jump line="11" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/RankableQuestionView.less" />
@@ -273,13 +271,15 @@
       <jump line="19" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/auth.js" />
       <jump line="7" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="14" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
+      <jump line="317" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="277" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8vIHN0dWIgb3V0IHRoZSBKaWZmIHByb3ZpZGVyIHdpdGggYW4gb2JqZWN0IHRoYXQgc2V0cwogICAgLy8gSmlmZi5JZGVudGl0eS51c2VyLmFwcFNraW4gdG8gYHVuZGVmaW5lZGAKICAgIGJlZm9yZUVhY2gobW9kdWxlKGZ1bmN0aW9uICgkcHJvdmlkZSkgewogICAgICAkcHJvdmlkZS52YWx1ZSgnSmlmZicsIHtJZGVudGl0eToge3VzZXI6IHthcHBza2luOiB1bmRlZmluZWR9fX0pOwogICAgfSkpOwoK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Need to get</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgV29ya2Zsb3dEaXJlY3Rvci5jbGVhckd1aWRzKCk7CiAgICAgIEppZmYuU3RvcmFnZS5Mb2NhbC5jbGVhcigpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -297,7 +297,7 @@
         <text>Need to get</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">XDxjbGVhckd1aWRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmVzID0gcnVuKAogICAgICAgICd3ZWI6cnVuOmVzNScsCiAgICAgICAgJ2pzaGludCcsCiAgICAgICAgZG9uZSk7Cg==</text>
@@ -305,44 +305,44 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Need to get</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgV29ya2Zsb3dEaXJlY3Rvci5jbGVhckd1aWRzKCk7CiAgICAgIEppZmYuU3RvcmFnZS5Mb2NhbC5jbGVhcigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>Need to get</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIHRtbC5jaGFuZ2VMYW5ndWFnZShsb2NhbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgIHRtbC5jaGFuZ2VMYW5ndWFnZShsb2NhbGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICoqLwo=</text>
+        <text encoding="base64">ICAgICAgIHRtbC5jaGFuZ2VMYW5ndWFnZShsb2NhbGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLyoqCg==</text>
+        <text encoding="base64">ICAgICAgICoqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgLyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tml</last-search>
+      <last-search encoding="base64">XDxjbGVhckd1aWRzXD4=</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern encoding="base64">XDxjbGVhckd1aWRzXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -350,7 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>cons</entry>
         <entry encoding="base64">XDxlcGlzb2RlXD4=</entry>
         <entry>episode.*=</entry>
@@ -370,6 +369,7 @@
         <entry encoding="base64">XDxkb25lXD4=</entry>
         <entry>,</entry>
         <entry encoding="base64">XDxzaG93Qm90dG9tQmFyXD4=</entry>
+        <entry encoding="base64">XDxjbGVhckd1aWRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/datepickerObject/datepickerConfig/g</entry>
