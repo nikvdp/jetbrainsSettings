@@ -25,6 +25,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/templateChunksDirective.html" timestamp="1464209112181" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/views/EventsLocationView.html" timestamp="1465330888274" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/controllers/RewardsDetailsCtrl.js" timestamp="1464737015392">
         <mark key="'" line="55" column="9" />
         <mark key="[" line="58" column="52" />
@@ -39,6 +40,9 @@
         <mark key="^" line="8" column="12" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/rewards/styles/RewardsDetailsView.less" timestamp="1464746530470" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/events/services/Events.js" timestamp="1465331710344">
+        <mark key="." line="233" column="85" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MaterialListChooserView.less" timestamp="1462312590458">
         <mark key="[" line="31" column="36" />
         <mark key="]" line="32" column="23" />
@@ -158,6 +162,12 @@
         <mark key="." line="45" column="23" />
         <mark key="^" line="45" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" timestamp="1465330757268">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/tests.js" timestamp="1463722950415">
         <mark key="'" line="35" column="1" />
         <mark key="[" line="9" column="0" />
@@ -171,6 +181,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="3" column="37" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/events/controllers/location.js" timestamp="1465331076786" />
     </filemarks>
     <jumps>
       <jump line="1" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/RankableQuestionView.less" />
