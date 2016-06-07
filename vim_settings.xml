@@ -69,6 +69,10 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" timestamp="1465333647919">
+        <mark key="'" line="22" column="2" />
+        <mark key="[" line="32" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/auth.js" timestamp="1464802741552">
         <mark key="[" line="18" column="47" />
         <mark key="]" line="20" column="27" />
@@ -86,6 +90,13 @@
         <mark key="]" line="6" column="45" />
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1465333593854">
+        <mark key="'" line="26" column="6" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="36" column="10" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="50" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1463703319909">
         <mark key="[" line="96" column="31" />
@@ -184,13 +195,6 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/events/controllers/location.js" timestamp="1465331076786" />
     </filemarks>
     <jumps>
-      <jump line="1" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/RankableQuestionView.less" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/RankableQuestionView.less" />
-      <jump line="11" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/RankableQuestionView.less" />
-      <jump line="21" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/RankableQuestionView.less" />
-      <jump line="3" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/WorkflowConfig.js" />
-      <jump line="4" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/WorkflowConfig.js" />
-      <jump line="40" column="74" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" />
       <jump line="65" column="60" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
       <jump line="60" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
       <jump line="25" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/providers/WorkflowEngineProvider.js" />
@@ -284,13 +288,20 @@
       <jump line="14" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="317" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
       <jump line="277" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="29" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" />
+      <jump line="31" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" />
+      <jump line="36" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" />
+      <jump line="7" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" />
+      <jump line="26" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" />
+      <jump line="28" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
+      <jump line="22" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8vIHN0dWIgb3V0IHRoZSBKaWZmIHByb3ZpZGVyIHdpdGggYW4gb2JqZWN0IHRoYXQgc2V0cwogICAgLy8gSmlmZi5JZGVudGl0eS51c2VyLmFwcFNraW4gdG8gYHVuZGVmaW5lZGAKICAgIGJlZm9yZUVhY2gobW9kdWxlKGZ1bmN0aW9uICgkcHJvdmlkZSkgewogICAgICAkcHJvdmlkZS52YWx1ZSgnSmlmZicsIHtJZGVudGl0eToge3VzZXI6IHthcHBza2luOiB1bmRlZmluZWR9fX0pOwogICAgfSkpOwoK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgV29ya2Zsb3dEaXJlY3Rvci5jbGVhckd1aWRzKCk7CiAgICAgIEppZmYuU3RvcmFnZS5Mb2NhbC5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICA8IS0tIGdsb2JhbCBlcnJvciBoYW5kbGVyIHRvIHN0b3AgdG1sIGZyb20ga2lsbGluZyB0aGUgd2hvbGUgYXBwIC0tPgogIDxzY3JpcHQ+CiAgICB3aW5kb3cub25lcnJvciA9IGZ1bmN0aW9uKG1zZywgdXJsLCBsaW5lTm8sIGNvbHVtbk5vLCBlcnJvcikgewogICAgICBjb25zb2xlLmxvZygnISEhIEVycm9yIEhhbmRsZXIsIGFwcC5odG1sOiAnICsgYXJndW1lbnRzKTsKICAgICAgLy8gaWYgdGhpcyBmdW5jdGlvbiByZXR1cm5zIHRydWUgdGhlIGVycm9yIHN0b3BzIGhlcmUKICAgICAgcmV0dXJuIHRydWU7CiAgICB9OwogIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -305,46 +316,46 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Need to get</text>
+        <text encoding="base64">ISEhIEVycm9yIEhhbmRsZXIsIGluZGV4Lmh0bWw6IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhckd1aWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVzID0gcnVuKAogICAgICAgICd3ZWI6cnVuOmVzNScsCiAgICAgICAgJ2pzaGludCcsCiAgICAgICAgZG9uZSk7Cg==</text>
+        <text encoding="base64">ICA8IS0tIGdsb2JhbCBlcnJvciBoYW5kbGVyIHRvIHN0b3AgdG1sIGZyb20ga2lsbGluZyB0aGUgd2hvbGUgYXBwIC0tPgogIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgIHdpbmRvdy5vbmVycm9yID0gZnVuY3Rpb24obXNnLCB1cmwsIGxpbmVObywgY29sdW1uTm8sIGVycm9yKSB7CiAgICAgIC8vIFRPRE86IHNob3VsZCB2ZXJpZnkgdGhhdCB0aGlzIGlzIGFjdHVhbGx5IGEgdG1sIGVycm9yIGluc3RlYWQgb2YgY2F0Y2hpbmcgZXZlcnl0aGluZwogICAgICAvLyBidXQgd2UgZG9uJ3Qgd2FudCB0aGUgYXBwIHRvIGNyYXNoIGluIGFueSBjYXNlLCBzbyBhbHdheXMgcmV0dXJuIHRydWUKICAgICAgY29uc29sZS5kZWJ1ZygnVW5oYW5kbGVkIGV4Y2VwdGlvbiBkZXRlY3RlZDogJywgYXJndW1lbnRzKTsKCiAgICAgIC8vIGlmIHRoaXMgZnVuY3Rpb24gcmV0dXJucyB0cnVlIHRoZSBlcnJvciBzdG9wcyBoZXJlCiAgICAgIHJldHVybiB0cnVlOwogICAgfTsKICA8L3NjcmlwdD4K</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgV29ya2Zsb3dEaXJlY3Rvci5jbGVhckd1aWRzKCk7CiAgICAgIEppZmYuU3RvcmFnZS5Mb2NhbC5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICA8IS0tIGdsb2JhbCBlcnJvciBoYW5kbGVyIHRvIHN0b3AgdG1sIGZyb20ga2lsbGluZyB0aGUgd2hvbGUgYXBwIC0tPgogIDxzY3JpcHQ+CiAgICB3aW5kb3cub25lcnJvciA9IGZ1bmN0aW9uKG1zZywgdXJsLCBsaW5lTm8sIGNvbHVtbk5vLCBlcnJvcikgewogICAgICBjb25zb2xlLmxvZygnISEhIEVycm9yIEhhbmRsZXIsIGFwcC5odG1sOiAnICsgYXJndW1lbnRzKTsKICAgICAgLy8gaWYgdGhpcyBmdW5jdGlvbiByZXR1cm5zIHRydWUgdGhlIGVycm9yIHN0b3BzIGhlcmUKICAgICAgcmV0dXJuIHRydWU7CiAgICB9OwogIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>Need to get</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogc2hvdWxkIHZlcmlmeSB0aGF0IHRoaXMgaXMgYWN0dWFsbHkgYSB0bWwgZXJyb3IgaW5zdGVhZCBvZiBjYXRjaGluZyBldmVyeXRoaW5nCiAgICAgIC8vIGJ1dCB3ZSBkb24ndCB3YW50IHRoZSBhcHAgdG8gY3Jhc2ggaW4gYW55IGNhc2UsIHNvIGFsd2F5cyByZXR1cm4gdHJ1ZQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ISEhIEVycm9yIEhhbmRsZXIsIGluZGV4Lmh0bWw6IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+CiAgICB0aHJvdyBuZXcgRXJyb3IoJ2Rvb2RvZG9vJyk7CiAgPC9zY3JpcHQ+Cgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>so this is porb ab</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHRtbC5jaGFuZ2VMYW5ndWFnZShsb2NhbGUpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">anVzdCA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIHRtbC5jaGFuZ2VMYW5ndWFnZShsb2NhbGUpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">cG90ZW50aWFsbHkg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICoqLwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">dGhlIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLyoqCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">c2hvdWxkIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
