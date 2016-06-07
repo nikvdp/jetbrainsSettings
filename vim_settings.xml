@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1464799891540">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/routes/index.js" timestamp="1459557123124">
         <mark key="[" line="13" column="78" />
         <mark key="]" line="14" column="24" />
@@ -40,9 +37,6 @@
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
-      </file>
-      <file name="find.xml" timestamp="1464799856796">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1463703319909">
         <mark key="[" line="96" column="31" />
@@ -169,9 +163,6 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="/a.txt" timestamp="1464225239124">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/list.js" timestamp="1464746736020">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -193,6 +184,11 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="34" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/build.gradle" timestamp="1465266841118">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" timestamp="1462323505916">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -200,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="44" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="35" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="60" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="113" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
@@ -300,13 +295,14 @@
       <jump line="5" column="0" filename="$USER_HOME$/Downloads/jenkins-master/seed-job.groovy" />
       <jump line="2" column="12" filename="$USER_HOME$/Downloads/jenkins-master/seed-job.groovy" />
       <jump line="3" column="12" filename="$USER_HOME$/Downloads/jenkins-master/seed-job.groovy" />
+      <jump line="24" column="51" filename="$USER_HOME$/Code/work/jiff/docker-jenkins/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgPCEtLSBzdXBwb3J0IGZvciBqb2IgZHNsIHBsdWdpbiBzbyB3ZSBjYW4gYWRkIHNlZWQgam9iIC0tPgogICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICA8Z3JvdXBJZD5vcmcuamVua2lucy1jaS5wbHVnaW5zPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPmpvYi1kc2wtY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj4xLjQ3PC92ZXJzaW9uPgogICAgICAgIDxzY29wZT5jb21waWxlPC9zY29wZT4KICAgICAgPC9kZXBlbmRlbmN5PgogICAgICA8IS0tIGVuZCBqb2ItZHNsIHBsdWdpbiAtLT4KCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFwb3NzZS5qb2Jkc2wuZHNsLk1lbW9yeUpvYk1hbmFnZW1lbnQ7CmltcG9ydCBqYXZhcG9zc2Uuam9iZHNsLmRzbC5Ec2xGYWN0b3J5CmltcG9ydCBqYXZhcG9zc2Uuam9iZHNsLmRzbC5Kb2IK</text>
+        <text encoding="base64">dGFzayBkZWJ1Z1htbChkZXBlbmRzT246ICdjbGFzc2VzJywgdHlwZTogSmF2YUV4ZWMpIAoKdGFzayB3cmFwcGVyKHR5cGU6IFdyYXBwZXIpIHsKICAgIGdyYWRsZVZlcnNpb24gPSAnMi40Jwp9Cgp0YXNrIHdyaXRlTmV3UG9tIDw8IHsKICAgIHBvbSB7CiAgICAgICAgcHJvamVjdCB7CiAgICAgICAgICAgIGluY2VwdGlvblllYXIgJzIwMDgnCiAgICAgICAgICAgICAgICBsaWNlbnNlcyB7CiAgICAgICAgICAgICAgICAgICAgbGljZW5zZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgJ1RoZSBBcGFjaGUgU29mdHdhcmUgTGljZW5zZSwgVmVyc2lvbiAyLjAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cmwgJ2h0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMC50eHQnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaXN0cmlidXRpb24gJ3JlcG8nCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0ud3JpdGVUbygibmV3cG9tLnhtbCIpCn0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -333,34 +329,48 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFwb3NzZS5qb2Jkc2wuZHNsLk1lbW9yeUpvYk1hbmFnZW1lbnQ7CmltcG9ydCBqYXZhcG9zc2Uuam9iZHNsLmRzbC5Ec2xGYWN0b3J5CmltcG9ydCBqYXZhcG9zc2Uuam9iZHNsLmRzbC5Kb2IK</text>
+        <text encoding="base64">dGFzayBkZWJ1Z1htbChkZXBlbmRzT246ICdjbGFzc2VzJywgdHlwZTogSmF2YUV4ZWMpIAoKdGFzayB3cmFwcGVyKHR5cGU6IFdyYXBwZXIpIHsKICAgIGdyYWRsZVZlcnNpb24gPSAnMi40Jwp9Cgp0YXNrIHdyaXRlTmV3UG9tIDw8IHsKICAgIHBvbSB7CiAgICAgICAgcHJvamVjdCB7CiAgICAgICAgICAgIGluY2VwdGlvblllYXIgJzIwMDgnCiAgICAgICAgICAgICAgICBsaWNlbnNlcyB7CiAgICAgICAgICAgICAgICAgICAgbGljZW5zZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgJ1RoZSBBcGFjaGUgU29mdHdhcmUgTGljZW5zZSwgVmVyc2lvbiAyLjAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cmwgJ2h0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMC50eHQnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaXN0cmlidXRpb24gJ3JlcG8nCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0ud3JpdGVUbygibmV3cG9tLnhtbCIpCn0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>runScript(seedJob, jm);</text>
+        <text>{
+    main = 'com.dslexample.debug.XmlOutputRunner'
+    classpath = sourceSets.main.runtimeClasspath
+    systemProperties System.getProperties()
+}</text>
       </register>
-      <register name="3" type="4">
-        <text>, jm</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>runDslEngine</text>
+      <register name="4" type="2">
+        <text encoding="base64">dGFzayByZXN0KGRlcGVuZHNPbjogJ2NsYXNzZXMnLCB0eXBlOiBKYXZhRXhlYykgCg==</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>{
+    main = 'com.dslexample.rest.RestApiScriptRunner'
+    classpath = sourceSets.main.runtimeClasspath
+    systemProperties System.getProperties()
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VlZEpvYiA9ICIiIgpqb2IoJ3NlZWQnKSB7CiAgICBzY20gewogICAgICAgIGdpdGh1YiAnc2hlZWhhbi9qb2ItZHNsLWdyYWRsZS1leGFtcGxlJwogICAgfQogICAgdHJpZ2dlcnMgewogICAgICAgIHNjbSAnSC81ICogKiAqIConCiAgICB9CiAgICBzdGVwcyB7CiAgICAgICAgZ3JhZGxlICdjbGVhbiB0ZXN0JwogICAgICAgIGRzbCB7CiAgICAgICAgICAgIGV4dGVybmFsICdqb2JzLyoqLypKb2JzLmdyb292eScKICAgICAgICAgICAgYWRkaXRpb25hbENsYXNzcGF0aCAnc3JjL21haW4vZ3Jvb3Z5JwogICAgICAgIH0KICAgIH0KICAgIHB1Ymxpc2hlcnMgewogICAgICAgIGFyY2hpdmVKdW5pdCAnYnVpbGQvdGVzdC1yZXN1bHRzLyoqLyoueG1sJwogICAgfQp9CiIiIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;&quot;&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">dGVzdCAK</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;;</text>
+        <text>{
+    dependsOn tasks.resolveTestPlugins
+    inputs.files sourceSets.jobs.groovy.srcDirs
+
+    // set build directory for Jenkins test harness, JENKINS-26331
+    systemProperty 'buildDirectory', project.buildDir.absolutePath
+}</text>
       </register>
-      <register name="9" type="4">
-        <text>''</text>
+      <register name="9" type="2">
+        <text encoding="base64">dGFzayByZXNvbHZlVGVzdFBsdWdpbnModHlwZTogQ29weSkgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
