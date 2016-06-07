@@ -9,28 +9,11 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1463701302480">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deData.js" timestamp="1459369516827">
         <mark key="[" line="18" column="60" />
         <mark key="]" line="18" column="62" />
         <mark key="." line="18" column="62" />
         <mark key="^" line="18" column="62" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" timestamp="1462325627619">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="23" />
-        <mark key="." line="45" column="23" />
-        <mark key="^" line="45" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/deviceManagement.html" timestamp="1459284734329">
-        <mark key="[" line="42" column="68" />
-        <mark key="]" line="42" column="68" />
-        <mark key="^" line="42" column="74" />
-        <mark key="." line="42" column="68" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/NotificationModal.html" timestamp="1461367283155">
         <mark key="[" line="0" column="25" />
@@ -73,16 +56,9 @@
         <mark key="^" line="2" column="85" />
         <mark key="." line="2" column="85" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environmentConfig.js" timestamp="1459897888535">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="52" />
-        <mark key="." line="3" column="52" />
-        <mark key="^" line="3" column="52" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/job-dsl-gradle-example/src/main/groovy/com/dslexample/rest/RestApiJobManagement.groovy" timestamp="1465258662182">
-        <mark key="'" line="5" column="20" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="29" />
+      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/job-dsl-gradle-example/build.gradle" timestamp="1465267627212">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="52" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/job-dsl-gradle-example/src/main/groovy/com/dslexample/rest/RestApiScriptRunner.groovy" timestamp="1465261807989">
         <mark key="'" line="21" column="0" />
@@ -91,35 +67,12 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/WeightQuestionView.html" timestamp="1462324041275">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="3" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/automation/seed-job.groovy" timestamp="1465260441454">
-        <mark key="'" line="10" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1460430810176">
-        <mark key="[" line="200" column="32" />
-        <mark key="]" line="201" column="25" />
-        <mark key="^" line="201" column="25" />
-        <mark key="." line="201" column="25" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/job-dsl/1.47/job-dsl-1.47.jar!/javaposse/jobdsl/plugin/JenkinsJobManagement.class" timestamp="1465267731058" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" timestamp="1464046089828">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="8" column="12" />
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/auth.js" timestamp="1464802741552">
-        <mark key="[" line="18" column="47" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="20" column="27" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/inject.js" timestamp="1463695284645">
         <mark key="[" line="31" column="1" />
@@ -144,29 +97,98 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/provision-jenkins.sh" timestamp="1465258522738">
-        <mark key="'" line="8" column="16" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/job-dsl-core/1.47/9360e9aa2ebe6c57c9cf22c7ef3ec2cb93713c8a/job-dsl-core-1.47-sources.jar!/javaposse/jobdsl/dsl/DslFactory.groovy" timestamp="1465260771189">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/MaterialListChooserView.less" timestamp="1462312590458">
         <mark key="[" line="31" column="36" />
         <mark key="]" line="32" column="23" />
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/list.js" timestamp="1464746736020">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/job-dsl-gradle-example/newpom.xml" timestamp="1465267640813">
+        <mark key="'" line="29" column="15" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" timestamp="1462323505916">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/pom.xml" timestamp="1465267587471">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="265" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1463701302480">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/weightQuestion.js" timestamp="1462325627619">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="23" />
+        <mark key="." line="45" column="23" />
+        <mark key="^" line="45" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/deviceManagement.html" timestamp="1459284734329">
+        <mark key="[" line="42" column="68" />
+        <mark key="]" line="42" column="68" />
+        <mark key="^" line="42" column="74" />
+        <mark key="." line="42" column="68" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/seed-job.groovy" timestamp="1465267815681">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environmentConfig.js" timestamp="1459897888535">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="52" />
+        <mark key="." line="3" column="52" />
+        <mark key="^" line="3" column="52" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/job-dsl-gradle-example/src/main/groovy/com/dslexample/rest/RestApiJobManagement.groovy" timestamp="1465258662182">
+        <mark key="'" line="5" column="20" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/WeightQuestionView.html" timestamp="1462324041275">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/automation/seed-job.groovy" timestamp="1465260441454">
+        <mark key="'" line="10" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1460430810176">
+        <mark key="[" line="200" column="32" />
+        <mark key="]" line="201" column="25" />
+        <mark key="^" line="201" column="25" />
+        <mark key="." line="201" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/auth.js" timestamp="1464802741552">
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/job-dsl-core/1.47/9360e9aa2ebe6c57c9cf22c7ef3ec2cb93713c8a/job-dsl-core-1.47-sources.jar!/javaposse/jobdsl/dsl/DslFactory.groovy" timestamp="1465260771189">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/views/list.html" timestamp="1464737855173">
         <mark key="[" line="20" column="10" />
         <mark key="]" line="20" column="10" />
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/components/store/controllers/list.js" timestamp="1464746736020">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/skinifyUrlFilter.js" timestamp="1463712725519">
         <mark key="[" line="6" column="46" />
@@ -179,24 +201,14 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/job-dsl-gradle-example/newpom.xml" timestamp="1465259884553">
-        <mark key="'" line="29" column="15" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="34" column="16" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/build.gradle" timestamp="1465266841118">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/HeightQuestionView.less" timestamp="1462323505916">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/build.gradle" timestamp="1465266948506">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="60" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="113" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="38" column="37" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
@@ -296,13 +308,14 @@
       <jump line="2" column="12" filename="$USER_HOME$/Downloads/jenkins-master/seed-job.groovy" />
       <jump line="3" column="12" filename="$USER_HOME$/Downloads/jenkins-master/seed-job.groovy" />
       <jump line="24" column="51" filename="$USER_HOME$/Code/work/jiff/docker-jenkins/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/docker-jenkins/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgPCEtLSBzdXBwb3J0IGZvciBqb2IgZHNsIHBsdWdpbiBzbyB3ZSBjYW4gYWRkIHNlZWQgam9iIC0tPgogICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICA8Z3JvdXBJZD5vcmcuamVua2lucy1jaS5wbHVnaW5zPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPmpvYi1kc2wtY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj4xLjQ3PC92ZXJzaW9uPgogICAgICAgIDxzY29wZT5jb21waWxlPC9zY29wZT4KICAgICAgPC9kZXBlbmRlbmN5PgogICAgICA8IS0tIGVuZCBqb2ItZHNsIHBsdWdpbiAtLT4KCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dGFzayBkZWJ1Z1htbChkZXBlbmRzT246ICdjbGFzc2VzJywgdHlwZTogSmF2YUV4ZWMpIAoKdGFzayB3cmFwcGVyKHR5cGU6IFdyYXBwZXIpIHsKICAgIGdyYWRsZVZlcnNpb24gPSAnMi40Jwp9Cgp0YXNrIHdyaXRlTmV3UG9tIDw8IHsKICAgIHBvbSB7CiAgICAgICAgcHJvamVjdCB7CiAgICAgICAgICAgIGluY2VwdGlvblllYXIgJzIwMDgnCiAgICAgICAgICAgICAgICBsaWNlbnNlcyB7CiAgICAgICAgICAgICAgICAgICAgbGljZW5zZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgJ1RoZSBBcGFjaGUgU29mdHdhcmUgTGljZW5zZSwgVmVyc2lvbiAyLjAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cmwgJ2h0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMC50eHQnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaXN0cmlidXRpb24gJ3JlcG8nCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0ud3JpdGVUbygibmV3cG9tLnhtbCIpCn0K</text>
+        <text encoding="base64">aW1wb3J0IGh1ZHNvbi51dGlsLlZlcnNpb25OdW1iZXI7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -317,60 +330,50 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>runScript(seedJob, jm);</text>
+        <text>jobs</text>
       </register>
       <register name="/" type="4">
         <text>job</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">am9iKCdzZWVkJykgewogICAgc2NtIHsKICAgICAgICBnaXRodWIgJ3NoZWVoYW4vam9iLWRzbC1ncmFkbGUtZXhhbXBsZScKICAgIH0KICAgIHRyaWdnZXJzIHsKICAgICAgICBzY20gJ0gvNSAqICogKiAqJwogICAgfQogICAgc3RlcHMgewogICAgICAgIGdyYWRsZSAnY2xlYW4gdGVzdCcKICAgICAgICBkc2wgewogICAgICAgICAgICBleHRlcm5hbCAnam9icy8qKi8qSm9icy5ncm9vdnknCiAgICAgICAgICAgIGFkZGl0aW9uYWxDbGFzc3BhdGggJ3NyYy9tYWluL2dyb292eScKICAgICAgICB9CiAgICB9CiAgICBwdWJsaXNoZXJzIHsKICAgICAgICBhcmNoaXZlSnVuaXQgJ2J1aWxkL3Rlc3QtcmVzdWx0cy8qKi8qLnhtbCcKICAgIH0KfQo=</text>
+      <register name="0" type="4">
+        <text>http://repo.jenkins-ci.org/releases/</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGFzayBkZWJ1Z1htbChkZXBlbmRzT246ICdjbGFzc2VzJywgdHlwZTogSmF2YUV4ZWMpIAoKdGFzayB3cmFwcGVyKHR5cGU6IFdyYXBwZXIpIHsKICAgIGdyYWRsZVZlcnNpb24gPSAnMi40Jwp9Cgp0YXNrIHdyaXRlTmV3UG9tIDw8IHsKICAgIHBvbSB7CiAgICAgICAgcHJvamVjdCB7CiAgICAgICAgICAgIGluY2VwdGlvblllYXIgJzIwMDgnCiAgICAgICAgICAgICAgICBsaWNlbnNlcyB7CiAgICAgICAgICAgICAgICAgICAgbGljZW5zZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgJ1RoZSBBcGFjaGUgU29mdHdhcmUgTGljZW5zZSwgVmVyc2lvbiAyLjAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cmwgJ2h0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMC50eHQnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaXN0cmlidXRpb24gJ3JlcG8nCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0ud3JpdGVUbygibmV3cG9tLnhtbCIpCn0K</text>
+        <text encoding="base64">aW1wb3J0IGh1ZHNvbi51dGlsLlZlcnNpb25OdW1iZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">VmVyc2lvbk51bWJlcgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBodHRwOi8vcmVwby5qZW5raW5zLWNpLm9yZy9yZWxlYXNlcy8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>jobs</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dGFzayBkZWJ1Z1htbChkZXBlbmRzT246ICdjbGFzc2VzJywgdHlwZTogSmF2YUV4ZWMpIAoKdGFzayB3cmFwcGVyKHR5cGU6IFdyYXBwZXIpIHsKICAgIGdyYWRsZVZlcnNpb24gPSAnMi40Jwp9Cgp0YXNrIHdyaXRlTmV3UG9tIDw8IHsKICAgIHBvbSB7CiAgICAgICAgcHJvamVjdCB7CiAgICAgICAgICAgIGluY2VwdGlvblllYXIgJzIwMDgnCiAgICAgICAgICAgICAgICBsaWNlbnNlcyB7CiAgICAgICAgICAgICAgICAgICAgbGljZW5zZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgJ1RoZSBBcGFjaGUgU29mdHdhcmUgTGljZW5zZSwgVmVyc2lvbiAyLjAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cmwgJ2h0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMC50eHQnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaXN0cmlidXRpb24gJ3JlcG8nCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0ud3JpdGVUbygibmV3cG9tLnhtbCIpCn0K</text>
+      </register>
+      <register name="8" type="4">
         <text>{
     main = 'com.dslexample.debug.XmlOutputRunner'
     classpath = sourceSets.main.runtimeClasspath
     systemProperties System.getProperties()
 }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dGFzayByZXN0KGRlcGVuZHNPbjogJ2NsYXNzZXMnLCB0eXBlOiBKYXZhRXhlYykgCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>{
-    main = 'com.dslexample.rest.RestApiScriptRunner'
-    classpath = sourceSets.main.runtimeClasspath
-    systemProperties System.getProperties()
-}</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dGVzdCAK</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-    dependsOn tasks.resolveTestPlugins
-    inputs.files sourceSets.jobs.groovy.srcDirs
-
-    // set build directory for Jenkins test harness, JENKINS-26331
-    systemProperty 'buildDirectory', project.buildDir.absolutePath
-}</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dGFzayByZXNvbHZlVGVzdFBsdWdpbnModHlwZTogQ29weSkgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
