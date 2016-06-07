@@ -124,7 +124,8 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/repo/pom.xml" timestamp="1465269686711">
+      <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/repo/pom.xml" timestamp="1465269776620">
+        <mark key="'" line="297" column="0" />
         <mark key="[" line="290" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/docker-jenkins/pom.xml" timestamp="1465267587471">
@@ -225,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="85" column="71" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="57" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/styles/list.less" />
       <jump line="525" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
@@ -325,6 +325,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/Code/work/jiff/docker-jenkins/repo/automation/enableLdap.groovy" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/work/jiff/docker-jenkins/repo/automation/enableLdap.groovy" />
       <jump line="5" column="37" filename="$USER_HOME$/Code/work/jiff/docker-jenkins/repo/automation/enableLdap.groovy" />
+      <jump line="297" column="0" filename="$USER_HOME$/Code/work/jiff/docker-jenkins/repo/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -349,7 +350,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>job</text>
+        <text>structs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBncm9vdnlfc2NyaXB0ICRTQ1JJUFRfTE9DQVRJT04vYXV0b21hdGlvbi9pbnN0YWxsUGx1Z2lucy5ncm9vdnkK</text>
@@ -392,9 +393,9 @@
       </register>
     </registers>
     <search>
-      <last-search>job</last-search>
+      <last-search>structs</last-search>
       <last-offset />
-      <last-pattern>job</last-pattern>
+      <last-pattern>structs</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -402,7 +403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cons</entry>
         <entry encoding="base64">XDxlcGlzb2RlXD4=</entry>
         <entry>episode.*=</entry>
         <entry encoding="base64">XDxlcGlzb2RlTm90U2V0XD4=</entry>
@@ -422,6 +422,7 @@
         <entry>,</entry>
         <entry encoding="base64">XDxzaG93Qm90dG9tQmFyXD4=</entry>
         <entry>job</entry>
+        <entry>structs</entry>
       </history-search>
       <history-cmd>
         <entry>s/datepickerObject/datepickerConfig/g</entry>
