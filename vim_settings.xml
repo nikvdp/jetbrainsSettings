@@ -120,6 +120,12 @@
         <mark key="." line="8" column="58" />
         <mark key="^" line="8" column="58" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/services/DashboardMainViewModel.js" timestamp="1465597023500">
+        <mark key="[" line="542" column="45" />
+        <mark key="]" line="542" column="49" />
+        <mark key="^" line="542" column="49" />
+        <mark key="." line="542" column="49" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1458760170976">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="21" column="10" />
@@ -314,7 +320,6 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/services/timezone.js" timestamp="1465587555848" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/deviceManagement.html" timestamp="1459284734329">
         <mark key="[" line="42" column="68" />
         <mark key="]" line="42" column="68" />
@@ -352,6 +357,13 @@
         <mark key="]" line="92" column="3" />
         <mark key="^" line="92" column="3" />
         <mark key="." line="92" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/services/brain-health/account.js" timestamp="1465597103781">
+        <mark key="'" line="29" column="74" />
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="26" column="26" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/tests.js" timestamp="1463722950415">
         <mark key="'" line="35" column="1" />
@@ -518,8 +530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/providers/tmlProvider.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/StartupNotificationChecks.js" />
       <jump line="33" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
       <jump line="84" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
@@ -618,13 +628,15 @@
       <jump line="41" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" />
       <jump line="8" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
+      <jump line="6" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/services/brain-health/account.js" />
+      <jump line="26" column="74" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/services/brain-health/account.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -639,60 +651,55 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_getSupportedLocales()[0]</text>
+        <text>, SafeGet</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</text>
+        <text>user_allowed</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0bWwuY2hhbmdlTGFuZ3VhZ2UobG9jYWxlKTsK</text>
+      <register name="0" type="4">
+        <text>response.data.permissions</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBkZWZhdWx0TG9jYWxlID0gX2dldFN1cHBvcnRlZExvY2FsZXMoKVswXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLmRhdGEucGVybWlzc2lvbnMudXNlcl9hbGxvd2VkX2FjY2VzcyA9PT0gJ3llcyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGRlZmF1bHRMb2NhbGUgPSBfZ2V0U3VwcG9ydGVkTG9jYWxlcygpWzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>_getSupportedLocales()[0]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMuX1NhZmVHZXQgPSBTYWZlR2V0Owo=</text>
       </register>
       <register name="5" type="4">
-        <text>locale</text>
+        <text>, SafeGet</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
-      <register name="9" type="4">
-        <text>catch (e) {
-          // tml throws an exception that stops the whole app if it can't switch
-          // languages properly, so catch that here
-          console.log('catch tml exception :', e);
-          tml.changeLanguage('en');
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</last-search>
+      <last-search>user_allowed</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</last-pattern>
+      <last-pattern>user_allowed</last-pattern>
       <last-replace>text</last-replace>
       <last-substitute>image</last-substitute>
       <last-dir>1</last-dir>
@@ -700,7 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jiff-uni</entry>
         <entry>unity</entry>
         <entry>tml-js</entry>
         <entry>jiff</entry>
@@ -720,6 +726,7 @@
         <entry>.hide</entry>
         <entry>startSlideshow</entry>
         <entry encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</entry>
+        <entry>user_allowed</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Njb3BlLndlaWdodC9pbnB1dC9n</entry>
@@ -740,8 +747,8 @@
         <entry>s/image/text</entry>
         <entry>s/image/text/g</entry>
         <entry>ew</entry>
-        <entry>w</entry>
         <entry>e!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
