@@ -68,6 +68,12 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" timestamp="1465523032200">
+        <mark key="'" line="86" column="10" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/OnboardingApi.js" timestamp="1464388839996">
         <mark key="'" line="47" column="28" />
         <mark key="[" line="22" column="48" />
@@ -159,6 +165,13 @@
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" timestamp="1465522122850">
+        <mark key="'" line="14" column="33" />
+        <mark key="[" line="45" column="71" />
+        <mark key="]" line="45" column="71" />
+        <mark key="." line="45" column="71" />
+        <mark key="^" line="45" column="71" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/views/productOptions.html" timestamp="1459817866200">
         <mark key="[" line="2" column="85" />
@@ -426,11 +439,12 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1460430810176">
-        <mark key="[" line="200" column="32" />
-        <mark key="]" line="201" column="25" />
-        <mark key="^" line="201" column="25" />
-        <mark key="." line="201" column="25" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" timestamp="1465523014502">
+        <mark key="'" line="250" column="20" />
+        <mark key="[" line="72" column="36" />
+        <mark key="]" line="72" column="36" />
+        <mark key="." line="72" column="36" />
+        <mark key="^" line="72" column="36" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/login.js" timestamp="1461189538706">
         <mark key="'" line="33" column="15" />
@@ -517,16 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/providers/tmlProvider.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/StartupNotificationChecks.js" />
-      <jump line="33" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="84" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="272" column="81" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="93" column="57" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="92" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="83" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/controllers/DashboardMainCtrl.js" />
-      <jump line="25" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
       <jump line="45" column="66" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
       <jump line="29" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/emergencyBroadcast.js" />
       <jump line="49" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/config/RunConfig.js" />
@@ -617,13 +621,23 @@
       <jump line="41" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" />
       <jump line="8" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
+      <jump line="40" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
+      <jump line="15" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
+      <jump line="38" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
+      <jump line="14" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
+      <jump line="102" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" />
+      <jump line="103" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" />
+      <jump line="18" column="40" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" />
+      <jump line="78" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" />
+      <jump line="92" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" />
+      <jump line="247" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxwPjwvcD4K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -638,60 +652,55 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_getSupportedLocales()[0]</text>
+        <text>{{selectedTimezoneElement}}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</text>
+        <text>modify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0bWwuY2hhbmdlTGFuZ3VhZ2UobG9jYWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJpdGVtIGJhY2tncm91bmQgaXRlbS1pY29uLXJpZ2h0IiBuZy1jbGljaz0ibW9kaWZ5KCd0aW1lem9uZScpIj4KICAgICAgICAgIDxoNSB0bWwtdHI+VGltZSBab25lPC9oNT4KICAgICAgICAgIDxwIGNsYXNzPSJzZWxlY3RlZC10aW1lem9uZSIgdG1sLXRyPnt7c2VsZWN0ZWRUaW1lem9uZUVsZW1lbnR9fTwvcD4KICAgICAgICAgIDxpIGNsYXNzPSJpY29uIGlvbi1jaGV2cm9uLXJpZ2h0Ij48L2k+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxwPjwvcD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBkZWZhdWx0TG9jYWxlID0gX2dldFN1cHBvcnRlZExvY2FsZXMoKVswXTsK</text>
+      <register name="2" type="4">
+        <text>{{selectedTimezoneElement}}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGRlZmF1bHRMb2NhbGUgPSBfZ2V0U3VwcG9ydGVkTG9jYWxlcygpWzBdOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGNsYXNzPSJzZWxlY3RlZC10aW1lem9uZSIgdG1sLXRy</text>
       </register>
       <register name="4" type="4">
-        <text>_getSupportedLocales()[0]</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>locale</text>
+        <text>timezone</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IFpvbmU=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+      <register name="7" type="4">
+        <text>Time</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJpdGVtIGJhY2tncm91bmQgaXRlbS1pY29uLXJpZ2h0Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyBjZW50ZXItaXRlbXMgYWxpZ25tZW50Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sIGNvbC0xNSBhbGlnbm1lbnQiPgogICAgICAgICAgICAgIDxoNSB0bWwtdHI+UGVyc29uYWwgRGV0YWlsczwvaDU+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wgY29sLW9mZnNldC0xMCBjb2wtMzMiPgogICAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uIGlvbi1jaGV2cm9uLXJpZ2h0Ij48L2k+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>catch (e) {
-          // tml throws an exception that stops the whole app if it can't switch
-          // languages properly, so catch that here
-          console.log('catch tml exception :', e);
-          tml.changeLanguage('en');
-        }</text>
+        <text>name</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</last-search>
+      <last-search>modify</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</last-pattern>
+      <last-pattern>modify</last-pattern>
       <last-replace>text</last-replace>
       <last-substitute>image</last-substitute>
       <last-dir>1</last-dir>
@@ -699,9 +708,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jiff-uni</entry>
-        <entry>unity</entry>
-        <entry>tml-js</entry>
         <entry>jiff</entry>
         <entry>app-re</entry>
         <entry>ral</entry>
@@ -719,6 +725,9 @@
         <entry>.hide</entry>
         <entry>startSlideshow</entry>
         <entry encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</entry>
+        <entry>ng-repeat</entry>
+        <entry>photo</entry>
+        <entry>modify</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Njb3BlLndlaWdodC9pbnB1dC9n</entry>
@@ -739,8 +748,8 @@
         <entry>s/image/text</entry>
         <entry>s/image/text/g</entry>
         <entry>ew</entry>
-        <entry>w</entry>
         <entry>e!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
