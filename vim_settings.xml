@@ -481,6 +481,7 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/RankableQuestion.js" timestamp="1466032909374" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" timestamp="1465520644922">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -690,7 +691,7 @@
         <text>convertAnswer</text>
       </register>
       <register name="/" type="4">
-        <text>jflogout</text>
+        <text>background</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJlZm9yZUVhY2gobW9kdWxlKGZ1bmN0aW9uICgkcHJvdmlkZSkgewogICAgICAkcHJvdmlkZS52YWx1ZSgnSmlmZicsIHtJZGVudGl0eToge3VzZXI6IHthcHBTa2luOiB1bmRlZmluZWR9fX0pOwogICAgfSkpOwo=</text>
@@ -733,9 +734,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jflogout</last-search>
+      <last-search>background</last-search>
       <last-offset />
-      <last-pattern>jflogout</last-pattern>
+      <last-pattern>background</last-pattern>
       <last-replace>rgba</last-replace>
       <last-substitute>rbga</last-substitute>
       <last-dir>1</last-dir>
@@ -743,8 +744,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tml</entry>
-        <entry>&quot;</entry>
         <entry>'text'</entry>
         <entry>'image'</entry>
         <entry>'header'</entry>
@@ -763,6 +762,8 @@
         <entry>image</entry>
         <entry encoding="base64">XDxzY29wZVw+</entry>
         <entry>jflogout</entry>
+        <entry>selected</entry>
+        <entry>background</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Rldi9zdGFnaW5nL2c=</entry>
