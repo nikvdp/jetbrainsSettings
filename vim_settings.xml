@@ -98,11 +98,12 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="8" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" timestamp="1466083122301">
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="31" column="45" />
-        <mark key="." line="31" column="45" />
-        <mark key="^" line="31" column="45" />
+      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" timestamp="1466084447488">
+        <mark key="'" line="88" column="2" />
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1463703319909">
         <mark key="[" line="96" column="31" />
@@ -565,13 +566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.conf.js" />
-      <jump line="52" column="45" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.conf.js" />
-      <jump line="3" column="65" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.conf.js" />
-      <jump line="38" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.conf.js" />
-      <jump line="22" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.conf.js" />
-      <jump line="53" column="45" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.conf.js" />
-      <jump line="1" column="65" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.conf.js" />
       <jump line="54" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.conf.js" />
       <jump line="46" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" />
       <jump line="17" column="29" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" />
@@ -665,13 +659,20 @@
       <jump line="15" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" />
       <jump line="25" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="81" column="36" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="32" column="20" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="71" column="2" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>end</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -686,25 +687,25 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>end</text>
       </register>
       <register name="/" type="4">
         <text>language</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgJGVudHJ5ID0gY2hlZXJpby5sb2FkKGVudHJ5U3RyaW5nLCB7eG1sTW9kZTogdHJ1ZX0pOwo=</text>
+        <text encoding="base64">ICAgIGlucHV0OiBmcy5jcmVhdGVSZWFkU3RyZWFtKCdkaWN0LnhtbCcpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>null</text>
+        <text>end</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIE8K</text>
+      <register name="2" type="4">
+        <text>dict</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -712,20 +713,20 @@
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>printJson</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLy8gY2xlYW4gb3V0IGVtcHR5IHN0cmluZ3MK</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text encoding="base64">KHIpID0+IA==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICByZXR1cm4gewogICAgCiAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text>func</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
