@@ -98,12 +98,12 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="8" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" timestamp="1466114380929">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="31" column="68" />
-        <mark key="]" line="31" column="91" />
-        <mark key="." line="31" column="91" />
-        <mark key="^" line="31" column="91" />
+      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" timestamp="1466115512432">
+        <mark key="'" line="110" column="2" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="54" column="86" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1463703319909">
         <mark key="[" line="96" column="31" />
@@ -365,12 +365,12 @@
         <mark key="^" line="42" column="74" />
         <mark key="." line="42" column="68" />
       </file>
-      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" timestamp="1466111867330">
-        <mark key="'" line="22" column="22" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="50" />
+      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" timestamp="1466115434903">
+        <mark key="'" line="21" column="22" />
+        <mark key="[" line="34" column="6" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="12" />
+        <mark key="^" line="34" column="12" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/HeightQuestionView.html" timestamp="1462323656850">
         <mark key="'" line="4" column="6" />
@@ -588,11 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/templateChunksDirective.html" />
-      <jump line="1" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/templateChunksDirective.html" />
-      <jump line="10" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/templateChunksDirective.html" />
-      <jump line="12" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/templateChunksDirective.html" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/services/TemplateImages.js" />
       <jump line="14" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/services/StyleStringBuilder.js" />
       <jump line="13" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/templateChunksDirective.html" />
@@ -688,13 +683,18 @@
       <jump line="16" column="18" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
       <jump line="7" column="4" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="22" column="11" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="24" column="3" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="110" column="2" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiB1c2UgcSBvciBibHVlYmlyZCBtb3JlIHBvd2VyZnVsIGxpYnJhcnkgc28gdGhhdCB3ZSBjYW4gZG8gdGhpcyB2aWEgc3RhbmRhcmQgYC53aGVuYCBhcHByb2FjaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -709,55 +709,55 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaWN0aW9uYXJ5TG9hZGVyXD4=</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIGh0dHAgPSByZXF1aXJlKCdodHRwJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJvY2Vzcy5zdGRvdXQud3JpdGUoJ0xvYWRpbmcgZGljdGlvbmFyeSBbJyArIGRpY3QgKyAnXS4uLiAnKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiB1c2UgcSBvciBibHVlYmlyZCBtb3JlIHBvd2VyZnVsIGxpYnJhcnkgc28gdGhhdCB3ZSBjYW4gZG8gdGhpcyB2aWEgc3RhbmRhcmQgYC53aGVuYCBhcHByb2FjaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>this</text>
       </register>
       <register name="3" type="4">
-        <text>resolve(</text>
+        <text>output</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHsK</text>
+        <text encoding="base64">Z2V0RGljdGlvbmFyeUNvbmZpZygpCiAgLnRoZW4obG9hZERpY3Rpb25hcmllcykKICAudGhlbihpbml0aWFsaXplU2VydmVyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBPCg==</text>
+        <text encoding="base64">Ly8gbG9hZERpY3Rpb25hcmllcyhnZXREaWN0aW9uYXJ5Q29uZmlnKCkpOwoKLy8gaW5pdGlhbGl6ZVNlcnZlcigpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>dict</text>
+        <text>;</text>
       </register>
-      <register name="8" type="4">
-        <text>abspath</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5pdGlhbGl6ZVNlcnZlcigpOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gZGljdENvbmZpZzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaWN0aW9uYXJ5TG9hZGVyXD4=</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaWN0aW9uYXJ5TG9hZGVyXD4=</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -765,7 +765,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
         <entry>.hide</entry>
         <entry>startSlideshow</entry>
         <entry encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</entry>
@@ -785,6 +784,7 @@
         <entry>appN</entry>
         <entry>midd</entry>
         <entry encoding="base64">XDxkaWN0aW9uYXJ5TG9hZGVyXD4=</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
