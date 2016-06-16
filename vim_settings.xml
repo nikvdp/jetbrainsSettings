@@ -512,6 +512,13 @@
         <mark key="^" line="7" column="42" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" timestamp="1466051385151">
+        <mark key="'" line="115" column="9" />
+        <mark key="[" line="133" column="36" />
+        <mark key="]" line="133" column="36" />
+        <mark key="." line="133" column="36" />
+        <mark key="^" line="133" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" timestamp="1459541481450">
         <mark key="'" line="38" column="56" />
         <mark key="[" line="304" column="43" />
@@ -562,7 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/templateChunksDirective.html" />
       <jump line="40" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
       <jump line="35" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
       <jump line="83" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
@@ -662,13 +668,14 @@
       <jump line="36" column="17" filename="$USER_HOME$/Code/work/jiff/web-jiff-ui-common/tests/auth/LoginCtrl.spec.js" />
       <jump line="34" column="17" filename="$USER_HOME$/Code/work/jiff/web-jiff-ui-common/tests/auth/LoginCtrl.spec.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Code/work/jiff/web-jiff-ui-common/tests/auth/LoginCtrl.spec.js" />
+      <jump line="115" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICBiZWZvcmVFYWNoKG1vZHVsZSgnbmdNZXNzYWdlcycpKTsKICBiZWZvcmVFYWNoKG1vZHVsZSgnbmdDb29raWVzJykpOwogIGJlZm9yZUVhY2gobW9kdWxlKCdKRkVudmlyb25tZW50JykpOwogIGJlZm9yZUVhY2gobW9kdWxlKCdKRkNvcmUnKSk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IGd1aWQgZ29pbmcgdG8gYmUgcGFzc2VkIGZyb20gYmFja2VuZAo=</text>
+      <register name="&quot;" type="4">
+        <text>res</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -683,7 +690,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>PersonalDetails</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
         <text>background</text>
@@ -694,35 +701,35 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IGd1aWQgZ29pbmcgdG8gYmUgcGFzc2VkIGZyb20gYmFja2VuZAo=</text>
+      <register name="1" type="4">
+        <text>res</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>PersonalDetails</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHt9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>PersonalDetails</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>PersonalDetails</text>
+        <text>innerKey</text>
       </register>
       <register name="5" type="4">
-        <text>personal-details</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>personal-details</text>
+        <text>haystack</text>
       </register>
       <register name="7" type="4">
-        <text>personal-details</text>
+        <text>;</text>
       </register>
-      <register name="8" type="4">
-        <text>personal-details</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgaW5uZXIgPSAK</text>
       </register>
       <register name="9" type="4">
-        <text>Personal Details</text>
+        <text>inner</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
