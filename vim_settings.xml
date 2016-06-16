@@ -89,6 +89,11 @@
         <mark key="^" line="90" column="44" />
         <mark key="." line="90" column="44" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/DeepFind.js" timestamp="1466051429284">
+        <mark key="'" line="19" column="65" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainLicenseView.html" timestamp="1458760170976">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="21" column="10" />
@@ -271,11 +276,11 @@
       <file name="$USER_HOME$/Code/work/jiff/web-jiff-ui-common/karma.conf.js" timestamp="1465952974214">
         <mark key="'" line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/overallHealth.js" timestamp="1466040323041">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="22" />
-        <mark key="^" line="18" column="22" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/overallHealth.js" timestamp="1466052072041">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/skinifyUrlFilter.js" timestamp="1463712725519">
         <mark key="[" line="6" column="46" />
@@ -407,9 +412,6 @@
       <file name="$USER_HOME$/Code/work/jiff/web-jiff-ui-common/bower_components/angular-cookies/angular-cookies.js" timestamp="1465949663632">
         <mark key="'" line="321" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/AppRouterService.js" timestamp="1465951372068">
-        <mark key="a" line="84" column="6" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/views/product.html" timestamp="1462932197999">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="6" />
@@ -512,12 +514,11 @@
         <mark key="^" line="7" column="42" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" timestamp="1466051385151">
-        <mark key="'" line="115" column="9" />
-        <mark key="[" line="133" column="36" />
-        <mark key="]" line="133" column="36" />
-        <mark key="." line="133" column="36" />
-        <mark key="^" line="133" column="36" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" timestamp="1466052101850">
+        <mark key="'" line="14" column="3" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="5" />
+        <mark key="." line="40" column="5" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/dashboard/views/DashboardMainView.html" timestamp="1459541481450">
         <mark key="'" line="38" column="56" />
@@ -569,18 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
-      <jump line="35" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
-      <jump line="83" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
-      <jump line="12" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/directives/paragraphDirective.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
-      <jump line="0" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
-      <jump line="35" column="8" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
-      <jump line="19" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainSlidesView.html" />
-      <jump line="8" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
-      <jump line="70" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="66" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="40" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="27" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
@@ -669,13 +658,25 @@
       <jump line="34" column="17" filename="$USER_HOME$/Code/work/jiff/web-jiff-ui-common/tests/auth/LoginCtrl.spec.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Code/work/jiff/web-jiff-ui-common/tests/auth/LoginCtrl.spec.js" />
       <jump line="115" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
+      <jump line="19" column="65" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/DeepFind.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
+      <jump line="5" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
+      <jump line="40" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
+      <jump line="23" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
+      <jump line="4" column="2" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
+      <jump line="7" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
+      <jump line="14" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deepFindWhere.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICBiZWZvcmVFYWNoKG1vZHVsZSgnbmdNZXNzYWdlcycpKTsKICBiZWZvcmVFYWNoKG1vZHVsZSgnbmdDb29raWVzJykpOwogIGJlZm9yZUVhY2gobW9kdWxlKCdKRkVudmlyb25tZW50JykpOwogIGJlZm9yZUVhY2gobW9kdWxlKCdKRkNvcmUnKSk7Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBSZWN1cnNpdmVseSBzZWFyY2ggdGhyb3VnaCBhbnkgbmVzdGVkIG9iamVjdCBmb3IgYSBwYXJ0aWN1bGFyIGtleS92YWx1ZSBwYWlyLCBhbmQgdGhlbiByZXR1cm4KICAgKiB0aGF0IG9iamVjdC4KICAgKgogICAqIEUuZy4gZm9yIHRoaXMgSlNPTgogICAqCiAgICogdmFyIGV4YW1wbGUgPSB7CiAgICogICBjYXRzOiB7CiAgICogICAgIGJyb3duOiAyLAogICAqICAgICByZWQ6IDEsCiAgICogICAgIHVnbHk6ICdhbGwnLAogICAqICAgICBwcm9ncmFtczogewogICAqICAgICAgIGd1aWRzOiBbMTIzNCwgMjEzNCwgMTIzNV0KICAgKiAgICAgfQogICAqICAgfSwKICAgKiAgIGRvZ3M6IHsKICAgKiAgICAgY29vbDogdHJ1ZSwKICAgKiAgIH0sCiAgICogICBwcm9ncmFtczogWwogICAqICAgICB7CiAgICogICAgICAgcHJvZ3JhbV9ndWlkOiAnSV9ET05UX1dBTlRfVEhJU19HVUlEJywKICAgKiAgICAgICBzb21lX2RhdGE6IHsKICAgKiAgICAgICAgIG90aGVyX3N0dWZmOiBbCiAgICogICAgICAgICAgIHsKICAgKiAgICAgICAgICAgICBpbXBvcnRhbnQ6ICdzdHVmZicsCiAgICogICAgICAgICAgICAgdGhhdDogJ0knLAogICAqICAgICAgICAgICAgIHdhbnQ6IHRydWUsCiAgICogICAgICAgICAgICAgcHJvZ3JhbV9ndWlkOiAnSV9XQU5UX1RISVNfR1VJRCcKICAgKiAgICAgICAgICAgfQogICAqICAgICAgICAgXQogICAqICAgICAgIH0KICAgKiAgICAgfQogICAqICAgXQogICAqIH07CiAgICoKICAgKiBJZiB5b3UgY2FsbGVkOgogICAqICAgIGRlZXBGaW5kV2hlcmUoZXhhbXBsZSwgJ3Byb2dyYW1fZ3VpZCcsICdJX1dBTlRfVEhJU19HVUlEJykKICAgKgogICAqIFlvdSdkIGdldCB0aGlzIEpTT04gYmFjazoKICAgKiAgICB7CiAgICAgKiAgICAgIGltcG9ydGFudDogJ3N0dWZmJywKICAgICAqICAgICAgdGhhdDogJ0knLAogICAgICogICAgICB3YW50OiB0cnVlLAogICAgICogICAgICBwcm9ncmFtX2d1aWQ6ICdJX1dBTlRfVEhJU19HVUlEJwogICAgICogICAgfQogICAqCiAgICogQHBhcmFtIGhheXN0YWNrCiAgICogQHBhcmFtIGtleQogICAqIEBwYXJhbSB2YWwKICAgKiBAcmV0dXJucyB7Kn0KICAgKi8K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>res</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -690,46 +691,46 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>DeepFind</text>
       </register>
       <register name="/" type="4">
         <text>background</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZUVhY2gobW9kdWxlKGZ1bmN0aW9uICgkcHJvdmlkZSkgewogICAgICAkcHJvdmlkZS52YWx1ZSgnSmlmZicsIHtJZGVudGl0eToge3VzZXI6IHthcHBTa2luOiB1bmRlZmluZWR9fX0pOwogICAgfSkpOwo=</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgICB7CiAgICAgKiAgICAgICAgICAgICBpbXBvcnRhbnQ6ICdzdHVmZicsCiAgICAgKiAgICAgICAgICAgICB0aGF0OiAnSScsCiAgICAgKiAgICAgICAgICAgICB3YW50OiB0cnVlLAogICAgICogICAgICAgICAgICAgcHJvZ3JhbV9ndWlkOiAnSV9XQU5UX1RISVNfR1VJRCcKICAgICAqICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>res</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBSZWN1cnNpdmVseSBzZWFyY2ggdGhyb3VnaCBhbnkgbmVzdGVkIG9iamVjdCBmb3IgYSBwYXJ0aWN1bGFyIGtleS92YWx1ZSBwYWlyLCBhbmQgdGhlbiByZXR1cm4KICAgKiB0aGF0IG9iamVjdC4KICAgKgogICAqIEUuZy4gZm9yIHRoaXMgSlNPTgogICAqCiAgICogdmFyIGV4YW1wbGUgPSB7CiAgICogICBjYXRzOiB7CiAgICogICAgIGJyb3duOiAyLAogICAqICAgICByZWQ6IDEsCiAgICogICAgIHVnbHk6ICdhbGwnLAogICAqICAgICBwcm9ncmFtczogewogICAqICAgICAgIGd1aWRzOiBbMTIzNCwgMjEzNCwgMTIzNV0KICAgKiAgICAgfQogICAqICAgfSwKICAgKiAgIGRvZ3M6IHsKICAgKiAgICAgY29vbDogdHJ1ZSwKICAgKiAgIH0sCiAgICogICBwcm9ncmFtczogWwogICAqICAgICB7CiAgICogICAgICAgcHJvZ3JhbV9ndWlkOiAnSV9ET05UX1dBTlRfVEhJU19HVUlEJywKICAgKiAgICAgICBzb21lX2RhdGE6IHsKICAgKiAgICAgICAgIG90aGVyX3N0dWZmOiBbCiAgICogICAgICAgICAgIHsKICAgKiAgICAgICAgICAgICBpbXBvcnRhbnQ6ICdzdHVmZicsCiAgICogICAgICAgICAgICAgdGhhdDogJ0knLAogICAqICAgICAgICAgICAgIHdhbnQ6IHRydWUsCiAgICogICAgICAgICAgICAgcHJvZ3JhbV9ndWlkOiAnSV9XQU5UX1RISVNfR1VJRCcKICAgKiAgICAgICAgICAgfQogICAqICAgICAgICAgXQogICAqICAgICAgIH0KICAgKiAgICAgfQogICAqICAgXQogICAqIH07CiAgICoKICAgKiBJZiB5b3UgY2FsbGVkOgogICAqICAgIGRlZXBGaW5kV2hlcmUoZXhhbXBsZSwgJ3Byb2dyYW1fZ3VpZCcsICdJX1dBTlRfVEhJU19HVUlEJykKICAgKgogICAqIFlvdSdkIGdldCB0aGlzIEpTT04gYmFjazoKICAgKiAgICB7CiAgICAgKiAgICAgIGltcG9ydGFudDogJ3N0dWZmJywKICAgICAqICAgICAgdGhhdDogJ0knLAogICAgICogICAgICB3YW50OiB0cnVlLAogICAgICogICAgICBwcm9ncmFtX2d1aWQ6ICdJX1dBTlRfVEhJU19HVUlEJwogICAgICogICAgfQogICAqCiAgICogQHBhcmFtIGhheXN0YWNrCiAgICogQHBhcmFtIGtleQogICAqIEBwYXJhbSB2YWwKICAgKiBAcmV0dXJucyB7Kn0KICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBuZWVkbGUgPSAK</text>
       </register>
-      <register name="4" type="4">
-        <text>innerKey</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="6" type="4">
-        <text>haystack</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmVjdXJzaXZlbHkgc2VhcmNoIHRocm91Z2ggYW55IG5lc3RlZCBvYmplY3QgZm9yIGEgcGFydGljdWxhciBrZXkvdmFsdWUgcGFpciwgYW5kIHRoZW4gcmV0dXJuIAogICAgICogdGhhdCBvYmplY3QuIAogICAgICogCiAgICAgKiBFLmcuIGZvciB0aGlzIEpTT04KICAgICAqIAogICAgICogdmFyIGV4YW1wbGUgPSB7CiAgICAgKiAgIGNhdHM6IHsKICAgICAqICAgICBicm93bjogMiwKICAgICAqICAgICByZWQ6IDEsCiAgICAgKiAgICAgdWdseTogJ2FsbCcsCiAgICAgKiAgICAgcHJvZ3JhbXM6IHsKICAgICAqICAgICAgIGd1aWRzOiBbMTIzNCwgMjEzNCwgMTIzNV0KICAgICAqICAgICB9CiAgICAgKiAgIH0sCiAgICAgKiAgIGRvZ3M6IHsKICAgICAqICAgICBjb29sOiB0cnVlLAogICAgICogICB9LAogICAgICogICBwcm9ncmFtczogWwogICAgICogICAgIHsKICAgICAqICAgICAgIHByb2dyYW1fZ3VpZDogJ0lfRE9OVF9XQU5UX1RISVNfR1VJRCcsCiAgICAgKiAgICAgICBzb21lX2RhdGE6IHsKICAgICAqICAgICAgICAgb3RoZXJfc3R1ZmY6IFsKICAgICAqICAgICAgICAgICB7CiAgICAgKiAgICAgICAgICAgICBpbXBvcnRhbnQ6ICdzdHVmZicsCiAgICAgKiAgICAgICAgICAgICB0aGF0OiAnSScsCiAgICAgKiAgICAgICAgICAgICB3YW50OiB0cnVlLAogICAgICogICAgICAgICAgICAgcHJvZ3JhbV9ndWlkOiAnSV9XQU5UX1RISVNfR1VJRCcKICAgICAqICAgICAgICAgICB9CiAgICAgKiAgICAgICAgIF0KICAgICAqICAgICAgIH0KICAgICAqICAgICB9CiAgICAgKiAgIF0KICAgICAqIH07IAogICAgICogCiAgICAgKiBJZiB5b3UgY2FsbGVkOiAKICAgICAqICAgIGRlZXBGaW5kV2hlcmUoZXhhbXBsZSwgJ3Byb2dyYW1fZ3VpZCcsICdJX1dBTlRfVEhJU19HVUlEJykKICAgICAqICAgIAogICAgICogWW91J2QgZ2V0IHRoaXMgSlNPTiBiYWNrOgogICAgICogICAgewogICAgICogICAgICBpbXBvcnRhbnQ6ICdzdHVmZicsCiAgICAgKiAgICAgIHRoYXQ6ICdJJywKICAgICAqICAgICAgd2FudDogdHJ1ZSwKICAgICAqICAgICAgcHJvZ3JhbV9ndWlkOiAnSV9XQU5UX1RISVNfR1VJRCcKICAgICAqICAgIH0KICAgICAqIAogICAgICogQHBhcmFtIGhheXN0YWNrCiAgICAgKiBAcGFyYW0ga2V5CiAgICAgKiBAcGFyYW0gdmFsCiAgICAgKiBAcmV0dXJucyB7Kn0KICAgICAqLwogICAgCg==</text>
       </register>
       <register name="7" type="4">
-        <text>;</text>
+        <text>DeepFind</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaW5uZXIgPSAK</text>
+        <text encoding="base64">ICAgdmFyIDsK</text>
       </register>
-      <register name="9" type="4">
-        <text>inner</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
