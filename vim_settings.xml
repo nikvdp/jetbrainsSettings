@@ -363,12 +363,12 @@
         <mark key="^" line="42" column="74" />
         <mark key="." line="42" column="68" />
       </file>
-      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" timestamp="1466086541995">
-        <mark key="'" line="14" column="33" />
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="39" />
-        <mark key="." line="9" column="39" />
-        <mark key="^" line="9" column="39" />
+      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" timestamp="1466094857354">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="147" column="39" />
+        <mark key="]" line="147" column="45" />
+        <mark key="." line="147" column="45" />
+        <mark key="^" line="147" column="45" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/HeightQuestionView.html" timestamp="1462323656850">
         <mark key="'" line="4" column="6" />
@@ -495,6 +495,12 @@
         <mark key="^" line="33" column="51" />
         <mark key="." line="33" column="36" />
       </file>
+      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/src/dedict.c" timestamp="1466087135236">
+        <mark key="[" line="85" column="22" />
+        <mark key="]" line="85" column="22" />
+        <mark key="." line="85" column="22" />
+        <mark key="^" line="85" column="18" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/cssUtil.js" timestamp="1459381477146">
         <mark key="'" line="131" column="11" />
         <mark key="[" line="42" column="27" />
@@ -573,9 +579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="14" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/tests/something.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
-      <jump line="5" column="45" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
       <jump line="66" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.conf.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
@@ -670,16 +673,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
       <jump line="9" column="31" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
       <jump line="112" column="26" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
-      <jump line="6" column="9" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
       <jump line="111" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
       <jump line="14" column="33" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
+      <jump line="13" column="24" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
+      <jump line="142" column="10" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/usr</text>
+        <text>text</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -694,55 +700,55 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/usr</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>language</text>
+        <text>bin</text>
       </register>
-      <register name="0" type="4">
-        <text>convertDictFromXml</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB2YXIgcmVzdWx0cyA9IFtdOwogICRlbnRyeSgnLmh3JykuZWFjaChmdW5jdGlvbihlbikgewo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>/usr</text>
+        <text>text</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>-lh</text>
-      </register>
-      <register name="3" type="4">
-        <text>ls</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBzeW5Hcm91cCA9IHt9Owo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IC5zeW4=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>hw</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>convertDict</text>
-      </register>
-      <register name="8" type="4">
-        <text>]</text>
-      </register>
       <register name="9" type="4">
-        <text>dict</text>
+        <text>'/Library/Dictionaries/Oxford\ Thesaurus\ of\ English.dictionary'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>modify</last-search>
+      <last-search>bin</last-search>
       <last-offset />
-      <last-pattern>language</last-pattern>
+      <last-pattern>bin</last-pattern>
       <last-replace>personal-details</last-replace>
       <last-substitute>language</last-substitute>
       <last-dir>1</last-dir>
@@ -750,7 +756,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ral</entry>
         <entry>tml-angular</entry>
         <entry>tml</entry>
         <entry>&quot;</entry>
@@ -770,6 +775,7 @@
         <entry>modify</entry>
         <entry>Settings</entry>
         <entry>language</entry>
+        <entry>bin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Rldi9wcm9k</entry>
