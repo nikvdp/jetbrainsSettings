@@ -98,12 +98,9 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="8" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" timestamp="1466115512432">
-        <mark key="'" line="110" column="2" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="54" column="86" />
+      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" timestamp="1466130131935">
+        <mark key="'" line="116" column="1" />
+        <mark key="[" line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1463703319909">
         <mark key="[" line="96" column="31" />
@@ -588,9 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/services/TemplateImages.js" />
-      <jump line="14" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/services/StyleStringBuilder.js" />
-      <jump line="13" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/directives/templateChunksDirective.html" />
       <jump line="40" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
       <jump line="35" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
       <jump line="83" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
@@ -686,15 +680,18 @@
       <jump line="22" column="11" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
       <jump line="96" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
       <jump line="15" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
-      <jump line="24" column="3" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
       <jump line="110" column="2" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="68" column="29" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="24" column="16" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="105" column="1" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>word</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -709,46 +706,46 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>word</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>dictionaries</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJvY2Vzcy5zdGRvdXQud3JpdGUoJ0xvYWRpbmcgZGljdGlvbmFyeSBbJyArIGRpY3QgKyAnXS4uLiAnKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">KHJlcSwgcmVzLCBuZXh0KSA9PiB7CiAgICByZXMuanNvbihPYmplY3Qua2V5cyhkaWN0aW9uYXJ5Q29uZmlnKSk7CiAgICBuZXh0KCk7CiAgfSk=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>word</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>this</text>
+        <text>)</text>
       </register>
-      <register name="3" type="4">
-        <text>output</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLm1hcCgodGhlcykgewo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Z2V0RGljdGlvbmFyeUNvbmZpZygpCiAgLnRoZW4obG9hZERpY3Rpb25hcmllcykKICAudGhlbihpbml0aWFsaXplU2VydmVyKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gbG9hZERpY3Rpb25hcmllcyhnZXREaWN0aW9uYXJ5Q29uZmlnKCkpOwoKLy8gaW5pdGlhbGl6ZVNlcnZlcigpOwo=</text>
-      </register>
-      <register name="7" type="4">
+      <register name="5" type="4">
         <text>;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gZGljdENvbmZpZzsK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLm1hcCgpCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>dicts</text>
+      </register>
+      <register name="9" type="4">
+        <text>Object.keys(dictionaryConfig)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -757,15 +754,14 @@
     <search>
       <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
-      <last-replace />
-      <last-substitute>\\</last-substitute>
+      <last-pattern>dictionaries</last-pattern>
+      <last-replace>thesauri</last-replace>
+      <last-substitute>dictionaries</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.hide</entry>
         <entry>startSlideshow</entry>
         <entry encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</entry>
         <entry>ng-repeat</entry>
@@ -785,9 +781,9 @@
         <entry>midd</entry>
         <entry encoding="base64">XDxkaWN0aW9uYXJ5TG9hZGVyXD4=</entry>
         <entry>console.log</entry>
+        <entry>dictionaries</entry>
       </history-search>
       <history-cmd>
-        <entry>w!</entry>
         <entry>s/endDate/startDate/g</entry>
         <entry encoding="base64">JzwsJz5zLyQvOy9n</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -806,6 +802,7 @@
         <entry>e1!</entry>
         <entry>e!</entry>
         <entry>s/\\//g</entry>
+        <entry encoding="base64">JzwsJz5zL2RpY3Rpb25hcmllcy90aGVzYXVyaS9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
