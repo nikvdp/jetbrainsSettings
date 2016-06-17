@@ -98,9 +98,11 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="8" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" timestamp="1466130131935">
-        <mark key="'" line="116" column="1" />
-        <mark key="[" line="102" column="0" />
+      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" timestamp="1466131928677">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1463703319909">
         <mark key="[" line="96" column="31" />
@@ -362,12 +364,12 @@
         <mark key="^" line="42" column="74" />
         <mark key="." line="42" column="68" />
       </file>
-      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" timestamp="1466115434903">
-        <mark key="'" line="21" column="22" />
-        <mark key="[" line="34" column="6" />
-        <mark key="]" line="34" column="12" />
-        <mark key="." line="34" column="12" />
-        <mark key="^" line="34" column="12" />
+      <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" timestamp="1466132639747">
+        <mark key="'" line="19" column="22" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="15" column="1" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/HeightQuestionView.html" timestamp="1462323656850">
         <mark key="'" line="4" column="6" />
@@ -585,7 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
       <jump line="35" column="9" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
       <jump line="83" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
       <jump line="36" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/controllers/MainSlidesCtrl.js" />
@@ -685,13 +686,14 @@
       <jump line="4" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
       <jump line="24" column="16" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
       <jump line="105" column="1" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>word</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gY29udmVydERpY3RGcm9tWG1sKCcuL2RpY3QueG1sJyk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -706,46 +708,46 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>word</text>
+        <text>dictData</text>
       </register>
       <register name="/" type="4">
         <text>dictionaries</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KHJlcSwgcmVzLCBuZXh0KSA9PiB7CiAgICByZXMuanNvbihPYmplY3Qua2V5cyhkaWN0aW9uYXJ5Q29uZmlnKSk7CiAgICBuZXh0KCk7CiAgfSk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhciBkaWN0RGF0YSA9IGRpY3Rpb25hcnlDb25maWdbZGljdF0uZGF0YTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>word</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gY29udmVydERpY3RGcm9tWG1sKCcuL2RpY3QueG1sJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Ly8gY29udmVydERpY3RGcm9tWG1sKCcuL2RpY3QueG1sJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCgodGhlcykgewo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY2FsbGVkIGRpcmVjdGx5Jyk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhciBkaWN0RGF0YSA9IGRpY3Rpb25hcnlDb25maWdbZGljdF0uZGF0YTsKICAgIHJlcy5qc29uKGRpY3REYXRhW3dvcmRdKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCgpCg==</text>
+      <register name="7" type="4">
+        <text>dictData</text>
       </register>
       <register name="8" type="4">
-        <text>dicts</text>
+        <text>dictionaries</text>
       </register>
-      <register name="9" type="4">
-        <text>Object.keys(dictionaryConfig)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICByb3V0ZXIuZ2V0KCcvdGhlc2F1cmknLCAocmVxLCByZXMsIG5leHQpID0+IHsKICAgIHZhciB0aGVzYXVyaSA9IE9iamVjdC5rZXlzKGRpY3Rpb25hcnlDb25maWcpCiAgICAgIC5maWx0ZXIoKGRpY3QpID0+IHsKICAgICAgICByZXR1cm4gZGljdGlvbmFyeUNvbmZpZ1tkaWN0XS50aGVzYXVydXM7CiAgICAgIH0pOwoKICAgIHJlcy5qc29uKHRoZXNhdXJpKTsKICAgIG5leHQoKTsKICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
