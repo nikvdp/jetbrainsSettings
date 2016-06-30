@@ -28,11 +28,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" timestamp="1467309013241">
-        <mark key="[" line="37" column="72" />
-        <mark key="]" line="38" column="13" />
-        <mark key="." line="38" column="13" />
-        <mark key="^" line="38" column="13" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" timestamp="1467310026185">
+        <mark key="'" line="34" column="17" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deData.js" timestamp="1459369516827">
         <mark key="[" line="18" column="60" />
@@ -580,8 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
-      <jump line="70" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="66" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="40" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="27" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
@@ -680,13 +678,15 @@
       <jump line="90" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
       <jump line="83" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
       <jump line="13" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
+      <jump line="34" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
+      <jump line="116" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>do naything</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -701,7 +701,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>do naything</text>
+        <text>previousAnswers</text>
       </register>
       <register name="/" type="4">
         <text>dictionaries</text>
@@ -712,35 +712,38 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>do naything</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      <register name="3" type="4">
+        <text>previousAnswers</text>
       </register>
       <register name="4" type="4">
-        <text>, []</text>
+        <text>answers
+                .filter(function(answer){
+                  return SafeGet(question, 'user_responses.answers', []).indexOf(answer.internal_id) !== -1;
+                });</text>
       </register>
-      <register name="5" type="4">
-        <text>question.u</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIGlmIHVzZXIgaGFzbid0IGFuc3dlcmVkIHRoaXMgcXVlc3Rpb24gYmVmb3JlIHVzZXJfcmVzcG9uc2VzLmFuc3dlcnMgd2lsbAogICAgICAgICAgLy8ganVzdCBiZSBudWxsLCBzbyBkb24ndCB0cnkgdG8gY29udmVydCBhbnl0aGluZwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>submission</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChTYWZlR2V0KHF1ZXN0aW9uLCAndXNlcl9yZXNwb25zZXMuYW5zd2VycycpKSB7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">dGhlIA==</text>
+        <text>do naything</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZG8g</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
