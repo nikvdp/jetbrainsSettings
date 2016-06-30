@@ -46,12 +46,12 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1467306528240">
-        <mark key="'" line="88" column="9" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="28" />
-        <mark key="^" line="29" column="28" />
-        <mark key="." line="29" column="28" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" timestamp="1467307548767">
+        <mark key="'" line="83" column="6" />
+        <mark key="[" line="106" column="9" />
+        <mark key="]" line="106" column="17" />
+        <mark key="^" line="106" column="17" />
+        <mark key="." line="106" column="17" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/tests/StyleStringBuilder.spec.js" timestamp="1464421645775">
         <mark key="[" line="11" column="6" />
@@ -236,8 +236,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1467305718248">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" timestamp="1467307355692">
         <mark key="'" line="87" column="4" />
+        <mark key="[" line="81" column="30" />
+        <mark key="]" line="81" column="70" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/inject.js" timestamp="1463695284645">
         <mark key="[" line="31" column="1" />
@@ -541,10 +543,10 @@
         <mark key="." line="116" column="30" />
         <mark key="^" line="116" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" timestamp="1462818336251">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/question.js" timestamp="1467307259223">
         <mark key="'" line="11" column="4" />
-        <mark key="[" line="48" column="49" />
-        <mark key="]" line="48" column="74" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="41" column="11" />
         <mark key="." line="48" column="74" />
         <mark key="^" line="48" column="74" />
       </file>
@@ -578,8 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/views/MainSlidesView.html" />
-      <jump line="8" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="41" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="70" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
       <jump line="66" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
@@ -678,13 +678,15 @@
       <jump line="38" column="9" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
       <jump line="204" column="1" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
       <jump line="90" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/views/OnboardingQuestionPageView.html" />
+      <jump line="83" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
+      <jump line="13" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YW5pbWF0aW9uIA==</text>
+        <text>submission</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -699,46 +701,46 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5pbWF0aW9uIA==</text>
+        <text>submission</text>
       </register>
       <register name="/" type="4">
         <text>dictionaries</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBuZy1pZj0iIU9uYm9hcmRpbmcuY3VycmVudFN0ZXAuc3BlY2lhbF9vbmJvYXJkaW5nX2tleSAmJiAhcmFuayI+CiAgICAgICAgPGRpdiBuZy1yZXBlYXQ9InF1ZXN0aW9uIGluIE9uYm9hcmRpbmcuY3VycmVudFN0ZXAucXVlc3Rpb25zIj4KICAgICAgICAgIDxxdWVzdGlvbgogICAgICAgICAgICBxdWVzdGlvbi1kYXRhPSJxdWVzdGlvbiIKICAgICAgICAgICAgcXVlc3Rpb25uYWlyZS1ndWlkPSJPbmJvYXJkaW5nLmN1cnJlbnRTdGVwLnF1ZXN0aW9ubmFpcmVfZ3VpZCIKICAgICAgICAgICAgcXVlc3Rpb25uYWlyZS10ZW1wbGF0ZT0iT25ib2FyZGluZy5jdXJyZW50U3RlcC5xdWVzdGlvbm5haXJlX2ludGVybmFsX2lkIgogICAgICAgICAgICBvbi1hbnN3ZXI9Ik9uYm9hcmRpbmcuY29sbGVjdEFuc3dlcnMiPgoKICAgICAgICAgIDwvcXVlc3Rpb24+CiAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="0" type="4">
+        <text>OnboardingQuestionPageCtrl</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">YW5pbWF0aW9uIA==</text>
+        <text>submission</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGltZW91dChmdW5jdGlvbigpewogICAgICAgICAgT25ib2FyZGluZ1F1ZXN0aW9uUGFnZUN0cmwuc3BlY2lhbCA9IHRydWU7CiAgICAgICAgfSwgNTAwKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">dGhlIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaG9ydGN1dC5hbnN3ZXJzID0gcXVlc3Rpb25uYWlyZS5xdWVzdGlvbi5hbnN3ZXJzOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZG8g</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+      <register name="4" type="4">
+        <text>s</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">dGhlbiA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRXh0ZXJuYWxRdWVzdGlvblNlcnZpY2UuZm9ybWF0UmFua0ludGVyZXN0KCkudGhlbihmdW5jdGlvbihxdWVzdGlvbm5haXJlKXsKICAgICAgICBzaG9ydGN1dC5hbnN3ZXJzID0gcXVlc3Rpb25uYWlyZS5xdWVzdGlvbi5hbnN3ZXJzOwogICAgICAgICR0aW1lb3V0KGZ1bmN0aW9uKCl7CiAgICAgICAgICBPbmJvYXJkaW5nUXVlc3Rpb25QYWdlQ3RybC5zcGVjaWFsID0gdHJ1ZTsKICAgICAgICB9LCA1MDApOwogICAgICB9KTsK</text>
+      <register name="6" type="4">
+        <text>at it</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBzaG9ydGN1dCA9IE9uYm9hcmRpbmdRdWVzdGlvblBhZ2VDdHJsLmN1cnJlbnRTdGVwLnF1ZXN0aW9uc1swXTsKICAgIGlmICggc2hvcnRjdXQucXVlc3Rpb25faW50ZXJuYWxfaWQgPT09ICdyYW5rX2ludGVyZXN0cycgKXsKICAgICAgT25ib2FyZGluZ1F1ZXN0aW9uUGFnZUN0cmwuc3BlY2lhbCA9IGZhbHNlOwogICAgICBjb25zb2xlLmxvZygnb21mZycpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">YW5kIA==</text>
       </register>
-      <register name="8" type="4">
-        <text>createRankI</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLy8gcHJlcCB0aGUgZGF0YSBpbnRvIGZvcm1hdCByZXF1aXJlZCBieSByb3oK</text>
       </register>
       <register name="9" type="4">
-        <text>special = true;</text>
+        <text encoding="base64">YWxzbyA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
