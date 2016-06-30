@@ -28,11 +28,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" timestamp="1467305791374">
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="41" column="13" />
-        <mark key="^" line="41" column="13" />
-        <mark key="." line="41" column="13" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" timestamp="1467309013241">
+        <mark key="[" line="37" column="72" />
+        <mark key="]" line="38" column="13" />
+        <mark key="." line="38" column="13" />
+        <mark key="^" line="38" column="13" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/deData.js" timestamp="1459369516827">
         <mark key="[" line="18" column="60" />
@@ -686,7 +686,7 @@
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>submission</text>
+        <text>do naything</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -701,46 +701,46 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>submission</text>
+        <text>do naything</text>
       </register>
       <register name="/" type="4">
         <text>dictionaries</text>
       </register>
       <register name="0" type="4">
-        <text>OnboardingQuestionPageCtrl</text>
+        <text>SafeGet(question, 'user_responses.answers', [])</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>submission</text>
+        <text>do naything</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dGhlIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZG8g</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>, []</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">dGhlbiA=</text>
+        <text>question.u</text>
       </register>
       <register name="6" type="4">
-        <text>at it</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>submission</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gcHJlcCB0aGUgZGF0YSBpbnRvIGZvcm1hdCByZXF1aXJlZCBieSByb3oK</text>
+      <register name="8" type="4">
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">YWxzbyA=</text>
+        <text encoding="base64">ZG8g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
