@@ -166,6 +166,9 @@
         <mark key="^" line="34" column="33" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/automation/features/support/client_helpers.rb" timestamp="1468015613570">
+        <mark key="'" line="83" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/tests/cacheify.spec.js" timestamp="1465526949242">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="44" column="11" />
@@ -322,6 +325,12 @@
         <mark key="." line="82" column="25" />
         <mark key="^" line="82" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/guild/organization_steps.rb" timestamp="1468015358680">
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="67" />
+        <mark key="^" line="54" column="67" />
+        <mark key="." line="54" column="67" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/HeightQuestion.js" timestamp="1462322535975">
         <mark key="'" line="36" column="18" />
         <mark key="[" line="92" column="31" />
@@ -367,6 +376,12 @@
         <mark key="]" line="42" column="68" />
         <mark key="^" line="42" column="74" />
         <mark key="." line="42" column="68" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" timestamp="1468015583796">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" timestamp="1466134536229">
         <mark key="'" line="202" column="1" />
@@ -539,6 +554,12 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/automation/features/integrations/QA/nav_seeding.feature" timestamp="1468015244297">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/profile/controllers/profile.js" timestamp="1460429599396">
         <mark key="'" line="116" column="24" />
         <mark key="[" line="115" column="28" />
@@ -583,15 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="3" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/styles/slides.less" />
-      <jump line="27" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
-      <jump line="42" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
-      <jump line="20" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
-      <jump line="37" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_helpers/TranslationHelper.js" />
-      <jump line="15" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
-      <jump line="41" column="7" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/register.js" />
-      <jump line="8" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" />
       <jump line="40" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
       <jump line="15" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
       <jump line="38" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
@@ -683,13 +695,22 @@
       <jump line="34" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="116" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
       <jump line="35" column="0" filename="$USER_HOME$/Code/work/jiff/jiff_admin/lib/tasks/onboarding_with_questions.rake" />
+      <jump line="22" column="7" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" />
+      <jump line="85" column="0" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" />
+      <jump line="12" column="4" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" />
+      <jump line="86" column="0" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" />
+      <jump line="33" column="34" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" />
+      <jump line="25" column="52" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" />
+      <jump line="88" column="36" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" />
+      <jump line="83" column="21" filename="$USER_HOME$/Code/work/jiff/automation/features/support/client_helpers.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGluaXQ6IGluaXQsCiAgICAgIGdldExvY2FsZTogZ2V0TG9jYWxlLAogICAgICBkb1dlU3VwcG9ydFRoYXQ6IGRvV2VTdXBwb3J0VGhhdAogICAgfTsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICByZXF1aXJlICdqc29uJwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -704,58 +725,58 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>previousAnswers</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>dictionaries</text>
+        <text>organization</text>
       </register>
       <register name="0" type="4">
-        <text>SafeGet(question, 'user_responses.answers', [])</text>
+        <text>interest_catalog_guid</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICByZXF1aXJlICdqc29uJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwdXRzICJpbnRlcmVzdHNfY2F0YWxvZ19ndWlkOiAje0BkaXJlY3Rvcls6aW50ZXJlc3RfY2F0YWxvZ19ndWlkXX0iCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBAZGlyZWMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>previousAnswers</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>answers
                 .filter(function(answer){
                   return SafeGet(question, 'user_responses.answers', []).indexOf(answer.internal_id) !== -1;
                 });</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGlmIHVzZXIgaGFzbid0IGFuc3dlcmVkIHRoaXMgcXVlc3Rpb24gYmVmb3JlIHVzZXJfcmVzcG9uc2VzLmFuc3dlcnMgd2lsbAogICAgICAgICAgLy8ganVzdCBiZSBudWxsLCBzbyBkb24ndCB0cnkgdG8gY29udmVydCBhbnl0aGluZwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChTYWZlR2V0KHF1ZXN0aW9uLCAndXNlcl9yZXNwb25zZXMuYW5zd2VycycpKSB7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>do naything</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGlmIHVzZXIgaGFzbid0IGFuc3dlcmVkIHRoaXMgcXVlc3Rpb24gYmVmb3JlIHVzZXJfcmVzcG9uc2VzLmFuc3dlcnMgd2lsbAogICAgICAgICAgLy8ganVzdCBiZSBudWxsLCBzbyBkb24ndCB0cnkgdG8gY29udmVydCBhbnl0aGluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>organization</last-search>
       <last-offset />
-      <last-pattern>dictionaries</last-pattern>
+      <last-pattern>organization</last-pattern>
       <last-replace>thesauri</last-replace>
       <last-substitute>dictionaries</last-substitute>
       <last-dir>1</last-dir>
@@ -763,7 +784,6 @@
     </search>
     <history>
       <history-search>
-        <entry>startSlideshow</entry>
         <entry encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</entry>
         <entry>ng-repeat</entry>
         <entry>photo</entry>
@@ -783,6 +803,7 @@
         <entry encoding="base64">XDxkaWN0aW9uYXJ5TG9hZGVyXD4=</entry>
         <entry>console.log</entry>
         <entry>dictionaries</entry>
+        <entry>organization</entry>
       </history-search>
       <history-cmd>
         <entry>s/endDate/startDate/g</entry>
