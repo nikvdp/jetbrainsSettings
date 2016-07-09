@@ -325,11 +325,10 @@
         <mark key="." line="82" column="25" />
         <mark key="^" line="82" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/guild/organization_steps.rb" timestamp="1468020835317">
-        <mark key="[" line="55" column="47" />
-        <mark key="]" line="55" column="47" />
-        <mark key="^" line="55" column="47" />
-        <mark key="." line="55" column="47" />
+      <file name="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/guild/organization_steps.rb" timestamp="1468022082489">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/HeightQuestion.js" timestamp="1462322535975">
         <mark key="'" line="36" column="18" />
@@ -377,10 +376,11 @@
         <mark key="^" line="42" column="74" />
         <mark key="." line="42" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" timestamp="1468019763630">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" timestamp="1468021706945">
+        <mark key="[" line="95" column="111" />
+        <mark key="]" line="95" column="148" />
+        <mark key="." line="95" column="111" />
+        <mark key="^" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" timestamp="1466134536229">
         <mark key="'" line="202" column="1" />
@@ -553,11 +553,11 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/automation/features/integrations/QA/nav_seeding.feature" timestamp="1468020735410">
+      <file name="$USER_HOME$/Code/work/jiff/automation/features/integrations/QA/nav_seeding.feature" timestamp="1468022069504">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/profile/controllers/profile.js" timestamp="1460429599396">
         <mark key="'" line="116" column="24" />
@@ -603,8 +603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
-      <jump line="14" column="33" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/_APIs/ResponseServiceApi.js" />
       <jump line="102" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" />
       <jump line="103" column="34" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" />
       <jump line="18" column="40" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" />
@@ -703,13 +701,15 @@
       <jump line="86" column="0" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" />
       <jump line="16" column="4" filename="$USER_HOME$/Code/work/jiff/automation/features/integrations/QA/nav_seeding.feature" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/work/jiff/automation/features/integrations/QA/nav_seeding.feature" />
+      <jump line="61" column="148" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/guild/organization_steps.rb" />
+      <jump line="51" column="7" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/guild/organization_steps.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">VGhlbiAvc2hvdyBkaXJlY3RvciBndWlkLyBkbwogIHJlcXVpcmUgJ2pzb24nCiAgcHV0cyAiZGlyZWN0b3JfZ3VpZD0je0BkaXJlY3Rvcls6Z3VpZF19IgogIHB1dHMgImRpcmVjdG9yPSN7QGRpcmVjdG9yLnRvX2pzb259IgogIHB1dHMgImludGVyZXN0X2NhdGFsb2dfZ3VpZD0je0Bvcmdhbml6YXRpb24uaW50ZXJlc3RfY2F0YWxvZ19ndWlkfSIKZW5kCgoK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -724,46 +724,46 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>@organization.interest_catalog_guid</text>
       </register>
       <register name="/" type="4">
         <text>organization</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;\n&quot; +</text>
+        <text>organization info should be printed out</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHRlc3RpbmcgbmlrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R2l2ZW4gL29yZ2FuaXphdGlvbiBpbmZvIHNob3VsZCBiZSBwcmludGVkIG91dC8gZG8KICBwdXRzICJPcmdhbml6YXRpb24gaXMgOiAiCiAgcHV0cyBAb3JnYW5pemF0aW9uCiAgcHV0cyAiaW50ZXJlc3RfY2F0YWxvZ19ndWlkPSN7QG9yZ2FuaXphdGlvbls6aW50ZXJlc3RfY2F0YWxvZ19ndWlkXX0iCmVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">R2l2ZW4gL3Rlc3RpbmcgbmlrLyBkbwogIHB1dHMgIlBhdGggaXM6IFsje0Rpci5wd2R9XSIKZW5kCg==</text>
+        <text encoding="base64">ICAgIEdpdmVuIG9yZ2FuaXphdGlvbiBpbmZvIHNob3VsZCBiZSBwcmludGVkIG91dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ2pzb24nCg==</text>
+        <text encoding="base64">IyAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZmlsZS53cml0ZSgpCg==</text>
+        <text encoding="base64">ICAgIEdpdmVuIG9yZ2FuaXphdGlvbiBpbmZvIHNob3VsZCBiZSBwcmludGVkIG91dAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R2l2ZW4gL05hdmlnYXRvciBzZWVkaW5nIFwucHJvcGVydGllcyBmaWxlIHNob3VsZCBiZSB3cml0dGVuLyBkbwogICAgIyBwdXRzICJkaXJlY3Rvcj0je0BkaXJlY3Rvci50b19qc29ufSIKICAgIHByb3BzX2ZpbGUgPSBGaWxlLmpvaW4oRGlyLnB3ZCwgJ3NlZWRpbmcucHJvcGVydGllcycpCiAgICBwcm9wc19maWxlX2RhdGEgPSAiRElSRUNUT1JfR1VJRD0je0BkaXJlY3Rvcls6Z3VpZF19IiArICJcbiIgKwogICAgICAgICJJTlRFUkVTVF9DQVRBTE9HX0dVSUQ9I3tAb3JnYW5pemF0aW9uLmludGVyZXN0X2NhdGFsb2dfZ3VpZH0iICsgIlxuIgoKICAgIEZpbGUub3Blbihwcm9wc19maWxlLCAndycpIHsgfGZpbGV8CiAgICAgIGZpbGUud3JpdGUocHJvcHNfZmlsZV9kYXRhKQogICAgfQoKICAgIHB1dHMgIlByb3BzIGZpbGUgI3twcm9wc19maWxlfSB3cml0dGVuIHdpdGggZGlyZWN0b3JfZ3VpZCAnI3tAZGlyZWN0b3JbOmd1aWRdfScgYW5kIGludGVyZXN0X2NhdGFsb2dfZ3VpZCAnI3tAb3JnYW5pemF0aW9uLmludGVyZXN0X2NhdGFsb2dfZ3VpZH0nIgoKICAjIHB1dHMgIk9yZ2FuaXphdGlvbiBpcyA6ICIKICAjIHB1dHMgQG9yZ2FuaXphdGlvbgogICMgcHV0cyAiaW50ZXJlc3RfY2F0YWxvZ19ndWlkPSN7QG9yZ2FuaXphdGlvbls6aW50ZXJlc3RfY2F0YWxvZ19ndWlkXX0iCmVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1dHMgImludGVyZXN0X2NhdGFsb2dfZ3VpZD0je0Bvcmdhbml6YXRpb24uaW50ZXJlc3RfY2F0YWxvZ19ndWlkfSIK</text>
+        <text encoding="base64">ICAgIEdpdmVuIHRlc3RpbmcgbmlrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyAiZGlyZWN0b3I9I3tAZGlyZWN0b3IudG9fanNvbn0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
