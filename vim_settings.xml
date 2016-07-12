@@ -278,6 +278,13 @@
         <mark key="." line="8" column="58" />
         <mark key="^" line="8" column="58" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" timestamp="1468355690830">
+        <mark key="'" line="25" column="6" />
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/challenges-hybrid/jiff-dev.sh" timestamp="1467159652319">
         <mark key="'" line="100" column="24" />
         <mark key="[" line="0" column="19" />
@@ -353,14 +360,6 @@
         <mark key="[" line="340" column="28" />
         <mark key="]" line="340" column="28" />
         <mark key="." line="340" column="28" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" timestamp="1467837258568">
-        <mark key="a" line="47" column="13" />
-        <mark key="'" line="278" column="4" />
-        <mark key="[" line="324" column="0" />
-        <mark key="]" line="328" column="10" />
-        <mark key="." line="45" column="13" />
-        <mark key="^" line="45" column="13" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/controllers/confirmation.js" timestamp="1461194918026">
         <mark key="'" line="9" column="4" />
@@ -452,9 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="15" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
-      <jump line="66" column="2" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
-      <jump line="14" column="1" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
       <jump line="33" column="36" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
       <jump line="16" column="18" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/api.js" />
@@ -552,6 +548,9 @@
       <jump line="294" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.js" />
       <jump line="302" column="38" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.js" />
       <jump line="518" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.js" />
+      <jump line="300" column="26" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="153" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
+      <jump line="25" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/workflow/services/WorkflowDirector.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -576,7 +575,7 @@
         <text>tunction(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKaWZmRW52aXJvbm1lbnRDb25maWdcPg==</text>
+        <text encoding="base64">XDxQUk9HUkFNU1w+</text>
       </register>
       <register name="0" type="4">
         <text>JiffEnvironmentConfig</text>
@@ -619,9 +618,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxKaWZmRW52aXJvbm1lbnRDb25maWdcPg==</last-search>
+      <last-search encoding="base64">XDxQUk9HUkFNU1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKaWZmRW52aXJvbm1lbnRDb25maWdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQUk9HUkFNU1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -629,7 +628,6 @@
     </search>
     <history>
       <history-search>
-        <entry>([^:]): ([^']+').*</entry>
         <entry>question</entry>
         <entry>questionnaire</entry>
         <entry encoding="base64">XDxFeHRlcm5hbFF1ZXN0aW9uU2VydmljZVw+</entry>
@@ -649,6 +647,7 @@
         <entry encoding="base64">XDw0MHhLMjBJd1VBRDVlZGJCWDJRZUtEa3c1VjFhYnkxTlpmekhMUVlVSm1SN2Y4YTFlMmUwZjE4ZjY4ZTIzM2E5ODcxMTVhMGUzN2NcPg==</entry>
         <entry>tml</entry>
         <entry encoding="base64">XDxKaWZmRW52aXJvbm1lbnRDb25maWdcPg==</entry>
+        <entry encoding="base64">XDxQUk9HUkFNU1w+</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
