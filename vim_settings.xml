@@ -376,11 +376,11 @@
         <mark key="^" line="42" column="74" />
         <mark key="." line="42" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" timestamp="1468021706945">
-        <mark key="[" line="95" column="111" />
-        <mark key="]" line="95" column="148" />
-        <mark key="." line="95" column="111" />
-        <mark key="^" line="84" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" timestamp="1468369888127">
+        <mark key="[" line="90" column="24" />
+        <mark key="]" line="90" column="31" />
+        <mark key="." line="90" column="31" />
+        <mark key="^" line="90" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" timestamp="1466134536229">
         <mark key="'" line="202" column="1" />
@@ -708,8 +708,8 @@
       <register name="a" type="2">
         <text encoding="base64">VGhlbiAvc2hvdyBkaXJlY3RvciBndWlkLyBkbwogIHJlcXVpcmUgJ2pzb24nCiAgcHV0cyAiZGlyZWN0b3JfZ3VpZD0je0BkaXJlY3Rvcls6Z3VpZF19IgogIHB1dHMgImRpcmVjdG9yPSN7QGRpcmVjdG9yLnRvX2pzb259IgogIHB1dHMgImludGVyZXN0X2NhdGFsb2dfZ3VpZD0je0Bvcmdhbml6YXRpb24uaW50ZXJlc3RfY2F0YWxvZ19ndWlkfSIKZW5kCgoK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>organization</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -724,13 +724,13 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>@organization.interest_catalog_guid</text>
-      </register>
-      <register name="/" type="4">
         <text>organization</text>
       </register>
-      <register name="0" type="4">
-        <text>organization info should be printed out</text>
+      <register name="/" type="4">
+        <text>emploiyer</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdXRzICJkaXJlY3Rvcj0je0BkaXJlY3Rvci50b19qc29ufSIK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
@@ -770,9 +770,9 @@
       </register>
     </registers>
     <search>
-      <last-search>organization</last-search>
+      <last-search>emploiyer</last-search>
       <last-offset />
-      <last-pattern>organization</last-pattern>
+      <last-pattern>emploiyer</last-pattern>
       <last-replace>thesauri</last-replace>
       <last-substitute>dictionaries</last-substitute>
       <last-dir>1</last-dir>
@@ -780,7 +780,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfb25SZWdpc3RlclN1Y2Nlc3NcPg==</entry>
         <entry>ng-repeat</entry>
         <entry>photo</entry>
         <entry>modify</entry>
@@ -800,6 +799,7 @@
         <entry>console.log</entry>
         <entry>dictionaries</entry>
         <entry>organization</entry>
+        <entry>emploiyer</entry>
       </history-search>
       <history-cmd>
         <entry>s/endDate/startDate/g</entry>
