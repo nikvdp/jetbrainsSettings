@@ -332,6 +332,7 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/automation/features/config/qa.yml" timestamp="1468455293708" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/HeightQuestion.js" timestamp="1462322535975">
         <mark key="'" line="36" column="18" />
         <mark key="[" line="92" column="31" />
@@ -378,12 +379,12 @@
         <mark key="^" line="42" column="74" />
         <mark key="." line="42" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" timestamp="1468452001654">
-        <mark key="'" line="91" column="45" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="91" column="17" />
+      <file name="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" timestamp="1468454522031">
+        <mark key="'" line="90" column="45" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="90" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" timestamp="1466134536229">
         <mark key="'" line="202" column="1" />
@@ -597,6 +598,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/keymaster/authentication_steps.rb" timestamp="1468455551453">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/index.js" timestamp="1464385027272">
         <mark key="'" line="39" column="2" />
         <mark key="[" line="18" column="0" />
@@ -606,9 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="40" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" />
-      <jump line="78" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" />
-      <jump line="92" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/settings.html" />
       <jump line="247" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
       <jump line="35" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/personalDetails.js" />
       <jump line="12" column="5" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/personalDetails.js" />
@@ -706,6 +707,9 @@
       <jump line="86" column="2" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" />
       <jump line="16" column="50" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" />
       <jump line="91" column="45" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/kubrick/director_steps.rb" />
+      <jump line="11" column="8" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/keymaster/authentication_steps.rb" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/keymaster/authentication_steps.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/work/jiff/automation/features/step_definitions/keymaster/authentication_steps.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
