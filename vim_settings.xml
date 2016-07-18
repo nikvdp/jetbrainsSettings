@@ -389,11 +389,11 @@
         <mark key="^" line="33" column="51" />
         <mark key="." line="33" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/password.js" timestamp="1468880283140">
-        <mark key="[" line="35" column="41" />
-        <mark key="]" line="35" column="41" />
-        <mark key="^" line="35" column="41" />
-        <mark key="." line="35" column="41" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/password.js" timestamp="1468882333361">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/profile/controllers/profile.js" timestamp="1460429599396">
         <mark key="'" line="116" column="24" />
@@ -531,7 +531,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24oYW5zd2VycykgewogICAgICAgICAgICAgIAogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>form.$invalid</text>
+        <text>Password</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -546,7 +546,7 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>form.$invalid</text>
+        <text>Password</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVzdGlvbm5haXJlR3VpZFw+</text>
@@ -558,34 +558,34 @@
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>form.$invalid</text>
+        <text>Password</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>$scope</text>
       </register>
       <register name="3" type="4">
-        <text>) {</text>
+        <text>);</text>
       </register>
-      <register name="4" type="4">
-        <text>if (</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>,</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHN0YXRlLmdvKCdzZXR0aW5ncycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU2FmZUdldChDb3Jkb3ZhLCAnZ2V0QXBwVmVyc2lvbicpKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3IubWVzc2FnZS5mb3JFYWNoKGZ1bmN0aW9uKG1lc3NhZ2UpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICRzdGF0ZS5nbygnc2V0dGluZ3MnKTsKICAgICAgICAgIGVycm9yLm1lc3NhZ2UuZm9yRWFjaChmdW5jdGlvbihtZXNzYWdlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
