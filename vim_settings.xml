@@ -10,12 +10,6 @@
         <mark key="^" line="42" column="55" />
         <mark key="." line="42" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/bootstrap.js" timestamp="1467848682523">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" timestamp="1468450944847">
         <mark key="'" line="25" column="44" />
         <mark key="[" line="106" column="0" />
@@ -163,6 +157,13 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/Toast.js" timestamp="1468884125340">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/views/RankableQuestionView.html" timestamp="1462327934627">
         <mark key="'" line="8" column="41" />
         <mark key="[" line="5" column="30" />
@@ -233,6 +234,13 @@
         <mark key="^" line="29" column="6" />
         <mark key="." line="29" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" timestamp="1468884303140">
+        <mark key="'" line="63" column="10" />
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="12" />
+        <mark key="." line="55" column="12" />
+        <mark key="^" line="55" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/expiredPoints.js" timestamp="1461198621358">
         <mark key="'" line="65" column="2" />
         <mark key="[" line="30" column="0" />
@@ -300,6 +308,11 @@
         <mark key="." line="77" column="63" />
         <mark key="^" line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/safeGet.js" timestamp="1468884061204">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="40" column="6" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/styles/standards.less" timestamp="1462323465988">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="5" column="0" />
@@ -320,12 +333,6 @@
         <mark key="]" line="82" column="25" />
         <mark key="." line="82" column="25" />
         <mark key="^" line="82" column="25" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/environments.json" timestamp="1467847490115">
-        <mark key="'" line="112" column="16" />
-        <mark key="[" line="112" column="16" />
-        <mark key="]" line="112" column="91" />
-        <mark key="." line="112" column="16" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/HeightQuestion.js" timestamp="1462322535975">
         <mark key="'" line="36" column="18" />
@@ -425,12 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="1" filename="$USER_HOME$/Dropbox/volley-challenge/dictionaries/work/api/convertDicts.js" />
-      <jump line="83" column="6" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
-      <jump line="34" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
-      <jump line="116" column="13" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/services/ExternalQuestionService.js" />
-      <jump line="41" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
-      <jump line="319" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="26" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
       <jump line="46" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
       <jump line="48" column="84" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
@@ -525,13 +526,19 @@
       <jump line="259" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
       <jump line="27" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/settings.js" />
+      <jump line="10" column="12" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/safeGet.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/safeGet.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/Toast.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/Toast.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/Toast.js" />
+      <jump line="63" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24oYW5zd2VycykgewogICAgICAgICAgICAgIAogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHNob3dUb2FzdCh0b2FzdCkgewogICAgICBpZiAod2luZG93LnBsdWdpbnMudG9hc3QgJiYgdHlwZW9mIHdpbmRvdy5wbHVnaW5zLnRvYXN0LnNob3dTaG9ydENlbnRlciA9PT0gJ2Z1bmN0aW9uJykgewogICAgICAgIHdpbmRvdy5wbHVnaW5zLnRvYXN0LnNob3dTaG9ydENlbnRlcih0b2FzdCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdG9hc3RyLnN1Y2Nlc3ModG9hc3QpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Password</text>
+        <text>showToast</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -546,55 +553,55 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Password</text>
+        <text>showToast</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWVzdGlvbm5haXJlR3VpZFw+</text>
+        <text>showtoast</text>
       </register>
-      <register name="0" type="4">
-        <text>questionnaire_guid</text>
+      <register name="0" type="2">
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwovKioKICogVXNlIGZvciBzYWZlbHkgZ2V0dGluZyBkZWVwbHkgbmVzdGVkIGpzIHZhbHVlcywgd2l0aG91dCBkeWluZyBpZiBvbmUKICogb2YgdGhlIHZhbHVlcyBpc24ndCBwcm92aWRlZAogKgogKiBhbmd1bGFyaXplZCB2ZXJzaW9uIG9mIGh0dHBzOi8vZ2l0aHViLmNvbS9qb3NodWFjYy9kcmFicy9ibG9iL21hc3Rlci9zcmMvZHJhYnMuanMKICoKICogVXNhZ2U6CiAqCiAqIGFuZ3VsYXIuY29udHJvbGxlcignc29tZUNvbnRyb2xsZXInLCBmdW5jdGlvbigkc2NvcGUsIFNhZmVHZXQpIHsKICogIHZhciBhID0gewogKiAgICAnYSc6IHsKICogICAgICAnYSc6IHsKICogICAgICAgICdiJzogewogKiAgICAgICAgICAnYyc6IDEKICogICAgICAgIH0KICogICAgICB9CiAqICAgIH0sCiAqICAgICdiJzogewogKiAgICAgICdjJzogewogKiAgICAgICAgJ2QnOiB7CiAqICAgICAgICAgICdlJzogMgogKiAgICAgICAgfQogKiAgICAgIH0KICogICAgfQogKiAgfTsKICoKICogIGNvbnNvbGUubG9nKFNhZmVHZXQoYSwgJ2EuYS5iLmMnKSk7IC8vIG91dHB1dHMgMQogKiAgY29uc29sZS5sb2coU2FmZUdldChhLCAnYi5jLmQuZScpKTsgLy8gb3V0cHV0cyAyCiAqICBjb25zb2xlLmxvZyhTYWZlR2V0KGEsICd4Lnkuei5xJykpOyAvLyBvdXRwdXRzIHVuZGVmaW5lZAogKgogKiAgY29uc29sZS5sb2coYS54Lnkuei5xKTsgLy8gdGhyb3dzIGFuIGV4Y2VwdGlvbiBhbmQgY2F1c2VzIHNhZG5lc3MKICogIGNvbnNvbGUubG9nKGEuYS55LnoucSk7IC8vIHRocm93cyBhbiBleGNlcHRpb24gYW5kIGNhdXNlcyBzYWRuZXNzCiAqIH0pOwogKgogKi8KCmFuZ3VsYXIKICAubW9kdWxlKCdqaWZmLkluY2VudGl2ZXMuQ29tbW9uJykKICAuZmFjdG9yeSgnU2FmZUdldCcsIGZ1bmN0aW9uICgkcGFyc2UpIHsKICAgIC8qKgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>Password</text>
+        <text>showToast</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>$scope</text>
+        <text>showToast</text>
       </register>
       <register name="3" type="4">
-        <text>);</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
+      <register name="4" type="4">
+        <text>toastr,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      <register name="5" type="4">
+        <text>$parse</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0YXRlLmdvKCdzZXR0aW5ncycpOwo=</text>
+      <register name="6" type="4">
+        <text>SafeGet</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3IubWVzc2FnZS5mb3JFYWNoKGZ1bmN0aW9uKG1lc3NhZ2UpIHsK</text>
+        <text encoding="base64">LyoqCiAqIFVzZSBmb3Igc2FmZWx5IGdldHRpbmcgZGVlcGx5IG5lc3RlZCBqcyB2YWx1ZXMsIHdpdGhvdXQgZHlpbmcgaWYgb25lCiAqIG9mIHRoZSB2YWx1ZXMgaXNuJ3QgcHJvdmlkZWQKICoKICogYW5ndWxhcml6ZWQgdmVyc2lvbiBvZiBodHRwczovL2dpdGh1Yi5jb20vam9zaHVhY2MvZHJhYnMvYmxvYi9tYXN0ZXIvc3JjL2RyYWJzLmpzCiAqCiAqIFVzYWdlOgogKgogKiBhbmd1bGFyLmNvbnRyb2xsZXIoJ3NvbWVDb250cm9sbGVyJywgZnVuY3Rpb24oJHNjb3BlLCBTYWZlR2V0KSB7CiAqICB2YXIgYSA9IHsKICogICAgJ2EnOiB7CiAqICAgICAgJ2EnOiB7CiAqICAgICAgICAnYic6IHsKICogICAgICAgICAgJ2MnOiAxCiAqICAgICAgICB9CiAqICAgICAgfQogKiAgICB9LAogKiAgICAnYic6IHsKICogICAgICAnYyc6IHsKICogICAgICAgICdkJzogewogKiAgICAgICAgICAnZSc6IDIKICogICAgICAgIH0KICogICAgICB9CiAqICAgIH0KICogIH07CiAqCiAqICBjb25zb2xlLmxvZyhTYWZlR2V0KGEsICdhLmEuYi5jJykpOyAvLyBvdXRwdXRzIDEKICogIGNvbnNvbGUubG9nKFNhZmVHZXQoYSwgJ2IuYy5kLmUnKSk7IC8vIG91dHB1dHMgMgogKiAgY29uc29sZS5sb2coU2FmZUdldChhLCAneC55LnoucScpKTsgLy8gb3V0cHV0cyB1bmRlZmluZWQKICoKICogIGNvbnNvbGUubG9nKGEueC55LnoucSk7IC8vIHRocm93cyBhbiBleGNlcHRpb24gYW5kIGNhdXNlcyBzYWRuZXNzCiAqICBjb25zb2xlLmxvZyhhLmEueS56LnEpOyAvLyB0aHJvd3MgYW4gZXhjZXB0aW9uIGFuZCBjYXVzZXMgc2FkbmVzcwogKiB9KTsKICoKICovCgphbmd1bGFyCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzdGF0ZS5nbygnc2V0dGluZ3MnKTsKICAgICAgICAgIGVycm9yLm1lc3NhZ2UuZm9yRWFjaChmdW5jdGlvbihtZXNzYWdlKSB7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICovICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWVzdGlvbm5haXJlR3VpZFw+</last-search>
+      <last-search>showtoast</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWVzdGlvbm5haXJlR3VpZFw+</last-pattern>
+      <last-pattern>showtoast</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -602,7 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resolve:</entry>
         <entry>ranker:</entry>
         <entry>,</entry>
         <entry>filter</entry>
@@ -622,6 +628,7 @@
         <entry encoding="base64">XDxkaXJlY3Rvckd1aWRcPg==</entry>
         <entry encoding="base64">XDxkaXJlY3Rvclw+</entry>
         <entry encoding="base64">XDxxdWVzdGlvbm5haXJlR3VpZFw+</entry>
+        <entry>showtoast</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
