@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/work/jiff/jiffjs/gulpfile.js" timestamp="1468962499933" />
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/routes/index.js" timestamp="1466112574841">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="2" />
@@ -40,6 +41,9 @@
         <mark key="]" line="11" column="7" />
         <mark key="^" line="16" column="72" />
         <mark key="." line="11" column="7" />
+      </file>
+      <file name="/a.dummy" timestamp="1468962536273">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/store/filters/humanize.js" timestamp="1459811175414">
         <mark key="'" line="18" column="22" />
@@ -109,6 +113,13 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/jiffjs/tasks/compile.js" timestamp="1468962908690">
+        <mark key="'" line="7" column="1" />
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="24" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/index.js" timestamp="1463701320487">
         <mark key="'" line="11" column="6" />
         <mark key="[" line="0" column="0" />
@@ -142,6 +153,9 @@
         <mark key="]" line="32" column="23" />
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
+      </file>
+      <file name="/a.txt" timestamp="1467844847301">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/httpPassthrough.js" timestamp="1459992254212">
         <mark key="'" line="110" column="35" />
@@ -188,6 +202,7 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/InterestsRankingView.html" timestamp="1467836887505" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/StartupNotificationChecks.js" timestamp="1463010836026">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="25" />
@@ -229,12 +244,12 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/Toast.js" timestamp="1468886161164">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/Toast.js" timestamp="1468962005028">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/middle-tier/jiff/environmentConfig.js" timestamp="1459897888535">
         <mark key="[" line="3" column="18" />
@@ -508,6 +523,9 @@
         <mark key="." line="82" column="25" />
         <mark key="^" line="82" column="25" />
       </file>
+      <file name="vim_settings.xml" timestamp="1467158023680">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/directives/HeightQuestion.js" timestamp="1462322535975">
         <mark key="'" line="36" column="18" />
         <mark key="[" line="92" column="31" />
@@ -587,6 +605,9 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="3" column="37" />
       </file>
+      <file name="/a.regexp" timestamp="1467844842313">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/controllers/login.js" timestamp="1461189538706">
         <mark key="'" line="33" column="15" />
         <mark key="[" line="33" column="36" />
@@ -594,6 +615,7 @@
         <mark key="^" line="33" column="51" />
         <mark key="." line="33" column="36" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/WorkflowEngine.js" timestamp="1467408353386" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/controllers/password.js" timestamp="1468882333361">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="35" />
@@ -630,8 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="17" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
-      <jump line="46" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/onboarding/controllers/OnboardingQuestionPageController.js" />
       <jump line="48" column="84" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="344" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
       <jump line="345" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/src/config/states.js" />
@@ -730,13 +750,15 @@
       <jump line="1" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/Toast.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/services/Toast.js" />
       <jump line="63" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/main/services/deepLinkHandler.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/work/jiff/jiffjs/tasks/compile.js" />
+      <jump line="7" column="1" filename="$USER_HOME$/Code/work/jiff/jiffjs/tasks/compile.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIHNob3dUb2FzdCh0b2FzdCkgewogICAgICBpZiAod2luZG93LnBsdWdpbnMudG9hc3QgJiYgdHlwZW9mIHdpbmRvdy5wbHVnaW5zLnRvYXN0LnNob3dTaG9ydENlbnRlciA9PT0gJ2Z1bmN0aW9uJykgewogICAgICAgIHdpbmRvdy5wbHVnaW5zLnRvYXN0LnNob3dTaG9ydENlbnRlcih0b2FzdCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdG9hc3RyLnN1Y2Nlc3ModG9hc3QpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>showToast</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5Qb2NrZXRMaWdodC50cmFja0V2ZW50KHtjYXRlZ29yeTogImNsaWNrIiwgYWN0aW9uOiAiaGlnaGxpZ2h0LWxpbmsifSk7Cg==</text>
@@ -751,46 +773,49 @@
         <text encoding="base64">dmFyIGdldElwID0gcShmdW5jdGlvbihyZXNvbHZlKSB7CiAgcmVxdWlyZSgnZG5zJykKICAgIC5sb29rdXAocmVxdWlyZSgnb3MnKS5ob3N0bmFtZSgpLCBmdW5jdGlvbiAoZXJyLCBhZGQsIGZhbSkgewogICAgICByZXNvbHZlKGFkZCk7CiAgICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>showToast</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>showtoast</text>
+        <text>=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwovKioKICogVXNlIGZvciBzYWZlbHkgZ2V0dGluZyBkZWVwbHkgbmVzdGVkIGpzIHZhbHVlcywgd2l0aG91dCBkeWluZyBpZiBvbmUKICogb2YgdGhlIHZhbHVlcyBpc24ndCBwcm92aWRlZAogKgogKiBhbmd1bGFyaXplZCB2ZXJzaW9uIG9mIGh0dHBzOi8vZ2l0aHViLmNvbS9qb3NodWFjYy9kcmFicy9ibG9iL21hc3Rlci9zcmMvZHJhYnMuanMKICoKICogVXNhZ2U6CiAqCiAqIGFuZ3VsYXIuY29udHJvbGxlcignc29tZUNvbnRyb2xsZXInLCBmdW5jdGlvbigkc2NvcGUsIFNhZmVHZXQpIHsKICogIHZhciBhID0gewogKiAgICAnYSc6IHsKICogICAgICAnYSc6IHsKICogICAgICAgICdiJzogewogKiAgICAgICAgICAnYyc6IDEKICogICAgICAgIH0KICogICAgICB9CiAqICAgIH0sCiAqICAgICdiJzogewogKiAgICAgICdjJzogewogKiAgICAgICAgJ2QnOiB7CiAqICAgICAgICAgICdlJzogMgogKiAgICAgICAgfQogKiAgICAgIH0KICogICAgfQogKiAgfTsKICoKICogIGNvbnNvbGUubG9nKFNhZmVHZXQoYSwgJ2EuYS5iLmMnKSk7IC8vIG91dHB1dHMgMQogKiAgY29uc29sZS5sb2coU2FmZUdldChhLCAnYi5jLmQuZScpKTsgLy8gb3V0cHV0cyAyCiAqICBjb25zb2xlLmxvZyhTYWZlR2V0KGEsICd4Lnkuei5xJykpOyAvLyBvdXRwdXRzIHVuZGVmaW5lZAogKgogKiAgY29uc29sZS5sb2coYS54Lnkuei5xKTsgLy8gdGhyb3dzIGFuIGV4Y2VwdGlvbiBhbmQgY2F1c2VzIHNhZG5lc3MKICogIGNvbnNvbGUubG9nKGEuYS55LnoucSk7IC8vIHRocm93cyBhbiBleGNlcHRpb24gYW5kIGNhdXNlcyBzYWRuZXNzCiAqIH0pOwogKgogKi8KCmFuZ3VsYXIKICAubW9kdWxlKCdqaWZmLkluY2VudGl2ZXMuQ29tbW9uJykKICAuZmFjdG9yeSgnU2FmZUdldCcsIGZ1bmN0aW9uICgkcGFyc2UpIHsKICAgIC8qKgo=</text>
+      <register name="0" type="4">
+        <text>window.plugins.toast.showShortCenter</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgJGlvbmljTW9kYWwuZnJvbVRlbXBsYXRlVXJsKCdtb2R1bGVzL3Jld2FyZHMvdmlld3MvUmV3YXJkc09wdGlvbnNNb2RhbFZpZXcuaHRtbCcsIHsKICAgICAgICBzY29wZTogc2NvcGUsCiAgICAgICAgYW5pbWF0aW9uOiAnc2xpZGUtaW4tbGVmdCcKICAgICAgfSkudGhlbihmdW5jdGlvbihtb2RhbCkgewogICAgICAgIHNjb3BlLm1vZGFsID0gbW9kYWw7CiAgICAgICAgbW9kYWwuc2hvdygpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>showToast</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>showToast</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0eXBlQXNzZXJ0aW9uc01vZHVsZSA6ICdhc3NlcnQnCn0pOwo=</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>toastr,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>$parse</text>
+        <text>,</text>
       </register>
-      <register name="6" type="4">
-        <text>SafeGet</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBhbm5vdGF0aW9ucyA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">YW5ub3RhdGlvbnMgPSB0cnVlOwpleHBlcmltZW50YWwgPSB0cnVlOwp0eXBlQW5ub3RhdGlvbnMgPSB0cnVlOwp0eXBlQXNzZXJ0aW9uc01vZHVsZSA9ICdhc3NlcnQnOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIFVzZSBmb3Igc2FmZWx5IGdldHRpbmcgZGVlcGx5IG5lc3RlZCBqcyB2YWx1ZXMsIHdpdGhvdXQgZHlpbmcgaWYgb25lCiAqIG9mIHRoZSB2YWx1ZXMgaXNuJ3QgcHJvdmlkZWQKICoKICogYW5ndWxhcml6ZWQgdmVyc2lvbiBvZiBodHRwczovL2dpdGh1Yi5jb20vam9zaHVhY2MvZHJhYnMvYmxvYi9tYXN0ZXIvc3JjL2RyYWJzLmpzCiAqCiAqIFVzYWdlOgogKgogKiBhbmd1bGFyLmNvbnRyb2xsZXIoJ3NvbWVDb250cm9sbGVyJywgZnVuY3Rpb24oJHNjb3BlLCBTYWZlR2V0KSB7CiAqICB2YXIgYSA9IHsKICogICAgJ2EnOiB7CiAqICAgICAgJ2EnOiB7CiAqICAgICAgICAnYic6IHsKICogICAgICAgICAgJ2MnOiAxCiAqICAgICAgICB9CiAqICAgICAgfQogKiAgICB9LAogKiAgICAnYic6IHsKICogICAgICAnYyc6IHsKICogICAgICAgICdkJzogewogKiAgICAgICAgICAnZSc6IDIKICogICAgICAgIH0KICogICAgICB9CiAqICAgIH0KICogIH07CiAqCiAqICBjb25zb2xlLmxvZyhTYWZlR2V0KGEsICdhLmEuYi5jJykpOyAvLyBvdXRwdXRzIDEKICogIGNvbnNvbGUubG9nKFNhZmVHZXQoYSwgJ2IuYy5kLmUnKSk7IC8vIG91dHB1dHMgMgogKiAgY29uc29sZS5sb2coU2FmZUdldChhLCAneC55LnoucScpKTsgLy8gb3V0cHV0cyB1bmRlZmluZWQKICoKICogIGNvbnNvbGUubG9nKGEueC55LnoucSk7IC8vIHRocm93cyBhbiBleGNlcHRpb24gYW5kIGNhdXNlcyBzYWRuZXNzCiAqICBjb25zb2xlLmxvZyhhLmEueS56LnEpOyAvLyB0aHJvd3MgYW4gZXhjZXB0aW9uIGFuZCBjYXVzZXMgc2FkbmVzcwogKiB9KTsKICoKICovCgphbmd1bGFyCg==</text>
+      <register name="8" type="8">
+        <text>traceur.options.
+traceur.options.
+traceur.options.
+traceur.options.</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICovICAgIA==</text>
+        <text>require('traceur');</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -799,16 +824,14 @@
     <search>
       <last-search>showtoast</last-search>
       <last-offset />
-      <last-pattern>showtoast</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>=</last-pattern>
+      <last-replace>:</last-replace>
+      <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ranker:</entry>
-        <entry>,</entry>
         <entry>filter</entry>
         <entry>JiffEnv</entry>
         <entry>&quot;dev</entry>
@@ -827,11 +850,10 @@
         <entry encoding="base64">XDxkaXJlY3Rvclw+</entry>
         <entry encoding="base64">XDxxdWVzdGlvbm5haXJlR3VpZFw+</entry>
         <entry>showtoast</entry>
+        <entry>;$</entry>
+        <entry>=</entry>
       </history-search>
       <history-cmd>
-        <entry>:w</entry>
-        <entry>s/&quot;/'g</entry>
-        <entry>s/&quot;/'/g</entry>
         <entry>s/general-link/template-image/g</entry>
         <entry>s/image/text</entry>
         <entry>s/image/text/g</entry>
@@ -848,6 +870,9 @@
         <entry>e!@</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>e!</entry>
+        <entry encoding="base64">JzwsJz5zLzskLy9n</entry>
+        <entry encoding="base64">JzwsJz5zLzskLywvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLz0vOi9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
