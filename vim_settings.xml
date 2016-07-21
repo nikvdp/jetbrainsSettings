@@ -3,30 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" timestamp="1469053803334" />
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1469060552313">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1469061367729">
-        <mark key="[" line="77" column="13" />
-        <mark key="]" line="77" column="18" />
-        <mark key="." line="77" column="18" />
-        <mark key="^" line="77" column="18" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1469061962924">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" timestamp="1469060672901">
-        <mark key="'" line="1" column="3" />
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="15" column="20" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1469070183121">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="75" column="41" />
+        <mark key="]" line="75" column="104" />
+        <mark key="." line="75" column="41" />
+        <mark key="^" line="75" column="86" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/scripts.js" timestamp="1469061506367">
         <mark key="'" line="10" column="0" />
@@ -35,6 +17,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1469067611996">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/settings/views/password.html" timestamp="1469046254531" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" timestamp="1469061909817">
         <mark key="'" line="63" column="20" />
@@ -42,13 +27,34 @@
       <file name="/a.regexp" timestamp="1469061133618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" timestamp="1469062143337">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="18" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/app.html" timestamp="1469054167151" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/fonts.js" timestamp="1469065737112">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" timestamp="1469053803334" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1469067650718" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/dependencies.js" timestamp="1469065689576">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/tests.js" timestamp="1469066825642">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" timestamp="1469071158342">
+        <mark key="[" line="25" column="73" />
+        <mark key="]" line="25" column="73" />
+        <mark key="^" line="25" column="71" />
+        <mark key="." line="25" column="73" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/templates.js" timestamp="1469069122154">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="39" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" />
@@ -63,58 +69,68 @@
       <jump line="70" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
       <jump line="71" column="39" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
       <jump line="63" column="20" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="11" column="25" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" />
+      <jump line="2" column="18" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/templates.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="93" column="24" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="101" column="11" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICB2YXIgdGVtcGxhdGVDYWNoZSA9IHJlcXVpcmUoJ2d1bHAtYW5ndWxhci10ZW1wbGF0ZWNhY2hlJyk7CiAgdmFyIHEgPSByZXF1aXJlKCdibHVlYmlyZCcpOwogIHZhciByZWd1bGFyRnMgPSByZXF1aXJlKCdmcycpOwogIHZhciBmcyA9IHEucHJvbWlzaWZ5QWxsKHJlZ3VsYXJGcyk7CgogIGd1bHAudGFzaygnd2ViOnRlbXBsYXRlcycsIGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIGZzLnJlYWRkaXJBc3luYyhjb25maWcucGF0aHMuYXBwKS50aGVuKGZ1bmN0aW9uKG1vZHVsZVBhdGhzKSB7CiAgICAgIHJldHVybiBxLm1hcChtb2R1bGVQYXRocywgZnVuY3Rpb24obW9kdWxlUGF0aCkgewogICAgICAgIC8vIFByZXZlbnQgdGhpcyBmcm9tIGFjY2lkZW50YWxseSBjYXRjaGluZyAuRFNfU3RvcmUKICAgICAgICBpZiAoL1wuRFNfU3RvcmUvLnRlc3QobW9kdWxlUGF0aCkpIHsKICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgY29uc29sZS5sb2coIm1vZHVsZSBwYXRoIGlzOiAlcyIsIG1vZHVsZVBhdGgpOwogICAgICAgIGNvbnNvbGUubG9nKGNvbmZpZy5wYXRocy5hcHAgKyAnLycgKyBtb2R1bGVQYXRoICsgJy8qKi8qLmh0bWwnKTsKICAgICAgICBjb25zb2xlLmxvZygnZGVzdCBpczogJywgY29uZmlnLndlYi5wYXRocy5kZXN0ICsgJ2FwcC9tb2R1bGVzLycgKyBtb2R1bGVQYXRoICsgJy92aWV3cycpOwoKICAgICAgICByZXR1cm4gZ3VscC5zcmMoY29uZmlnLnBhdGhzLmFwcCArICcvJyArIG1vZHVsZVBhdGggKyAnLyoqLyouaHRtbCcpCiAgICAgICAgICAucGlwZSh0ZW1wbGF0ZUNhY2hlKHttb2R1bGU6ICdpbmNlbnRpdmVzJywgcm9vdDogJ21vZHVsZXMvJyArIG1vZHVsZVBhdGh9KSkKICAgICAgICAgIC5waXBlKGd1bHAuZGVzdChjb25maWcud2ViLnBhdGhzLmRlc3QgKyAnL2FwcC9tb2R1bGVzLycgKyBtb2R1bGVQYXRoICsgJy92aWV3cycpKTsKICAgICAgfSk7CiAgICB9KTsKICB9KTsKCiAgZ3VscC50YXNrKCd3ZWI6dGVtcGxhdGVzOmRldmVsb3BtZW50JywgZnVuY3Rpb24oKSB7CiAgICByZXR1cm4gZnMucmVhZGRpckFzeW5jKGNvbmZpZy5wYXRocy5hcHApLnRoZW4oZnVuY3Rpb24obW9kdWxlUGF0aHMpIHsKICAgICAgcmV0dXJuIHEubWFwKG1vZHVsZVBhdGhzLCBmdW5jdGlvbihtb2R1bGVQYXRoKSB7CiAgICAgICAgLy8gUHJldmVudCB0aGlzIGZyb20gYWNjaWRlbnRhbGx5IGNhdGNoaW5nIC5EU19TdG9yZQogICAgICAgIGlmICgvXC5EU19TdG9yZS8udGVzdChtb2R1bGVQYXRoKSkgewogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGd1bHAuc3JjKGNvbmZpZy5wYXRocy5hcHAgKyAnLycgKyBtb2R1bGVQYXRoICsgJy8qKi8qLmh0bWwnKQogICAgICAgICAgLnBpcGUodGVtcGxhdGVDYWNoZSh7bW9kdWxlOiAnaW5jZW50aXZlcycsIHJvb3Q6ICdtb2R1bGVzLycgKyBtb2R1bGVQYXRofSkpCiAgICAgICAgICAucGlwZShndWxwLmRlc3QoY29uZmlnLndlYi5wYXRocy50bXAgKyAnL21vZHVsZXMvJyArIG1vZHVsZVBhdGggKyAnL3ZpZXdzJykpOwogICAgICB9KTsKICAgIH0pOwogIH0pOwo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>, {base: config.web.paths.dest}</text>
       </register>
       <register name="-" type="4">
-        <text>!devMode</text>
+        <text>, {base: config.web.paths.dest}</text>
       </register>
       <register name="/" type="4">
-        <text>modules</text>
+        <text encoding="base64">XDx0ZW1wbGF0ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICJhcHAvbW9kdWxlcy8qKi8qLmpzIiwK</text>
+        <text encoding="base64">ICAgICAgLnBpcGUoaW5qZWN0KHZlbmRvclNvdXJjZXMsIHtpZ25vcmVQYXRoOiAnL2Rpc3QnLCBhZGRSb290U2xhc2g6IGZhbHNlLCBuYW1lOiAnZGVwcyd9KSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>, {base: config.web.paths.dest}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>scripts</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gCg==</text>
+      <register name="3" type="4">
+        <text>vendorSources</text>
       </register>
       <register name="4" type="4">
-        <text>!devMode</text>
+        <text>;</text>
       </register>
       <register name="5" type="4">
-        <text>dev</text>
+        <text encoding="base64">ICsgJy9hcHAvbW9kdWxlcyc=</text>
       </register>
       <register name="6" type="4">
-        <text>.pipe(concat({ path: 'app.js' }))</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>.pipe(gulp.dest(config.web.paths.dest));</text>
+        <text>['web:inject:copy'],</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>/app/</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Im1vZHVsZXMvc2V0dGluZ3Mvdmlld3MvZGV2aWNlTWFuYWdlbWVudC5odG1sIiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>modules</last-search>
+      <last-search encoding="base64">XDx0ZW1wbGF0ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>modules</last-pattern>
+      <last-pattern encoding="base64">XDx0ZW1wbGF0ZXNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -122,6 +138,8 @@
       <history-search>
         <entry>scripts</entry>
         <entry>modules</entry>
+        <entry>templates</entry>
+        <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -131,6 +149,18 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
