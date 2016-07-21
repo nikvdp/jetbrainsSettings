@@ -9,10 +9,11 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1469127874651">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1469138215935">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="122" column="22" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/scripts.js" timestamp="1469061506367">
         <mark key="'" line="10" column="0" />
@@ -45,10 +46,12 @@
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/content-center/controllers/ContentCenterListCtrl.js" timestamp="1469053803334" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/index.html" timestamp="1469122499041" />
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" timestamp="1469127858267">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" timestamp="1469138118350">
+        <mark key="'" line="30" column="10" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="28" column="62" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/dependencies.js" timestamp="1469065689576">
         <mark key="[" line="2" column="0" />
@@ -64,16 +67,23 @@
       <file name="/a.txt" timestamp="1469126490274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/README.md" timestamp="1469127481727">
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/README.md" timestamp="1469135148518">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="76" column="88" />
+        <mark key="]" line="76" column="88" />
+        <mark key="." line="76" column="88" />
+        <mark key="^" line="76" column="88" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/common/tests.js" timestamp="1469066825642">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" timestamp="1469138156914">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" timestamp="1469135270430" />
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/templates.js" timestamp="1469069122154">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -109,49 +119,51 @@
       <jump line="82" column="31" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
       <jump line="23" column="4" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/README.md" />
+      <jump line="30" column="19" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" />
+      <jump line="24" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICB2YXIgdGVtcGxhdGVDYWNoZSA9IHJlcXVpcmUoJ2d1bHAtYW5ndWxhci10ZW1wbGF0ZWNhY2hlJyk7CiAgdmFyIHEgPSByZXF1aXJlKCdibHVlYmlyZCcpOwogIHZhciByZWd1bGFyRnMgPSByZXF1aXJlKCdmcycpOwogIHZhciBmcyA9IHEucHJvbWlzaWZ5QWxsKHJlZ3VsYXJGcyk7CgogIGd1bHAudGFzaygnd2ViOnRlbXBsYXRlcycsIGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIGZzLnJlYWRkaXJBc3luYyhjb25maWcucGF0aHMuYXBwKS50aGVuKGZ1bmN0aW9uKG1vZHVsZVBhdGhzKSB7CiAgICAgIHJldHVybiBxLm1hcChtb2R1bGVQYXRocywgZnVuY3Rpb24obW9kdWxlUGF0aCkgewogICAgICAgIC8vIFByZXZlbnQgdGhpcyBmcm9tIGFjY2lkZW50YWxseSBjYXRjaGluZyAuRFNfU3RvcmUKICAgICAgICBpZiAoL1wuRFNfU3RvcmUvLnRlc3QobW9kdWxlUGF0aCkpIHsKICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgY29uc29sZS5sb2coIm1vZHVsZSBwYXRoIGlzOiAlcyIsIG1vZHVsZVBhdGgpOwogICAgICAgIGNvbnNvbGUubG9nKGNvbmZpZy5wYXRocy5hcHAgKyAnLycgKyBtb2R1bGVQYXRoICsgJy8qKi8qLmh0bWwnKTsKICAgICAgICBjb25zb2xlLmxvZygnZGVzdCBpczogJywgY29uZmlnLndlYi5wYXRocy5kZXN0ICsgJ2FwcC9tb2R1bGVzLycgKyBtb2R1bGVQYXRoICsgJy92aWV3cycpOwoKICAgICAgICByZXR1cm4gZ3VscC5zcmMoY29uZmlnLnBhdGhzLmFwcCArICcvJyArIG1vZHVsZVBhdGggKyAnLyoqLyouaHRtbCcpCiAgICAgICAgICAucGlwZSh0ZW1wbGF0ZUNhY2hlKHttb2R1bGU6ICdpbmNlbnRpdmVzJywgcm9vdDogJ21vZHVsZXMvJyArIG1vZHVsZVBhdGh9KSkKICAgICAgICAgIC5waXBlKGd1bHAuZGVzdChjb25maWcud2ViLnBhdGhzLmRlc3QgKyAnL2FwcC9tb2R1bGVzLycgKyBtb2R1bGVQYXRoICsgJy92aWV3cycpKTsKICAgICAgfSk7CiAgICB9KTsKICB9KTsKCiAgZ3VscC50YXNrKCd3ZWI6dGVtcGxhdGVzOmRldmVsb3BtZW50JywgZnVuY3Rpb24oKSB7CiAgICByZXR1cm4gZnMucmVhZGRpckFzeW5jKGNvbmZpZy5wYXRocy5hcHApLnRoZW4oZnVuY3Rpb24obW9kdWxlUGF0aHMpIHsKICAgICAgcmV0dXJuIHEubWFwKG1vZHVsZVBhdGhzLCBmdW5jdGlvbihtb2R1bGVQYXRoKSB7CiAgICAgICAgLy8gUHJldmVudCB0aGlzIGZyb20gYWNjaWRlbnRhbGx5IGNhdGNoaW5nIC5EU19TdG9yZQogICAgICAgIGlmICgvXC5EU19TdG9yZS8udGVzdChtb2R1bGVQYXRoKSkgewogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGd1bHAuc3JjKGNvbmZpZy5wYXRocy5hcHAgKyAnLycgKyBtb2R1bGVQYXRoICsgJy8qKi8qLmh0bWwnKQogICAgICAgICAgLnBpcGUodGVtcGxhdGVDYWNoZSh7bW9kdWxlOiAnaW5jZW50aXZlcycsIHJvb3Q6ICdtb2R1bGVzLycgKyBtb2R1bGVQYXRofSkpCiAgICAgICAgICAucGlwZShndWxwLmRlc3QoY29uZmlnLndlYi5wYXRocy50bXAgKyAnL21vZHVsZXMvJyArIG1vZHVsZVBhdGggKyAnL3ZpZXdzJykpOwogICAgICB9KTsKICAgIH0pOwogIH0pOwo=</text>
+        <text encoding="base64">ICBndWxwLnRhc2soJ2FuZHJvaWQ6Y29tcGlsZScsIGZ1bmN0aW9uKGNiKSB7CiAgICByZXR1cm4gcnVuKAogICAgICAnbW9iaWxlOmNsZWFuJywKICAgICAgJ2NvcHk6dHJhY2V1cicsCiAgICAgIFsKICAgICAgICAnbW9iaWxlOm1vZHVsZXMnLAogICAgICAgICdtb2JpbGU6c2NyaXB0cycsCiAgICAgICAgJ21vYmlsZTpkZXBlbmRlbmNpZXMnLAogICAgICAgICdtb2JpbGU6dGVtcGxhdGVzJywKICAgICAgICAnbW9iaWxlOnN0eWxlcycsCiAgICAgICAgJ21vYmlsZTpmb250cycsCiAgICAgICAgJ21vYmlsZTppbWFnZXMnLAogICAgICAgICdtb2JpbGU6bGF1bmNobXlhcHAnLAogICAgICAgICdtb2JpbGU6bGliJywKICAgICAgICAnY2NhOm1hbmlmZXN0JywKICAgICAgICAnY2NhOmJhY2tncm91bmQnCiAgICAgIF0sCiAgICAgICdtb2JpbGU6anNwbScsCiAgICAgICdjY2E6amF2YScsCiAgICAgICdjY2E6ZHJhd2FibGVzJywKICAgICAgJ21vYmlsZTpzeXN0ZW0nLAogICAgICAnbW9iaWxlOmNvcHk6Y29uZmlnJywKICAgICAgJ21vYmlsZTppbmplY3QnLAogICAgICAnbW9iaWxlOmNsZWFuOnBvc3QnLAogICAgICBjYik7CiAgfSk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNVDogYXJncy5tdAo=</text>
+        <text encoding="base64">ICAgICAgJ21vYmlsZTpzeXN0ZW0nLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>middle</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ3dlYjp0ZW1wbGF0ZXMnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNVDogYXJncy5tdAo=</text>
+        <text encoding="base64">ICAgICAgJ21vYmlsZTpzeXN0ZW0nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gJ3dlYjplbnZpcm9ubWVudCcsCg==</text>
+        <text encoding="base64">ICAgICAgJ21vYmlsZTpjb3B5OmNvbmZpZycsCiAgICAgICdtb2JpbGU6Y2xlYW46cG9zdCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZW52OiAnLCBhcmdzLmVudiwgY3VycmVudEVudkZsYWcpOwo=</text>
+        <text encoding="base64">ICAgICAgJ21vYmlsZTppbmplY3QnLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>l</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgJ21vYmlsZTpqc3BtJywK</text>
       </register>
-      <register name="5" type="4">
-        <text>F</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgXSwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>'</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIyBEZXZlbG9waW5nIHdpdGggYSBsb2NhbCBtaWRkbGV0aWVyCgpJZiB5b3UgYXJlIHdvcmtpbmcgb24gY29kZSB0aGF0IHVzZXMgdGhlIG1pZGRsZXRpZXIgdGhlbiB5b3UnbGwgbmVlZCB0byBydW4gYSBjb3B5IG9mIHRoZSBtaWRkbGV0aWVyIGxvY2FsbHkgZHVyaW5nIGRldmVsb3BtZW50LgoKVG8gZG8gdGhpcyBjaGVjayBvdXQgdGhlIG1pZGRsZXRpZXIgY29kZWJhc2UgZnJvbSBbaHR0cHM6Ly9naXRodWIuY29tL0pJRkZpbmMvbWlkZGxldGllcl0oKSBhbmQgZm9sbG93IHRoZSBkaXJlY3Rpb25zIHRoZXJlLgoKT25jZSB5b3UgaGF2ZSBhIGNvcHkgb2YgdGhlIG1pZGRsZXRpZXIgdXAgYW5kIHJ1bm5pbmcgdGhlbiBzdGFydCBndWxwIGluIGRldmVsb3BtZW50IG1vZGUgbG9jYWxseSB3aXRoIHRoZSBgLS1tdGAgZmxhZyAobWFrZSBzdXJlIHlvdSBkbyBpdCBmcm9tIGluc2lkZSBhIGAuL2ppZmYtZGV2LnNoIHNoZWxsYCBzaGVsbCkKCmBgYCBiYXNoCmd1bHAgLS1lbnYgZGV2IC0tbXQKYGBgCg==</text>
+        <text encoding="base64">ICAgICAgJ21vYmlsZTpjbGVhbicsCiAgICAgICdjb3B5OnRyYWNldXInLAogICAgICBbCiAgICAgICAgJ21vYmlsZTptb2R1bGVzJywKICAgICAgICAnbW9iaWxlOnNjcmlwdHMnLAogICAgICAgICdtb2JpbGU6ZGVwZW5kZW5jaWVzJywKICAgICAgICAnbW9iaWxlOnRlbXBsYXRlcycsCiAgICAgICAgJ21vYmlsZTpzdHlsZXMnLAogICAgICAgICdtb2JpbGU6Zm9udHMnLAogICAgICAgICdtb2JpbGU6aW1hZ2VzJywKICAgICAgICAnbW9iaWxlOmxhdW5jaG15YXBwJywKICAgICAgICAnbW9iaWxlOmxpYicsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>jiff.Incentives.Common</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBndWxwLnRhc2soJ2FuZHJvaWQ6Y29tcGlsZScsIGZ1bmN0aW9uKGNiKSB7CiAgICByZXR1cm4gcnVuKAogICAgICAnbW9iaWxlOmNsZWFuJywKICAgICAgJ2NvcHk6dHJhY2V1cicsCiAgICAgIFsKICAgICAgICAnbW9iaWxlOm1vZHVsZXMnLAogICAgICAgICdtb2JpbGU6c2NyaXB0cycsCiAgICAgICAgJ21vYmlsZTpkZXBlbmRlbmNpZXMnLAogICAgICAgICdtb2JpbGU6dGVtcGxhdGVzJywKICAgICAgICAnbW9iaWxlOnN0eWxlcycsCiAgICAgICAgJ21vYmlsZTpmb250cycsCiAgICAgICAgJ21vYmlsZTppbWFnZXMnLAogICAgICAgICdtb2JpbGU6bGF1bmNobXlhcHAnLAogICAgICAgICdtb2JpbGU6bGliJywKICAgICAgICAnY2NhOm1hbmlmZXN0JywKICAgICAgICAnY2NhOmJhY2tncm91bmQnCiAgICAgIF0sCiAgICAgICdtb2JpbGU6anNwbScsCiAgICAgICdjY2E6amF2YScsCiAgICAgICdjY2E6ZHJhd2FibGVzJywKICAgICAgJ21vYmlsZTpzeXN0ZW0nLAogICAgICAnbW9iaWxlOmNvcHk6Y29uZmlnJywKICAgICAgJ21vYmlsZTppbmplY3QnLAogICAgICAnbW9iaWxlOmNsZWFuOnBvc3QnLAogICAgICBjYik7CiAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -160,7 +172,9 @@
     <search>
       <last-search>middle</last-search>
       <last-offset />
-      <last-pattern>middle</last-pattern>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -173,9 +187,12 @@
         <entry encoding="base64">XDxkZWJ1Z1w+</entry>
         <entry>.log</entry>
         <entry>middle</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJ2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
