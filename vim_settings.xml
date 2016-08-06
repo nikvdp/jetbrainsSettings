@@ -23,6 +23,12 @@
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/tests/StyleStringBuilder.spec.js" timestamp="1469142687441">
         <mark key="'" line="5" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/personal/crypter/package.json" timestamp="1470451641695">
+        <mark key="'" line="14" column="17" />
+      </file>
+      <file name="/a.dummy" timestamp="1470451667685">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/constants/JFLanguages.js" timestamp="1469122442325">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="25" />
@@ -155,6 +161,23 @@
       <jump line="26" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" />
       <jump line="11" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" />
       <jump line="11" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" />
+      <jump line="6" column="3" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="15" column="18" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="21" column="14" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="23" column="19" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="24" column="26" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="41" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="42" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="43" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="44" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="45" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="46" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="47" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="48" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="52" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="10" column="20" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="11" column="22" filename="$USER_HOME$/Code/personal/crypter/package.json" />
+      <jump line="14" column="17" filename="$USER_HOME$/Code/personal/crypter/package.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -167,7 +190,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWJ1Z1w+</text>
+        <text>babel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnbW9iaWxlOmxhdW5jaG15YXBwJywK</text>
@@ -204,9 +227,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWJ1Z1w+</last-search>
+      <last-search>babel</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWJ1Z1w+</last-pattern>
+      <last-pattern>babel</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -223,6 +246,7 @@
         <entry>&quot;</entry>
         <entry>lib</entry>
         <entry encoding="base64">XDxkZWJ1Z1w+</entry>
+        <entry>babel</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
