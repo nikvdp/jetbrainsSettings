@@ -80,12 +80,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" timestamp="1470722792239">
-        <mark key="'" line="31" column="61" />
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="8" />
-        <mark key="." line="24" column="8" />
-        <mark key="^" line="24" column="10" />
+      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" timestamp="1470726513085">
+        <mark key="'" line="21" column="29" />
+        <mark key="[" line="11" column="72" />
+        <mark key="]" line="11" column="73" />
+        <mark key="." line="11" column="73" />
+        <mark key="^" line="26" column="37" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter2/src/App.js" timestamp="1469762709519">
         <mark key="[" line="10" column="36" />
@@ -195,70 +195,80 @@
       <jump line="11" column="7" filename="$USER_HOME$/tmp/volley-rank-resources/index.js" />
       <jump line="15" column="8" filename="$USER_HOME$/tmp/volley-rank-resources/index.js" />
       <jump line="41" column="23" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
-      <jump line="42" column="23" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
       <jump line="49" column="44" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
-      <jump line="21" column="32" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
       <jump line="55" column="21" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
       <jump line="63" column="8" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
-      <jump line="36" column="5" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
       <jump line="14" column="2" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
       <jump line="13" column="18" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
       <jump line="64" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
-      <jump line="19" column="70" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
       <jump line="32" column="61" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="42" column="9" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="18" column="74" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="50" column="34" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="36" column="4" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="12" column="24" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="34" column="2" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="22" column="23" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="51" column="38" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="11" column="32" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="19" column="36" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
+      <jump line="21" column="29" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZnVuY3Rpb24gcHJvY2Vzc1BkZihyZXNvdXJjZSkgewoKfQoKZnVuY3Rpb24gcHJvY2Vzc1dlYlBhZ2UocmVzb3VyY2UpIHsKICByZXR1cm4gcmVhZChyZXNvdXJjZS51cmwpCiAgICAudGhlbihhcnRpY2xlID0+IHsKICAgICAgcmVzb3VyY2UudGV4dCA9IGFydGljbGUuY29udGVudCA/IGFydGljbGUuY29udGVudCA6ICcnOwogICAgICBjb25zb2xlLmxvZygnc3RvcmluZyB0ZXh0IGZvciBbJXNdJywgcmVzb3VyY2UudXJsKTsKICAgICAgLy8gcmVtb3ZlIEhUTUwKICAgICAgLy8gVE9ETzogZG8gdGhpcyBwcm9wZXJseSBpbnN0ZWFkIG9mIHJlZ2V4aW5nCiAgICAgIHJlc291cmNlLnRleHQgPSByZXNvdXJjZS50ZXh0LnJlcGxhY2UoLzxbXj5dKz4vZywgJycpOwogICAgICByZXR1cm4gcmVzb3VyY2U7CiAgICB9KQogICAgLmNhdGNoKGVyciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCJFcnJvciBmb3IgdXJsOiBbJXNdOiAiLCByZXNvdXJjZS51cmwsIGVyci5tZXNzYWdlKQogICAgfSk7Cgp9Cgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.th</text>
+        <text encoding="base64">LCAocmVzb3VyY2VXaXRoQ29udGVudCwgaWR4KSA9PiB7CiAgICBpdGVtLnJlc291cmNlc1tpZHhdID0gcmVzb3VyY2VXaXRoQ29udGVudDsKICB9LCB7Y29uY3VycmVuY3k6IDF9KQ==</text>
       </register>
       <register name="-" type="4">
-        <text>.th</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
-        <text>babel</text>
+        <text>replace</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRiLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBkYi51cGRhdGVPbmUoeyJfaWQiOiBkb2NJZH0sIHskc2V0OiB7cmVzb3VyY2VzfX0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LCAocmVzb3VyY2VXaXRoQ29udGVudCwgaWR4KSA9PiB7CiAgICBpdGVtLnJlc291cmNlc1tpZHhdID0gcmVzb3VyY2VXaXRoQ29udGVudDsKICB9LCB7Y29uY3VycmVuY3k6IDF9KQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGA+Pj4gUHJlcGFyaW5nIHRvIHVwZGF0ZSByZXNvdXJjZXMgZm9yIHF1ZXJ5ICR7aXRlbS5xdWVyeX1gKTsKICAgICAgICAgIHJldHVybiBkYi51cGRhdGVPbmUoeyJfaWQiOiBkb2NJZH0sIHskc2V0OiB7cmVzb3VyY2VzfX0pOwo=</text>
+        <text encoding="base64">ICBQcm9taXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihyZXNvdXJjZXMgPT4gewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBmdW5jdGlvbiBnZXRSZXN1bHRzKGRiLCBpZCkgewogICAgbGV0IGRvY0lkID0gaXRlbS5faWQ7CiAgICAvLyBjb25zb2xlLmxvZyhgUXVldWluZyB1cCByZXNvdXJjZXMgZm9yIHF1ZXJ5IFske2l0ZW0ucXVlcnl9XS5gKTsKICAgIGxldCByZXNvdXJjZVByb21pc2VzID0gaXRlbS5yZXNvdXJjZXMubWFwKHJlc291cmNlID0+IHsKICAgICAgICBpZiAocmVzb3VyY2UpIHsKICAgICAgICAgIGxldCB1cmwgPSByZXNvdXJjZS51cmwucmVwbGFjZSgvXD9bXi9dKyQvLCAnJyk7IC8vIHN0cmlwIG9mZiBhbnkgcXVlcnkgc3RyaW5ncwogICAgICAgICAgcmV0dXJuIHVybC5tYXRjaCgvcGRmJC9pKSA/IHByb2Nlc3NQZGYocmVzb3VyY2UpIDogcHJvY2Vzc1dlYlBhZ2UocmVzb3VyY2UpOwogICAgICAgIH0KICAgICAgfSk7CgogICAgUHJvbWlzZS5tYXAocmVzb3VyY2VQcm9taXNlcywgKHJlc291cmNlV2l0aENvbnRlbnQsIGlkeCkgPT4gewogICAgICBpdGVtLnJlc291cmNlc1tpZHhdID0gcmVzb3VyY2VXaXRoQ29udGVudDsKICAgIH0sIHtjb25jdXJyZW5jeTogMX0pCiAgICAgIC50aGVuKHJlc291cmNlcyA9PiB7CiAgICAgICAgY29uc29sZS5sb2coYFVwZGF0aW5nIGlkICR7aXRlbS5faWR9IGZvciBxdWVyeSBbJHtpdGVtLnF1ZXJ5fV1gKTsKICAgICAgICByZXR1cm4gZGIudXBkYXRlT25lKHsiX2lkIjogZG9jSWR9LCB7JHNldDoge3Jlc291cmNlc319KTsKICAgICAgfSkKICAgICAgLnRoZW4odXBkYXRlUmVzcCA9PiB7CiAgICAgICAgaWYgKHVwZGF0ZVJlc3AucmVzdWx0KSB7CiAgICAgICAgICBjb25zb2xlLmxvZygiWyVzXSB1cGRhdGUgLi4uIERPTkUhIiwgaXRlbS5faWQpOwogICAgICAgIH0KICAgICAgfSkKICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgY29uc29sZS5sb2coIlslc10gdXBkYXRlIC4uLiBGQUlMRUQhIiwgaXRlbS5faWQpOwogICAgICB9KTsKICB9KQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkb2NzLmZvckVhY2goaXRlbSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYFN0YXJ0IHByb2Nlc3NpbmcgaWQgJHtpdGVtLl9pZH1gKTsK</text>
+        <text encoding="base64">ICAgIGZvckVhY2goaXRlbSA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGBQcm9jZXNzaW5nIHVybCBbJHt1cmx9XS4uLmApOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>babel</last-search>
+      <last-search>replace</last-search>
       <last-offset />
-      <last-pattern>babel</last-pattern>
+      <last-pattern>replace</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -276,6 +286,7 @@
         <entry>lib</entry>
         <entry encoding="base64">XDxkZWJ1Z1w+</entry>
         <entry>babel</entry>
+        <entry>replace</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
