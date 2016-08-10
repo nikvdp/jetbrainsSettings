@@ -57,12 +57,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" timestamp="1470867772243">
-        <mark key="'" line="14" column="47" />
-        <mark key="[" line="45" column="12" />
-        <mark key="]" line="45" column="12" />
-        <mark key="." line="45" column="12" />
-        <mark key="^" line="41" column="36" />
+      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" timestamp="1470869281157">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="20" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/templates.js" timestamp="1469069122154">
         <mark key="[" line="2" column="0" />
@@ -219,49 +219,53 @@
       <jump line="72" column="5" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="41" column="48" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="14" column="47" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="52" column="54" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="22" column="17" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="48" column="15" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICBndWxwLnRhc2soJ2FuZHJvaWQ6Y29tcGlsZScsIGZ1bmN0aW9uKGNiKSB7CiAgICByZXR1cm4gcnVuKAogICAgICAnbW9iaWxlOmNsZWFuJywKICAgICAgJ2NvcHk6dHJhY2V1cicsCiAgICAgIFsKICAgICAgICAnbW9iaWxlOm1vZHVsZXMnLAogICAgICAgICdtb2JpbGU6c2NyaXB0cycsCiAgICAgICAgJ21vYmlsZTpkZXBlbmRlbmNpZXMnLAogICAgICAgICdtb2JpbGU6dGVtcGxhdGVzJywKICAgICAgICAnbW9iaWxlOnN0eWxlcycsCiAgICAgICAgJ21vYmlsZTpmb250cycsCiAgICAgICAgJ21vYmlsZTppbWFnZXMnLAogICAgICAgICdtb2JpbGU6bGF1bmNobXlhcHAnLAogICAgICAgICdtb2JpbGU6bGliJywKICAgICAgICAnY2NhOm1hbmlmZXN0JywKICAgICAgICAnY2NhOmJhY2tncm91bmQnCiAgICAgIF0sCiAgICAgICdtb2JpbGU6anNwbScsCiAgICAgICdjY2E6amF2YScsCiAgICAgICdjY2E6ZHJhd2FibGVzJywKICAgICAgJ21vYmlsZTpzeXN0ZW0nLAogICAgICAnbW9iaWxlOmNvcHk6Y29uZmlnJywKICAgICAgJ21vYmlsZTppbmplY3QnLAogICAgICAnbW9iaWxlOmNsZWFuOnBvc3QnLAogICAgICBjYik7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICMgYW5kIGRyYXcgbGluZXMgb3ZlciB0aGVtIHRvIHRlc3QKICAgIG91dCA9IG5wLmNvcHkoc3JjKQogICAgZm9yIHJuZyBpbiByYW5nZXM6CiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uocm5nWzBdLCBybmdbMV0pOgogICAgICAgICAgICBjdjIubGluZShvdXQsIChpLCAwKSwgKGksIGhlaWdodCksICgyNTUsMCwwKSwxKQoKICAgIGN2Mi5pbXdyaXRlKCcvVXNlcnMvbmlrL0Rlc2t0b3AvZ2xvc3MxLWxpbmVkLnBuZycsIG91dCkKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b3V0IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3V0IA==</text>
+        <text>$USER_HOME$/Desktop/gloss1.png</text>
       </register>
       <register name="/" type="4">
         <text>range</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNyYyA9IGN2Mi5pbXJlYWQoJy9Vc2Vycy9uaWsvRGVza3RvcC9nbG9zczEucG5nJywgMCkK</text>
+        <text encoding="base64">ICAgIHNyYyA9IGN2Mi5pbXJlYWQoJy9Vc2Vycy9uaWsvRGVza3RvcC9nbG9zczEucG5nJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgY2F0Y2ggYW55IGxhc3QgdHJhaWxpbmcgcmFuZ2VzCiAgICBpZiBpbl9jb2x1bW46CiAgICAgICAgcmFuZ2VzLmFwcGVuZCgoc3RhcnQsIGlkeCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN2Mi5pbXJlYWQoJywgMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdS5kYgo=</text>
+        <text encoding="base64">ICAgICMgYW5kIGRyYXcgbGluZXMgb3ZlciB0aGVtIHRvIHRlc3QKICAgIG91dCA9IG5wLmNvcHkoc3JjKQogICAgZm9yIHJuZyBpbiByYW5nZXM6CiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uocm5nWzBdLCBybmdbMV0pOgogICAgICAgICAgICBjdjIubGluZShvdXQsIChpLCAwKSwgKGksIGhlaWdodCksICgyNTUsMCwwKSwxKQoKICAgIGN2Mi5pbXdyaXRlKCcvVXNlcnMvbmlrL0Rlc2t0b3AvZ2xvc3MxLWxpbmVkLnBuZycsIG91dCkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdyYXlfaW1hZ2UgPSBjdjIuY3Z0Q29sb3IoaW1hZ2UsICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5vd2F5dGhpc2lzYW55d2hlcmUgPSBbMTAwLSgoeCAvIGhlaWdodCkqMTAwKSBmb3IgeCBpbiBjb2xfc3Vtc10KICAgIHd0aCA9IG1hcChsYW1iZGEgeDogMTAwLSgoeCAvIGhlaWdodCkqMTAwKSwgY29sX3N1bXMpCg==</text>
+        <text encoding="base64">ICAgICMgY2F0Y2ggYW55IGxhc3QgdHJhaWxpbmcgcmFuZ2VzCiAgICBpZiBpbl9jb2x1bW46CiAgICAgICAgcmFuZ2VzLmFwcGVuZCgoc3RhcnQsIGlkeCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHd0aAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN2Mi5pbXJlYWQoJywgMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
