@@ -57,6 +57,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" timestamp="1470863662513">
+        <mark key="'" line="23" column="12" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+        <mark key="^" line="23" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/templates.js" timestamp="1469069122154">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -193,49 +200,56 @@
       <jump line="14" column="17" filename="$USER_HOME$/Code/personal/crypter/package.json" />
       <jump line="11" column="7" filename="$USER_HOME$/tmp/volley-rank-resources/index.js" />
       <jump line="15" column="8" filename="$USER_HOME$/tmp/volley-rank-resources/index.js" />
+      <jump line="11" column="20" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="15" column="28" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="10" column="20" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="19" column="9" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="23" column="12" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICBndWxwLnRhc2soJ2FuZHJvaWQ6Y29tcGlsZScsIGZ1bmN0aW9uKGNiKSB7CiAgICByZXR1cm4gcnVuKAogICAgICAnbW9iaWxlOmNsZWFuJywKICAgICAgJ2NvcHk6dHJhY2V1cicsCiAgICAgIFsKICAgICAgICAnbW9iaWxlOm1vZHVsZXMnLAogICAgICAgICdtb2JpbGU6c2NyaXB0cycsCiAgICAgICAgJ21vYmlsZTpkZXBlbmRlbmNpZXMnLAogICAgICAgICdtb2JpbGU6dGVtcGxhdGVzJywKICAgICAgICAnbW9iaWxlOnN0eWxlcycsCiAgICAgICAgJ21vYmlsZTpmb250cycsCiAgICAgICAgJ21vYmlsZTppbWFnZXMnLAogICAgICAgICdtb2JpbGU6bGF1bmNobXlhcHAnLAogICAgICAgICdtb2JpbGU6bGliJywKICAgICAgICAnY2NhOm1hbmlmZXN0JywKICAgICAgICAnY2NhOmJhY2tncm91bmQnCiAgICAgIF0sCiAgICAgICdtb2JpbGU6anNwbScsCiAgICAgICdjY2E6amF2YScsCiAgICAgICdjY2E6ZHJhd2FibGVzJywKICAgICAgJ21vYmlsZTpzeXN0ZW0nLAogICAgICAnbW9iaWxlOmNvcHk6Y29uZmlnJywKICAgICAgJ21vYmlsZTppbmplY3QnLAogICAgICAnbW9iaWxlOmNsZWFuOnBvc3QnLAogICAgICBjYik7CiAgfSk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>test_database</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgcHJpbnQgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>test_database</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>babel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnbW9iaWxlOmxhdW5jaG15YXBwJywK</text>
+      <register name="0" type="4">
+        <text>sum(dest[x])/255</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xpZW50ID0gTW9uZ29DbGllbnQoKQo=</text>
+        <text encoding="base64">ICAgcHJpbnQgCg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">Pj4+IAo+Pj4g</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgcHJpbnQgIiVzeCVzIGltYWdlIiAlICh3aWR0aCwgaGVpZ2h0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgcHJpbnQgKGNvbF9zdW1zIC8gaGVpZ2h0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgZm9yIHggaW4gCiAgICAgICBwcmludCBzdW0oZGVzdFt4XSkvMjU1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgZGVzdC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -290,6 +304,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
