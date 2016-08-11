@@ -57,12 +57,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" timestamp="1470880777745">
-        <mark key="'" line="41" column="7" />
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="15" column="43" />
-        <mark key="^" line="21" column="77" />
-        <mark key="." line="15" column="43" />
+      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" timestamp="1470882387201">
+        <mark key="'" line="16" column="24" />
+        <mark key="[" line="18" column="63" />
+        <mark key="k" line="25" column="46" />
+        <mark key="]" line="18" column="64" />
+        <mark key="^" line="18" column="64" />
+        <mark key="." line="18" column="64" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/templates.js" timestamp="1469069122154">
         <mark key="[" line="2" column="0" />
@@ -212,13 +213,11 @@
       <jump line="42" column="43" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="23" column="17" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="72" column="5" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
-      <jump line="14" column="47" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="52" column="54" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="22" column="17" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="48" column="15" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
-      <jump line="16" column="16" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="64" column="19" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="15" column="19" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="1" column="8" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
@@ -236,49 +235,52 @@
       <jump line="51" column="33" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="166" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
       <jump line="40" column="7" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="14" column="13" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="65" column="11" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
+      <jump line="16" column="24" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/nik.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICMgYW5kIGRyYXcgbGluZXMgb3ZlciB0aGVtIHRvIHRlc3QKICAgIG91dCA9IG5wLmNvcHkoc3JjKQogICAgZm9yIHJuZyBpbiByYW5nZXM6CiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uocm5nWzBdLCBybmdbMV0pOgogICAgICAgICAgICBjdjIubGluZShvdXQsIChpLCAwKSwgKGksIGhlaWdodCksICgyNTUsMCwwKSwxKQoKICAgIGN2Mi5pbXdyaXRlKCcvVXNlcnMvbmlrL0Rlc2t0b3AvZ2xvc3MxLWxpbmVkLnBuZycsIG91dCkKCg==</text>
+        <text encoding="base64">ICAgICAgICBjdjIuaW13cml0ZShvdXRmaWxlX2Jhc2UgKyAnLSVzLnBuZycgJSBpZHgsIHNsaWNlKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltZyA9IGN2Mi50cmFuc3Bvc2Uoc3JjWzA6aGVpZ2h0LTEsIGxhc3RfeDpzcGxpdF0pCg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aGVpZ2h0LCB3aWR0aCA=</text>
+        <text>:-1</text>
       </register>
       <register name="/" type="4">
         <text>range</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcgPSBjdjIudHJhbnNwb3NlKHNyY1swOmhlaWdodC0xLCBsYXN0X3g6c3BsaXRdKQo=</text>
+      <register name="0" type="4">
+        <text>sys.argv[1]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltZyA9IGN2Mi50cmFuc3Bvc2Uoc3JjWzA6aGVpZ2h0LTEsIGxhc3RfeDpzcGxpdF0pCg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltZyA9IGN2Mi50cmFuc3Bvc2Uoc3JjWzA6aGVpZ2h0LTEsIGxhc3RfeDpzcGxpdF0pCg==</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRhcmdldF9zcGxpdF9zaXplIC09IDEgIyBkZWNyZW1lbnQgdGhpcyB0byBhY2NvdW50IGZvciBsYXN0IHF1YWRyYW50Cg==</text>
+        <text encoding="base64">ICAgIG91dGZpbGVfYmFzZSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJXcml0aW5nIHNwbGl0ICVzIHRvICVzIiAlIChzcGxpdCwgZm4pCg==</text>
+        <text encoding="base64">ICAgIG9zLnBhdGguc3BsaXRleHQoc3lzLmFyZ3ZbMV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltYWdlcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIG91dGZpbGVfYmFzZSA9IG9zLnBhdGguc3BsaXRleHQoaW5maWxlKVswXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNtYWxsZXN0X2lkeCA9IGlkeAo=</text>
+        <text encoding="base64">ICAgIHNwbGl0X3Jvd3MoJy9Vc2Vycy9uaWsvRGVza3RvcC9nbG9zczEtMi5wbmcnLCApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzbWFsbGVzdF9pZHggPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIGZuID0gJ3Rlc3QtJXMucG5nJyAlIChpZHgrMSkKICAgIHByaW50ICJXcml0aW5nIHNwbGl0ICMlcyAoJXMpIHRvICVzIiAlIChpZHgrMSwgc3BsaXQsIGZuKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmbiA9ICd0ZXN0LSVzLnBuZycgJSAoaWR4KzEpCiAgICAgICAgcHJpbnQgIldyaXRpbmcgc3BsaXQgIyVzICglcykgdG8gJXMiICUgKGlkeCsxLCBzcGxpdCwgZm4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJvd3MgPSBbc3BsaXRfcm93c10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
