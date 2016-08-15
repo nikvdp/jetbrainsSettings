@@ -45,12 +45,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" timestamp="1471293933695">
-        <mark key="'" line="131" column="31" />
-        <mark key="[" line="137" column="17" />
-        <mark key="]" line="137" column="16" />
-        <mark key="." line="137" column="16" />
-        <mark key="^" line="137" column="16" />
+      <file name="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" timestamp="1471294825089">
+        <mark key="'" line="133" column="7" />
+        <mark key="[" line="137" column="11" />
+        <mark key="]" line="137" column="25" />
+        <mark key="." line="137" column="25" />
+        <mark key="^" line="137" column="25" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" timestamp="1469122583486">
         <mark key="[" line="2" column="16" />
@@ -186,12 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="3" filename="$USER_HOME$/Code/personal/crypter/package.json" />
-      <jump line="15" column="18" filename="$USER_HOME$/Code/personal/crypter/package.json" />
-      <jump line="21" column="14" filename="$USER_HOME$/Code/personal/crypter/package.json" />
-      <jump line="23" column="19" filename="$USER_HOME$/Code/personal/crypter/package.json" />
-      <jump line="24" column="26" filename="$USER_HOME$/Code/personal/crypter/package.json" />
-      <jump line="41" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
       <jump line="42" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
       <jump line="43" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
       <jump line="44" column="5" filename="$USER_HOME$/Code/personal/crypter/package.json" />
@@ -280,64 +274,70 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="18" column="69" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="23" column="22" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
-      <jump line="134" column="56" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="209" column="4" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="33" column="10" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="122" column="14" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="131" column="31" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="210" column="4" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="39" column="27" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="104" column="36" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="150" column="4" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="167" column="4" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="134" column="3" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="133" column="7" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGZvciBjaWR4LCBjb2wgaW4gZW51bWVyYXRlKGNvbHVtbnMpOgogICAgICAgIGZuID0gIiVzLWNvbCVzLnBuZyIgJSAob3MucGF0aC5qb2luKHNvdXJjZV9kaXIsIG9zLnBhdGguc3BsaXRleHQoc291cmNlX2ZuKVswXSArICcucG5nJyksIGNpZHgpCiAgICAgICAgcHJpbnQgIldyaXRpbmcgaW1hZ2UgJXMuLi4iICUgKGZuKSwKICAgICAgICBjdjIuaW13cml0ZShmbiwgY29sKQogICAgICAgIHByaW50ICJET05FIgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>String.for</text>
+        <text>line_heights</text>
       </register>
       <register name="-" type="4">
-        <text>String.for</text>
+        <text>line_heights</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kX2NvbHVtbl9zcGxpdHNcPg==</text>
+        <text encoding="base64">XDxmaW5kX2xpbmVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdyaWQgPSBbZmluZF9yb3dfc3BsaXRzKGNvbCwgbWF4X2xpbmVfc2l6ZT0yNSwgdGhyZXNob2xkPTk4KSBmb3IgY29sIGluIGNvbHVtbnNdCg==</text>
+        <text encoding="base64">ICAgIHJhbmdlcyA9IGZpbmRfd2hpdGVzcGFjZV9yYW5nZXMoc3JjLCBtaW5fcmFuZ2Vfd2lkdGg9MSwgdGhyZXNob2xkPXRocmVzaG9sZCwgdmVydGljYWw9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldF9zcGxpdF9ncmlkKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChzb3VyY2VfZGlyLCBzb3VyY2VfZm4pID0gZ2V0X2ZuX2luZm8oc291cmNlX2ZpbGUpCiAgICBjb2x1bW5zID0gZmluZF9jb2x1bW5fc3BsaXRzKGN2Mi5pbXJlYWQoc291cmNlX2ZpbGUpKQogICAgZ3JpZCA9IFtmaW5kX3Jvd19zcGxpdHMoY29sLCBtYXhfbGluZV9zaXplPTI1LCB0aHJlc2hvbGQ9OTgpIGZvciBjb2wgaW4gY29sdW1uc10K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNyYyA9IGN2Mi5pbXJlYWQoaW5maWxlKQo=</text>
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBnbG9iIGltcG9ydCBnbG9iCg==</text>
+        <text encoding="base64">ICAgIGZpbmRfcm93X3NwbGl0cyhjb2wsIG1heF9saW5lX3NpemU9MjUsIHRocmVzaG9sZD05OCkgZm9yIGNvbCBpbiBjb2x1bW5zXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdyaWQgPSBnZXRfc3BsaXRfZ3JpZChzcmMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50IGluX2ZpbGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm4gPSAiJXNfJXNfJXMuJXMiICUgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50IG9wdGlvbnNbJ2luJ10K</text>
+        <text encoding="base64">ICAgIGdldF9zcGxpdF9ncmlkKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50IG9wdGlvbnMK</text>
+        <text encoding="base64">ICAgIChzb3VyY2VfZGlyLCBzb3VyY2VfZm4pID0gZ2V0X2ZuX2luZm8oc291cmNlX2ZpbGUpCiAgICBjb2x1bW5zID0gZmluZF9jb2x1bW5fc3BsaXRzKGN2Mi5pbXJlYWQoc291cmNlX2ZpbGUpKQogICAgZ3JpZCA9IFtmaW5kX3Jvd19zcGxpdHMoY29sLCBtYXhfbGluZV9zaXplPTI1LCB0aHJlc2hvbGQ9OTgpIGZvciBjb2wgaW4gY29sdW1uc10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IG9wdGlvbnMuaW4K</text>
+        <text encoding="base64">ICAgIHNyYyA9IGN2Mi5pbXJlYWQoaW5maWxlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaW5kX2NvbHVtbl9zcGxpdHNcPg==</last-search>
+      <last-search encoding="base64">XDxmaW5kX2xpbmVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kX2NvbHVtbl9zcGxpdHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kX2xpbmVzXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -357,7 +357,6 @@
         <entry encoding="base64">XDxub3dheXRoaXNpc2FueXdoZXJlXD4=</entry>
         <entry>range</entry>
         <entry>pudb</entry>
-        <entry encoding="base64">XDxmaW5kX2xpbmVzXD4=</entry>
         <entry encoding="base64">XDxiaXR3aXNlX25vdFw+</entry>
         <entry encoding="base64">XDxzdW1cPg==</entry>
         <entry encoding="base64">XDxsYW1iZGFcPg==</entry>
@@ -365,6 +364,7 @@
         <entry>license</entry>
         <entry>'</entry>
         <entry encoding="base64">XDxmaW5kX2NvbHVtbl9zcGxpdHNcPg==</entry>
+        <entry encoding="base64">XDxmaW5kX2xpbmVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
