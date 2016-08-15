@@ -20,7 +20,7 @@
       <file name="$USER_HOME$/Code/personal/crypter/package.json" timestamp="1470451641695">
         <mark key="'" line="14" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1470451667685">
+      <file name="/a.dummy" timestamp="1471292010673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter/src/App.js" timestamp="1469762118725">
@@ -44,6 +44,13 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" timestamp="1471293933695">
+        <mark key="'" line="131" column="31" />
+        <mark key="[" line="137" column="17" />
+        <mark key="]" line="137" column="16" />
+        <mark key="." line="137" column="16" />
+        <mark key="^" line="137" column="16" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" timestamp="1469122583486">
         <mark key="[" line="2" column="16" />
@@ -137,11 +144,11 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/setup.py" timestamp="1471290956872">
+      <file name="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/setup.py" timestamp="1471292067135">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="35" column="42" />
-        <mark key="]" line="35" column="58" />
-        <mark key="." line="35" column="58" />
+        <mark key="[" line="35" column="47" />
+        <mark key="]" line="35" column="48" />
+        <mark key="." line="35" column="48" />
         <mark key="^" line="35" column="58" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" timestamp="1469143003594">
@@ -179,15 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="10" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/questions/tests/skinifyUrlFilter.spec.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/tests/StyleStringBuilder.spec.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/tests/StyleStringBuilder.spec.js" />
-      <jump line="5" column="16" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/templates/tests/StyleStringBuilder.spec.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/mobile/index.js" />
-      <jump line="26" column="15" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" />
-      <jump line="11" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" />
-      <jump line="11" column="28" filename="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/modules.js" />
       <jump line="6" column="3" filename="$USER_HOME$/Code/personal/crypter/package.json" />
       <jump line="15" column="18" filename="$USER_HOME$/Code/personal/crypter/package.json" />
       <jump line="21" column="14" filename="$USER_HOME$/Code/personal/crypter/package.json" />
@@ -279,58 +277,67 @@
       <jump line="13" column="4" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf-book-parser/book-index-parser.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf-book-parser/book-index-parser.py" />
       <jump line="16" column="23" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf-book-parser/book-index-parser.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="18" column="69" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="23" column="22" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="134" column="56" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="209" column="4" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="33" column="10" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="122" column="14" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="131" column="31" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
+      <jump line="210" column="4" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGZvciBjaWR4LCBjb2wgaW4gZW51bWVyYXRlKGNvbHVtbnMpOgogICAgICAgIGZuID0gIiVzLWNvbCVzLnBuZyIgJSAob3MucGF0aC5qb2luKHNvdXJjZV9kaXIsIG9zLnBhdGguc3BsaXRleHQoc291cmNlX2ZuKVswXSArICcucG5nJyksIGNpZHgpCiAgICAgICAgcHJpbnQgIldyaXRpbmcgaW1hZ2UgJXMuLi4iICUgKGZuKSwKICAgICAgICBjdjIuaW13cml0ZShmbiwgY29sKQogICAgICAgIHByaW50ICJET05FIgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>cmd_line</text>
+        <text>String.for</text>
       </register>
       <register name="-" type="4">
-        <text>cmd_line</text>
+        <text>String.for</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text encoding="base64">XDxmaW5kX2NvbHVtbl9zcGxpdHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZW50cnlfcG9pbnRzPXsKICAgICAgICAgICJjb25zb2xlX3NjcmlwdHMiOiBbCiAgICAgICAgICAgICAgJ2tsaS1zcnYtdG9vbD1rbGluaWZ5X3NlcnZlcl90b29sLmNtZF9saW5lOm1haW4nLAogICAgICAgICAgXQogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGdyaWQgPSBbZmluZF9yb3dfc3BsaXRzKGNvbCwgbWF4X2xpbmVfc2l6ZT0yNSwgdGhyZXNob2xkPTk4KSBmb3IgY29sIGluIGNvbHVtbnNdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldF9zcGxpdF9ncmlkKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIldpbGwgYXR0ZW1wdCB0byB1c2UiCg==</text>
+        <text encoding="base64">ICAgIChzb3VyY2VfZGlyLCBzb3VyY2VfZm4pID0gZ2V0X2ZuX2luZm8oc291cmNlX2ZpbGUpCiAgICBjb2x1bW5zID0gZmluZF9jb2x1bW5fc3BsaXRzKGN2Mi5pbXJlYWQoc291cmNlX2ZpbGUpKQogICAgZ3JpZCA9IFtmaW5kX3Jvd19zcGxpdHMoY29sLCBtYXhfbGluZV9zaXplPTI1LCB0aHJlc2hvbGQ9OTgpIGZvciBjb2wgaW4gY29sdW1uc10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWFpbigpCg==</text>
+        <text encoding="base64">ICAgIHNyYyA9IGN2Mi5pbXJlYWQoaW5maWxlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZWZ0X2JvdW5kOgo=</text>
+        <text encoding="base64">ZnJvbSBnbG9iIGltcG9ydCBnbG9iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxpbmVfY29sX3N1bSA+IDA6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGluZV9jb2xfc3VtID4gMDoKICAgICAgICAgICAgICAgIGltcG9ydCBwdWRiOyBwdS5kYgo=</text>
+        <text encoding="base64">ICAgIHByaW50IGluX2ZpbGVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGluZV9jb2xfc3VtID4gMDoKICAgICAgICAgICAgICAgIGltcG9ydCBwdWRiOyBwdS5kYgo=</text>
+        <text encoding="base64">ICAgIHByaW50IG9wdGlvbnNbJ2luJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHUuZGIK</text>
+        <text encoding="base64">ICAgIHByaW50IG9wdGlvbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmlnaHRfYm91bmQ6CiAgICAgICAgICAgIHJpZ2h0X2JvdW5kID0gd2lkdGggLTEK</text>
+        <text encoding="base64">ICAgIHByaW50IG9wdGlvbnMuaW4K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLycvIi9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search encoding="base64">XDxmaW5kX2NvbHVtbl9zcGxpdHNcPg==</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kX2NvbHVtbl9zcGxpdHNcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -338,7 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scripts</entry>
         <entry>modules</entry>
         <entry>templates</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
@@ -358,6 +364,7 @@
         <entry>entry</entry>
         <entry>license</entry>
         <entry>'</entry>
+        <entry encoding="base64">XDxmaW5kX2NvbHVtbl9zcGxpdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -367,8 +374,8 @@
         <entry encoding="base64">JzwsJz5zL3JhbmdlL3JhL2dj</entry>
         <entry>q</entry>
         <entry>w:w</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
