@@ -63,12 +63,12 @@
         <mark key="." line="64" column="17" />
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472107399910">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="73" column="23" />
-        <mark key="]" line="74" column="3" />
-        <mark key="." line="74" column="3" />
-        <mark key="^" line="74" column="3" />
+      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472111325491">
+        <mark key="'" line="34" column="42" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="47" column="111" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/dependencies.js" timestamp="1469065689576">
         <mark key="[" line="2" column="0" />
@@ -201,12 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-923448878/cv2/__init__.py" />
-      <jump line="2332" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-923448878/cv2/__init__.py" />
-      <jump line="170" column="4" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
-      <jump line="28" column="19" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
-      <jump line="177" column="24" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
-      <jump line="300" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="278" column="4" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="282" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="267" column="8" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
@@ -269,7 +263,6 @@
       <jump line="24" column="20" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="7" column="32" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
-      <jump line="39" column="33" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="36" column="16" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="119" column="36" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf-book-parser/book-index-parser.py" />
       <jump line="118" column="12" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf-book-parser/book-index-parser.py" />
@@ -301,58 +294,65 @@
       <jump line="72" column="30" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
+      <jump line="67" column="4" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
+      <jump line="101" column="28" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
+      <jump line="73" column="4" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
+      <jump line="38" column="20" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
+      <jump line="19" column="20" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
+      <jump line="34" column="42" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc291cmNlc1tpZHhdID0gcmVzb3VyY2UKICAgICAgICAgICAgICAgIHF1ZXJ5X2RvY1sncmVzdWx0cyddID0gcmVzb3VyY2VzCiAgICAgICAgICAgICAgICBjb2xsZWN0aW9uLnJlcGxhY2Vfb25lKHsnX2lkJzogcXVlcnlfZG9jWydfaWQnXX0sIHF1ZXJ5X2RvYykKICAgICAgICAgICAgICAgIHByaW50ICJVcGRhdGVkIGRvY3VtZW50IHdpdGggaWQgJXMiICUgKHF1ZXJ5X2RvY1snX2lkJ10pCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>request</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>document</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFuc3Bvc2VcPg==</text>
+        <text encoding="base64">XDxkb19yZXF1ZXN0X2Zvcl9yZXNvdXJjZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>[r['link'] for r in old_rsrcs]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIiEhISBOb3QgYWJsZSB0byB1cGRhdGUgZG9jdW1lbnQgJXMgKG1vc3QgbGlrZWx5IHRvbyBsYXJnZSkiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9sZF91cmxzID0gW3JbJ2xpbmsnXSBmb3IgciBpbiBvbGRfcnNyY3NdCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcmVzb3VyY2UgaW4gcXVlcnlfZG9jWydyZXN1bHRzJ106Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeV9kb2NbJ3Jlc3VsdHMnXSA9IFt7cXF1ZXJ5X2RvY1sncmVzdWx0cyddKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NlZF9zb19mYXIgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcHJvZ3Jlc3Muc2VuZCgoZG9jX2lkLCB1cmwpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyByZXF1ZXN0cyA9IGV2ZW50bGV0LmltcG9ydF9wYXRjaGVkKCdyZXF1ZXN0cycpCg==</text>
+        <text encoding="base64">ICAgIHByaW50X3Byb2dyZXNzLnNlbmQoKGRvY19pZCwgdXJsKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFuc3Bvc2VcPg==</last-search>
+      <last-search encoding="base64">XDxkb19yZXF1ZXN0X2Zvcl9yZXNvdXJjZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFuc3Bvc2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkb19yZXF1ZXN0X2Zvcl9yZXNvdXJjZVw+</last-pattern>
       <last-replace>actual_split</last-replace>
       <last-substitute>opt_split</last-substitute>
       <last-dir>1</last-dir>
@@ -360,7 +360,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5kX2NvbHVtbl9zcGxpdHNcPg==</entry>
         <entry encoding="base64">XDxmaW5kX2xpbmVzXD4=</entry>
         <entry>row_</entry>
         <entry encoding="base64">XDxsaW5lc19wZXJfY2h1bmtcPg==</entry>
@@ -380,6 +379,7 @@
         <entry>opt_split</entry>
         <entry>find_row</entry>
         <entry encoding="base64">XDx0cmFuc3Bvc2VcPg==</entry>
+        <entry encoding="base64">XDxkb19yZXF1ZXN0X2Zvcl9yZXNvdXJjZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
