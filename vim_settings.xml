@@ -63,12 +63,12 @@
         <mark key="." line="64" column="17" />
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472111325491">
-        <mark key="'" line="34" column="42" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="47" column="111" />
+      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472242803305">
+        <mark key="'" line="47" column="96" />
+        <mark key="[" line="47" column="51" />
+        <mark key="]" line="47" column="51" />
+        <mark key="." line="47" column="51" />
+        <mark key="^" line="55" column="86" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/dependencies.js" timestamp="1469065689576">
         <mark key="[" line="2" column="0" />
@@ -201,8 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="4" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
-      <jump line="282" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="267" column="8" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="36" column="64" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="288" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
@@ -301,19 +299,21 @@
       <jump line="38" column="20" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="19" column="20" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="34" column="42" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
+      <jump line="84" column="4" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
+      <jump line="47" column="96" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc291cmNlc1tpZHhdID0gcmVzb3VyY2UKICAgICAgICAgICAgICAgIHF1ZXJ5X2RvY1sncmVzdWx0cyddID0gcmVzb3VyY2VzCiAgICAgICAgICAgICAgICBjb2xsZWN0aW9uLnJlcGxhY2Vfb25lKHsnX2lkJzogcXVlcnlfZG9jWydfaWQnXX0sIHF1ZXJ5X2RvYykKICAgICAgICAgICAgICAgIHByaW50ICJVcGRhdGVkIGRvY3VtZW50IHdpdGggaWQgJXMiICUgKHF1ZXJ5X2RvY1snX2lkJ10pCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>document</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb19yZXF1ZXN0X2Zvcl9yZXNvdXJjZVw+</text>
+        <text>large</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIiEhISBOb3QgYWJsZSB0byB1cGRhdGUgZG9jdW1lbnQgJXMgKG1vc3QgbGlrZWx5IHRvbyBsYXJnZSkiCg==</text>
@@ -350,9 +350,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb19yZXF1ZXN0X2Zvcl9yZXNvdXJjZVw+</last-search>
+      <last-search>large</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb19yZXF1ZXN0X2Zvcl9yZXNvdXJjZVw+</last-pattern>
+      <last-pattern>large</last-pattern>
       <last-replace>actual_split</last-replace>
       <last-substitute>opt_split</last-substitute>
       <last-dir>1</last-dir>
@@ -360,7 +360,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5kX2xpbmVzXD4=</entry>
         <entry>row_</entry>
         <entry encoding="base64">XDxsaW5lc19wZXJfY2h1bmtcPg==</entry>
         <entry>dest</entry>
@@ -380,6 +379,7 @@
         <entry>find_row</entry>
         <entry encoding="base64">XDx0cmFuc3Bvc2VcPg==</entry>
         <entry encoding="base64">XDxkb19yZXF1ZXN0X2Zvcl9yZXNvdXJjZVw+</entry>
+        <entry>large</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
