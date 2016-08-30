@@ -66,12 +66,12 @@
       <file name="/usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/dummy/__init__.py" timestamp="1472543871538">
         <mark key="'" line="150" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472545156689">
-        <mark key="'" line="32" column="3" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="32" column="3" />
+      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472545886254">
+        <mark key="'" line="82" column="9" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="27" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/dependencies.js" timestamp="1469065689576">
         <mark key="[" line="2" column="0" />
@@ -123,23 +123,23 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470964686848">
+      <file name="/Dummy.txt" timestamp="1472545168514">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/argparse.py" timestamp="1471313727854">
         <mark key="'" line="2373" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/requirements.txt" timestamp="1472541184692">
+      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/requirements.txt" timestamp="1472545237846">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="4" column="7" />
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/setup.py" timestamp="1471478220056">
-        <mark key="[" line="34" column="34" />
-        <mark key="]" line="34" column="50" />
-        <mark key="." line="34" column="50" />
-        <mark key="^" line="34" column="50" />
+      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/setup.py" timestamp="1472545371149">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="25" />
+        <mark key="." line="34" column="25" />
+        <mark key="^" line="34" column="25" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/constants/JFLanguages.js" timestamp="1469122442325">
         <mark key="[" line="2" column="16" />
@@ -193,17 +193,11 @@
       <file name="/a.txt" timestamp="1469126490274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/klinify/util_scripts/klinify-server-tool/setup.py" timestamp="1471290783125">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="13" column="7" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" timestamp="1469142998274">
         <mark key="'" line="11" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
-      <jump line="144" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="32" column="16" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="198" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
@@ -302,58 +296,60 @@
       <jump line="57" column="15" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="35" column="16" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="32" column="3" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
+      <jump line="66" column="53" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
+      <jump line="82" column="9" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHByaW50X3Byb2dyZXNzLnNlbmQoKGRvY19pZCwgdXJsKSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>20</text>
       </register>
       <register name="-" type="4">
-        <text>total_static</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmludF9wcm9ncmVzc1w+</text>
+        <text>eventlet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFBvb2wsIGNwdV9jb3VudCwgUXVldWUK</text>
+        <text encoding="base64">ICAgIHRocmVhZF9wb29sID0gVGhyZWFkUG9vbCgxMDApCiAgICB0aHJlYWRfcG9vbC5hcHBseSh3b3JrZXIpCiAgICB0aHJlYWRfcG9vbC5qb2luKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV2ZW50bGV0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50X3Byb2dyZXNzLm5leHQoKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggZXZlbnRsZXQuVGltZW91dCgxMCwgRmFsc2UpOgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50X3Byb2dyZXNzLm5leHQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1cnNvci5jbG9zZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhc2tfcXVldWUuago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBxdWVyeV9kb2MgaW4gY3Vyc29yOgogICAgICAgIHRhc2tfcXVldWUucHV0KHF1ZXJ5X2RvYykK</text>
+        <text encoding="base64">ICAgIGN1cnNvci5jbG9zZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb2NfcG9vbC5qb2luKCkK</text>
+        <text encoding="base64">ICAgIHRhc2tfcXVldWUuago=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiU2F2ZWQgdXBkYXRlZCByZXN1bHRzIGZvciBkb2N1bWVudCB3aXRoIGlkICVzIiAlIChkb2NfaWQpCg==</text>
+        <text encoding="base64">ICAgIGZvciBxdWVyeV9kb2MgaW4gY3Vyc29yOgogICAgICAgIHRhc2tfcXVldWUucHV0KHF1ZXJ5X2RvYykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmludF9wcm9ncmVzc1w+</last-search>
+      <last-search>eventlet</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmludF9wcm9ncmVzc1w+</last-pattern>
+      <last-pattern>eventlet</last-pattern>
       <last-replace>actual_split</last-replace>
       <last-substitute>opt_split</last-substitute>
       <last-dir>1</last-dir>
@@ -361,7 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>row_</entry>
         <entry encoding="base64">XDxsaW5lc19wZXJfY2h1bmtcPg==</entry>
         <entry>dest</entry>
         <entry encoding="base64">XDxwdWRiXD4=</entry>
@@ -381,6 +376,7 @@
         <entry encoding="base64">XDx0cmFuc3Bvc2VcPg==</entry>
         <entry encoding="base64">XDxwcm9ncmVzc19nZW5cPg==</entry>
         <entry encoding="base64">XDxwcmludF9wcm9ncmVzc1w+</entry>
+        <entry>eventlet</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
