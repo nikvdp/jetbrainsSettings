@@ -63,6 +63,11 @@
         <mark key="." line="64" column="17" />
         <mark key="^" line="64" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472577951434">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/dependencies.js" timestamp="1469065689576">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -300,7 +305,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc291cmNlc1tpZHhdID0gcmVzb3VyY2UKICAgICAgICAgICAgICAgIHF1ZXJ5X2RvY1sncmVzdWx0cyddID0gcmVzb3VyY2VzCiAgICAgICAgICAgICAgICBjb2xsZWN0aW9uLnJlcGxhY2Vfb25lKHsnX2lkJzogcXVlcnlfZG9jWydfaWQnXX0sIHF1ZXJ5X2RvYykKICAgICAgICAgICAgICAgIHByaW50ICJVcGRhdGVkIGRvY3VtZW50IHdpdGggaWQgJXMiICUgKHF1ZXJ5X2RvY1snX2lkJ10pCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXNvdXJjZToK</text>
+        <text encoding="base64">cmVkdWNlCg==</text>
       </register>
       <register name="-" type="4">
         <text>rank</text>
@@ -312,31 +317,31 @@
         <text encoding="base64">ICdyZXNvdXJjZXMn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXNvdXJjZToK</text>
+        <text encoding="base64">cmVkdWNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMgPSBxdWVyeV9kb2MuZ2V0KCdyZXN1bHRzJykKICAgICAgICBuZXdfcmVzb3VyY2VzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXNvdXJjZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcmVzb3VyY2UgaW4gdGhyZWFkX3Bvb2wuaW1hcChsYW1iZGEgcnNyYzogZG9fcmVxdWVzdF9mb3JfcmVzb3VyY2UocnNyYywgZG9jX2lkKSwgcmVzb3VyY2VzKToK</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMgPSBxdWVyeV9kb2MuZ2V0KCdyZXN1bHRzJykKICAgICAgICBuZXdfcmVzb3VyY2VzID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcmVzb3VyY2UgaW4gdGhyZWFkX3Bvb2wuaW1hcChsYW1iZGEgcnNyYzogZG9fcmVxdWVzdF9mb3JfcmVzb3VyY2UocnNyYywgZG9jX2lkKSwgcmVzb3VyY2VzKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRocmVhZF9wb29sID0gZXZlbnRsZXQuR3JlZW5Qb29sKCkgICMgYWxsb2NhdGVzIGEgcG9vbCBvZiAxMDAwIHRocmVhZHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVxdWVzdHMK</text>
+        <text encoding="base64">ICAgIHRocmVhZF9wb29sID0gZXZlbnRsZXQuR3JlZW5Qb29sKCkgICMgYWxsb2NhdGVzIGEgcG9vbCBvZiAxMDAwIHRocmVhZHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXZlbnRsZXQKc3BoaW54CnNwaGlueF9ydGRfdGhlbWUKbm9zZQpjb3ZlcmFnZQo=</text>
+        <text encoding="base64">cmVxdWVzdHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXZlbnRsZXQubW9ua2V5X3BhdGNoKCkgICMgdGhpcyBjYXVzZXMgbGF0ZXIgY2FsbHMgdG8gcmVxdWVzdHMgdG8gYmUgcnVuIHRocm91Z2ggZXZlbnRsZXQK</text>
+        <text encoding="base64">ZXZlbnRsZXQKc3BoaW54CnNwaGlueF9ydGRfdGhlbWUKbm9zZQpjb3ZlcmFnZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGV2ZW50bGV0Cg==</text>
+        <text encoding="base64">ZXZlbnRsZXQubW9ua2V5X3BhdGNoKCkgICMgdGhpcyBjYXVzZXMgbGF0ZXIgY2FsbHMgdG8gcmVxdWVzdHMgdG8gYmUgcnVuIHRocm91Z2ggZXZlbnRsZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
