@@ -63,12 +63,11 @@
         <mark key="." line="64" column="17" />
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1471557869254">
-        <mark key="'" line="36" column="16" />
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="42" />
-        <mark key="." line="35" column="42" />
-        <mark key="^" line="35" column="42" />
+      <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472540702964">
+        <mark key="'" line="20" column="7" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/dependencies.js" timestamp="1469065689576">
         <mark key="[" line="2" column="0" />
@@ -201,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="19" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
-      <jump line="186" column="0" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="16" column="26" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="27" column="65" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
       <jump line="168" column="48" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf_book_parser/index_parser.py" />
@@ -301,16 +298,18 @@
       <jump line="322" column="20" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf-book-parser/book-index-parser.py" />
       <jump line="345" column="34" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf-book-parser/book-index-parser.py" />
       <jump line="138" column="32" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf-book-parser/book-index-parser.py" />
+      <jump line="48" column="29" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
+      <jump line="20" column="7" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsID0gcmVzb3VyY2VbJ3VybCddCiAgICAgICAgICAgIGlmIHVybC5sb3dlcigpLmVuZHN3aXRoKCIucGRmIik6CiAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgcHJpbnQgIlN0YXJ0aW5nIHJlcXVlc3Qgb24gJXMiICUgdXJsCiAgICAgICAgICAgICAgICByZXEgPSByZXF1ZXN0cy5nZXQodXJsKQoKICAgICAgICAgICAgICAgICMgZG9uJ3QgZG8gYW55dGhpbmcgaWYgd2UncmUgbm90IGdldHRpbmcgaHRtbCBiYWNrIChlLmcuIHBkZikKICAgICAgICAgICAgICAgIGlmIHJlcS5oZWFkZXJzWydDb250ZW50LVR5cGUnXS5maW5kKCd0ZXh0L2h0bWwnKSA+IC0xOgogICAgICAgICAgICAgICAgICAgIHJlYWRhYmxlID0gRG9jdW1lbnQocmVxLnRleHQsIHVybD11cmwpCiAgICAgICAgICAgICAgICAgICAgcHJpbnQgImZpbmlzaGVkIHJlcXVlc3QiCiAgICAgICAgICAgICAgICAgICAgIyBpbXBvcnQgcHVkYjsgcHUuZGIKICAgICAgICAgICAgICAgICAgICByZWFkYWJsZS5zdW1tYXJ5KCkgICMgbWFrZSByZWFkYWJpbGl0eSBkbyBpdCdzIG1hZ2ljCiAgICAgICAgICAgICAgICAgICAgcHJpbnQgIkdvdCBzdW1tYXJ5IgogICAgICAgICAgICAgICAgICAgIHJlc291cmNlWyd0ZXh0J10gPSByZWFkYWJsZS5odG1sLnRleHRfY29udGVudCgpCiAgICAgICAgICAgICAgICAgICAgcmVzb3VyY2VbJ2h0bWwnXSA9IHJlYWRhYmxlLmNvbnRlbnQoKQogICAgICAgICAgICAgICAgICAgIHByaW50ICJ0ZXh0IGxlbiBpcyAlcywgaHRtbCBsZW4gaXMgJXMiICUgKGxlbihyZXNvdXJjZVsndGV4dCddKSwgbGVuKHJlc291cmNlWydodG1sJ10pKQogICAgICAgICAgICAgICAgICAgIHJlc291cmNlc1tpZHhdID0gcmVzb3VyY2UKICAgICAgICAgICAgICAgICAgICBxdWVyeV9kb2NbJ3Jlc291cmNlcyddID0gcmVzb3VyY2VzCiAgICAgICAgICAgICAgICAgICAgY29sbGVjdGlvbi5yZXBsYWNlX29uZSh7J19pZCc6IHF1ZXJ5X2RvY1snX2lkJ119LCBxdWVyeV9kb2MpCiAgICAgICAgICAgICAgICAgICAgcHJpbnQgIlVwZGF0ZWQgZG9jdW1lbnQgd2l0aCBpZCAlcyIgJSAocXVlcnlfZG9jWydfaWQnXSkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgbXNnID0gIiEhISBGYWlsZWQgdG8gZ2V0IGRhdGEgZm9yIGRvYyAlcywgcmVzb3VyY2UgJXMiICUgKHF1ZXJ5X2RvY1snX2lkJ10sIGlkeCkKICAgICAgICAgICAgICAgIHByaW50IG1zZwogICAgICAgICAgICAgICAgd2l0aCBvcGVuKCJlcnItbG9nLnR4dCIsICdhJykgYXMgbG9nZmlsZToKICAgICAgICAgICAgICAgICAgICBsb2dmaWxlLndyaXRlKG1zZykK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>find_lines(src)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>find_lines(src)</text>
+        <text>[ool ]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc3Bvc2VcPg==</text>
@@ -319,31 +318,31 @@
         <text encoding="base64">ICAgIHNvdXJjZV9maWxlID0gc3lzLmFyZ3ZbMV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3YyLmltcmVhZCgpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpdGggZXZlbnRsZXQuVGltZW91dCgxMCk6Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBtb25nbyBhcHBhcm5ldGx5IGhhcyBsaW1pdHMgb24gZG9jdW1lbnQgc2l6ZSB3aGljaCB3ZSBjYW4gc29tZXRpbWVzIGhpdAogICAgICAgICAgICAjIGlmIHdlIHNjcmFwZSBzb21ldGhpbmcgYmlnLiBTbyBhYmFuZG9uIHNoaXAgb24gcmUtaW5zZXJ0aW5nIHRoZSB3aG9sZSBiaWcKICAgICAgICAgICAgIyBkb2N1bWVudC4gVGhlIGluZGl2aWR1YWwgcmVzdWx0cyBkb2N1bWVudHMgc2hvdWxkIHN0aWxsIGJlIHNhdmVkIGluIHRoZSBkYgogICAgICAgICAgICBwcmludCAiISEhIE5vdCBhYmxlIHRvIHVwZGF0ZSBkb2N1bWVudCAlcyAobW9zdCBsaWtlbHkgdG9vIGxhcmdlKSIgJSBkb2NfaWQKCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcuZHVtbXkgaW1wb3J0IFBvb2wgYXMgVGhyZWFkUG9vbAo=</text>
+        <text encoding="base64">cG9vbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGhyZWFkX3Bvb2wgPSBUaHJlYWRQb29sKDUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2l0aCBldmVudGxldC5UaW1lb3V0KDEwKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2l0aCBldmVudGxldC5UaW1lb3V0KDEwKToK</text>
+        <text encoding="base64">ZGVmIG1lcmdlX3Jlc291cmNlcyhvbGRfcnNyY3MsIG5ld19yc3Jjcyk6CiAgICAiIiIKICAgIEdpdmVuIHR3byBhcnJheXMgb2YgcmVzb3VyY2VzLCBvbmUgb2Ygd2hpY2ggbWF5IGJlIGluY29tcGxldGUgKG5ld19yc3JjcykKICAgIHJldHVybiBhIG1lcmdlZCBsaXN0IG9mIGFsbCB0aGUgcmVzb3VyY2VzIGZvbGxvd2luZyB0aGUgb3JkZXIgb2YgdGhlIGZpcnN0IGxpc3QuCiAgICBUaGlzIGlzIG5lZWRlZCBzaW5jZSBldmVudGxldCdzIHBvb2wuaW1hcCBtZXRob2QgZG9lcyBub3QgZ3VhcmFudGVlIG9yZGVyaW5nIGFuZCB3ZQogICAgZG9uJ3Qgd2FudCB0byBsb3NlIHRoZSByZXNvdXJjZSBpZiB3ZSBmYWlsZWQgdG8gZG93bmxvYWQgYW55dGhpbmcKCiAgICA6cGFyYW0gb2xkX3JzcmNzOgogICAgOnBhcmFtIG5ld19yc3JjczoKICAgIDpyZXR1cm46IGxpc3QKICAgICIiIgogICAgbWVyZ2VkID0gW10KICAgIG5ld191cmxzID0gW3JbJ2xpbmsnXSBmb3IgciBpbiBuZXdfcnNyY3NdCiAgICBmb3IgcnNyYyBpbiBvbGRfcnNyY3M6CiAgICAgICAgaWYgcnNyY1snbGluayddIGluIG5ld191cmxzOgogICAgICAgICAgICBpZHggPSBuZXdfdXJscy5pbmRleChyc3JjWydsaW5rJ10pCiAgICAgICAgICAgIG1lcmdlZC5hcHBlbmQobmV3X3JzcmNzW2lkeF0pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbWVyZ2VkLmFwcGVuZChyc3JjKQogICAgcmV0dXJuIG1lcmdlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
