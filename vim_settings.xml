@@ -62,13 +62,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/resources-dler/README.md" timestamp="1473195599566">
+      <file name="$USER_HOME$/Code/work/volley/repos/resources-dler/README.md" timestamp="1473197801909">
         <mark key="a" line="47" column="0" />
-        <mark key="'" line="47" column="87" />
-        <mark key="[" line="44" column="2" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="0" />
+        <mark key="[" line="62" column="47" />
+        <mark key="]" line="62" column="47" />
+        <mark key="." line="62" column="47" />
+        <mark key="^" line="62" column="57" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1469140553650">
         <mark key="[" line="64" column="13" />
@@ -209,17 +208,18 @@
         <mark key="." line="71" column="11" />
         <mark key="^" line="71" column="11" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" timestamp="1473197681249">
+        <mark key="'" line="29" column="25" />
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="30" />
+        <mark key="." line="29" column="30" />
+        <mark key="^" line="29" column="30" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" timestamp="1469142998274">
         <mark key="'" line="11" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="34" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf-book-parser/book-index-parser.py" />
-      <jump line="138" column="32" filename="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/pdf-book-parser/book-index-parser.py" />
-      <jump line="167" column="20" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
-      <jump line="73" column="4" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="47" column="106" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="50" column="17" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="67" column="12" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
@@ -314,58 +314,64 @@
       <jump line="78" column="5" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/README.md" />
       <jump line="68" column="94" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/README.md" />
       <jump line="40" column="87" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/README.md" />
+      <jump line="55" column="3" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/README.md" />
+      <jump line="111" column="14" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
+      <jump line="181" column="34" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
+      <jump line="189" column="29" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
+      <jump line="36" column="25" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
+      <jump line="29" column="25" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">bG9jayA9IExvY2soKQpjb3VudGVyID0gVmFsdWUoJ2knLCAwKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>https://github.com/volleylabs/cg_paper/invitations`</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>https://github.com/volleylabs/cg_paper/invitations`</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbmVfb2ZmX3Rhc2tcPg==</text>
+        <text>query_id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RvciA9IFRocmVhZFBvb2woMSkKICAgICAgICAgICAgICAgIHByb21pc2UgPSByZXF1ZXN0b3IuYXBwbHkoZG9fcmVxdWVzdF9mb3JfcmVzb3VyY2UsIGFyZ3M9KHRhc2suZ2V0KCJyZXNvdXJjZSIpKSkKICAgICAgICAgICAgICAgIHJlc3VsdCA9IHByb21pc2UuZ2V0KHRpbWVvdXQ9NDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2NbJ3R5cGUnXSA9ICJxdWVyeSI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RvciA9IFRocmVhZFBvb2woMSkKICAgICAgICAgICAgICAgIHByb21pc2UgPSByZXF1ZXN0b3IuYXBwbHkoZG9fcmVxdWVzdF9mb3JfcmVzb3VyY2UsIGFyZ3M9KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RvciA9IFRocmVhZFBvb2woMSkKICAgICAgICAgICAgICAgIHByb21pc2UgPSByZXF1ZXN0b3IuYXBwbHkoZG9fcmVxdWVzdF9mb3JfcmVzb3VyY2UsIGFyZ3M9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IHByb21pc2UuZ2V0KHRpbWVvdXQ9NDApCg==</text>
+        <text encoding="base64">ICAgIHRyeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC4K</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3Rvci5zdGFydCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IHByb21pc2UuZ2V0KHRpbWVvdXQ9NDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IGRvX3JlcXVlc3RfZm9yX3Jlc291cmNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3Rvci5zdGFydCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbmVfb2ZmX3Rhc2tcPg==</last-search>
+      <last-search>query_id</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbmVfb2ZmX3Rhc2tcPg==</last-pattern>
+      <last-pattern>query_id</last-pattern>
       <last-replace>actual_split</last-replace>
       <last-substitute encoding="base64">XDxhY3R1YWxfc3BsaXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -373,9 +379,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request on</entry>
-        <entry>request for</entry>
-        <entry>cpu_co</entry>
         <entry>print</entry>
         <entry>!!!</entry>
         <entry encoding="base64">Pj4=</entry>
@@ -393,6 +396,9 @@
         <entry>async</entry>
         <entry encoding="base64">XDxhcHBseV9hc3luY1w+</entry>
         <entry encoding="base64">XDxvbmVfb2ZmX3Rhc2tcPg==</entry>
+        <entry>query_type</entry>
+        <entry encoding="base64">XDxxdWVyeV9yZXN1bHRcPg==</entry>
+        <entry>query_id</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
