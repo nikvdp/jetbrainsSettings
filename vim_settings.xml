@@ -41,11 +41,11 @@
         <mark key="." line="64" column="17" />
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-rule.js" timestamp="1473373696189">
-        <mark key="[" line="89" column="34" />
-        <mark key="]" line="89" column="34" />
-        <mark key="^" line="89" column="34" />
-        <mark key="." line="89" column="34" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-rule.js" timestamp="1473709830949">
+        <mark key="[" line="89" column="21" />
+        <mark key="]" line="89" column="23" />
+        <mark key="^" line="89" column="23" />
+        <mark key="." line="89" column="23" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/dependencies.js" timestamp="1469065689576">
         <mark key="[" line="2" column="0" />
@@ -93,7 +93,7 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-meta-schema-to-plain-text-transform.js" timestamp="1473371290409">
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-meta-schema-to-plain-text-transform.js" timestamp="1473709877817">
         <mark key="[" line="50" column="31" />
         <mark key="]" line="50" column="37" />
         <mark key="^" line="50" column="37" />
@@ -316,10 +316,10 @@
         <text encoding="base64">bG9jayA9IExvY2soKQpjb3VudGVyID0gVmFsdWUoJ2knLCAwKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>{...metaSchema, tokens}</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>{...metaSchema, tokens}</text>
       </register>
       <register name="/" type="4">
         <text>.find</text>
@@ -404,8 +404,8 @@
         <entry encoding="base64">JzwsJz5zL29wdF9zcGxpdC9hY3R1YWxfc3BsaXQvZw==</entry>
         <entry>s</entry>
         <entry>w'</entry>
-        <entry>w</entry>
         <entry>e!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
