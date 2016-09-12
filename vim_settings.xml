@@ -212,12 +212,12 @@
         <mark key="." line="71" column="11" />
         <mark key="^" line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" timestamp="1473723064914">
-        <mark key="'" line="275" column="12" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="30" column="36" />
+      <file name="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" timestamp="1473723522384">
+        <mark key="'" line="31" column="22" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="46" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/inject.js" timestamp="1469142998274">
         <mark key="'" line="11" column="28" />
@@ -317,65 +317,65 @@
       <jump line="273" column="4" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
       <jump line="30" column="33" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
       <jump line="272" column="4" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
-      <jump line="31" column="5" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
       <jump line="33" column="23" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
       <jump line="35" column="13" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
       <jump line="153" column="23" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
       <jump line="154" column="20" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
       <jump line="274" column="4" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
       <jump line="275" column="12" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
+      <jump line="31" column="22" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">bG9jayA9IExvY2soKQpjb3VudGVyID0gVmFsdWUoJ2knLCAwKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBjb3VudGVyCiAgICBnbG9iYWwgY29sbGVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIChjb2xsZWN0aW9uLCBfKSA9IGdldF9tb25nb19jb25uZWN0aW9uKCkK</text>
       </register>
       <register name="-" type="4">
         <text>proc_worker</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2xsZWN0aW9uXD4=</text>
+        <text encoding="base64">XDxnZXRfbW9uZ29fY29ubmVjdGlvblw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bW9uZ29leHBvcnQgLWQgbmV3c2VlZHMgLWMgbmV3c2VlZHMgfCBtb25nb2ltcG9ydCAtZCByZXNvdXJjZXNfc3BsaXQgLWMgcmVzb3VyY2VzX3NwbGl0IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBjb3VudGVyCiAgICBnbG9iYWwgY29sbGVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIChjb2xsZWN0aW9uLCBfKSA9IGdldF9tb25nb19jb25uZWN0aW9uKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb2NfcG9vbC5hcHBseV9hc3luYygpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkb2NbJ3R5cGUnXSA9ICJxdWVyeSI7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGdsb2JhbCBjb3VudGVyCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGdsb2JhbCBjb3VudGVyCiAgICBnbG9iYWwgY29sbGVjdGlvbgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2NfcG9vbC5hcHBseV9hc3luYygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RvciA9IFRocmVhZFBvb2woMSkKICAgICAgICAgICAgICAgIHByb21pc2UgPSByZXF1ZXN0b3IuYXBwbHkoZG9fcmVxdWVzdF9mb3JfcmVzb3VyY2UsIGFyZ3M9KQo=</text>
+        <text encoding="base64">ICAgICAgICBkb2NbJ3R5cGUnXSA9ICJxdWVyeSI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IHByb21pc2UuZ2V0KHRpbWVvdXQ9NDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RvciA9IFRocmVhZFBvb2woMSkKICAgICAgICAgICAgICAgIHByb21pc2UgPSByZXF1ZXN0b3IuYXBwbHkoZG9fcmVxdWVzdF9mb3JfcmVzb3VyY2UsIGFyZ3M9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2xsZWN0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRfbW9uZ29fY29ubmVjdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2xsZWN0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfbW9uZ29fY29ubmVjdGlvblw+</last-pattern>
       <last-replace>actual_split</last-replace>
       <last-substitute encoding="base64">XDxhY3R1YWxfc3BsaXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -401,8 +401,8 @@
         <entry encoding="base64">XDxxdWVyeVJlc3VsdFw+</entry>
         <entry encoding="base64">XDxzZWFyY2hfcXVlcnlcPg==</entry>
         <entry>worker</entry>
-        <entry encoding="base64">XDxnZXRfbW9uZ29fY29ubmVjdGlvblw+</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxnZXRfbW9uZ29fY29ubmVjdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
