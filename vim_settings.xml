@@ -46,12 +46,18 @@
         <mark key="." line="15" column="72" />
         <mark key="^" line="15" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-arbitration-to-meta-schema.js" timestamp="1473806142170">
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-arbitration-to-meta-schema.js" timestamp="1473806240984">
         <mark key="'" line="15" column="33" />
         <mark key="[" line="21" column="53" />
         <mark key="]" line="21" column="53" />
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/tests/apply-meta-schema-to-plain-text-transform.test.js" timestamp="1473808355060">
+        <mark key="[" line="61" column="3" />
+        <mark key="]" line="61" column="3" />
+        <mark key="^" line="61" column="3" />
+        <mark key="." line="61" column="3" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-token-rule.js" timestamp="1473720169757">
         <mark key="[" line="53" column="74" />
@@ -83,11 +89,24 @@
         <mark key="^" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/tests/apply-arbitration-to-meta-schema.test.js" timestamp="1473808293353">
+        <mark key="[" line="107" column="29" />
+        <mark key="]" line="108" column="5" />
+        <mark key="^" line="108" column="5" />
+        <mark key="." line="108" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/personal/crypter/src/App.css" timestamp="1469762005131">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="2" column="26" />
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/tests/apply-fit-data-to-meta-schema.test.js" timestamp="1473808459171">
+        <mark key="'" line="341" column="5" />
+        <mark key="[" line="341" column="5" />
+        <mark key="]" line="341" column="5" />
+        <mark key="^" line="341" column="5" />
+        <mark key="." line="341" column="5" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-meta-schema-to-plain-text-transform.js" timestamp="1473711065726">
         <mark key="[" line="50" column="31" />
@@ -156,7 +175,7 @@
         <mark key="." line="40" column="43" />
         <mark key="^" line="40" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/validate-rule.js" timestamp="1473728515761">
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/validate-rule.js" timestamp="1473809876071">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="79" />
         <mark key="]" line="46" column="123" />
@@ -238,7 +257,7 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="/a.regexp" timestamp="1473805941958">
+      <file name="/a.regexp" timestamp="1473809346352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/resource-dler/__init__.py" timestamp="1470859394112">
@@ -279,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="45" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="29" column="33" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="89" column="65" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
       <jump line="88" column="15" filename="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" />
@@ -379,6 +397,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/order-rules.js" />
       <jump line="60" column="6" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/order-rules.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/validate-rule.js" />
+      <jump line="341" column="5" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/tests/apply-fit-data-to-meta-schema.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
