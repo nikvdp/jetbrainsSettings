@@ -370,11 +370,13 @@
         <mark key="." line="6" column="96" />
         <mark key="^" line="6" column="96" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" timestamp="1474336750380">
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="0" />
-        <mark key="." line="275" column="0" />
-        <mark key="^" line="279" column="35" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" timestamp="1474337502533">
+        <mark key="a" line="281" column="23" />
+        <mark key="'" line="281" column="23" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-manual-rule.js" timestamp="1473902209247">
         <mark key="'" line="32" column="24" />
@@ -385,7 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="94" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/README.md" />
       <jump line="40" column="87" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/README.md" />
       <jump line="55" column="3" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/README.md" />
       <jump line="111" column="14" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
@@ -485,22 +486,23 @@
       <jump line="282" column="10" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
       <jump line="292" column="29" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
       <jump line="76" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
+      <jump line="280" column="23" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJpbnB1dC1maWVsZCI+CiAgICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJmbGFncyI+RmxhZ3MgKG11c3QgYmUgYSB2YWxpZCBKU09OIG9iamVjdCk6PC9sYWJlbD4KICAgICAgICAgICAgPHRleHRhcmVhIHN0eWxlPXt7IG1pbkhlaWdodDogJzQwMHB4JyB9fSBwbGFjZWhvbGRlcj0iey4uLn0iIGlkPSJmbGFncyIgcmVmPSJmbGFncyIgZGVmYXVsdFZhbHVlPXtKU09OLnN0cmluZ2lmeShydWxlLnJ1bGUuZmxhZ3MsIG51bGwsIDIpfSAvPgogICAgICAgICAgPC9kaXY+Cgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICB7Lyo8ZGl2IGNsYXNzTmFtZT0iaW5wdXQtZmllbGQiPiovfQogICAgICAgICAgICB7Lyo8bGFiZWwgaHRtbEZvcj0iZGF0YSI+RGF0YSAobXVzdCBiZSBhIHZhbGlkIEpTT04gb2JqZWN0KTo8L2xhYmVsPiovfQogICAgICAgICAgICB7Lyo8dGV4dGFyZWEgc3R5bGU9e3sgbWluSGVpZ2h0OiAnNDAwcHgnIH19IHBsYWNlaG9sZGVyPSJ7Li4ufSIgaWQ9ImRhdGEiIHJlZj0iZGF0YSIgZGVmYXVsdFZhbHVlPXtKU09OLnN0cmluZ2lmeShydWxlLnJ1bGUuZGF0YSwgbnVsbCwgMil9IC8+Ki99CiAgICAgICAgICB7Lyo8L2Rpdj4qL30K</text>
+      <register name="&quot;" type="4">
+        <text>json</text>
       </register>
       <register name="-" type="4">
-        <text>UNIQUE_ID_OF_DIV</text>
+        <text>json</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW5kQWN0aW9uQ3JlYXRvcnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKjxkaXYgY2xhc3NOYW1lPSJpbnB1dC1maWVsZCI+Ki99Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdicmFjZS9tb2RlL2pzb24nOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgICB7Lyo8ZGl2IGNsYXNzTmFtZT0iaW5wdXQtZmllbGQiPiovfQogICAgICAgICAgICB7Lyo8bGFiZWwgaHRtbEZvcj0iZGF0YSI+RGF0YSAobXVzdCBiZSBhIHZhbGlkIEpTT04gb2JqZWN0KTo8L2xhYmVsPiovfQogICAgICAgICAgICB7Lyo8dGV4dGFyZWEgc3R5bGU9e3sgbWluSGVpZ2h0OiAnNDAwcHgnIH19IHBsYWNlaG9sZGVyPSJ7Li4ufSIgaWQ9ImRhdGEiIHJlZj0iZGF0YSIgZGVmYXVsdFZhbHVlPXtKU09OLnN0cmluZ2lmeShydWxlLnJ1bGUuZGF0YSwgbnVsbCwgMil9IC8+Ki99CiAgICAgICAgICB7Lyo8L2Rpdj4qL30K</text>
