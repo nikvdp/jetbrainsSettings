@@ -364,11 +364,11 @@
         <mark key="." line="6" column="96" />
         <mark key="^" line="6" column="96" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" timestamp="1474334023286">
-        <mark key="[" line="110" column="48" />
-        <mark key="]" line="110" column="48" />
-        <mark key="." line="110" column="52" />
-        <mark key="^" line="110" column="23" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" timestamp="1474334878152">
+        <mark key="[" line="288" column="20" />
+        <mark key="]" line="288" column="23" />
+        <mark key="." line="288" column="23" />
+        <mark key="^" line="288" column="23" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-manual-rule.js" timestamp="1473902209247">
         <mark key="'" line="32" column="24" />
@@ -485,10 +485,10 @@
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJpbnB1dC1maWVsZCI+CiAgICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJmbGFncyI+RmxhZ3MgKG11c3QgYmUgYSB2YWxpZCBKU09OIG9iamVjdCk6PC9sYWJlbD4KICAgICAgICAgICAgPHRleHRhcmVhIHN0eWxlPXt7IG1pbkhlaWdodDogJzQwMHB4JyB9fSBwbGFjZWhvbGRlcj0iey4uLn0iIGlkPSJmbGFncyIgcmVmPSJmbGFncyIgZGVmYXVsdFZhbHVlPXtKU09OLnN0cmluZ2lmeShydWxlLnJ1bGUuZmxhZ3MsIG51bGwsIDIpfSAvPgogICAgICAgICAgPC9kaXY+Cgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>state</text>
+        <text>UNIQUE_ID_OF_DIV</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>UNIQUE_ID_OF_DIV</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW5kQWN0aW9uQ3JlYXRvcnNcPg==</text>
@@ -497,31 +497,31 @@
         <text encoding="base64">ICAgICAgICAgIHsvKjxkaXYgY2xhc3NOYW1lPSJpbnB1dC1maWVsZCI+Ki99Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuc2V0U3RhdGUoe2RhdGE6IHtnb29kOiAxfX0pOwogICAgLy8gcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPGxhYmVsIGh0bWxGb3I9ImRhdGEiPkRhdGEgKG11c3QgYmUgYSB2YWxpZCBKU09OIG9iamVjdCk6PC9sYWJlbD4qL30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKm9uQ2hhbmdlPXt0aGlzLmhhbmRsZUFjZUVkaXR9Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVBY2VFZGl0fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7LypvbkNoYW5nZT17dGhpcy5oYW5kbGVBY2VFZGl0fSovfQo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuc2V0U3RhdGUoe2RhdGE6IHtnb29kOiAxfX0pOwogICAgLy8gcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKm9uQ2hhbmdlPXt0aGlzLmhhbmRsZUFjZUVkaXR9Ki99Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7LypvbkNoYW5nZT17dGhpcy5oYW5kbGVBY2VFZGl0fSovfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgcnVsZQogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtsZXQgYXJnaCA9IHRoaXM7fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPGRpdiBjbGFzc05hbWU9ImlucHV0LWZpZWxkIj4qL30K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgcnVsZQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKjxkaXYgY2xhc3NOYW1lPSJpbnB1dC1maWVsZCI+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHtsZXQgYXJnaCA9IHRoaXM7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
