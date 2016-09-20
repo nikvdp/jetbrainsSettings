@@ -221,6 +221,13 @@
         <mark key="." line="40" column="43" />
         <mark key="^" line="40" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" timestamp="1474396427386">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="20" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/.editorconfig" timestamp="1473813929085">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -246,6 +253,7 @@
         <mark key="^" line="47" column="1" />
         <mark key="." line="47" column="1" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleList.jsx" timestamp="1474396065058" />
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472598940496">
         <mark key="'" line="77" column="17" />
         <mark key="[" line="133" column="37" />
@@ -355,7 +363,6 @@
         <mark key="." line="71" column="11" />
         <mark key="^" line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/services/word-tools.js" timestamp="1473893334273" />
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-named-entity-data-to-meta-schema.js" timestamp="1473988555090">
         <mark key="'" line="63" column="37" />
         <mark key="[" line="8" column="48" />
@@ -370,13 +377,12 @@
         <mark key="." line="6" column="96" />
         <mark key="^" line="6" column="96" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" timestamp="1474337502533">
-        <mark key="a" line="281" column="23" />
-        <mark key="'" line="281" column="23" />
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="28" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" timestamp="1474396503215">
+        <mark key="'" line="24" column="6" />
+        <mark key="[" line="100" column="57" />
+        <mark key="]" line="100" column="61" />
+        <mark key="^" line="100" column="61" />
+        <mark key="." line="100" column="61" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-manual-rule.js" timestamp="1473902209247">
         <mark key="'" line="32" column="24" />
@@ -387,11 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="87" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/README.md" />
-      <jump line="55" column="3" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/README.md" />
-      <jump line="111" column="14" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
-      <jump line="181" column="34" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
-      <jump line="189" column="29" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
       <jump line="225" column="62" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/README.md" />
       <jump line="197" column="36" filename="$USER_HOME$/Code/work/volley/repos/resources-dler/resource_ranker/get_resource_text.py" />
@@ -487,58 +488,63 @@
       <jump line="292" column="29" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
       <jump line="76" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
       <jump line="280" column="23" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
+      <jump line="284" column="11" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
+      <jump line="30" column="6" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
+      <jump line="239" column="36" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJpbnB1dC1maWVsZCI+CiAgICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJmbGFncyI+RmxhZ3MgKG11c3QgYmUgYSB2YWxpZCBKU09OIG9iamVjdCk6PC9sYWJlbD4KICAgICAgICAgICAgPHRleHRhcmVhIHN0eWxlPXt7IG1pbkhlaWdodDogJzQwMHB4JyB9fSBwbGFjZWhvbGRlcj0iey4uLn0iIGlkPSJmbGFncyIgcmVmPSJmbGFncyIgZGVmYXVsdFZhbHVlPXtKU09OLnN0cmluZ2lmeShydWxlLnJ1bGUuZmxhZ3MsIG51bGwsIDIpfSAvPgogICAgICAgICAgPC9kaXY+Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGJyYWNlIGZyb20gJ2JyYWNlJzsKaW1wb3J0IEFjZUVkaXRvciBmcm9tICdyZWFjdC1hY2UnOwppbXBvcnQgJ2JyYWNlL21vZGUvanNvbic7CmltcG9ydCAnYnJhY2UvbW9kZS9qYXZhc2NyaXB0JzsKaW1wb3J0ICdicmFjZS90aGVtZS9naXRodWInOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>json</text>
+        <text>editor.getValue()</text>
       </register>
       <register name="-" type="4">
-        <text>json</text>
+        <text>editor.getValue()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaW5kQWN0aW9uQ3JlYXRvcnNcPg==</text>
+        <text encoding="base64">XDxSdWxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdicmFjZS9tb2RlL2pzb24nOwo=</text>
+        <text encoding="base64">Y29uc3QgUnVsZSA9IFJlYWN0LmNyZWF0ZUNsYXNzKHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICB7Lyo8ZGl2IGNsYXNzTmFtZT0iaW5wdXQtZmllbGQiPiovfQogICAgICAgICAgICB7Lyo8bGFiZWwgaHRtbEZvcj0iZGF0YSI+RGF0YSAobXVzdCBiZSBhIHZhbGlkIEpTT04gb2JqZWN0KTo8L2xhYmVsPiovfQogICAgICAgICAgICB7Lyo8dGV4dGFyZWEgc3R5bGU9e3sgbWluSGVpZ2h0OiAnNDAwcHgnIH19IHBsYWNlaG9sZGVyPSJ7Li4ufSIgaWQ9ImRhdGEiIHJlZj0iZGF0YSIgZGVmYXVsdFZhbHVlPXtKU09OLnN0cmluZ2lmeShydWxlLnJ1bGUuZGF0YSwgbnVsbCwgMil9IC8+Ki99CiAgICAgICAgICB7Lyo8L2Rpdj4qL30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJkYXRhIj5EYXRhIChtdXN0IGJlIGEgdmFsaWQgSlNPTiBvYmplY3QpOjwvbGFiZWw+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJyYWNlIGZyb20gJ2JyYWNlJzsKaW1wb3J0IEFjZUVkaXRvciBmcm9tICdyZWFjdC1hY2UnOwppbXBvcnQgJ2JyYWNlL21vZGUvanNvbic7CmltcG9ydCAnYnJhY2UvbW9kZS9qYXZhc2NyaXB0JzsKaW1wb3J0ICdicmFjZS90aGVtZS9naXRodWInOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPGxhYmVsIGh0bWxGb3I9ImRhdGEiPkRhdGEgKG11c3QgYmUgYSB2YWxpZCBKU09OIG9iamVjdCk6PC9sYWJlbD4qL30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEFjZUVkaXRvcgogICAgICAgICAgICAgIGNsYXNzTmFtZT0iYWNlLWVkaXRvciIKICAgICAgICAgICAgICBtb2RlPSJqc29uIgogICAgICAgICAgICAgIHRoZW1lPSJnaXRodWIiCiAgICAgICAgICAgICAgdmFsdWU9e0pTT04uc3RyaW5naWZ5KHJ1bGUucnVsZS5kYXRhLCBudWxsLCAyKX0KICAgICAgICAgICAgICByZWY9ImRhdGEiCiAgICAgICAgICAgICAgbmFtZT0iZGF0YSIKICAgICAgICAgICAgICBlZGl0b3JQcm9wcz17eyRibG9ja1Njcm9sbGluZzogdHJ1ZX19CiAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVBY2VFZGl0fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWx1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuc2V0U3RhdGUoe2RhdGE6IHtnb29kOiAxfX0pOwogICAgLy8gcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICB7Lyo8ZGl2IGNsYXNzTmFtZT0iaW5wdXQtZmllbGQiPiovfQogICAgICAgICAgICB7Lyo8bGFiZWwgaHRtbEZvcj0iZGF0YSI+RGF0YSAobXVzdCBiZSBhIHZhbGlkIEpTT04gb2JqZWN0KTo8L2xhYmVsPiovfQogICAgICAgICAgICB7Lyo8dGV4dGFyZWEgc3R5bGU9e3sgbWluSGVpZ2h0OiAnNDAwcHgnIH19IHBsYWNlaG9sZGVyPSJ7Li4ufSIgaWQ9ImRhdGEiIHJlZj0iZGF0YSIgZGVmYXVsdFZhbHVlPXtKU09OLnN0cmluZ2lmeShydWxlLnJ1bGUuZGF0YSwgbnVsbCwgMil9IC8+Ki99CiAgICAgICAgICB7Lyo8L2Rpdj4qL30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKm9uQ2hhbmdlPXt0aGlzLmhhbmRsZUFjZUVkaXR9Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJkYXRhIj5EYXRhIChtdXN0IGJlIGEgdmFsaWQgSlNPTiBvYmplY3QpOjwvbGFiZWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7LypvbkNoYW5nZT17dGhpcy5oYW5kbGVBY2VFZGl0fSovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPGxhYmVsIGh0bWxGb3I9ImRhdGEiPkRhdGEgKG11c3QgYmUgYSB2YWxpZCBKU09OIG9iamVjdCk6PC9sYWJlbD4qL30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVBY2VFZGl0fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuc2V0U3RhdGUoe2RhdGE6IHtnb29kOiAxfX0pOwogICAgLy8gcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaW5kQWN0aW9uQ3JlYXRvcnNcPg==</last-search>
+      <last-search encoding="base64">XDxSdWxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaW5kQWN0aW9uQ3JlYXRvcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxSdWxlXD4=</last-pattern>
       <last-replace>actual_split</last-replace>
       <last-substitute encoding="base64">XDxhY3R1YWxfc3BsaXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -546,7 +552,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b3RhbFw+</entry>
         <entry>validity</entry>
         <entry>added</entry>
         <entry>Added</entry>
@@ -566,6 +571,7 @@
         <entry>metaschema.tokens.re</entry>
         <entry>metaSchema</entry>
         <entry encoding="base64">XDxiaW5kQWN0aW9uQ3JlYXRvcnNcPg==</entry>
+        <entry encoding="base64">XDxSdWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJ2c=</entry>
