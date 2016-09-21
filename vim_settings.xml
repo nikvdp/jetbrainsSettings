@@ -201,17 +201,12 @@
         <mark key="." line="40" column="43" />
         <mark key="^" line="40" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" timestamp="1474423266540">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" timestamp="1474425703281">
-        <mark key="[" line="16" column="66" />
-        <mark key="]" line="16" column="66" />
-        <mark key="." line="16" column="66" />
-        <mark key="^" line="16" column="54" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" timestamp="1474479637865">
+        <mark key="'" line="41" column="33" />
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="34" />
+        <mark key="^" line="41" column="32" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/validate-rule.js" timestamp="1473809876071">
         <mark key="'" line="0" column="0" />
@@ -233,13 +228,7 @@
         <mark key="^" line="47" column="1" />
         <mark key="." line="47" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" timestamp="1474426600741">
-        <mark key="'" line="68" column="13" />
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="41" column="14" />
-        <mark key="." line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" timestamp="1474479743379" />
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472598940496">
         <mark key="'" line="77" column="17" />
         <mark key="[" line="133" column="37" />
@@ -259,7 +248,7 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474419889572">
+      <file name="/Dummy.txt" timestamp="1474479015236">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-meta-schema-to-gap-data-transform.js" timestamp="1473813863260">
@@ -368,7 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="14" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/index.js" />
       <jump line="24" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/index.js" />
       <jump line="0" column="22" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/index.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/index.js" />
@@ -452,7 +440,6 @@
       <jump line="19" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="31" column="60" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="41" column="17" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="10" column="19" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="30" column="28" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
@@ -461,23 +448,25 @@
       <jump line="8" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="49" column="29" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="22" column="10" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
-      <jump line="47" column="31" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="11" column="21" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="15" column="20" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="60" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="15" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="22" column="31" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="51" column="13" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
+      <jump line="38" column="24" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
+      <jump line="16" column="40" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
+      <jump line="47" column="33" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAvLyBnZXRJbml0aWFsU3RhdGU6ICgpID0+IHsgcmV0dXJuIHtjdXJyZW50UnVsZTogJ3ZhbGlkYXRlRWxlbWVudCd9IH0sCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>rule</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>rule</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -486,31 +475,31 @@
         <text>shouldUpdate = false;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBydWxlOwo=</text>
+        <text encoding="base64">ICAgIGxldCBjYiA9IHRoaXMucHJvcHMuY2FsbGJhY2s7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAga2V5RGF0YToge30K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY3VyUnVsZToK</text>
+        <text encoding="base64">ICAgIGxldCBydWxlOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAga2V5RGF0YToge30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY3VyUnVsZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
