@@ -228,11 +228,12 @@
         <mark key="^" line="47" column="1" />
         <mark key="." line="47" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" timestamp="1474484809597">
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="44" column="29" />
-        <mark key="^" line="44" column="29" />
-        <mark key="." line="44" column="29" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" timestamp="1474490084194">
+        <mark key="'" line="68" column="7" />
+        <mark key="[" line="70" column="69" />
+        <mark key="]" line="70" column="69" />
+        <mark key="." line="70" column="76" />
+        <mark key="^" line="69" column="84" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472598940496">
         <mark key="'" line="77" column="17" />
@@ -362,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/index.js" />
       <jump line="0" column="22" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/index.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/index.js" />
       <jump line="1" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/index.js" />
@@ -462,49 +462,50 @@
       <jump line="38" column="24" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="16" column="40" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="47" column="33" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
+      <jump line="58" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAvLyBnZXRJbml0aWFsU3RhdGU6ICgpID0+IHsgcmV0dXJuIHtjdXJyZW50UnVsZTogJ3ZhbGlkYXRlRWxlbWVudCd9IH0sCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>shouldUpdate = false;</text>
+        <text>onChange={this.handleEdit}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBjYiA9IHRoaXMucHJvcHMuY2FsbGJhY2s7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8dGV4dGFyZWEgc3R5bGU9e3sgbWluSGVpZ2h0OiAnNDAwcHgnIH19Ki99CiAgICAgICAgICAgICAgICAgIHsvKnZhbHVlPXt0aGlzLnN0YXRlLmN1cnJlbnRSdWxlICsgJ1xuJyArIEpTT04uc3RyaW5naWZ5KHJ1bGVbdGhpcy5zdGF0ZS5jdXJyZW50UnVsZV0sICcnLCAyKX0qL30KICAgICAgICB7LyovPiovfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBydWxlOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAga2V5RGF0YToge30K</text>
+        <text encoding="base64">ICAvKioKICAgKiBGb3IgYSBmdW5jdDlvcG4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3VyUnVsZToK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAvKgogICov</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAvKioKICAgKiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCBjYiA9IHRoaXMucHJvcHMuY2FsbGJhY2s7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
