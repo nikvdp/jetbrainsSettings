@@ -235,12 +235,11 @@
         <mark key="^" line="47" column="1" />
         <mark key="." line="47" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" timestamp="1474498109139">
-        <mark key="'" line="59" column="29" />
-        <mark key="[" line="44" column="95" />
-        <mark key="]" line="44" column="108" />
-        <mark key="." line="44" column="108" />
-        <mark key="^" line="44" column="108" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" timestamp="1474508336490">
+        <mark key="'" line="30" column="9" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472598940496">
         <mark key="'" line="77" column="17" />
@@ -370,10 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="6" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="239" column="36" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
       <jump line="10" column="3" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
       <jump line="21" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
       <jump line="274" column="13" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
@@ -438,13 +433,11 @@
       <jump line="60" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="15" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="22" column="31" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
-      <jump line="51" column="13" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="38" column="24" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="16" column="40" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="47" column="33" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="58" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
-      <jump line="30" column="10" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="96" column="15" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="98" column="8" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="105" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
@@ -470,58 +463,64 @@
       <jump line="61" column="11" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
       <jump line="50" column="21" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
       <jump line="93" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/styles/main.scss" />
+      <jump line="57" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
+      <jump line="46" column="20" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
+      <jump line="23" column="11" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
+      <jump line="50" column="9" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
+      <jump line="51" column="9" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
+      <jump line="30" column="9" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8UnVsZUVkaXRvckdVSQogICAgICAgICAgdmFsdWU9e3RoaXMucHJvcHMudmFsdWV9CiAgICAgICAgICBjYWxsYmFjaz17dGhpcy5wcm9wcy5jYWxsYmFja30KICAgICAgICAvPgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDJweCAtMXB4IDJweCAxcHggcmdiYSgwLCAwLCAwLCAwLjIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>tghe drop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JtYXRGblw+</text>
+        <text>setState</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDJweCAtMXB4IDJweCAxcHggcmdiYSgwLCAwLCAwLCAwLjIpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmNhbGxiYWNrIGluc3RhbmNlb2YgRnVuY3Rpb24gPyB0aGlzLnByb3BzLmNhbGxiYWNrKEpTT04uc3RyaW5naWZ5KG5ld0RhdGEsIHVuZGVmaW5lZCwgMikpIDogJyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDJweCAtMXB4IDJweCAxcHggcmdiYSgwLCAwLCAwLCAwLjIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm94LXNoYWRvdzogMnB4IC0xcHggMnB4IDFweCByZ2JhKDAsIDAsIDAsIDAuMikK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYm94LXNoYWRvdzogMnB4IC0xcHggMnB4IDFweCByZ2JhKDAsIDAsIDAsIDAuMikK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5jYWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYm94LXNoYWRvdzogMnB4IC0xcHggMnB4IDFweCByZ2JhKDAsIDAsIDAsIDAuMikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignQ3VyOiAnLCBjdXJyZW50UnVsZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctdG9wOiAwOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc2VydmVkID0gOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0iaW5uZXItZWRpdG9yIgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbml0aWFsOiAnLCB0aGlzLnByb3BzLnZhbHVlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0iaW5uZXItZWRpdG9yIgo=</text>
+        <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDJweCAtMXB4IDJweCAxcHggcmdiYSgwLCAwLCAwLCAwLjIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYm94LXNoYWRvdzogMnB4IC0xcHggMnB4IDFweCByZ2JhKDAsIDAsIDAsIDAuMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0iaW5uZXItZWRpdG9yIgo=</text>
+        <text encoding="base64">ICAgICAgYm94LXNoYWRvdzogMnB4IC0xcHggMnB4IDFweCByZ2JhKDAsIDAsIDAsIDAuMikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JtYXRGblw+</last-search>
+      <last-search>setState</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JtYXRGblw+</last-pattern>
+      <last-pattern>setState</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -529,7 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.find</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxsaW1pdFw+</entry>
         <entry encoding="base64">XDxwaXBlbGluZVw+</entry>
@@ -549,6 +547,7 @@
         <entry>callback</entry>
         <entry encoding="base64">XDx1bkZvcm1hdEZuXD4=</entry>
         <entry encoding="base64">XDxmb3JtYXRGblw+</entry>
+        <entry>setState</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJ2c=</entry>
