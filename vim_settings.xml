@@ -16,6 +16,13 @@
         <mark key="." line="87" column="90" />
         <mark key="^" line="87" column="90" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/components/Header.jsx" timestamp="1474596010569">
+        <mark key="'" line="23" column="33" />
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="36" />
+        <mark key="^" line="24" column="36" />
+        <mark key="." line="24" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/personal/crypter/src/App.js" timestamp="1469762118725">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="33" />
@@ -170,11 +177,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/index.js" timestamp="1474404199227">
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1469142018245">
         <mark key="[" line="131" column="0" />
@@ -353,8 +355,8 @@
         <mark key="." line="6" column="96" />
         <mark key="^" line="6" column="96" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" timestamp="1474495929012">
-        <mark key="'" line="79" column="2" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" timestamp="1474595562481">
+        <mark key="'" line="302" column="65" />
         <mark key="[" line="283" column="22" />
         <mark key="]" line="283" column="62" />
         <mark key="." line="283" column="62" />
@@ -369,10 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="3" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
-      <jump line="21" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="274" column="13" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="8" column="6" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
       <jump line="251" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
       <jump line="9" column="30" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
       <jump line="275" column="36" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
@@ -469,58 +467,62 @@
       <jump line="50" column="9" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="51" column="9" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="30" column="9" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
+      <jump line="179" column="6" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
+      <jump line="302" column="65" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
+      <jump line="13" column="3" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/components/Header.jsx" />
+      <jump line="22" column="33" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/components/Header.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8UnVsZUVkaXRvckdVSQogICAgICAgICAgdmFsdWU9e3RoaXMucHJvcHMudmFsdWV9CiAgICAgICAgICBjYWxsYmFjaz17dGhpcy5wcm9wcy5jYWxsYmFja30KICAgICAgICAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>onClick={ this.goHome }</text>
       </register>
       <register name="-" type="4">
-        <text>tghe drop</text>
+        <text>onClick={ this.goHome }</text>
       </register>
       <register name="/" type="4">
-        <text>setState</text>
+        <text>update rule</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmNhbGxiYWNrIGluc3RhbmNlb2YgRnVuY3Rpb24gPyB0aGlzLnByb3BzLmNhbGxiYWNrKEpTT04uc3RyaW5naWZ5KG5ld0RhdGEsIHVuZGVmaW5lZCwgMikpIDogJyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5jYWxsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignQ3VyOiAnLCBjdXJyZW50UnVsZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc2VydmVkID0gOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbml0aWFsOiAnLCB0aGlzLnByb3BzLnZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5jYWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDJweCAtMXB4IDJweCAxcHggcmdiYSgwLCAwLCAwLCAwLjIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignQ3VyOiAnLCBjdXJyZW50UnVsZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYm94LXNoYWRvdzogMnB4IC0xcHggMnB4IDFweCByZ2JhKDAsIDAsIDAsIDAuMikK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc2VydmVkID0gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYm94LXNoYWRvdzogMnB4IC0xcHggMnB4IDFweCByZ2JhKDAsIDAsIDAsIDAuMikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbml0aWFsOiAnLCB0aGlzLnByb3BzLnZhbHVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setState</last-search>
+      <last-search>update rule</last-search>
       <last-offset />
-      <last-pattern>setState</last-pattern>
+      <last-pattern>update rule</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -528,9 +530,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry encoding="base64">XDxsaW1pdFw+</entry>
-        <entry encoding="base64">XDxwaXBlbGluZVw+</entry>
         <entry>function</entry>
         <entry>metaruleorder</entry>
         <entry encoding="base64">XDxtZXRhcnVsZU9yZGVyXD4=</entry>
@@ -548,6 +547,9 @@
         <entry encoding="base64">XDx1bkZvcm1hdEZuXD4=</entry>
         <entry encoding="base64">XDxmb3JtYXRGblw+</entry>
         <entry>setState</entry>
+        <entry>link</entry>
+        <entry>update</entry>
+        <entry>update rule</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJ2c=</entry>
