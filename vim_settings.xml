@@ -184,7 +184,7 @@
         <mark key="^" line="20" column="88" />
         <mark key="." line="20" column="88" />
       </file>
-      <file name="/a.txt" timestamp="1475113994667">
+      <file name="/a.txt" timestamp="1475540771324">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-dependent-recursive-rule.js" timestamp="1474412414437">
@@ -237,10 +237,10 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/server-bootstrap.js" timestamp="1473728126478">
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/server-bootstrap.js" timestamp="1475540776440">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="43" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="59" />
         <mark key="." line="40" column="43" />
         <mark key="^" line="40" column="43" />
       </file>
@@ -361,7 +361,7 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="/a.regexp" timestamp="1475113984654">
+      <file name="/a.regexp" timestamp="1475540766413">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/resource-dler/__init__.py" timestamp="1470859394112">
@@ -369,6 +369,13 @@
         <mark key="]" line="3" column="11" />
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" timestamp="1475540795632">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" timestamp="1475534544547">
         <mark key="[" line="67" column="36" />
@@ -419,7 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
       <jump line="9" column="30" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
       <jump line="275" column="36" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
       <jump line="173" column="6" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
@@ -519,22 +525,23 @@
       <jump line="302" column="65" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
       <jump line="13" column="3" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/components/Header.jsx" />
       <jump line="22" column="33" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/components/Header.jsx" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8UnVsZUVkaXRvckdVSQogICAgICAgICAgdmFsdWU9e3RoaXMucHJvcHMudmFsdWV9CiAgICAgICAgICBjYWxsYmFjaz17dGhpcy5wcm9wcy5jYWxsYmFja30KICAgICAgICAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDogJyc=</text>
+        <text>p276538095703.dkr.ecr.us-west-2.amazonaws.com/volley/stanford-core-nlp-rest</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogJyc=</text>
+        <text>p276538095703.dkr.ecr.us-west-2.amazonaws.com/volley/stanford-core-nlp-rest</text>
       </register>
       <register name="/" type="4">
         <text>update rule</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgbm9uQWxwaGFudW1lcmljc1JlZ2V4ID0gbmV3IFJlZ0V4cChub25BbHBoYW51bWVyaWNzLm1hcCgoY2hhcikgPT4gYFxcJHtjaGFyfWApLmpvaW4oJ3wnKSwgJ2dpJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvKioKICAgKiBMb3dlciBjYXNlIGFsbCB0aGUgdGV4dCAocGFydCBvZiB0aGUgbm9ybWFsaXppbmcpCiAgICogYW5kIGFkZCBwcmUtcGFkZGluZyAodG8gYmUgYWJsZSB0byBkZXRlY3QgYSBzdGFydGluZyBhYmJyZXZhdGlvbikKICAgKi8KICBjb25zdCBsb3dlckNhc2VkVGV4dCA9IGAgJHt0ZXh0LnRvTG93ZXJDYXNlKCl9YDsK</text>
