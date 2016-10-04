@@ -374,12 +374,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" timestamp="1475541749190">
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" timestamp="1475543374030">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="48" column="6" />
-        <mark key="]" line="48" column="6" />
-        <mark key="." line="48" column="6" />
-        <mark key="^" line="48" column="6" />
+        <mark key="[" line="52" column="7" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" timestamp="1475541382782">
         <mark key="[" line="83" column="0" />
@@ -536,10 +536,10 @@
         <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gKQogICAgLnRoZW4ocmVzID0+IHsKCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.bind(this, )</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>update rule</text>
@@ -548,31 +548,31 @@
         <text encoding="base64">aW1wb3J0IHJlcXVlc3QgZnJvbSAnYXhpb3MnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gKQogICAgLnRoZW4ocmVzID0+IHsKCiAgICB9KTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgcmVxdWVzdCBmcm9tICdheGlvcyc7Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLy8gU3BsaXR0aW5nIGJ5IHRoaXMgcmVnZXggKHdpdGggYSBiYWNrcmVmZXJlbmNlKSBjYXVzZXMgdGhlIHB1bmN0dWF0aW9uIG1hcmtzIHRvIAogICAgICAvLyBlbmQgdXAgYXMgdGhlaXIgb3duIGl0ZW1zIGluIHRoZSBhcnJheS4gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc3RhbmZvcmRUb2tlbml6ZXIK</text>
+        <text encoding="base64">ICAgICAgaWYgKGN1ci5sZW5ndGggPT09IDEpIHsKICAgICAgICAKICAgICAgICByZXR1cm4gcHJldjsKICAgICAgfQogICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgbGV0IHJlcyA9IGN1cjsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICByZXMgPSBjdXI7CiAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBbLi4ucHJldiwgY3VyXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBGb3JtYXQgdGhlIGNvbnRlbnQgYnkgY3JlYXRpbmcgYW4gYXJyYXkgb2Ygd29yZHMKICAgKgogICAqIEV4YW1wbGU6CiAgICoKICAgKiBPcmlnaW5hbCBjb250ZW50OiAnSmF2YVNjcmlwdCBpcyBmdW4uIFNvIGlzIG5vZGUuJwogICAqIFRva2VuaXplZCBjb250ZW50OiBbJ0phdmFTY3JpcHQnLCAnaXMnLCAnZnVuJywgJy4nLCAnU28nLCAnaXMnLCAnbm9kZScsICcuJ10KICAgKi8KICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHRleHQuc3BsaXQoJyAnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBbLi4ucHJldiwgY3VyXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
