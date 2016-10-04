@@ -28,7 +28,7 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1475187942387">
+      <file name="/a.dummy" timestamp="1475541587504">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -135,6 +135,10 @@
         <mark key="]" line="60" column="17" />
         <mark key="^" line="59" column="19" />
         <mark key="." line="60" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/services/rule-tools.js" timestamp="1475541595684">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="28" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter2/src/App.js" timestamp="1469762709519">
         <mark key="[" line="10" column="36" />
@@ -370,18 +374,18 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" timestamp="1475540795632">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="8" column="23" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" timestamp="1475541749190">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="48" column="6" />
+        <mark key="]" line="48" column="6" />
+        <mark key="." line="48" column="6" />
+        <mark key="^" line="48" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" timestamp="1475534544547">
-        <mark key="[" line="67" column="36" />
-        <mark key="]" line="67" column="36" />
-        <mark key="^" line="67" column="17" />
-        <mark key="." line="67" column="36" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" timestamp="1475541382782">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="81" column="12" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-sentential-rule.js" timestamp="1473904491260">
         <mark key="[" line="41" column="11" />
@@ -426,18 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="30" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="275" column="36" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="173" column="6" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="64" column="5" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="276" column="46" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="94" column="9" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="81" column="18" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="76" column="8" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="100" column="32" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="79" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" />
-      <jump line="19" column="35" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
-      <jump line="29" column="31" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" />
       <jump line="15" column="18" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/safe-function.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/node_modules/babel-core/lib/api/node.js" />
       <jump line="144" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/node_modules/babel-core/lib/api/node.js" />
@@ -526,49 +518,61 @@
       <jump line="13" column="3" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/components/Header.jsx" />
       <jump line="22" column="33" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/components/Header.jsx" />
       <jump line="27" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
+      <jump line="8" column="25" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
+      <jump line="19" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
+      <jump line="11" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
+      <jump line="13" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
+      <jump line="38" column="25" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
+      <jump line="39" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICA8UnVsZUVkaXRvckdVSQogICAgICAgICAgdmFsdWU9e3RoaXMucHJvcHMudmFsdWV9CiAgICAgICAgICBjYWxsYmFjaz17dGhpcy5wcm9wcy5jYWxsYmFja30KICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>p276538095703.dkr.ecr.us-west-2.amazonaws.com/volley/stanford-core-nlp-rest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGF4aW9zOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>p276538095703.dkr.ecr.us-west-2.amazonaws.com/volley/stanford-core-nlp-rest</text>
+        <text>.bind(this, )</text>
       </register>
       <register name="/" type="4">
         <text>update rule</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsK</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3QgZnJvbSAnYXhpb3MnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBMb3dlciBjYXNlIGFsbCB0aGUgdGV4dCAocGFydCBvZiB0aGUgbm9ybWFsaXppbmcpCiAgICogYW5kIGFkZCBwcmUtcGFkZGluZyAodG8gYmUgYWJsZSB0byBkZXRlY3QgYSBzdGFydGluZyBhYmJyZXZhdGlvbikKICAgKi8KICBjb25zdCBsb3dlckNhc2VkVGV4dCA9IGAgJHt0ZXh0LnRvTG93ZXJDYXNlKCl9YDsK</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgcmVxdWVzdCBmcm9tICdheGlvcyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gc3RhbmZvcmRUb2tlbml6ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5jYWxsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignQ3VyOiAnLCBjdXJyZW50UnVsZSk7Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBGb3JtYXQgdGhlIGNvbnRlbnQgYnkgY3JlYXRpbmcgYW4gYXJyYXkgb2Ygd29yZHMKICAgKgogICAqIEV4YW1wbGU6CiAgICoKICAgKiBPcmlnaW5hbCBjb250ZW50OiAnSmF2YVNjcmlwdCBpcyBmdW4uIFNvIGlzIG5vZGUuJwogICAqIFRva2VuaXplZCBjb250ZW50OiBbJ0phdmFTY3JpcHQnLCAnaXMnLCAnZnVuJywgJy4nLCAnU28nLCAnaXMnLCAnbm9kZScsICcuJ10KICAgKi8KICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHRleHQuc3BsaXQoJyAnKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
