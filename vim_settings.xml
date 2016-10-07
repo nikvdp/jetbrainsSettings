@@ -74,10 +74,10 @@
         <mark key="." line="64" column="17" />
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/normalize-text.js" timestamp="1475721413607">
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/normalize-text.js" timestamp="1475801579392">
         <mark key="'" line="39" column="29" />
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="29" column="32" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="54" />
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="32" />
       </file>
@@ -369,19 +369,27 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" timestamp="1475799507060">
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" timestamp="1475800530729">
         <mark key="'" line="32" column="12" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="41" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="46" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" timestamp="1475799620025">
-        <mark key="'" line="66" column="29" />
-        <mark key="[" line="66" column="23" />
-        <mark key="]" line="66" column="22" />
-        <mark key="." line="66" column="22" />
-        <mark key="^" line="66" column="22" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" timestamp="1475802349383">
+        <mark key="a" line="95" column="20" />
+        <mark key="e" line="109" column="25" />
+        <mark key="'" line="95" column="20" />
+        <mark key="[" line="96" column="65" />
+        <mark key="]" line="96" column="65" />
+        <mark key="." line="96" column="65" />
+        <mark key="^" line="96" column="65" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/abbreviations.js" timestamp="1475801490890">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-sentential-rule.js" timestamp="1473904491260">
         <mark key="[" line="41" column="11" />
@@ -426,10 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-dependent-token-rule.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-rule.js" />
-      <jump line="53" column="14" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-token-rule.js" />
       <jump line="3" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-token-rule.js" />
       <jump line="11" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/tests/apply-gap-match-to-meta-schema.test.js" />
       <jump line="14" column="19" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
@@ -526,49 +530,53 @@
       <jump line="39" column="29" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/normalize-text.js" />
       <jump line="28" column="12" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
       <jump line="66" column="29" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
+      <jump line="77" column="24" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
+      <jump line="91" column="18" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
+      <jump line="85" column="10" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
+      <jump line="94" column="20" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LyoKVE9ETzogbW92ZSB0byBhIHNlcGFyYXRlIGZpbGUgYW5kIHNldCB1cCBhIHByb3BlciBpbnRlcmZhY2UgdG8gcmVzdCBzZXJ2aWNlCiAqLwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>normalizedWords</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>normalizedWords</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VFUzZcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKG5vcm1hbGl6ZVRleHQodGV4dCkuc3BsaXQoJyAnKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>normalizeAbbreviations</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndG9rZW5pemVyIGlzOiAnLCB0b2tlbml6ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYWJicmV2UmVnRXhlcyA9ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCgoc2VudGVuY2UsIGlkeCkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKGBTZW50ZW5jZSAke2lkeH0gaXM6IFxuJHsKICAgICAgICAgIEpTT04uc3RyaW5naWZ5KHNlbnRlbmNlLCAnJywgMikKICAgICAgICAgICAgLnNwbGl0KCdcbicpCiAgICAgICAgfWApOwogICAgICAgIHJldHVybiBzZW50ZW5jZTsKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcChsID0+IGwucmVwbGFjZSgvXi8sICcgICAgJykpCiAgICAgICAgICAgIC5qb2luKCdcbicpCg==</text>
+        <text encoding="base64">ZWxhYm9yYXRlZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoKVE9ETzogbW92ZSB0byBhIHNlcGFyYXRlIGZpbGUgYW5kIHNldCB1cCBhIHByb3BlciBpbnRlcmZhY2UgdG8gcmVzdCBzZXJ2aWNlCiAqLwo=</text>
+        <text encoding="base64">aW1wb3J0IGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KHJlc3Qgc2VydmljZSBhbHNvIG5lZWRzIHRvIGJlIGFkYXB0ZWQgdG8gbm90IHVzZSBHRVRzIGFzIHRoaXMgbWlnaHQgY2F1c2UKcHJvYmxlbXMgaWYgd2UgdHJ5IHRvIHRva2VuaXplIGxvbmdlciBkb2N1bWVudHMpCg==</text>
+        <text encoding="base64">ZWxhYm9yYXRlZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnd3V0Jyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
