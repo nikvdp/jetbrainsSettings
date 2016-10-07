@@ -376,14 +376,14 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="46" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" timestamp="1475802349383">
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" timestamp="1475803043251">
         <mark key="a" line="95" column="20" />
-        <mark key="e" line="109" column="25" />
+        <mark key="e" line="115" column="25" />
         <mark key="'" line="95" column="20" />
-        <mark key="[" line="96" column="65" />
-        <mark key="]" line="96" column="65" />
-        <mark key="." line="96" column="65" />
-        <mark key="^" line="96" column="65" />
+        <mark key="[" line="103" column="54" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="96" column="88" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/abbreviations.js" timestamp="1475801490890">
         <mark key="[" line="3" column="19" />
@@ -539,11 +539,11 @@
       <register name="a" type="2">
         <text encoding="base64">LyoKVE9ETzogbW92ZSB0byBhIHNlcGFyYXRlIGZpbGUgYW5kIHNldCB1cCBhIHByb3BlciBpbnRlcmZhY2UgdG8gcmVzdCBzZXJ2aWNlCiAqLwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>...</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VFUzZcPg==</text>
@@ -552,31 +552,31 @@
         <text>normalizeAbbreviations</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYWJicmV2UmVnRXhlcyA9ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHBocmFzZSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYWJicmV2UmVnRXhlcyA9ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWxhYm9yYXRlZAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWxhYm9yYXRlZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGEK</text>
+        <text encoding="base64">ZWxhYm9yYXRlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
