@@ -376,18 +376,16 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="46" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" timestamp="1475807439714">
-        <mark key="a" line="95" column="20" />
-        <mark key="e" line="115" column="25" />
-        <mark key="'" line="95" column="20" />
-        <mark key="[" line="103" column="54" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" timestamp="1476739002182">
+        <mark key="e" line="105" column="25" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/abbreviations.js" timestamp="1475801490890">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/abbreviations.js" timestamp="1476737885238">
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="7" />
         <mark key="^" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-sentential-rule.js" timestamp="1473904491260">
@@ -433,10 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-token-rule.js" />
-      <jump line="11" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/tests/apply-gap-match-to-meta-schema.test.js" />
-      <jump line="14" column="19" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
-      <jump line="33" column="6" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="32" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="29" column="5" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
@@ -533,16 +527,20 @@
       <jump line="91" column="18" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
       <jump line="85" column="10" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
       <jump line="94" column="20" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
+      <jump line="92" column="8" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
+      <jump line="118" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
+      <jump line="123" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LyoKVE9ETzogbW92ZSB0byBhIHNlcGFyYXRlIGZpbGUgYW5kIHNldCB1cCBhIHByb3BlciBpbnRlcmZhY2UgdG8gcmVzdCBzZXJ2aWNlCiAqLwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhYmJyZXZSZWdFeGVzLnJlZHVjZSgpCg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGEoKSB7CiAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgnYScpOwp9CgpQcm9taXNlLnJlc29sdmUoe29iamVjdDogMX0pCiAgLnRoZW4ob2JqID0+IHsKICAgIHJldHVybiBhKCkudGhlbigpCiAgfSk7CmZ1bmN0aW9uIGIoKSB7Cgp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>...</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VFUzZcPg==</text>
@@ -551,31 +549,31 @@
         <text>normalizeAbbreviations</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhYmJyZXZSZWdFeGVzLnJlZHVjZSgpCg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGEoKSB7CiAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgnYScpOwp9CgpQcm9taXNlLnJlc29sdmUoe29iamVjdDogMX0pCiAgLnRoZW4ob2JqID0+IHsKICAgIHJldHVybiBhKCkudGhlbigpCiAgfSk7CmZ1bmN0aW9uIGIoKSB7Cgp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnVuY3Rpb24gbm9ybWFsaXplQWJicmV2aWF0aW9ucyhtZXRhU2NoZW1hKSAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ewogIGNvbnN0IHRva2VucyA9IHsuLi5tZXRhU2NoZW1hLnRva2Vuc307CiAgY29uc3Qgd2luZG93U2l6ZSA9IGFiYnJldmlhdGlvbnMucmVkdWNlKChtYXhMZW4sIGN1cikgPT4gY3VyWzBdLmxlbmd0aCA+IG1heExlbiA/IGN1clswXS5sZW5ndGggOiBtYXhMZW4sIDApOwogIGNvbnN0IGFiYnJldlJlZ0V4ZXMgPSBhYmJyZXZpYXRpb25zLm1hcChhID0+IFtuZXcgUmVnRXhwKGBeJHthfWAsICdpJyksIGFiYnJldmlhdGlvbnNbMV1dKTsKICByZXR1cm4gewogICAgLi4ubWV0YVNjaGVtYSwKICAgIHRva2VuczogdG9rZW5zLnJlZHVjZSgodG9rZW5zLCBjdXIsIGlkeCwgb3JpZ1Rva2VucykgPT4gewogICAgICBsZXQgc3RyID0gb3JpZ1Rva2Vucy5zbGljZShpZHgsIHdpbmRvd1NpemUpCiAgICAgICAgLm1hcChpID0+IGkucmF3SW5zdGFuY2UpCiAgICAgICAgLmpvaW4oJycpOwogICAgICBzdHIgPSBhYmJyZXZSZWdFeGVzLnJlZHVjZSgocmVzdWx0LCBhYmJyZXYpID0+IHsKCiAgICAgIH0pOwogICAgICByZXR1cm4gWy4uLnRva2VucywgY3VyXTsKICAgIH0sIHRva2VucykKICB9Cn0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHBocmFzZSA9IAo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gbm9ybWFsaXplQWJicmV2aWF0aW9ucyhtZXRhU2NoZW1hKSAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYWJicmV2UmVnRXhlcyA9ICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ewogIGNvbnN0IHRva2VucyA9IHsuLi5tZXRhU2NoZW1hLnRva2Vuc307CiAgY29uc3Qgd2luZG93U2l6ZSA9IGFiYnJldmlhdGlvbnMucmVkdWNlKChtYXhMZW4sIGN1cikgPT4gY3VyWzBdLmxlbmd0aCA+IG1heExlbiA/IGN1clswXS5sZW5ndGggOiBtYXhMZW4sIDApOwogIGNvbnN0IGFiYnJldlJlZ0V4ZXMgPSBhYmJyZXZpYXRpb25zLm1hcChhID0+IFtuZXcgUmVnRXhwKGBeJHthfWAsICdpJyksIGFiYnJldmlhdGlvbnNbMV1dKTsKICByZXR1cm4gewogICAgLi4ubWV0YVNjaGVtYSwKICAgIHRva2VuczogdG9rZW5zLnJlZHVjZSgodG9rZW5zLCBjdXIsIGlkeCwgb3JpZ1Rva2VucykgPT4gewogICAgICBsZXQgc3RyID0gb3JpZ1Rva2Vucy5zbGljZShpZHgsIHdpbmRvd1NpemUpCiAgICAgICAgLm1hcChpID0+IGkucmF3SW5zdGFuY2UpCiAgICAgICAgLmpvaW4oJycpOwogICAgICBzdHIgPSBhYmJyZXZSZWdFeGVzLnJlZHVjZSgocmVzdWx0LCBhYmJyZXYpID0+IHsKCiAgICAgIH0pOwogICAgICByZXR1cm4gWy4uLnRva2VucywgY3VyXTsKICAgIH0sIHRva2VucykKICB9Cn0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWxhYm9yYXRlZAo=</text>
+        <text encoding="base64">ICAgIC8vIC50aGVuKG5vcm1hbGl6ZUFiYnJldmlhdGlvbnMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
