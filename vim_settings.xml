@@ -290,7 +290,7 @@
         <mark key="^" line="47" column="1" />
         <mark key="." line="47" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" timestamp="1477443803712" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" timestamp="1477448721013" />
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472598940496">
         <mark key="'" line="77" column="17" />
         <mark key="[" line="133" column="37" />
@@ -303,6 +303,9 @@
         <mark key="]" line="21" column="3" />
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-gap-match-to-meta-schema-tokens.js" timestamp="1477448765077">
+        <mark key="'" line="61" column="7" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/auth/services/localeHelper.js" timestamp="1469122583486">
         <mark key="[" line="2" column="16" />
@@ -447,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="15" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="22" column="31" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="38" column="24" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
@@ -547,6 +549,7 @@
       <jump line="35" column="59" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/separators.js" />
       <jump line="39" column="51" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
+      <jump line="61" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-gap-match-to-meta-schema-tokens.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -559,7 +562,7 @@
         <text>...</text>
       </register>
       <register name="/" type="4">
-        <text>splitC</text>
+        <text>ruleId</text>
       </register>
       <register name="0" type="4">
         <text>item.toLowerCase()</text>
@@ -596,9 +599,9 @@
       </register>
     </registers>
     <search>
-      <last-search>splitC</last-search>
+      <last-search>ruleId</last-search>
       <last-offset />
-      <last-pattern>splitC</last-pattern>
+      <last-pattern>ruleId</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -606,7 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZXRhcnVsZU9yZGVyXD4=</entry>
         <entry>metaschema.tokens.re</entry>
         <entry>metaSchema</entry>
         <entry encoding="base64">XDxiaW5kQWN0aW9uQ3JlYXRvcnNcPg==</entry>
@@ -626,6 +628,7 @@
         <entry encoding="base64">XDx1c2VFUzZcPg==</entry>
         <entry>&quot;</entry>
         <entry>splitC</entry>
+        <entry>ruleId</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJ2c=</entry>
