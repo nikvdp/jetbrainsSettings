@@ -29,11 +29,11 @@
         <mark key="." line="24" column="36" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/CHANGES.md" timestamp="1478153715993" />
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/PipelineTest.jsx" timestamp="1478157152259">
-        <mark key="[" line="84" column="46" />
-        <mark key="]" line="85" column="25" />
-        <mark key="^" line="85" column="25" />
-        <mark key="." line="85" column="25" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/PipelineTest.jsx" timestamp="1478157201143">
+        <mark key="[" line="85" column="36" />
+        <mark key="]" line="85" column="42" />
+        <mark key="^" line="85" column="42" />
+        <mark key="." line="85" column="42" />
       </file>
       <file name="/a.dummy" timestamp="1478156139406">
         <mark key="[" line="0" column="0" />
@@ -190,7 +190,7 @@
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="39" column="13" />
-        <mark key="[" line="38" column="12" />
+        <mark key="[" line="32" column="12" />
         <mark key="]" line="39" column="13" />
         <mark key="^" line="39" column="13" />
         <mark key="." line="39" column="13" />
@@ -239,12 +239,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" timestamp="1478156837376">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="20" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" timestamp="1478160821534">
+        <mark key="'" line="47" column="25" />
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="38" />
+        <mark key="." line="29" column="38" />
+        <mark key="^" line="29" column="38" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1469142018245">
         <mark key="[" line="131" column="0" />
@@ -410,9 +410,6 @@
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/client-app.js" timestamp="1478156988512">
         <mark key="'" line="13" column="10" />
         <mark key="[" line="27" column="3" />
-        <mark key="]" line="28" column="30" />
-        <mark key="^" line="28" column="30" />
-        <mark key="." line="28" column="30" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-sentential-rule.js" timestamp="1473904491260">
         <mark key="[" line="41" column="11" />
@@ -466,10 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="10" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
-      <jump line="54" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
-      <jump line="47" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
-      <jump line="59" column="29" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="43" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
       <jump line="49" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
       <jump line="39" column="4" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
@@ -566,66 +559,69 @@
       <jump line="39" column="13" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" />
       <jump line="7" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/client-app.js" />
       <jump line="13" column="10" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/client-app.js" />
+      <jump line="37" column="17" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
+      <jump line="47" column="25" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlbnRlbmNlU3BsaXRUb2tlbnMgPSBbJy4nLCAnPycsICchJ107CmV4cG9ydCBjb25zdCBwdW5jdHVhdGlvblRva2VucyA9IFsKICAnficsCiAgJyMnLAogICckJywKICAnXFwnLAogICd8JywKICAnXCcnLAogICciJywKICAnJScsCiAgJ14nLAogICcmJywKICAnKicsCiAgJygnLAogICcpJywKICAnXycsCiAgJysnLAogICdgJywKICAnLScsCiAgJz0nLAogICc7JywKICAnOicsCiAgJywnLAogICc8JywKICAnPicsCiAgJy8nCl07CmV4cG9ydCBjb25zdCB3b3JkU3BsaXRUb2tlbnMgPSBbJyAnLCAnXG4nLCAnXHQnLCAnXHInXTsK</text>
+        <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPSJ7YCR7YmFzZW5hbWV9L2B9IiBjb21wb25lbnQ9e0FwcH0+CiAgICAgIDxSb3V0ZSBwYXRoPSJ7YCR7YmFzZW5hbWV9L3J1bGVgfSIgY29tcG9uZW50PXtSdWxlfSAvPgogICAgICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9ydWxlLzpfaWRgfSIgY29tcG9uZW50PXtSdWxlfSAvPgogICAgICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS90ZXN0YH0iIGNvbXBvbmVudD17UGlwZWxpbmVUZXN0fSAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bGV0IGhpc3RvcnkgPSB1c2VCYXNlbmFtZShjcmVhdGVIaXN0b3J5KSh7IGJhc2VuYW1lOiAnL3FncC1hZG1pbicgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'/qgp-admin';</text>
       </register>
       <register name="-" type="4">
-        <text>browserHistory</text>
+        <text>'/qgp-admin';</text>
       </register>
       <register name="/" type="4">
-        <text>^export</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGV0IGhpc3RvcnkgPSB1c2VCYXNlbmFtZShjcmVhdGVIaXN0b3J5KSh7IGJhc2VuYW1lOiAnL3FncC1hZG1pbicgfSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgYmFzZW5hbWUgPSAnL3FncC1hZG1pbic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8geWVhaD8K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgdXNlQmVmb3JlVW5sb2FkIH0gZnJvbSAnaGlzdG9yeScK</text>
+        <text encoding="base64">Ly8gPFJvdXRlIHBhdGg9IntgJHtiYXNlbmFtZX0vYH0iIGNvbXBvbmVudD17QXBwfT4KLy8gICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9ydWxlYH0iIGNvbXBvbmVudD17UnVsZX0gLz4KLy8gICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9ydWxlLzpfaWRgfSIgY29tcG9uZW50PXtSdWxlfSAvPgovLyAgIDxSb3V0ZSBwYXRoPSJ7YCR7YmFzZW5hbWV9L3Rlc3RgfSIgY29tcG9uZW50PXtQaXBlbGluZVRlc3R9IC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlQmFzZW5hbWUK</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8cD4gd2F0IDwvcD4K</text>
+        <text encoding="base64">ZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiY2hycyBhcmU6ICIsIHdvcmRTZXBhcmF0b3JzLCAiUmVnZXggaXM6ICIsIHNwbGl0UmVnZXgpOwo=</text>
+        <text encoding="base64">Ly8geWVhaD8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNvdW50IHNlbnRlbmNlcyBhcyB3ZSBnbwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgdXNlQmVmb3JlVW5sb2FkIH0gZnJvbSAnaGlzdG9yeScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBzZW50ZW5jZVNwbGl0UmVnRXggPSBuZXcgUmVnRXhwKGAoWyR7c2VudGVuY2VTZXBhcmF0b3JzLmpvaW4oJycpfV0pYCwgJ2cnKTsK</text>
+        <text encoding="base64">dXNlQmFzZW5hbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBzcGxpdENocnMgPSBbXS5jb25jYXQod29yZFNlcGFyYXRvcnMpOwo=</text>
+        <text encoding="base64">ICA8cD4gd2F0IDwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHdoaXRlc3BhY2VXb3JkU2VwYXJhdG9ycyA9IFsnICcsICdcbicsICdcdCcsICdcciddOwo=</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiY2hycyBhcmU6ICIsIHdvcmRTZXBhcmF0b3JzLCAiUmVnZXggaXM6ICIsIHNwbGl0UmVnZXgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>^export</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>^export</last-pattern>
-      <last-replace>static</last-replace>
-      <last-substitute>^export</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>`</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\.transform</entry>
         <entry encoding="base64">XDxhcHBseUdhcE1hdGNoXD4=</entry>
         <entry encoding="base64">XDxhcHBseUdhcE1hdGNoVG9NZXRhU2NoZW1hXD4=</entry>
         <entry>callback</entry>
@@ -636,7 +632,6 @@
         <entry>update</entry>
         <entry>update rule</entry>
         <entry encoding="base64">XDx1c2VFUzZcPg==</entry>
-        <entry>&quot;</entry>
         <entry>splitC</entry>
         <entry>ruleId</entry>
         <entry>/static</entry>
@@ -645,11 +640,10 @@
         <entry>exports.*</entry>
         <entry>^exports</entry>
         <entry>^export</entry>
+        <entry>&quot;/</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyIvJ2c=</entry>
-        <entry>.,.+5w</entry>
-        <entry encoding="base64">JzwsJz5zL3JhbmdlL3JhL2dj</entry>
         <entry>q</entry>
         <entry>w:w</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
@@ -666,6 +660,9 @@
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zIS9zdGF0aWMhc3RhdGljIWc=</entry>
+        <entry encoding="base64">JzwsJz4hIi8hIi9xZ3AtYWRtaW4vIWc=</entry>
+        <entry encoding="base64">JzwsJz5zISIvISIvcWdwLWFkbWluLyFn</entry>
+        <entry encoding="base64">JzwsJz5zLyIvYC9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
