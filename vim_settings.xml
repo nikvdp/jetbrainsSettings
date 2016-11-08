@@ -97,6 +97,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/service.py" timestamp="1478642790510">
+        <mark key="'" line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/README.md" timestamp="1471468991666">
         <mark key="[" line="15" column="72" />
         <mark key="]" line="15" column="72" />
@@ -149,10 +152,6 @@
         <mark key="]" line="4" column="8" />
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/services/rule-tools.js" timestamp="1475541595684">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="28" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter2/src/App.js" timestamp="1469762709519">
         <mark key="[" line="10" column="36" />
@@ -208,9 +207,6 @@
         <mark key="]" line="20" column="88" />
         <mark key="^" line="20" column="88" />
         <mark key="." line="20" column="88" />
-      </file>
-      <file name="/a.txt" timestamp="1475540771324">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-dependent-recursive-rule.js" timestamp="1476765436654">
         <mark key="'" line="135" column="7" />
@@ -344,9 +340,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476754348220">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-meta-schema-to-gap-data-transform.js" timestamp="1473813863260">
         <mark key="'" line="30" column="6" />
         <mark key="[" line="94" column="0" />
@@ -386,9 +379,6 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="/a.regexp" timestamp="1475540766413">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/get-regex-matches.js" timestamp="1476764878509">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -426,9 +416,9 @@
         <mark key="^" line="41" column="14" />
         <mark key="." line="41" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/service.py" timestamp="1478641377045">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/service.py" timestamp="1478642407631">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="21" />
         <mark key="^" line="9" column="20" />
         <mark key="." line="10" column="0" />
       </file>
@@ -438,10 +428,6 @@
         <mark key="]" line="71" column="11" />
         <mark key="." line="71" column="11" />
         <mark key="^" line="71" column="11" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/services/word-tools.js" timestamp="1476756865376">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="73" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/escape-regex.js" timestamp="1476765064589">
         <mark key="[" line="4" column="2" />
@@ -479,8 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="24" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
-      <jump line="16" column="40" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="47" column="33" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="58" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
@@ -579,13 +563,15 @@
       <jump line="61" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-gap-match-to-meta-schema-tokens.js" />
       <jump line="47" column="14" filename="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/nltknormalizer.py" />
       <jump line="46" column="0" filename="$USER_HOME$/Code/work/volley/repos/nltk-normalization/swagger/swagger.yaml" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/service.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/service.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlbnRlbmNlU3BsaXRUb2tlbnMgPSBbJy4nLCAnPycsICchJ107CmV4cG9ydCBjb25zdCBwdW5jdHVhdGlvblRva2VucyA9IFsKICAnficsCiAgJyMnLAogICckJywKICAnXFwnLAogICd8JywKICAnXCcnLAogICciJywKICAnJScsCiAgJ14nLAogICcmJywKICAnKicsCiAgJygnLAogICcpJywKICAnXycsCiAgJysnLAogICdgJywKICAnLScsCiAgJz0nLAogICc7JywKICAnOicsCiAgJywnLAogICc8JywKICAnPicsCiAgJy8nCl07CmV4cG9ydCBjb25zdCB3b3JkU3BsaXRUb2tlbnMgPSBbJyAnLCAnXG4nLCAnXHQnLCAnXHInXTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgeC1vcGVyYXRpb24tc2V0dGluZ3M6CiAgICAgICAgQWxsb3dEeW5hbWljRm9ybVBhcmFtZXRlcnM6IGZhbHNlCiAgICAgICAgQWxsb3dEeW5hbWljUXVlcnlQYXJhbWV0ZXJzOiBmYWxzZQogICAgICAgIENvbGxlY3RQYXJhbWV0ZXJzOiBmYWxzZQogICAgICAgIElzTXVsdGlDb250ZW50U3RyZWFtaW5nOiBmYWxzZQogICAgICB4LXVuaXRUZXN0czoKICAgICAgLSBleHBlY3RlZFJlc3BvbnNlOgogICAgICAgICAgaGVhZGVyczoKICAgICAgICAgICAgQ29udGVudC1UeXBlOiAiYXBwbGljYXRpb24vanNvbiIKICAgICAgICAgIHgtYWxsb3dFeHRyYUhlYWRlcnM6IHRydWUKICAgICAgICAgIHgtYXJyYXlDaGVja0NvdW50OiBmYWxzZQogICAgICAgICAgeC1hcnJheU9yZGVyZWRNYXRjaGluZzogZmFsc2UKICAgICAgICAgIHgtYm9keU1hdGNoTW9kZTogIk5PTkUiCiAgICAgICAgICB4LW1hdGNoUmVzcG9uc2VTY2hlbWE6IHRydWUKICAgICAgICByZXF1ZXN0OgogICAgICAgICAgYm9keTogIlRoZSB0ZXh0IHlvdSB3YW50IG5vcm1hbGl6ZWQgZ29lcyBoZXJlLiIKICAgICAgICAgIG1ldGhvZDogIlBPU1QiCiAgICAgICAgICB1cmk6ICIvbm9ybWFsaXplIgogICAgICAgIHgtdGVzdERlc2NyaXB0aW9uOiA+CiAgICAgICAgICBUaGlzIHdpbGwgcmV0dXJuIGEgSlNPTiByZXByZXNlbnRhdGlvbiBvZiB0aGUgZG9jdW1lbnQgbm9ybWFsaXplZCB0bwogICAgICAgICAgYFZvbGxleU5vcm1hbGl6ZWRUZXh0YCBmb3JtYXQgd2l0aCBwYXJzaW5nLCB0b2tlbml6YXRpb24gZXRjLgogICAgICAgICAgcGVyZm9ybWVkIGJ5IE5MVEsuCiAgICAgICAgeC10ZXN0RW5hYmxlZDogdHJ1ZQogICAgICAgIHgtdGVzdE5hbWU6ICJOb3JtYWxpemUgRG9jdW1lbnQxIgogICAgICAgIHgtdGVzdFNob3VsZFBhc3M6IHRydWUK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGFwcC5ydW4ocG9ydD01MDAwKQo=</text>
       </register>
       <register name="-" type="4">
         <text>8080</text>
@@ -593,8 +579,8 @@
       <register name="/" type="4">
         <text>ruleId</text>
       </register>
-      <register name="0" type="4">
-        <text>item.toLowerCase()</text>
+      <register name="0" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGFwcC5ydW4ocG9ydD01MDAwKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgeC1vcGVyYXRpb24tc2V0dGluZ3M6CiAgICAgICAgQWxsb3dEeW5hbWljRm9ybVBhcmFtZXRlcnM6IGZhbHNlCiAgICAgICAgQWxsb3dEeW5hbWljUXVlcnlQYXJhbWV0ZXJzOiBmYWxzZQogICAgICAgIENvbGxlY3RQYXJhbWV0ZXJzOiBmYWxzZQogICAgICAgIElzTXVsdGlDb250ZW50U3RyZWFtaW5nOiBmYWxzZQogICAgICB4LXVuaXRUZXN0czoKICAgICAgLSBleHBlY3RlZFJlc3BvbnNlOgogICAgICAgICAgaGVhZGVyczoKICAgICAgICAgICAgQ29udGVudC1UeXBlOiAiYXBwbGljYXRpb24vanNvbiIKICAgICAgICAgIHgtYWxsb3dFeHRyYUhlYWRlcnM6IHRydWUKICAgICAgICAgIHgtYXJyYXlDaGVja0NvdW50OiBmYWxzZQogICAgICAgICAgeC1hcnJheU9yZGVyZWRNYXRjaGluZzogZmFsc2UKICAgICAgICAgIHgtYm9keU1hdGNoTW9kZTogIk5PTkUiCiAgICAgICAgICB4LW1hdGNoUmVzcG9uc2VTY2hlbWE6IHRydWUKICAgICAgICByZXF1ZXN0OgogICAgICAgICAgYm9keTogIlRoZSB0ZXh0IHlvdSB3YW50IG5vcm1hbGl6ZWQgZ29lcyBoZXJlLiIKICAgICAgICAgIG1ldGhvZDogIlBPU1QiCiAgICAgICAgICB1cmk6ICIvbm9ybWFsaXplIgogICAgICAgIHgtdGVzdERlc2NyaXB0aW9uOiA+CiAgICAgICAgICBUaGlzIHdpbGwgcmV0dXJuIGEgSlNPTiByZXByZXNlbnRhdGlvbiBvZiB0aGUgZG9jdW1lbnQgbm9ybWFsaXplZCB0bwogICAgICAgICAgYFZvbGxleU5vcm1hbGl6ZWRUZXh0YCBmb3JtYXQgd2l0aCBwYXJzaW5nLCB0b2tlbml6YXRpb24gZXRjLgogICAgICAgICAgcGVyZm9ybWVkIGJ5IE5MVEsuCiAgICAgICAgeC10ZXN0RW5hYmxlZDogdHJ1ZQogICAgICAgIHgtdGVzdE5hbWU6ICJOb3JtYWxpemUgRG9jdW1lbnQxIgogICAgICAgIHgtdGVzdFNob3VsZFBhc3M6IHRydWUK</text>
