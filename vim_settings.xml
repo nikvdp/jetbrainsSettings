@@ -40,12 +40,12 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/swagger/swagger.yaml" timestamp="1478645579518">
+      <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/swagger/swagger.yaml" timestamp="1478646332125">
         <mark key="'" line="21" column="34" />
-        <mark key="[" line="32" column="55" />
-        <mark key="]" line="32" column="58" />
-        <mark key="." line="32" column="58" />
-        <mark key="^" line="32" column="58" />
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+        <mark key="^" line="34" column="20" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter/src/App.js" timestamp="1469762118725">
         <mark key="[" line="10" column="30" />
@@ -591,11 +591,11 @@
       <register name="a" type="2">
         <text encoding="base64">ZnJvbSBhcHAuZ3JlZXQgaW1wb3J0IGdyZWV0Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>body</text>
       </register>
       <register name="-" type="4">
-        <text>volley</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
         <text>ruleId</text>
