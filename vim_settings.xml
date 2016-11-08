@@ -68,6 +68,12 @@
         <mark key="." line="11" column="32" />
         <mark key="^" line="11" column="32" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/swagger/swagger.yaml" timestamp="1478641469084">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1469140553650">
         <mark key="[" line="64" column="13" />
         <mark key="]" line="64" column="17" />
@@ -97,6 +103,12 @@
         <mark key="." line="15" column="72" />
         <mark key="^" line="15" column="72" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/controllers/normalization_controller.py" timestamp="1478640595324">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-arbitration-to-meta-schema.js" timestamp="1473988057001">
         <mark key="'" line="10" column="1" />
         <mark key="[" line="21" column="53" />
@@ -119,6 +131,12 @@
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/node_modules/lodash/escapeRegExp.js" timestamp="1476765402567">
         <mark key="'" line="24" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/README.md" timestamp="1478641788154">
+        <mark key="[" line="6" column="82" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/karma.common.js" timestamp="1469122709342">
         <mark key="[" line="3" column="19" />
@@ -263,7 +281,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/nltknormalizer.py" timestamp="1478569135024" />
+      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/nltknormalizer.py" timestamp="1478641302310">
+        <mark key="[" line="46" column="68" />
+        <mark key="]" line="47" column="21" />
+        <mark key="." line="47" column="21" />
+        <mark key="^" line="47" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" timestamp="1474479637865">
         <mark key="'" line="41" column="33" />
         <mark key="[" line="41" column="33" />
@@ -403,6 +426,12 @@
         <mark key="^" line="41" column="14" />
         <mark key="." line="41" column="14" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/service.py" timestamp="1478641377045">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/README.md" timestamp="1472597996702">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="71" column="0" />
@@ -450,8 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
-      <jump line="22" column="31" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="38" column="24" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="16" column="40" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
       <jump line="47" column="33" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" />
@@ -550,16 +577,18 @@
       <jump line="58" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/separators.js" />
       <jump line="39" column="51" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
       <jump line="61" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-gap-match-to-meta-schema-tokens.js" />
+      <jump line="47" column="14" filename="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/nltknormalizer.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/work/volley/repos/nltk-normalization/swagger/swagger.yaml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlbnRlbmNlU3BsaXRUb2tlbnMgPSBbJy4nLCAnPycsICchJ107CmV4cG9ydCBjb25zdCBwdW5jdHVhdGlvblRva2VucyA9IFsKICAnficsCiAgJyMnLAogICckJywKICAnXFwnLAogICd8JywKICAnXCcnLAogICciJywKICAnJScsCiAgJ14nLAogICcmJywKICAnKicsCiAgJygnLAogICcpJywKICAnXycsCiAgJysnLAogICdgJywKICAnLScsCiAgJz0nLAogICc7JywKICAnOicsCiAgJywnLAogICc8JywKICAnPicsCiAgJy8nCl07CmV4cG9ydCBjb25zdCB3b3JkU3BsaXRUb2tlbnMgPSBbJyAnLCAnXG4nLCAnXHQnLCAnXHInXTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiY2hycyBhcmU6ICIsIHdvcmRTZXBhcmF0b3JzLCAiUmVnZXggaXM6ICIsIHNwbGl0UmVnZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgeC1vcGVyYXRpb24tc2V0dGluZ3M6CiAgICAgICAgQWxsb3dEeW5hbWljRm9ybVBhcmFtZXRlcnM6IGZhbHNlCiAgICAgICAgQWxsb3dEeW5hbWljUXVlcnlQYXJhbWV0ZXJzOiBmYWxzZQogICAgICAgIENvbGxlY3RQYXJhbWV0ZXJzOiBmYWxzZQogICAgICAgIElzTXVsdGlDb250ZW50U3RyZWFtaW5nOiBmYWxzZQogICAgICB4LXVuaXRUZXN0czoKICAgICAgLSBleHBlY3RlZFJlc3BvbnNlOgogICAgICAgICAgaGVhZGVyczoKICAgICAgICAgICAgQ29udGVudC1UeXBlOiAiYXBwbGljYXRpb24vanNvbiIKICAgICAgICAgIHgtYWxsb3dFeHRyYUhlYWRlcnM6IHRydWUKICAgICAgICAgIHgtYXJyYXlDaGVja0NvdW50OiBmYWxzZQogICAgICAgICAgeC1hcnJheU9yZGVyZWRNYXRjaGluZzogZmFsc2UKICAgICAgICAgIHgtYm9keU1hdGNoTW9kZTogIk5PTkUiCiAgICAgICAgICB4LW1hdGNoUmVzcG9uc2VTY2hlbWE6IHRydWUKICAgICAgICByZXF1ZXN0OgogICAgICAgICAgYm9keTogIlRoZSB0ZXh0IHlvdSB3YW50IG5vcm1hbGl6ZWQgZ29lcyBoZXJlLiIKICAgICAgICAgIG1ldGhvZDogIlBPU1QiCiAgICAgICAgICB1cmk6ICIvbm9ybWFsaXplIgogICAgICAgIHgtdGVzdERlc2NyaXB0aW9uOiA+CiAgICAgICAgICBUaGlzIHdpbGwgcmV0dXJuIGEgSlNPTiByZXByZXNlbnRhdGlvbiBvZiB0aGUgZG9jdW1lbnQgbm9ybWFsaXplZCB0bwogICAgICAgICAgYFZvbGxleU5vcm1hbGl6ZWRUZXh0YCBmb3JtYXQgd2l0aCBwYXJzaW5nLCB0b2tlbml6YXRpb24gZXRjLgogICAgICAgICAgcGVyZm9ybWVkIGJ5IE5MVEsuCiAgICAgICAgeC10ZXN0RW5hYmxlZDogdHJ1ZQogICAgICAgIHgtdGVzdE5hbWU6ICJOb3JtYWxpemUgRG9jdW1lbnQxIgogICAgICAgIHgtdGVzdFNob3VsZFBhc3M6IHRydWUK</text>
       </register>
       <register name="-" type="4">
-        <text>...</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text>ruleId</text>
@@ -568,31 +597,31 @@
         <text>item.toLowerCase()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiY2hycyBhcmU6ICIsIHdvcmRTZXBhcmF0b3JzLCAiUmVnZXggaXM6ICIsIHNwbGl0UmVnZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgeC1vcGVyYXRpb24tc2V0dGluZ3M6CiAgICAgICAgQWxsb3dEeW5hbWljRm9ybVBhcmFtZXRlcnM6IGZhbHNlCiAgICAgICAgQWxsb3dEeW5hbWljUXVlcnlQYXJhbWV0ZXJzOiBmYWxzZQogICAgICAgIENvbGxlY3RQYXJhbWV0ZXJzOiBmYWxzZQogICAgICAgIElzTXVsdGlDb250ZW50U3RyZWFtaW5nOiBmYWxzZQogICAgICB4LXVuaXRUZXN0czoKICAgICAgLSBleHBlY3RlZFJlc3BvbnNlOgogICAgICAgICAgaGVhZGVyczoKICAgICAgICAgICAgQ29udGVudC1UeXBlOiAiYXBwbGljYXRpb24vanNvbiIKICAgICAgICAgIHgtYWxsb3dFeHRyYUhlYWRlcnM6IHRydWUKICAgICAgICAgIHgtYXJyYXlDaGVja0NvdW50OiBmYWxzZQogICAgICAgICAgeC1hcnJheU9yZGVyZWRNYXRjaGluZzogZmFsc2UKICAgICAgICAgIHgtYm9keU1hdGNoTW9kZTogIk5PTkUiCiAgICAgICAgICB4LW1hdGNoUmVzcG9uc2VTY2hlbWE6IHRydWUKICAgICAgICByZXF1ZXN0OgogICAgICAgICAgYm9keTogIlRoZSB0ZXh0IHlvdSB3YW50IG5vcm1hbGl6ZWQgZ29lcyBoZXJlLiIKICAgICAgICAgIG1ldGhvZDogIlBPU1QiCiAgICAgICAgICB1cmk6ICIvbm9ybWFsaXplIgogICAgICAgIHgtdGVzdERlc2NyaXB0aW9uOiA+CiAgICAgICAgICBUaGlzIHdpbGwgcmV0dXJuIGEgSlNPTiByZXByZXNlbnRhdGlvbiBvZiB0aGUgZG9jdW1lbnQgbm9ybWFsaXplZCB0bwogICAgICAgICAgYFZvbGxleU5vcm1hbGl6ZWRUZXh0YCBmb3JtYXQgd2l0aCBwYXJzaW5nLCB0b2tlbml6YXRpb24gZXRjLgogICAgICAgICAgcGVyZm9ybWVkIGJ5IE5MVEsuCiAgICAgICAgeC10ZXN0RW5hYmxlZDogdHJ1ZQogICAgICAgIHgtdGVzdE5hbWU6ICJOb3JtYWxpemUgRG9jdW1lbnQxIgogICAgICAgIHgtdGVzdFNob3VsZFBhc3M6IHRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNvdW50IHNlbnRlbmNlcyBhcyB3ZSBnbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBzZW50ZW5jZVNwbGl0UmVnRXggPSBuZXcgUmVnRXhwKGAoWyR7c2VudGVuY2VTZXBhcmF0b3JzLmpvaW4oJycpfV0pYCwgJ2cnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudCA9IFtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBzcGxpdENocnMgPSBbXS5jb25jYXQod29yZFNlcGFyYXRvcnMpOwo=</text>
+        <text encoding="base64">ICAgIGFwcCA9IGNvbm5leGlvbi5BcHAoX19uYW1lX18sIHNwZWNpZmljYXRpb25fZGlyPScuL3N3YWdnZXIvJykKICAgIGFwcC5hZGRfYXBpKCdzd2FnZ2VyLnlhbWwnLCBhcmd1bWVudHM9eyd0aXRsZSc6ICdUT0RPOiBBZGQgYSBkZXNjcmlwdGlvbid9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHdoaXRlc3BhY2VXb3JkU2VwYXJhdG9ycyA9IFsnICcsICdcbicsICdcdCcsICdcciddOwo=</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudCA9IFtdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGVzY2FwZVJlZ0V4cCBmcm9tICdsb2Rhc2guZXNjYXBlUmVnRXhwJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtlc2NhcGVSZWdFeHB9IGZyb20gImxvZGFzaCI7Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiY2hycyBhcmU6ICIsIHdvcmRTZXBhcmF0b3JzLCAiUmVnZXggaXM6ICIsIHNwbGl0UmVnZXgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBfZXNjYXBlUmVnRXhwKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGNvdW50IHNlbnRlbmNlcyBhcyB3ZSBnbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzZW50ZW5jZVNwbGl0UmVnRXggPSBuZXcgUmVnRXhwKGAoWyR7c2VudGVuY2VTZXBhcmF0b3JzLmpvaW4oJycpfV0pYCwgJ2cnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
