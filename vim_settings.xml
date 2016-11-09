@@ -294,12 +294,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/nltknormalizer.py" timestamp="1478656345930">
-        <mark key="'" line="50" column="20" />
-        <mark key="[" line="58" column="35" />
-        <mark key="]" line="58" column="34" />
-        <mark key="." line="58" column="34" />
-        <mark key="^" line="58" column="34" />
+      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/nltknormalizer.py" timestamp="1478657729425">
+        <mark key="'" line="51" column="20" />
+        <mark key="[" line="54" column="55" />
+        <mark key="]" line="54" column="55" />
+        <mark key="." line="54" column="55" />
+        <mark key="^" line="54" column="55" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" timestamp="1474479637865">
         <mark key="'" line="41" column="33" />
@@ -482,11 +482,12 @@
         <mark key="." line="33" column="52" />
         <mark key="^" line="32" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/tests/test_nltknormalizer.py" timestamp="1478652954306">
+      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/tests/test_nltknormalizer.py" timestamp="1478658004730">
         <mark key="'" line="47" column="45" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="38" column="97" />
+        <mark key="]" line="38" column="103" />
+        <mark key="." line="38" column="103" />
+        <mark key="^" line="38" column="103" />
       </file>
     </filemarks>
     <jumps>
@@ -595,11 +596,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoKICAgICAgLSBpbjogImZvcm1EYXRhIgogICAgICAgIG5hbWU6ICJ3dXQiCiAgICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWRfcHJlZml4ID0gc2VudGVuY2VbMF0K</text>
+      <register name="&quot;" type="4">
+        <text>arisen</text>
       </register>
       <register name="-" type="4">
-        <text>lower</text>
+        <text>arisen</text>
       </register>
       <register name="/" type="4">
         <text>ruleId</text>
@@ -608,31 +609,31 @@
         <text>(os.environ.get(&quot;MODE&quot;) == &quot;dev&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWRfcHJlZml4ID0gc2VudGVuY2VbMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWQgPSAiJXMtJXMiICUgKHNpZHgsICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZml4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWRfcHJlZml4ID0gc2VudGVuY2VbMF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZml4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQganNvbgogICAgICAgICMgcHJpbnQganNvbi5kdW1wcyhkb2N1bWVudCwgaW5kZW50PTQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQganNvbgogICAgICAgICMgcHJpbnQganNvbi5kdW1wcyhkb2N1bWVudCwgaW5kZW50PTQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoJ2RvY3VtZW50JyBpbiBkb2N1bWVudCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
