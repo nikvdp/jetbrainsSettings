@@ -328,6 +328,11 @@
         <mark key="^" line="47" column="1" />
         <mark key="." line="47" column="1" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/app/tests/test_greet.py" timestamp="1478658882765">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/resource_ranker/get_resource_text.py" timestamp="1472598940496">
         <mark key="'" line="77" column="17" />
         <mark key="[" line="133" column="37" />
@@ -434,12 +439,6 @@
         <mark key="]" line="41" column="14" />
         <mark key="^" line="41" column="14" />
         <mark key="." line="41" column="14" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/service.py" timestamp="1478653701825">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/README.md" timestamp="1472597996702">
         <mark key="'" line="13" column="0" />
@@ -596,8 +595,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoKICAgICAgLSBpbjogImZvcm1EYXRhIgogICAgICAgIG5hbWU6ICJ3dXQiCiAgICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>arisen</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
       </register>
       <register name="-" type="4">
         <text>arisen</text>
@@ -609,31 +608,31 @@
         <text>(os.environ.get(&quot;MODE&quot;) == &quot;dev&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWQgPSAiJXMtJXMiICUgKHNpZHgsICkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWRfcHJlZml4ID0gc2VudGVuY2VbMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWQgPSAiJXMtJXMiICUgKHNpZHgsICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZml4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWRfcHJlZml4ID0gc2VudGVuY2VbMF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZml4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQganNvbgogICAgICAgICMgcHJpbnQganNvbi5kdW1wcyhkb2N1bWVudCwgaW5kZW50PTQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQganNvbgogICAgICAgICMgcHJpbnQganNvbi5kdW1wcyhkb2N1bWVudCwgaW5kZW50PTQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
