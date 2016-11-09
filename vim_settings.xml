@@ -294,12 +294,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/nltknormalizer.py" timestamp="1478657729425">
-        <mark key="'" line="51" column="20" />
-        <mark key="[" line="54" column="55" />
-        <mark key="]" line="54" column="55" />
-        <mark key="." line="54" column="55" />
-        <mark key="^" line="54" column="55" />
+      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/nltknormalizer.py" timestamp="1478718380456">
+        <mark key="'" line="50" column="20" />
+        <mark key="[" line="53" column="57" />
+        <mark key="]" line="53" column="60" />
+        <mark key="." line="53" column="60" />
+        <mark key="^" line="53" column="60" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" timestamp="1474479637865">
         <mark key="'" line="41" column="33" />
@@ -595,11 +595,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoKICAgICAgLSBpbjogImZvcm1EYXRhIgogICAgICAgIG5hbWU6ICJ3dXQiCiAgICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
+      <register name="&quot;" type="4">
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>arisen</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text>ruleId</text>
@@ -608,31 +608,31 @@
         <text>(os.environ.get(&quot;MODE&quot;) == &quot;dev&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Rva2VuSWQnOiB0b2tlbl9pZCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWQgPSAiJXMtJXMiICUgKHNpZHgsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuX2lkICs9IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWRfcHJlZml4ID0gc2VudGVuY2VbMF0K</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbl9pZCA9IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZml4Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWQgPSAiJXMtJXMiICUgKHNpZHgsICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWRfcHJlZml4ID0gc2VudGVuY2VbMF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZml4Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQganNvbgogICAgICAgICMgcHJpbnQganNvbi5kdW1wcyhkb2N1bWVudCwgaW5kZW50PTQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
