@@ -288,12 +288,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/nltknormalizer.py" timestamp="1478725663754">
+      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/nltknormalizer.py" timestamp="1478727222808">
         <mark key="'" line="53" column="60" />
-        <mark key="[" line="53" column="57" />
-        <mark key="]" line="53" column="60" />
-        <mark key="." line="53" column="60" />
-        <mark key="^" line="53" column="60" />
+        <mark key="[" line="56" column="37" />
+        <mark key="]" line="56" column="37" />
+        <mark key="." line="56" column="37" />
+        <mark key="^" line="56" column="37" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" timestamp="1474479637865">
         <mark key="'" line="41" column="33" />
@@ -475,17 +475,15 @@
         <mark key="." line="33" column="52" />
         <mark key="^" line="32" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/tests/test_nltknormalizer.py" timestamp="1478658004730">
-        <mark key="'" line="47" column="45" />
-        <mark key="[" line="38" column="97" />
-        <mark key="]" line="38" column="103" />
-        <mark key="." line="38" column="103" />
-        <mark key="^" line="38" column="103" />
+      <file name="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/tests/test_nltknormalizer.py" timestamp="1478727363166">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="40" column="7" />
+        <mark key="." line="40" column="7" />
+        <mark key="^" line="40" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="10" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
-      <jump line="12" column="4" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="113" column="12" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="74" column="11" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="92" column="18" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
@@ -584,16 +582,18 @@
       <jump line="48" column="45" filename="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/tests/test_nltknormalizer.py" />
       <jump line="50" column="20" filename="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/nltknormalizer.py" />
       <jump line="53" column="60" filename="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/nltknormalizer.py" />
+      <jump line="8" column="19" filename="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/tests/test_nltknormalizer.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/Code/work/volley/repos/nltk-normalization/app/tests/test_nltknormalizer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoKICAgICAgLSBpbjogImZvcm1EYXRhIgogICAgICAgIG5hbWU6ICJ3dXQiCiAgICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>''</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0VHJ1ZShyZXN1bHQuZ2V0KCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>tokenId</text>
       </register>
       <register name="/" type="4">
         <text>ruleId</text>
@@ -602,31 +602,31 @@
         <text>(os.environ.get(&quot;MODE&quot;) == &quot;dev&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Rva2VuSWQnOiB0b2tlbl9pZCwK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0VHJ1ZShyZXN1bHQuZ2V0KCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuX2lkICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Rva2VuSWQnOiB0b2tlbl9pZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbl9pZCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuX2lkICs9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbl9pZCA9IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWQgPSAiJXMtJXMiICUgKHNpZHgsICkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWRfcHJlZml4ID0gc2VudGVuY2VbMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWQgPSAiJXMtJXMiICUgKHNpZHgsICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZml4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5faWRfcHJlZml4ID0gc2VudGVuY2VbMF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZml4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
