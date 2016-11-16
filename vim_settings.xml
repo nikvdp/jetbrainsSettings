@@ -28,7 +28,13 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/CHANGES.md" timestamp="1478153715993" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" timestamp="1479259025359">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/PipelineTest.jsx" timestamp="1478157201143">
         <mark key="[" line="85" column="36" />
         <mark key="]" line="85" column="42" />
@@ -226,6 +232,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/package.json" timestamp="1479258903518">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/tests/apply-rules-to-meta-schema.test.js" timestamp="1473372920049">
         <mark key="[" line="80" column="36" />
         <mark key="]" line="80" column="36" />
@@ -337,6 +349,11 @@
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/createBrowserHistory.js" timestamp="1478153746130">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/services/add-rule-to-db.js" timestamp="1479258385143">
+        <mark key="'" line="12" column="35" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/node_modules/lodash/lodash.js" timestamp="1476765362336">
         <mark key="'" line="13708" column="6" />
@@ -463,10 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
-      <jump line="39" column="4" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
-      <jump line="61" column="11" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
       <jump line="50" column="21" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" />
       <jump line="93" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/styles/main.scss" />
       <jump line="57" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
@@ -563,49 +576,53 @@
       <jump line="33" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
       <jump line="47" column="25" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
       <jump line="45" column="3" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
+      <jump line="12" column="35" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/services/add-rule-to-db.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPSJ7YCR7YmFzZW5hbWV9L2B9IiBjb21wb25lbnQ9e0FwcH0+CiAgICAgIDxSb3V0ZSBwYXRoPSJ7YCR7YmFzZW5hbWV9L3J1bGVgfSIgY29tcG9uZW50PXtSdWxlfSAvPgogICAgICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9ydWxlLzpfaWRgfSIgY29tcG9uZW50PXtSdWxlfSAvPgogICAgICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS90ZXN0YH0iIGNvbXBvbmVudD17UGlwZWxpbmVUZXN0fSAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ci8qKgpleHBvcnQgZGVmYXVsdCAoCiAgPFJvdXRlciBoaXN0b3J5PXticm93c2VySGlzdG9yeX0+CiAgICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9gfSIgY29tcG9uZW50PXtBcHB9PgogICAgICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9ydWxlYH0iIGNvbXBvbmVudD17UnVsZX0gLz4KICAgICAgPFJvdXRlIHBhdGg9IntgJHtiYXNlbmFtZX0vcnVsZS86X2lkYH0iIGNvbXBvbmVudD17UnVsZX0gLz4KICAgICAgPFJvdXRlIHBhdGg9IntgJHtiYXNlbmFtZX0vdGVzdGB9IiBjb21wb25lbnQ9e1BpcGVsaW5lVGVzdH0gLz4KICAgICAgPEluZGV4Um91dGUgY29tcG9uZW50PXtSdWxlTGlzdH0gLz4KICAgIDwvUm91dGU+CiAgPC9Sb3V0ZXI+Cik7CiAqKi8K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBw</text>
       </register>
       <register name="-" type="4">
-        <text>// grab pathname from the browser to allow for proxying</text>
+        <text encoding="base64">ICBw</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYmFzZW5hbWUgPSAnL3FncC1hZG1pbic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJ1bGUgZnJvbSAnLi4vbW9kZWxzL3J1bGUnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8qKgpleHBvcnQgZGVmYXVsdCAoCiAgPFJvdXRlciBoaXN0b3J5PXticm93c2VySGlzdG9yeX0+CiAgICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9gfSIgY29tcG9uZW50PXtBcHB9PgogICAgICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9ydWxlYH0iIGNvbXBvbmVudD17UnVsZX0gLz4KICAgICAgPFJvdXRlIHBhdGg9IntgJHtiYXNlbmFtZX0vcnVsZS86X2lkYH0iIGNvbXBvbmVudD17UnVsZX0gLz4KICAgICAgPFJvdXRlIHBhdGg9IntgJHtiYXNlbmFtZX0vdGVzdGB9IiBjb21wb25lbnQ9e1BpcGVsaW5lVGVzdH0gLz4KICAgICAgPEluZGV4Um91dGUgY29tcG9uZW50PXtSdWxlTGlzdH0gLz4KICAgIDwvUm91dGU+CiAgPC9Sb3V0ZXI+Cik7CiAqKi8K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2FyZSB3ZSBldmVuIHJ1bm5pbmc/Pz8/Pz8nKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gY29uc3QgYmFzZW5hbWUgPSAnL3FncC1hZG1pbic7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gdXNlIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyEvCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ci8qKgpleHBvcnQgZGVmYXVsdCAoCiAgPFJvdXRlciBoaXN0b3J5PXticm93c2VySGlzdG9yeX0+CiAgICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9gfSIgY29tcG9uZW50PXtBcHB9PgogICAgICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9ydWxlYH0iIGNvbXBvbmVudD17UnVsZX0gLz4KICAgICAgPFJvdXRlIHBhdGg9IntgJHtiYXNlbmFtZX0vcnVsZS86X2lkYH0iIGNvbXBvbmVudD17UnVsZX0gLz4KICAgICAgPFJvdXRlIHBhdGg9IntgJHtiYXNlbmFtZX0vdGVzdGB9IiBjb21wb25lbnQ9e1BpcGVsaW5lVGVzdH0gLz4KICAgICAgPEluZGV4Um91dGUgY29tcG9uZW50PXtSdWxlTGlzdH0gLz4KICAgIDwvUm91dGU+CiAgPC9Sb3V0ZXI+Cik7CiAqKi8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2FyZSB3ZSBldmVuIHJ1bm5pbmc/Pz8/Pz8nKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gY29uc3QgYmFzZW5hbWUgPSAnL3FncC1hZG1pbic7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gPFJvdXRlIHBhdGg9IntgJHtiYXNlbmFtZX0vYH0iIGNvbXBvbmVudD17QXBwfT4KLy8gICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9ydWxlYH0iIGNvbXBvbmVudD17UnVsZX0gLz4KLy8gICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9ydWxlLzpfaWRgfSIgY29tcG9uZW50PXtSdWxlfSAvPgovLyAgIDxSb3V0ZSBwYXRoPSJ7YCR7YmFzZW5hbWV9L3Rlc3RgfSIgY29tcG9uZW50PXtQaXBlbGluZVRlc3R9IC8+Cg==</text>
+        <text encoding="base64">Ly8gdXNlIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVidWdnZXIK</text>
+        <text encoding="base64">Ly8gPFJvdXRlIHBhdGg9IntgJHtiYXNlbmFtZX0vYH0iIGNvbXBvbmVudD17QXBwfT4KLy8gICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9ydWxlYH0iIGNvbXBvbmVudD17UnVsZX0gLz4KLy8gICA8Um91dGUgcGF0aD0ie2Ake2Jhc2VuYW1lfS9ydWxlLzpfaWRgfSIgY29tcG9uZW50PXtSdWxlfSAvPgovLyAgIDxSb3V0ZSBwYXRoPSJ7YCR7YmFzZW5hbWV9L3Rlc3RgfSIgY29tcG9uZW50PXtQaXBlbGluZVRlc3R9IC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8geWVhaD8K</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
