@@ -28,12 +28,11 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" timestamp="1479261551625">
-        <mark key="'" line="39" column="31" />
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="18" column="12" />
+      <file name="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" timestamp="1479261639469">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/PipelineTest.jsx" timestamp="1478157201143">
         <mark key="[" line="85" column="36" />
@@ -604,7 +603,7 @@
         <text encoding="base64">Y29ubmVjdFRvRGF0YWJhc2UobW9uZ29vc2UsIGNvbmZpZy5nZXQoJ2RhdGFiYXNlLm1vbmdvLnVybCcpKQogIC50aGVuKGluc2VydERiRGF0YSk7Cgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyBpbnNlcnREYkRhdGEoY29sbGVjdGlvbik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>MongoClient</text>
@@ -616,31 +615,31 @@
         <text>config.get('database.mongo.url')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyBpbnNlcnREYkRhdGEoY29sbGVjdGlvbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fQoKLy8gY29ubmVjdFRvRGF0YWJhc2UobW9uZ29vc2UsIGNvbmZpZy5nZXQoJ2RhdGFiYXNlLm1vbmdvLnVybCcpKQovLyAgIC50aGVuKGluc2VydERiRGF0YSk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9uZ29kYi5jb25uZWN0KCkK</text>
+        <text encoding="base64">ZnVuY3Rpb24gaW5zZXJ0RGJEYXRhKGNvbGxlY3Rpb24pIHsKCiAgLy8gY29uc29sZS5sb2coc2FtcGxlRGF0YSk7CiAgc2FtcGxlRGF0YS5mb3JFYWNoKHJ1bGUgPT4gewogICAgY29uc29sZS5sb2coJ3RyeWluZyBmb3IgcnVsZTogJywgcnVsZSk7CgogICAgLy8gcmV0dXJuIGFkZFJ1bGUocnVsZSk7CiAgICAvLyBjb25zb2xlLmxvZygnZWg/ICcsIGFkZFJ1bGUocnVsZSkudGhlbihjb25zb2xlLmxvZykpOwoKICAgIC8vIChyZXMpID0+IHsKICAgIC8vICAgY29uc29sZS5sb2coYFdyb3RlIHJ1bGUgd2l0aCBpZCAiJHtydWxlLl9pZH0iIHRvIGRiIHdpdGggcmVzOiBgLCByZXMpOwogICAgLy8gfX0KICAgIC8vIGRiUnVsZS5zYXZlKCkudGhlbigoKSA9PiBjb25zb2xlLmxvZyhhcmd1bWVudHMpKQogICAgLy8gY29uc29sZS5sb2coZGJSdWxlLnNhdmUoKSk7CiAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9uZ29kYi5Nb25nb0NsaWVudAo=</text>
+        <text encoding="base64">ICBkYi5jbG9zZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsKaW1wb3J0IHBhdGggZnJvbSAncGF0aCc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gJ21vbmdvb3NlJzsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBkYlJ1bGUgPSBuZXcgUnVsZShydWxlKTsK</text>
+        <text encoding="base64">bW9uZ29kYi5jb25uZWN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW5zZXJ0RGJEYXRhKCk7Cg==</text>
+        <text encoding="base64">bW9uZ29kYi5Nb25nb0NsaWVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29ubmVjdFRvRGF0YWJhc2UobW9uZ29vc2UsIGNvbmZpZy5nZXQoJ2RhdGFiYXNlLm1vbmdvLnVybCcpKQogIC50aGVuKGluc2VydERiRGF0YSk7Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsKaW1wb3J0IHBhdGggZnJvbSAncGF0aCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
