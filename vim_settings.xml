@@ -153,11 +153,11 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1479336824928">
+      <file name="$USER_HOME$/Code/work/volley/repos/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1479337011873">
         <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="8" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter2/src/App.js" timestamp="1469762709519">
         <mark key="[" line="10" column="36" />
@@ -381,6 +381,12 @@
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/node_modules/lodash/lodash.js" timestamp="1476765362336">
         <mark key="'" line="13708" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/stanford-core-nlp/wrapper/index.js" timestamp="1479337022612">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/templates.js" timestamp="1469069122154">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -504,6 +510,12 @@
         <mark key="." line="33" column="52" />
         <mark key="^" line="32" column="65" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/stanford-core-nlp/wrapper/package.json" timestamp="1479337866077">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="7" column="24" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="26" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
@@ -612,16 +624,16 @@
         <text encoding="base64">Y29ubmVjdFRvRGF0YWJhc2UobW9uZ29vc2UsIGNvbmZpZy5nZXQoJ2RhdGFiYXNlLm1vbmdvLnVybCcpKQogIC50aGVuKGluc2VydERiRGF0YSk7Cgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>NLTK</text>
+        <text>package_</text>
       </register>
       <register name="-" type="4">
-        <text>NLTK</text>
+        <text>package_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>config.get('database.mongo.url')</text>
+        <text>$npm_config_bin</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
