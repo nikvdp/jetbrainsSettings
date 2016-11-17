@@ -153,11 +153,11 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1479338035988">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
-        <mark key="^" line="9" column="33" />
+      <file name="$USER_HOME$/Code/work/volley/repos/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1479342306546">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter2/src/App.js" timestamp="1469762709519">
         <mark key="[" line="10" column="36" />
@@ -623,11 +623,11 @@
       <register name="a" type="2">
         <text encoding="base64">Y29ubmVjdFRvRGF0YWJhc2UobW9uZ29vc2UsIGNvbmZpZy5nZXQoJ2RhdGFiYXNlLm1vbmdvLnVybCcpKQogIC50aGVuKGluc2VydERiRGF0YSk7Cgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Nik V</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86IFByb2JhYmx5ICB3b3J0aCBjb252ZXJ0aW5nIHRvIGV4cHJlc3MgaW5zdGVhZCBvZiB2YW5pbGxhIGNvbm5lY3QKICAgIC8vIHNvIHdlIGRvbid0IGhhdmUgdG8gZGVhbCB3aXRoIGhlYWRlcnMgYW5kIG1pbWV0eXBlcyBib2lsZXJwbGF0ZSBtYW51YWxseQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Nik V</text>
+        <text>&quot;this ain't json baby&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -636,31 +636,31 @@
         <text encoding="base64">ICAgIHJlcy5zZW5kKHtzb21lOiAidmFsIn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IFByb2JhYmx5ICB3b3J0aCBjb252ZXJ0aW5nIHRvIGV4cHJlc3MgaW5zdGVhZCBvZiB2YW5pbGxhIGNvbm5lY3QKICAgIC8vIHNvIHdlIGRvbid0IGhhdmUgdG8gZGVhbCB3aXRoIGhlYWRlcnMgYW5kIG1pbWV0eXBlcyBib2lsZXJwbGF0ZSBtYW51YWxseQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICAgIC8vIHJlcy5zZXRIZWFkZXIoJ0NvbnRlbnQtVHlwZScsICdhcHBsaWNhdGlvbi9qc29uJyk7CiAgICAvLyByZXMuc2VuZCh7c29tZTogInZhbCJ9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmV3IFByb21pc2UK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgY29ubmVjdFRvRGF0YWJhc2UgfSBmcm9tICcuLi9zZXR1cCc7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygneW8gbmV3cnVsZTogJywgbmV3UnVsZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsKaW1wb3J0IHBhdGggZnJvbSAncGF0aCc7Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFJ1bGUgZnJvbSAnLi4vbW9kZWxzL3J1bGUnOwppbXBvcnQgYWRkUnVsZSBmcm9tICcuLi9zZXJ2aWNlcy9hZGQtcnVsZS10by1kYic7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB9KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bmV3IFByb21pc2UK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IHsgY29ubmVjdFRvRGF0YWJhc2UgfSBmcm9tICcuLi9zZXR1cCc7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygneW8gbmV3cnVsZTogJywgbmV3UnVsZSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsKaW1wb3J0IHBhdGggZnJvbSAncGF0aCc7Cgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgc2FtcGxlRGF0YSA9IEpTT04ucGFyc2UoCi8vICAgZnMucmVhZEZpbGVTeW5jKHBhdGgucmVzb2x2ZShgJHtfX2Rpcm5hbWV9Ly4uLy4uL2RhdGFiYXNlLmV4YW1wbGUuZGF0YS50eHRgKSkKLy8gKTsK</text>
+        <text encoding="base64">aW1wb3J0IFJ1bGUgZnJvbSAnLi4vbW9kZWxzL3J1bGUnOwppbXBvcnQgYWRkUnVsZSBmcm9tICcuLi9zZXJ2aWNlcy9hZGQtcnVsZS10by1kYic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
