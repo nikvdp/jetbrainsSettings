@@ -34,11 +34,12 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" timestamp="1479428599108">
-        <mark key="[" line="30" column="45" />
-        <mark key="]" line="31" column="30" />
-        <mark key="." line="31" column="30" />
-        <mark key="^" line="31" column="30" />
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" timestamp="1479626886674">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="4" />
+        <mark key="^" line="140" column="8" />
+        <mark key="." line="140" column="4" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/PipelineTest.jsx" timestamp="1478157201143">
         <mark key="[" line="85" column="36" />
@@ -291,12 +292,12 @@
         <mark key="." line="28" column="20" />
         <mark key="^" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1479614154732">
-        <mark key="'" line="6" column="43" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1479624551658">
+        <mark key="'" line="11" column="6" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="14" column="6" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1469142018245">
         <mark key="[" line="131" column="0" />
@@ -322,6 +323,13 @@
         <mark key="]" line="10" column="59" />
         <mark key="." line="40" column="43" />
         <mark key="^" line="40" column="43" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/utils/index.js" timestamp="1479624075722">
+        <mark key="'" line="15" column="1" />
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="6" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" timestamp="1474498683069">
         <mark key="'" line="57" column="21" />
@@ -481,6 +489,13 @@
         <mark key="^" line="41" column="14" />
         <mark key="." line="41" column="14" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/spt.js" timestamp="1479626965572">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="30" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/README.md" timestamp="1472597996702">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="71" column="0" />
@@ -518,12 +533,8 @@
         <mark key="." line="283" column="62" />
         <mark key="^" line="283" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" timestamp="1479613975824">
-        <mark key="'" line="28" column="29" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="28" column="29" />
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" timestamp="1479625019965">
+        <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-manual-rule.js" timestamp="1474404443243">
         <mark key="'" line="32" column="24" />
@@ -540,49 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
-      <jump line="75" column="16" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
-      <jump line="49" column="3" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="30" column="28" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="40" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="31" column="5" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="54" column="2" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
-      <jump line="26" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/separators.js" />
-      <jump line="81" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/separators.js" />
-      <jump line="83" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/separators.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="90" column="27" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="37" column="26" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/get-regex-matches.js" />
-      <jump line="32" column="106" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="13708" column="6" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/node_modules/lodash/lodash.js" />
-      <jump line="24" column="9" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/node_modules/lodash/escapeRegExp.js" />
-      <jump line="35" column="59" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/separators.js" />
-      <jump line="39" column="51" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="61" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-gap-match-to-meta-schema-tokens.js" />
-      <jump line="22" column="51" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/public/index.html" />
-      <jump line="24" column="48" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/public/index.html" />
-      <jump line="33" column="38" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/public/index.html" />
-      <jump line="24" column="67" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/components/Header.jsx" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
-      <jump line="7" column="22" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/createBrowserHistory.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/LocationUtils.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/LocationUtils.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/LocationUtils.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/react-router/lib/index.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
-      <jump line="39" column="13" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" />
       <jump line="7" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/client-app.js" />
       <jump line="13" column="10" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/client-app.js" />
       <jump line="37" column="17" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
@@ -612,7 +580,6 @@
       <jump line="13" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
       <jump line="31" column="31" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
       <jump line="31" column="4" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/services/add-rule-to-db.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
       <jump line="30" column="3" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
       <jump line="37" column="30" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
@@ -630,76 +597,119 @@
       <jump line="32" column="29" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
       <jump line="27" column="13" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
       <jump line="38" column="62" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
       <jump line="29" column="26" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
-      <jump line="52" column="46" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
       <jump line="8" column="1" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
-      <jump line="11" column="9" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
       <jump line="6" column="43" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
-      <jump line="28" column="29" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="56" column="35" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="41" column="22" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="57" column="55" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="42" column="7" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="49" column="35" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="113" column="8" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="144" column="8" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="72" column="4" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="92" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="73" column="12" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="74" column="20" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="78" column="20" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="80" column="20" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="82" column="20" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="39" column="34" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="1" column="2" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/spt.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
+      <jump line="2" column="20" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
+      <jump line="32" column="6" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
+      <jump line="25" column="6" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
+      <jump line="11" column="6" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
+      <jump line="26" column="17" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="45" column="18" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="6" column="16" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/utils/index.js" />
+      <jump line="15" column="1" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/utils/index.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="13" column="5" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/spt.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/spt.js" />
+      <jump line="22" column="2" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/spt.js" />
+      <jump line="44" column="13" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="20" column="16" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/utils/index.js" />
+      <jump line="40" column="13" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="76" column="15" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="67" column="14" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="77" column="6" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="93" column="10" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="81" column="2" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="99" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="79" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="208" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="205" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">Y29ubmVjdFRvRGF0YWJhc2UobW9uZ29vc2UsIGNvbmZpZy5nZXQoJ2RhdGFiYXNlLm1vbmdvLnVybCcpKQogIC50aGVuKGluc2VydERiRGF0YSk7Cgo=</text>
+        <text encoding="base64">LyoqCiAqIFJlY3VzaXZlbHkgd2FsayBhIHN0YW5mb3JkIGRlcGVuZGVuY3kgdHJlZSBhbmQgYXNzZW1ibGUKICogdGhlIHJlc3VsdHMgaW4gYSB0cmVlIHN0cnVjdHVyZS4KICoKICovCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIC50aGVuKHJlcy5zZW5kKTsKCiAgLy8gdmFyIGR1bW15Tm9ybWFsaXplZERvYyA9IHsic29tZUtleSI6ICJzb21lVmFsIiwgImRhdGEiOiAic3Vja3MiLCBpbnB1dDogcmVxLnN3YWdnZXIucGFyYW1zfTsKICAvLyByZXMuc2VuZChkdW1teU5vcm1hbGl6ZWREb2MpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+PiByZXMgaXM6ICcsIG91dCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>document:</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>: \([A-z]*\)</text>
       </register>
-      <register name="0" type="4">
-        <text>req.swagger.params</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAkcmVmOiAiIy9kZWZpbml0aW9ucy9TdGFuZm9yZFRva2VuIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIC50aGVuKHJlcy5zZW5kKTsKCiAgLy8gdmFyIGR1bW15Tm9ybWFsaXplZERvYyA9IHsic29tZUtleSI6ICJzb21lVmFsIiwgImRhdGEiOiAic3Vja3MiLCBpbnB1dDogcmVxLnN3YWdnZXIucGFyYW1zfTsKICAvLyByZXMuc2VuZChkdW1teU5vcm1hbGl6ZWREb2MpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+PiByZXMgaXM6ICcsIG91dCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3lveW8gd2UgZ290IGl0OiAnLCBhKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gcmVzLnNlbmQoCiAgICAgIC8vICAgdHJlZWlmeURlcHMoc3RhbmZvcmRSZXNwLnNlbnRlbmNlc1snYmFzaWMtZGVwZW5kZW5jaWVzJ10pCiAgICAgIC8vICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGE7Cg==</text>
+        <text encoding="base64">ICAgIHByb3BlcnRpZXM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC50aGVuCg==</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiAib2JqZWN0IgogICAgICAgIHJlcXVpcmVkOiBbICdzZWdtZW50cycgXQogICAgICAgIHByb3BlcnRpZXM6CiAgICAgICAgICBzZWdtZW50czoKICAgICAgICAgICAgdHlwZTogImFycmF5IgogICAgICAgICAgICBpdGVtczoKICAgICAgICAgICAgICAkcmVmOiAiIy9kZWZpbml0aW9ucy9zZWdtZW50Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbXM6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gc3RhbmZvcmRSZXF1ZXN0KCduaWsgd2h5IHlvdSBzbyBkdW1iIHNvbWV0aW1lcz8nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogImFycmF5Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC50aGVuKHJlc3AgPT4gewogICAgICBjb25zb2xlLmxvZygiUmVzcG9uc2UgZnJvbSBzdGFuZm9yZCB3YXM6ICIsIHJlc3ApOwogICAgfSkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgU3RhbmZvcmRUb2tlbjoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>: \([A-z]*\)</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
-      <last-replace>&quot;,\r</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern>: \([A-z]*\)</last-pattern>
+      <last-replace>&quot;\1&quot;</last-replace>
+      <last-substitute>: \([A-z]*\)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>callback</entry>
         <entry encoding="base64">XDx1bkZvcm1hdEZuXD4=</entry>
         <entry encoding="base64">XDxmb3JtYXRGblw+</entry>
         <entry>setState</entry>
@@ -719,9 +729,9 @@
         <entry>&quot;</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>,</entry>
+        <entry>: \([A-z]*\)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>we</entry>
         <entry>s/dest/src</entry>
         <entry encoding="base64">JzwsJz5zL29wdF9zcGxpdC9hY3R1YWxfc3BsaXQvZw==</entry>
@@ -738,8 +748,9 @@
         <entry encoding="base64">JzwsJz5zLyIvYC9n</entry>
         <entry>&quot;w</entry>
         <entry>e!</entry>
-        <entry>wa</entry>
         <entry>s/,/&quot;,\r/g</entry>
+        <entry>s!: \([A-z]*\)!&quot;\1&quot;!g</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
