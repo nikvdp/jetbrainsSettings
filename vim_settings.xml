@@ -489,11 +489,12 @@
         <mark key="^" line="41" column="14" />
         <mark key="." line="41" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/spt.js" timestamp="1479672672453">
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/spt.js" timestamp="1479672723456">
         <mark key="'" line="33" column="35" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="21" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/README.md" timestamp="1472597996702">
         <mark key="'" line="13" column="0" />
@@ -655,11 +656,11 @@
       <register name="a" type="2">
         <text encoding="base64">LyoqCiAqIFJlY3VzaXZlbHkgd2FsayBhIHN0YW5mb3JkIGRlcGVuZGVuY3kgdHJlZSBhbmQgYXNzZW1ibGUKICogdGhlIHJlc3VsdHMgaW4gYSB0cmVlIHN0cnVjdHVyZS4KICoKICovCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgYTogMQo=</text>
+      <register name="&quot;" type="4">
+        <text>...(</text>
       </register>
       <register name="-" type="4">
-        <text>Info</text>
+        <text>...(</text>
       </register>
       <register name="/" type="4">
         <text>: \([A-z]*\)</text>
