@@ -89,6 +89,13 @@
         <mark key="." line="11" column="32" />
         <mark key="^" line="11" column="32" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/summary.py" timestamp="1479773971283">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1469140553650">
         <mark key="[" line="64" column="13" />
         <mark key="]" line="64" column="17" />
@@ -329,6 +336,13 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="69" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/swagger/swagger.yaml" timestamp="1479773817860">
+        <mark key="'" line="25" column="39" />
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="55" column="28" />
+        <mark key="." line="55" column="28" />
+        <mark key="^" line="55" column="28" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/.editorconfig" timestamp="1473813929085">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -373,6 +387,11 @@
         <mark key="]" line="21" column="3" />
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/controllers/summary_controller.py" timestamp="1479773830462">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/LocationUtils.js" timestamp="1478154122945">
         <mark key="'" line="2" column="0" />
@@ -474,10 +493,6 @@
         <mark key="." line="23" column="7" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/client-app.js" timestamp="1478156988512">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="27" column="3" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-sentential-rule.js" timestamp="1473904491260">
         <mark key="[" line="41" column="11" />
         <mark key="]" line="41" column="14" />
@@ -536,9 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="38" column="25" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
       <jump line="108" column="30" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
       <jump line="25" column="6" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorGUI.jsx" />
@@ -636,66 +648,68 @@
       <jump line="13" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
       <jump line="31" column="31" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
       <jump line="31" column="4" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/services/add-rule-to-db.js" />
+      <jump line="33" column="63" filename="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/swagger/swagger.yaml" />
+      <jump line="25" column="39" filename="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/swagger/swagger.yaml" />
+      <jump line="3" column="4" filename="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/summary.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Y29ubmVjdFRvRGF0YWJhc2UobW9uZ29vc2UsIGNvbmZpZy5nZXQoJ2RhdGFiYXNlLm1vbmdvLnVybCcpKQogIC50aGVuKGluc2VydERiRGF0YSk7Cgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAiYXJyYXkiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>.text.value</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text encoding="base64">XDx0ZXh0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>req.swagger.params.someParam.value</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAtIGluOiAiZm9ybURhdGEiCiAgICAgICAgICBuYW1lOiAicmF0aW8iCiAgICAgICAgICB0eXBlOiAibnVtYmVyIgogICAgICAgIC0gCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAiYXJyYXkiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlCg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vID8K</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgICAgICAgIHNhbGllbnRfdGVybXM6IFtdLAoKICAgICAgICAgICAgfQoKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtICIK</text>
+        <text encoding="base64">ICAgICAgICAgIG5hbWU6ICJyYXRpbyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3VtZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAtIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlbWE6CiAgICAgICAgICB0eXBlOiAic3RyaW5nIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlbWE6CiAgICAgICAgICB0eXBlOiAic3RyaW5nIgo=</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiAiYXJyYXkiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICMgdGhpcyBpcyByZXF1aXJlZCBzaW5jZSB3ZSBhcmUgbm90IHBhc3NpbmcgdGhlIHRleHQgYXMgSlNPTi4KICAgICAgIyBUT0RPOiBzaG91bGQgd2UganVzdCB1c2UgSlNPTiBldmVyeXdoZXJlPz8/CiAgICAgIGNvbnN1bWVzOgogICAgICAtICJhcHBsaWNhdGlvbi90ZXh0IgogICAgICAtICJ0ZXh0L3BsYWluIgogICAgICBwcm9kdWNlczoKICAgICAgLSAiYXBwbGljYXRpb24vanNvbiIK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search encoding="base64">XDx0ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXh0XD4=</last-pattern>
       <last-replace>`</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBseUdhcE1hdGNoVG9NZXRhU2NoZW1hXD4=</entry>
         <entry>callback</entry>
         <entry encoding="base64">XDx1bkZvcm1hdEZuXD4=</entry>
         <entry encoding="base64">XDxmb3JtYXRGblw+</entry>
@@ -715,6 +729,7 @@
         <entry>&quot;/</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDx0ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
