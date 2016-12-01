@@ -562,11 +562,11 @@
         <mark key="." line="283" column="62" />
         <mark key="^" line="283" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" timestamp="1480553801627">
-        <mark key="[" line="24" column="92" />
-        <mark key="]" line="24" column="93" />
-        <mark key="." line="24" column="93" />
-        <mark key="^" line="26" column="22" />
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" timestamp="1480557859197">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="21" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -679,7 +679,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>stan</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXh0XD4=</text>
@@ -691,28 +691,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVERPTzogdXNlIGVzNiBpbXBvcnRzIGhlcmUgaW5zdGVhZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIGNvbXByZXNzaW9uID0gcmVxdWlyZSgnY29tcHJlc3Npb24nKTsK</text>
+        <text encoding="base64">Ly8gVERPTzogdXNlIGVzNiBpbXBvcnRzIGhlcmUgaW5zdGVhZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGxlbW1hOiBzVG9rZW4ubGVtbWEsCiAgICAvLyBzdGVtOiBzVG9rZW4ubGVtbWEsIC8vIFRPRE86IHZlcmlmeSB0aGlzIGlzIGNvcnJlY3QgYmVoYXZpb3IKICAgIC8vIHN0b3B3b3JkOiBzVG9rZW4uc3RvcHdvcmQsCg==</text>
+        <text encoding="base64">dmFyIGNvbXByZXNzaW9uID0gcmVxdWlyZSgnY29tcHJlc3Npb24nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgUE9TOiBzVG9rZW4ucG9zIAo=</text>
+        <text encoding="base64">ICAgIC8vIGxlbW1hOiBzVG9rZW4ubGVtbWEsCiAgICAvLyBzdGVtOiBzVG9rZW4ubGVtbWEsIC8vIFRPRE86IHZlcmlmeSB0aGlzIGlzIGNvcnJlY3QgYmVoYXZpb3IKICAgIC8vIHN0b3B3b3JkOiBzVG9rZW4uc3RvcHdvcmQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgUE9TOiBzVG9rZW4ucG9zIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHN0YW5mb3JkJ3MgdXNlcyAiLiIgaW4gdGhlIFBPUyBmaWVsZCB0byByZXByZXNlbnQgcHVuY3R1YXRpb24sIGZpbHRlciB0aGVzZSBvdXQgc2luY2UKICAgIC8vIGl0J3Mgbm90IHBhcnQgb2YgdGhlIFBlbm50cmVlYmFuay9Wb2xsZXlOb3JtYWxpemVkRG9jdW1lbnQgc3BlYwogICAgUE9TOiBzVG9rZW4ucG9zID09PSAiLiIgPyBudWxsIDogc1Rva2VuLnBvcywK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBPUzogc1Rva2VuLnBvcyA9PT0gIi4iID8gbnVsbCA6IHNUb2tlbi5wb3MsCg==</text>
+        <text encoding="base64">ICAgIC8vIHN0YW5mb3JkJ3MgdXNlcyAiLiIgaW4gdGhlIFBPUyBmaWVsZCB0byByZXByZXNlbnQgcHVuY3R1YXRpb24sIGZpbHRlciB0aGVzZSBvdXQgc2luY2UKICAgIC8vIGl0J3Mgbm90IHBhcnQgb2YgdGhlIFBlbm50cmVlYmFuay9Wb2xsZXlOb3JtYWxpemVkRG9jdW1lbnQgc3BlYwogICAgUE9TOiBzVG9rZW4ucG9zID09PSAiLiIgPyBudWxsIDogc1Rva2VuLnBvcywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIC8vIFRPRE86IFN0b3B3b3JkcyBuZWVkIHRvIGJlIGhhbmRsZWQgZWxzZXdoZXJlLCBzdGFuZm9yZCBkb2Vzbid0IHRlbGwgdXMgaWYgd29yZCBpcyBhIHN0b3B3b3JkIG9yIG5vdAo=</text>
+        <text encoding="base64">ICAgIFBPUzogc1Rva2VuLnBvcyA9PT0gIi4iID8gbnVsbCA6IHNUb2tlbi5wb3MsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
