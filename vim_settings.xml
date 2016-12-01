@@ -323,13 +323,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/index.js" timestamp="1480553590574">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="22" column="4" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/setup/index.js" timestamp="1479260752736">
         <mark key="[" line="36" column="2" />
         <mark key="]" line="36" column="8" />
@@ -416,13 +409,6 @@
         <mark key="." line="28" column="20" />
         <mark key="^" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1480553415308">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="44" column="4" />
-      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1469142018245">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="27" />
@@ -485,6 +471,9 @@
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1480559836185">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-meta-schema-to-gap-data-transform.js" timestamp="1473813863260">
         <mark key="'" line="30" column="6" />
@@ -563,9 +552,9 @@
         <mark key="^" line="283" column="62" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" timestamp="1480557859197">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
         <mark key="^" line="21" column="45" />
       </file>
     </filemarks>
@@ -673,10 +662,10 @@
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIC8vIHN0YW5mb3JkJ3MgdXNlcyAiLiIgaW4gdGhlIFBPUyBmaWVsZCB0byByZXByZXNlbnQgcHVuY3R1YXRpb24sIGZpbHRlciB0aGVzZSBvdXQgc2luY2UKICAgIC8vIGl0J3Mgbm90IHBhcnQgb2YgdGhlIFBlbm50cmVlYmFuay9Wb2xsZXlOb3JtYWxpemVkRG9jdW1lbnQgc3BlYwogICAgUE9TOiBzVG9rZW4ucG9zID09PSAiLiIgPyBudWxsIDogc1Rva2VuLnBvcywK</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5vcm1hbGl6ZVRleHQgKHJlcSwgcmVzLCBuZXh0KSB7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5vcm1hbGl6ZVRleHQgKHJlcSwgcmVzLCBuZXh0KSB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>stan</text>
@@ -685,7 +674,7 @@
         <text encoding="base64">XDx0ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAic3VtbWFyeV90ZXh0Ijogc3VtbWFyeSwKICAgICAgICAic2FsaWVudF90ZXJtcyI6IHNhbGllbnRfdGVybXMK</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5vcm1hbGl6ZVRleHQgKHJlcSwgcmVzLCBuZXh0KSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
