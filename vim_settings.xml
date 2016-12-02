@@ -535,12 +535,12 @@
         <mark key="." line="283" column="62" />
         <mark key="^" line="283" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" timestamp="1480637373440">
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" timestamp="1480638799183">
         <mark key="'" line="38" column="16" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="13" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="38" column="16" />
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="41" />
+        <mark key="." line="31" column="41" />
+        <mark key="^" line="31" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -649,11 +649,11 @@
       <register name="a" type="2">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5vcm1hbGl6ZVRleHQgKHJlcSwgcmVzLCBuZXh0KSB7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>JSON.parse(JSON.stringify(r.data.sentences))</text>
       </register>
       <register name="-" type="4">
-        <text>cleanResponse</text>
+        <text>JSON.parse(JSON.stringify(r.data.sentences))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXh0XD4=</text>
@@ -662,31 +662,31 @@
         <text encoding="base64">ICAgICAgICBjbGVhblJlc3BvbnNlID0gSlNPTi5wYXJzZShyLmRhdGEucmVwbGFjZSgvXHUwMDAwL2csICcnKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgbGV0IHN0YW5mb3JkUmVzcG9uc2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3IgaXMgOiAnLCByKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhbmZvcmRSZXNwb25zZTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICBzdGFuZm9yZFJlc3BvbnNlID0gewogICAgICAgICAgICBlcnI6CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHR5cGVvZiByLmRhdGEgPT09ICdzdHJpbmcnKSB7CiAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY2xlYW5Kc29uID0gci5kYXRhLnJlcGxhY2UoL1x1MDAwMC9nLCAnJyk7CiAgICAgIHJldHVybiBKU09OLnBhcnNlKGNsZWFuSnNvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3IgaXMgOiAnLCByKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+PiB3dGggbWFuOiAnLCBjbGVhbkpzb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhbmZvcmRSZXNwb25zZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
