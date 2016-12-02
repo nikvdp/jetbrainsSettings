@@ -392,12 +392,12 @@
         <mark key="." line="28" column="20" />
         <mark key="^" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1480636838342">
-        <mark key="'" line="15" column="41" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="14" column="42" />
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1480643845059">
+        <mark key="'" line="7" column="12" />
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="44" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/index.js" timestamp="1469142018245">
         <mark key="[" line="131" column="0" />
@@ -535,16 +535,15 @@
         <mark key="." line="283" column="62" />
         <mark key="^" line="283" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" timestamp="1480638799183">
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" timestamp="1480643807703">
         <mark key="'" line="38" column="16" />
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="41" />
-        <mark key="." line="31" column="41" />
-        <mark key="^" line="31" column="41" />
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+        <mark key="^" line="27" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
       <jump line="110" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
       <jump line="75" column="16" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
       <jump line="49" column="3" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
@@ -644,16 +643,17 @@
       <jump line="9" column="44" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
       <jump line="15" column="41" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
       <jump line="38" column="16" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/stanford-interface/index.js" />
+      <jump line="7" column="12" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5vcm1hbGl6ZVRleHQgKHJlcSwgcmVzLCBuZXh0KSB7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>JSON.parse(JSON.stringify(r.data.sentences))</text>
+        <text>; })</text>
       </register>
       <register name="-" type="4">
-        <text>JSON.parse(JSON.stringify(r.data.sentences))</text>
+        <text>; })</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXh0XD4=</text>
@@ -662,31 +662,31 @@
         <text encoding="base64">ICAgICAgICBjbGVhblJlc3BvbnNlID0gSlNPTi5wYXJzZShyLmRhdGEucmVwbGFjZSgvXHUwMDAwL2csICcnKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHN0YW5mb3JkUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+PiAiLCBzdGFuZm9yZFJlc3BvbnNlKTsKICAgICAgLy8gc3RhbmZvcmRSZXNwb25zZSA9IHIuZGF0YS5yZXBsYWNlKC9cdTAwMDAvZywgJycpOwogICAgICAvLyBzdGFuZm9yZFJlc3BvbnNlID0gSlNPTi5wYXJzZShzdGFuZm9yZFJlc3BvbnNlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgLy8gc3RhbmZvcmRSZXNwb25zZSA9IHIuZGF0YS5yZXBsYWNlKC9cdTAwMDAvZywgJycpOwogICAgICAvLyBzdGFuZm9yZFJlc3BvbnNlID0gSlNPTi5wYXJzZShzdGFuZm9yZFJlc3BvbnNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+PiAiLCBzdGFuZm9yZFJlc3BvbnNlKTsKICAgICAgLy8gc3RhbmZvcmRSZXNwb25zZSA9IHIuZGF0YS5yZXBsYWNlKC9cdTAwMDAvZywgJycpOwogICAgICAvLyBzdGFuZm9yZFJlc3BvbnNlID0gSlNPTi5wYXJzZShzdGFuZm9yZFJlc3BvbnNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICBzdGFuZm9yZFJlc3BvbnNlID0gewogICAgICAgICAgICBlcnI6CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHR5cGVvZiByLmRhdGEgPT09ICdzdHJpbmcnKSB7CiAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgLy8gYSByZWdleCB0aGVtIG91dCBiZWZvcmUgd2UgcGFyc2UgdGhlIEpTT04K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgbGV0IHN0YW5mb3JkUmVzcG9uc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3IgaXMgOiAnLCByKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhbmZvcmRSZXNwb25zZTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICBzdGFuZm9yZFJlc3BvbnNlID0gewogICAgICAgICAgICBlcnI6CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
