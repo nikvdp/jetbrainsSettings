@@ -18,12 +18,12 @@
         <mark key="." line="87" column="90" />
         <mark key="^" line="87" column="90" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" timestamp="1480990764274">
-        <mark key="'" line="82" column="8" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="51" column="36" />
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" timestamp="1480993158285">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="50" column="36" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1479775526170">
         <mark key="[" line="0" column="0" />
@@ -94,11 +94,11 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/gensim-interface/index.js" timestamp="1480990162441">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="38" />
-        <mark key="." line="21" column="38" />
-        <mark key="^" line="21" column="38" />
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/gensim-interface/index.js" timestamp="1480993405677">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1479342306546">
         <mark key="[" line="5" column="0" />
@@ -592,7 +592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="59" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/separators.js" />
       <jump line="39" column="51" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
       <jump line="61" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-gap-match-to-meta-schema-tokens.js" />
@@ -692,16 +691,17 @@
       <jump line="14" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
       <jump line="56" column="8" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
       <jump line="81" column="8" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICByZXR1cm4gYXhpb3MKICAgIC5wb3N0KEdFTlNJTV9BUElfVVJMLCB0ZXh0LCB7CiAgICAgIHBhcmFtczogewogICAgICAgIHdvcmRfY291bnQ6IDE1MAogICAgICB9CiAgICB9KQogICAgLnRoZW4ociA9PiByLmRhdGEpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>/summarize</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF0Zm9ybVw+</text>
@@ -713,28 +713,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgR0VOU0lNX0FQSV9VUkwgPSBwcm9jZXNzLmVudi5HRU5TSU1fQVBJX1VSTCB8fCAiaHR0cDovL2dlbnNpbTo1MDAwLyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtCg==</text>
+        <text encoding="base64">aW1wb3J0IHF1ZXJ5c3RyaW5nIGZyb20gInF1ZXJ5c3RyaW5nIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwbGF0Zm9ybQo=</text>
+        <text encoding="base64">ICAgICAgICAtICJhcHBsaWNhdGlvbi9qc29uIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAuLnV0aWxzIGltcG9ydCBhbGxfanNvbiwgYm9vbGVhbiwgaXNfbnVsbCwgaXNfbnVsbGFibGUK</text>
+        <text encoding="base64">ICAgICAgICAtICJhcHBsaWNhdGlvbi9qc29uIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAnJykK</text>
+        <text encoding="base64">ICAgICAgICAtICJhcHBsaWNhdGlvbi9qc29uIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgR0VOU0lNX0FQSV9VUkwgPSBwcm9jZXNzLmVudi5HRU5TSU1fQVBJX1VSTCB8fCAiaHR0cDovL2dlbnNpbTo1MDAwLyI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHN1bW1hcnkgPSByZXN1bHRzWzFdOwo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
