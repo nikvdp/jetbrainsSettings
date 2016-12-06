@@ -175,12 +175,12 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" timestamp="1480994712683">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="19" column="1" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" timestamp="1480996229762">
+        <mark key="'" line="43" column="20" />
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="31" column="40" />
+        <mark key="." line="31" column="40" />
+        <mark key="^" line="31" column="40" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/.editorconfig" timestamp="1473813929085">
         <mark key="[" line="8" column="0" />
@@ -593,7 +593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="48" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/public/index.html" />
       <jump line="33" column="38" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/public/index.html" />
       <jump line="24" column="67" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/components/Header.jsx" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
@@ -693,58 +692,59 @@
       <jump line="23" column="33" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/index.js" />
       <jump line="46" column="18" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/index.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" />
+      <jump line="32" column="20" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICByZXR1cm4gYXhpb3MKICAgIC5wb3N0KEdFTlNJTV9BUElfVVJMLCB0ZXh0LCB7CiAgICAgIHBhcmFtczogewogICAgICAgIHdvcmRfY291bnQ6IDE1MAogICAgICB9CiAgICB9KQogICAgLnRoZW4ociA9PiByLmRhdGEpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>contains</text>
       </register>
       <register name="-" type="4">
-        <text>`${process.env.npm_package_name}:${path.basename(__filename)}`</text>
+        <text>contains</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGF0Zm9ybVw+</text>
+        <text>cur</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gc25pcHBldCB0byBwcmVwZW5kIGRlYnVnIG1lc3NhZ2VzIHdpdGggbW9kdWxlIGFuZCBmaWxlIG5hbWUKaW1wb3J0IGRlYnVnSGVscGVyIGZyb20gImRlYnVnIjsKaW1wb3J0IHBhdGggZnJvbSAicGF0aCI7CmltcG9ydCBwcm9jZXNzIGZyb20gInByb2Nlc3MiOwpjb25zdCBkZWJ1ZyA9IGRlYnVnSGVscGVyKGAke3Byb2Nlc3MuZW52Lm5wbV9wYWNrYWdlX25hbWV9OiR7cGF0aC5iYXNlbmFtZShfX2ZpbGVuYW1lKX1gKTsK</text>
+      <register name="0" type="4">
+        <text>summary.salient_terms.map(String.prototype.toLowerCase().bind).contains(word)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBjdXJTZW50ZW5jZVJlcyA9IHByZXZbY3VyLmluZGV4XSA/IHByZXZbY3VyLmluZGV4XSA6IHtzY29yZTogMH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gZ2VuU2ltKHRleHQpCiAgICAvLyAudGhlbihyID0+IGNvbnNvbGUubG9nKCI+Pj4gIiwgcikpCiAgICAvLyAuY2F0Y2goZSA9PiBjb25zb2xlLmxvZygiISEhISA+Pj4iLCBlKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBmcy53cml0ZUZpbGVTeW5jKCdub3JtLmpzb24nLCBKU09OLnN0cmluZ2lmeShub3JtVGV4dFdpdGhTcHQpKTsKICAvLyBmcy53cml0ZUZpbGVTeW5jKCdzdW1tLmpzb24nLCBKU09OLnN0cmluZ2lmeShzdW1tYXJ5KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygneW95byB3ZSBnb3QgaXQ6ICcsIG5vcm1UZXh0V2l0aFNwdCwgc3VtbWFyeSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZXZbY3VyLmluZGV4XSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGZzIGZyb20gImZzIjsK</text>
+        <text encoding="base64">ICAgICAgbGV0IGxvd2VyZWRUb2tlbnMgPSBzdW1tYXJ5LnNhbGllbnRfdGVybXMubWFwKHc9PlN0cmluZy5wcm90b3R5cGUudG9Mb3dlckNhc2UuYmluZCh3KSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNoYWxrIGZyb20gImNoYWxrIjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbGF0Zm9ybVw+</last-search>
+      <last-search>cur</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGF0Zm9ybVw+</last-pattern>
+      <last-pattern>cur</last-pattern>
       <last-replace>`</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -752,7 +752,6 @@
     </search>
     <history>
       <history-search>
-        <entry>link</entry>
         <entry>update</entry>
         <entry>update rule</entry>
         <entry encoding="base64">XDx1c2VFUzZcPg==</entry>
@@ -772,6 +771,7 @@
         <entry>console</entry>
         <entry encoding="base64">XDxjb2RlY3NcPg==</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
+        <entry>cur</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
