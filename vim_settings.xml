@@ -18,13 +18,6 @@
         <mark key="." line="87" column="90" />
         <mark key="^" line="87" column="90" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" timestamp="1480993158285">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="50" column="36" />
-        <mark key="." line="80" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1479775526170">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -48,6 +41,12 @@
         <mark key="]" line="11" column="32" />
         <mark key="." line="11" column="32" />
         <mark key="^" line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/summary.py" timestamp="1479775383935">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-rule.js" timestamp="1474412427150">
         <mark key="'" line="3" column="7" />
@@ -125,12 +124,6 @@
         <mark key="]" line="50" column="37" />
         <mark key="^" line="50" column="37" />
         <mark key="." line="50" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/package.json" timestamp="1480979253205">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="36" />
-        <mark key="^" line="7" column="36" />
-        <mark key="." line="7" column="36" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/server-app.js" timestamp="1479260537699">
         <mark key="[" line="10" column="0" />
@@ -432,12 +425,11 @@
         <mark key="." line="28" column="20" />
         <mark key="^" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1480979865805">
-        <mark key="'" line="7" column="12" />
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
-        <mark key="^" line="12" column="31" />
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1481060611098">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="62" column="80" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1480972938637">
         <mark key="[" line="0" column="0" />
@@ -593,9 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="38" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/public/index.html" />
-      <jump line="24" column="67" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/components/Header.jsx" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
@@ -693,16 +682,19 @@
       <jump line="46" column="18" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/index.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" />
       <jump line="32" column="20" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" />
+      <jump line="1" column="15" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/normalizer.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICByZXR1cm4gYXhpb3MKICAgIC5wb3N0KEdFTlNJTV9BUElfVVJMLCB0ZXh0LCB7CiAgICAgIHBhcmFtczogewogICAgICAgIHdvcmRfY291bnQ6IDE1MAogICAgICB9CiAgICB9KQogICAgLnRoZW4ociA9PiByLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gc3RhbmZvcmQncyB1c2VzICIuIiBpbiB0aGUgUE9TIGZpZWxkIHRvIHJlcHJlc2VudCBwdW5jdHVhdGlvbiwgZmlsdGVyIHRoZXNlIG91dCBzaW5jZQogICAgICAvLyBpdCdzIG5vdCBwYXJ0IG9mIHRoZSBQZW5udHJlZWJhbmsvVm9sbGV5Tm9ybWFsaXplZERvY3VtZW50IHNwZWMKICAgICAgaWYgKGtleSA9PT0gIlBPUyIpIHsKICAgICAgICB2VG9rZW5ba2V5XSA9IHNWYWwgPT09ICIuIiA/IG51bGwgOiBzVG9rZW4ucG9zOwogICAgICB9CiAgICAgIHZUb2tlbltrZXldID0gc1ZhbDsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Stanford Text Normalization</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBUT0RPOiB3ZSBoYXZlIGEgaG9sZSBpbiBvdXIgbm9ybWFsaXplZCBkb2Mgc3BlYywgd2hhdCBwb3MgdmFsdWUgc2hvdWxkIHB1bmN0dWF0aW9uIG1hcmtzIGhhdmU/CiAgLy8gb3Igc2hvdWxkIHdlIGp1c3QgZGVsZXRlIHRoZSBQT1MgZmllbGQgY29tcGxldGVseSBmb3IgcHVuY3R1YXRpb24gdG9rZW5zPwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Stanford Text Normalization</text>
+        <text>the field comp</text>
       </register>
       <register name="/" type="4">
         <text>cur</text>
@@ -711,31 +703,31 @@
         <text>summary.salient_terms.map(String.prototype.toLowerCase().bind).contains(word)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBjdXJTZW50ZW5jZVJlcyA9IHByZXZbY3VyLmluZGV4XSA/IHByZXZbY3VyLmluZGV4XSA6IHtzY29yZTogMH0K</text>
+        <text encoding="base64">ICAvLyBUT0RPOiB3ZSBoYXZlIGEgaG9sZSBpbiBvdXIgbm9ybWFsaXplZCBkb2Mgc3BlYywgd2hhdCBwb3MgdmFsdWUgc2hvdWxkIHB1bmN0dWF0aW9uIG1hcmtzIGhhdmU/CiAgLy8gb3Igc2hvdWxkIHdlIGp1c3QgZGVsZXRlIHRoZSBQT1MgZmllbGQgY29tcGxldGVseSBmb3IgcHVuY3R1YXRpb24gdG9rZW5zPwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAvLyBzZXQgZmxhZ3MKICBpZiAoc1Rva2VuLnBvcyA9PT0gIi4iKSB7CiAgICB2VG9rZW4uZmxhZ3MuaXNQdW5jdHVhdGlvbiA9IHRydWU7CiAgfSBlbHNlIHsKICAgIHZUb2tlbi5mbGFncy5pc1dvcmQgPSB0cnVlOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB2VG9rZW4uUE9TID0gdlRva2VuLlBPUyA9PT0gIi4iID8gbnVsbCA6IHZUb2tlbi5QT1M7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByZXZbY3VyLmluZGV4XSAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGxvd2VyZWRUb2tlbnMgPSBzdW1tYXJ5LnNhbGllbnRfdGVybXMubWFwKHc9PlN0cmluZy5wcm90b3R5cGUudG9Mb3dlckNhc2UuYmluZCh3KSgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICB2VG9rZW4uUE9TID0gdlRva2VuLlBPUyA9PT0gIi4iID8gbnVsbCA6IHZUb2tlbi5QT1M7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBpZiAoa2V5ID09PSAiUE9TIikgewogICAgdlRva2VuW2tleV0gPSBzVmFsID09PSAiLiIgPyBudWxsIDogc1Rva2VuLnBvczsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB2VG9rZW5ba2V5XSA9IHNWYWw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
