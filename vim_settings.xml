@@ -94,6 +94,12 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/gensim-interface/index.js" timestamp="1480984977741">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1479342306546">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -169,12 +175,12 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" timestamp="1480983396391">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="7" column="89" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="21" column="20" />
+      <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" timestamp="1480985231609">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/.editorconfig" timestamp="1473813929085">
         <mark key="[" line="8" column="0" />
@@ -581,9 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-plain-text-to-meta-schema-transform.js" />
-      <jump line="26" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/separators.js" />
-      <jump line="81" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/separators.js" />
       <jump line="83" column="1" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/separators.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
       <jump line="90" column="27" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
@@ -681,49 +684,64 @@
       <jump line="13" column="1" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" />
       <jump line="17" column="1" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/gensim-interface/index.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/gensim-interface/index.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/gensim-interface/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">Ly8gc25pcHBldCB0byBwcmVwZW5kIGRlYnVnIG1lc3NhZ2VzIHdpdGggbW9kdWxlIGFuZCBmaWxlIG5hbWUKaW1wb3J0IGRlYnVnSGVscGVyIGZyb20gImRlYnVnIjsKaW1wb3J0IHBhdGggZnJvbSAicGF0aCI7CmltcG9ydCBwcm9jZXNzIGZyb20gInByb2Nlc3MiOwpjb25zdCBkZWJ1ZyA9IGRlYnVnSGVscGVyKGAke3Byb2Nlc3MuZW52Lm5wbV9wYWNrYWdlX25hbWV9OiR7cGF0aC5iYXNlbmFtZShfX2ZpbGVuYW1lKX1gKTsK</text>
+        <text encoding="base64">ICByZXR1cm4gYXhpb3MKICAgIC5wb3N0KEdFTlNJTV9BUElfVVJMLCB0ZXh0LCB7CiAgICAgIHBhcmFtczogewogICAgICAgIHdvcmRfY291bnQ6IDE1MAogICAgICB9CiAgICB9KQogICAgLnRoZW4ociA9PiByLmRhdGEpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGRlYnVnSGVscGVyIGZyb20gImRlYnVnIjsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text>GENSIM_API_URL</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgR0VOU0lNX0FQSV9VUkwgPSBwcm9jZXNzLmVudi5HRU5TSU1fQVBJX1VSTCB8fCAiaHR0cDovL2dlbnNpbTo1MDAwIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRlYnVnSGVscGVyIGZyb20gImRlYnVnIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gc25pcHBldCB0byBwcmVwZW5kIGRlYnVnIG1lc3NhZ2VzIHdpdGggbW9kdWxlIGFuZCBmaWxlIG5hbWUKaW1wb3J0IHBhdGggZnJvbSAicGF0aCI7CmltcG9ydCBwcm9jZXNzIGZyb20gInByb2Nlc3MiOwpjb25zdCBkZWJ1ZyA9IGRlYnVnSGVscGVyKGAke3Byb2Nlc3MuZW52Lm5wbV9wYWNrYWdlX25hbWV9OiR7cGF0aC5iYXNlbmFtZShfX2ZpbGVuYW1lKX1gKTsK</text>
+      <register name="2" type="4">
+        <text>{
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gc25pcHBldCB0byBwcmVwZW5kIGRlYnVnIG1lc3NhZ2VzIHdpdGggbW9kdWxlIGFuZCBmaWxlIG5hbWUKaW1wb3J0IHBhdGggZnJvbSAicGF0aCI7CmltcG9ydCBwcm9jZXNzIGZyb20gInByb2Nlc3MiOwpjb25zdCBkZWJ1ZyA9IGRlYnVnSGVscGVyKGAke3Byb2Nlc3MuZW52Lm5wbV9wYWNrYWdlX25hbWV9OiR7cGF0aC5iYXNlbmFtZShfX2ZpbGVuYW1lKX1gKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRlYnVnSGVscGVyIGZyb20gImRlYnVnIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICByZXMuc2VuZCh0ZXh0KQogICAgLnRoZW4oc3RhbmZvcmRUb1ZvbGxleSkKICAgIC50aGVuKG5vcm1hbGl6ZWQgPT4gcmVzLnNlbmQobm9ybWFsaXplZCkpCiAgICAuY2F0Y2gobmV4dCk7IC8vIHNlbmQgZXJyb3JzIHRvIHRoZSBjbGllbnQgdXNpbmcgZXhwcmVzcycgZGVmYXVsdCBlcnJvciBoYW5kbGVy</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtub3JtYWxpemV9IGZyb20gJy4uL3N0YW5mb3JkLWludGVyZmFjZScK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdhcFJlcXVlc3RIYW5kbGVyKHJlcSwgcmVzLCBuZXh0KSB7CiAgY29uc3QgdGV4dCA9IHJlcS5zd2FnZ2VyLnBhcmFtcy50ZXh0LnZhbHVlOwogIAogIHJldHVybiBmaW5kR2Fwcyh0ZXh0KQogICAgLnRoZW4ob3V0ID0+IHJlcy5zZW5kKG91dCkpCiAgICAuY2F0Y2gobmV4dCk7Cn0K</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHtkZWRhdGF9IGZyb20gIi4uL3V0aWxzIgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gImF4aW9zIjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCiAqCiAqIEBwYXJhbSB0ZXh0IC0gVGhlIHRleHQgdG8gc2VuZCB0byBzdGFuZm9yZCBjb3JlTkxQCiAqIEBwYXJhbSBhbm5vdGF0b3JMaXN0IC0gYW4gYXJyYXkgb2YgYW5ub3RhdG9ycyB0byBwYXNzIHRvIGNvcmVOTFAuIElmIGEgc3RyaW5nIGlzIHBhc3NlZAogKiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlIHN0cmluZ3MgdmFsdWUgd2lsbCBiZSBwYXNzZWQgdG8gY29yZU5MUCB1bm1vZGlmaWVkLiBTZWUKICogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGh0dHA6Ly9zdGFuZm9yZG5scC5naXRodWIuaW8vQ29yZU5MUC9hbm5vdGF0b3JzLmh0bWwgZm9yIGxpc3QKICogICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9mIHZhbGlkIGFubm90YXRvcnMKICogQHJldHVybnMge1JlcXVlc3R9IChwcm9taXNlKQogKi8KZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gc3RhbmZvcmRSZXF1ZXN0KHRleHQsIGFubm90YXRvckxpc3Q9REVGQVVMVF9QUk9QUykgewogIGFubm90YXRvckxpc3QgPSB0eXBlb2YgYW5ub3RhdG9yTGlzdCA9PT0gJ3N0cmluZycgPyBhbm5vdGF0b3JMaXN0LnNwbGl0KCIsIikgOiBhbm5vdGF0b3JMaXN0OwoKICBsZXQgc3RhbmZvcmRQcm9wcyA9IHsKICAgICJhbm5vdGF0b3JzIjogYW5ub3RhdG9yTGlzdC5qb2luKCIsIiksCiAgICAib3V0cHV0Rm9ybWF0IjogImpzb24iLAogICAgLy8gY29yZU5MUCdzIGRlZmF1bHQgdGltZW91dCBpcyB3YXkgdG9vIHNob3J0IGZvciBsb25nIGRvY3MsIHNvIG1ha2Ugc3VyZSB3ZSBzZXQgaXQgcHJvcG9ydGlvbmFsbHk6CiAgICAvLyAxMCBtaWxsaXNlY29uZHMgZm9yIGVhY2ggY2hhcmFjdGVycyBhbmQgYW4gZXh0cmEgc2Vjb25kIGZvciBlYWNoIGFubm90YXRvciBtb2RlbCB3ZSBsb2FkCiAgICAidGltZW91dCI6IHRleHQubGVuZ3RoICogMTAgKyBhbm5vdGF0b3JMaXN0Lmxlbmd0aCAqIDEwMDAKICB9OwogIGRlYnVnKCJTZW5kaW5nIHN0YW5mb3JkIHJlcXVlc3Qgd2l0aCBwcm9wZXJ0aWVzOiAiLCBzdGFuZm9yZFByb3BzKTsKCiAgcmV0dXJuIGF4aW9zCiAgICAucG9zdChTVEFORk9SRF9OTFBfVVJMLCB0ZXh0LCB7CiAgICAgIC8vIHRoZSBzdGFuZm9yZCBjb3JlTkxQIHNlcnZlciBmb3Igc29tZSByZWFzb24gZXhwZWN0cyBpdCdzIHByb3BlcnR5IGxpc3QgYXMgSlNPTiBlbmNvZGVkIGluIHRoZSBxdWVyeXN0cmluZy4KICAgICAgcGFyYW1zOiB7cHJvcGVydGllczogSlNPTi5zdHJpbmdpZnkoc3RhbmZvcmRQcm9wcyl9CiAgICB9KQogICAgLnRoZW4ocmVzcCA9PiB7CiAgICAgIC8vIHN0YW5mb3JkIGZvciBzb21lIHJlYXNvbiByZXR1cm5zIHVuaWNvZGUgbnVsbCBjaGFyYWN0ZXJzIChcdTAwMDApIGluIHRoZWlyIG91dHB1dCB3aGVuIHlvdSBzZW5kIGl0IHVuaWNvZGUKICAgICAgLy8gaW5wdXQuIE5vZGUncyBKU09OIHBhcnNlciBoZWxwZnVsbHkgaW50ZXJwcmV0cyB0aGUgXHUwMDAwIGFzIGEgc3RyaW5nIHRlcm1pbmF0b3IgYW5kIGRvZXNuJ3QgYm90aGVyIHBhcnNpbmcKICAgICAgLy8gdGhlIHJlc3Qgb2YgdGhlIGRvY3VtZW50IGFuZCB0aHJvd3MgaW52YWxpZCBKU09OIGV4Y2VwdGlvbnMsIHNvIHVzZSB0aGUgYmVsb3cgbG92ZWxpbmVzcyB0byBzdHJpcCBvdXQgdGhlCiAgICAgIC8vIFx1MDAwMCBjaGFyYWN0ZXJzIHRvIGdldCBpdCBiYWNrIGludG8gYSBqcyBvYmplY3Qgd2UgY2FuIHdvcmsgd2l0aAogICAgICBsZXQgc3RhbmZvcmQgPSByZXNwLmRhdGE7CiAgICAgIGxldCBiYWRDaHJSZWdFeCA9IC9cdTAwMDAvZzsKICAgICAgaWYgKHR5cGVvZiBzdGFuZm9yZCA9PT0gJ3N0cmluZycpIHsKICAgICAgICB0cnkgewogICAgICAgICAgc3RhbmZvcmQgPSBKU09OLnBhcnNlKHN0YW5mb3JkKQogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgIHN0YW5mb3JkID0gc3RhbmZvcmQucmVwbGFjZShiYWRDaHJSZWdFeCwgIiIpOwogICAgICAgICAgc3RhbmZvcmQgPSBKU09OLnBhcnNlKHN0YW5mb3JkKTsKICAgICAgICB9CiAgICAgIH0KICAgICAgcmV0dXJuIHN0YW5mb3JkOwogICAgfSk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBub3JtYWxpemUodGV4dCkgewogIHJldHVybiBzdGFuZm9yZFJlcXVlc3QodGV4dCwgWyJ0b2tlbml6ZSIsICJzc3BsaXQiLCAicG9zIl0pOwp9CgpleHBvcnQgZnVuY3Rpb24gZ2V0U3B0KHRleHQpIHsKICByZXR1cm4gc3RhbmZvcmRSZXF1ZXN0KHRleHQsIFsicGFyc2UiXSk7Cn0K</text>
+      </register>
+      <register name="9" type="4">
+        <text>[
+  &quot;tokenize&quot;,
+  &quot;parse&quot;,
+  &quot;ner&quot;,
+  &quot;ssplit&quot;,
+  &quot;pos&quot;,
+  &quot;depparse&quot;,
+  &quot;quote&quot;,
+  &quot;relation&quot;,
+  &quot;natlog&quot;,
+  &quot;dcoref&quot;
+]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
