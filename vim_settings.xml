@@ -49,12 +49,6 @@
         <mark key="." line="11" column="32" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/summary.py" timestamp="1479775383935">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-rule.js" timestamp="1474412427150">
         <mark key="'" line="3" column="7" />
         <mark key="[" line="87" column="102" />
@@ -305,6 +299,12 @@
         <mark key="]" line="85" column="42" />
         <mark key="^" line="85" column="42" />
         <mark key="." line="85" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/swagger/swagger.yaml" timestamp="1481058693147">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter/src/App.js" timestamp="1469762118725">
         <mark key="[" line="10" column="30" />
@@ -699,10 +699,10 @@
         <text encoding="base64">ICByZXR1cm4gYXhpb3MKICAgIC5wb3N0KEdFTlNJTV9BUElfVVJMLCB0ZXh0LCB7CiAgICAgIHBhcmFtczogewogICAgICAgIHdvcmRfY291bnQ6IDE1MAogICAgICB9CiAgICB9KQogICAgLnRoZW4ociA9PiByLmRhdGEpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>contains</text>
+        <text>Stanford Text Normalization</text>
       </register>
       <register name="-" type="4">
-        <text>contains</text>
+        <text>Stanford Text Normalization</text>
       </register>
       <register name="/" type="4">
         <text>cur</text>
