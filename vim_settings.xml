@@ -185,10 +185,10 @@
         <mark key="." line="133" column="37" />
         <mark key="^" line="133" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/controllers/summary_controller.py" timestamp="1479804160041">
-        <mark key="[" line="8" column="49" />
-        <mark key="]" line="8" column="48" />
-        <mark key="." line="8" column="48" />
+      <file name="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/controllers/summary_controller.py" timestamp="1481568742785">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
         <mark key="^" line="8" column="48" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/services/add-rule-to-db.js" timestamp="1479262943751">
@@ -691,7 +691,7 @@
         <text encoding="base64">ICAgICAgLy8gc3RhbmZvcmQncyB1c2VzICIuIiBpbiB0aGUgUE9TIGZpZWxkIHRvIHJlcHJlc2VudCBwdW5jdHVhdGlvbiwgZmlsdGVyIHRoZXNlIG91dCBzaW5jZQogICAgICAvLyBpdCdzIG5vdCBwYXJ0IG9mIHRoZSBQZW5udHJlZWJhbmsvVm9sbGV5Tm9ybWFsaXplZERvY3VtZW50IHNwZWMKICAgICAgaWYgKGtleSA9PT0gIlBPUyIpIHsKICAgICAgICB2VG9rZW5ba2V5XSA9IHNWYWwgPT09ICIuIiA/IG51bGwgOiBzVG9rZW4ucG9zOwogICAgICB9CiAgICAgIHZUb2tlbltrZXldID0gc1ZhbDsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5vcm1hbGl6ZVRleHQgKHJlcSwgcmVzLCBuZXh0KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>normalizeText</text>
@@ -703,28 +703,28 @@
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5vcm1hbGl6ZVRleHRSZXFIYW5kbGVyIChyZXEsIHJlcywgbmV4dCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5vcm1hbGl6ZVRleHQgKHJlcSwgcmVzLCBuZXh0KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5vcm1hbGl6ZVRleHQgKHJlcSwgcmVzLCBuZXh0KSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5vcm1hbGl6ZVRleHQgKHJlcSwgcmVzLCBuZXh0KSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiB3ZSBoYXZlIGEgaG9sZSBpbiBvdXIgbm9ybWFsaXplZCBkb2Mgc3BlYywgd2hhdCBwb3MgdmFsdWUgc2hvdWxkIHB1bmN0dWF0aW9uIG1hcmtzIGhhdmU/CiAgLy8gb3Igc2hvdWxkIHdlIGp1c3QgZGVsZXRlIHRoZSBQT1MgZmllbGQgY29tcGxldGVseSBmb3IgcHVuY3R1YXRpb24gdG9rZW5zPwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyBUT0RPOiB3ZSBoYXZlIGEgaG9sZSBpbiBvdXIgbm9ybWFsaXplZCBkb2Mgc3BlYywgd2hhdCBwb3MgdmFsdWUgc2hvdWxkIHB1bmN0dWF0aW9uIG1hcmtzIGhhdmU/CiAgLy8gb3Igc2hvdWxkIHdlIGp1c3QgZGVsZXRlIHRoZSBQT1MgZmllbGQgY29tcGxldGVseSBmb3IgcHVuY3R1YXRpb24gdG9rZW5zPwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBzZXQgZmxhZ3MKICBpZiAoc1Rva2VuLnBvcyA9PT0gIi4iKSB7CiAgICB2VG9rZW4uZmxhZ3MuaXNQdW5jdHVhdGlvbiA9IHRydWU7CiAgfSBlbHNlIHsKICAgIHZUb2tlbi5mbGFncy5pc1dvcmQgPSB0cnVlOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2VG9rZW4uUE9TID0gdlRva2VuLlBPUyA9PT0gIi4iID8gbnVsbCA6IHZUb2tlbi5QT1M7Cg==</text>
+        <text encoding="base64">ICAvLyBzZXQgZmxhZ3MKICBpZiAoc1Rva2VuLnBvcyA9PT0gIi4iKSB7CiAgICB2VG9rZW4uZmxhZ3MuaXNQdW5jdHVhdGlvbiA9IHRydWU7CiAgfSBlbHNlIHsKICAgIHZUb2tlbi5mbGFncy5pc1dvcmQgPSB0cnVlOwogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB2VG9rZW4uUE9TID0gdlRva2VuLlBPUyA9PT0gIi4iID8gbnVsbCA6IHZUb2tlbi5QT1M7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
