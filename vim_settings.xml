@@ -163,6 +163,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/python-flask-server 2/controllers/default_controller.py" timestamp="1481509806472">
+        <mark key="'" line="25" column="24" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-gap-match-to-meta-schema.js" timestamp="1474411760398">
         <mark key="[" line="61" column="7" />
         <mark key="]" line="61" column="7" />
@@ -240,7 +247,6 @@
         <mark key="^" line="41" column="14" />
         <mark key="." line="41" column="14" />
       </file>
-      <file name="/normalizer.js" timestamp="1480618451219" />
       <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/spt.js" timestamp="1480980009974">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -588,11 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/separators.js" />
-      <jump line="39" column="51" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/tokenize-text.js" />
-      <jump line="61" column="7" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-gap-match-to-meta-schema-tokens.js" />
-      <jump line="22" column="51" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/public/index.html" />
-      <jump line="24" column="48" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/public/index.html" />
       <jump line="33" column="38" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/public/index.html" />
       <jump line="24" column="67" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/components/Header.jsx" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/node_modules/history/index.js" />
@@ -688,16 +689,21 @@
       <jump line="56" column="8" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
       <jump line="81" column="8" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
       <jump line="32" column="0" filename="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/swagger/swagger.yaml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Downloads/python-flask-server 2/controllers/default_controller.py" />
+      <jump line="2" column="11" filename="$USER_HOME$/Downloads/python-flask-server 2/controllers/default_controller.py" />
+      <jump line="7" column="25" filename="$USER_HOME$/Downloads/python-flask-server 2/controllers/default_controller.py" />
+      <jump line="14" column="3" filename="$USER_HOME$/Downloads/python-flask-server 2/controllers/default_controller.py" />
+      <jump line="24" column="24" filename="$USER_HOME$/Downloads/python-flask-server 2/controllers/default_controller.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICByZXR1cm4gYXhpb3MKICAgIC5wb3N0KEdFTlNJTV9BUElfVVJMLCB0ZXh0LCB7CiAgICAgIHBhcmFtczogewogICAgICAgIHdvcmRfY291bnQ6IDE1MAogICAgICB9CiAgICB9KQogICAgLnRoZW4ociA9PiByLmRhdGEpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF0Zm9ybVw+</text>
@@ -706,31 +712,31 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHF1ZXJ5c3RyaW5nIGZyb20gInF1ZXJ5c3RyaW5nIjsK</text>
+        <text encoding="base64">CmRlZiBkZWxldGVfbWVzc2FnZShpZCkgLT4gc3RyOgogICAgcmV0dXJuICdkbyBzb21lIG1hZ2ljIScKCmRlZiBmaW5kX3BldF9ieV9pZChpZCkgLT4gc3RyOgogICAgcmV0dXJuICdkbyBzb21lIG1hZ2ljIScKCmRlZiBtZXNzYWdlc19nZXQoKSAtPiBzdHI6CiAgICByZXR1cm4gJ2RvIHNvbWUgbWFnaWMhJwoKZGVmIHVwZGF0ZV9wZXRfYnlfaWQoaWQpIC0+IHN0cjoKICAgIHJldHVybiAnZG8gc29tZSBtYWdpYyEnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtICJhcHBsaWNhdGlvbi9qc29uIgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtICJhcHBsaWNhdGlvbi9qc29uIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtICJhcHBsaWNhdGlvbi9qc29uIgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHF1ZXJ5c3RyaW5nIGZyb20gInF1ZXJ5c3RyaW5nIjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAtICJhcHBsaWNhdGlvbi9qc29uIgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgR0VOU0lNX0FQSV9VUkwgPSBwcm9jZXNzLmVudi5HRU5TSU1fQVBJX1VSTCB8fCAiaHR0cDovL2dlbnNpbTo1MDAwLyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAtICJhcHBsaWNhdGlvbi9qc29uIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtCg==</text>
+        <text encoding="base64">ICAgICAgICAtICJhcHBsaWNhdGlvbi9qc29uIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
