@@ -127,29 +127,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.5.2 virtualenv at ~/.local/revenv/sluffer interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5" />
-        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/plat-darwin" />
-        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
-        <root url="file:///usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
-        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/312313490" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5" />
-        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/plat-darwin" />
-        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
-        <root url="file:///usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
-        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/312313490" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </SOURCES>
-    </library>
     <library name="test-unit (v3.0.8, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/lib" />
