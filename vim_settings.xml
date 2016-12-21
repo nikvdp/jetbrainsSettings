@@ -234,12 +234,12 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1482281985228">
-        <mark key="'" line="25" column="35" />
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="19" column="12" />
+      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1482283460668">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="51" column="11" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="51" column="11" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/gensim/index.js" timestamp="1480980563496">
         <mark key="[" line="3" column="0" />
@@ -446,6 +446,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/dev.py" timestamp="1482282653977">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/package.json" timestamp="1479258903518">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="33" />
@@ -541,6 +547,12 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/swagger/swagger.yaml" timestamp="1482283234584">
+        <mark key="[" line="76" column="40" />
+        <mark key="]" line="76" column="44" />
+        <mark key="^" line="76" column="44" />
+        <mark key="." line="76" column="44" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/connexion/connexion/decorators/parameter.py" timestamp="1480989508813">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="15" />
@@ -632,14 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
-      <jump line="39" column="13" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/client-app.js" />
-      <jump line="13" column="10" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/client-app.js" />
-      <jump line="37" column="17" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
-      <jump line="47" column="25" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
       <jump line="45" column="3" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
       <jump line="12" column="35" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/services/add-rule-to-db.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
@@ -723,7 +727,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/elastic.py" />
       <jump line="29" column="42" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/elastic.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="6" column="14" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/controllers/search.py" />
       <jump line="20" column="45" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
@@ -731,53 +734,71 @@
       <jump line="5" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="14" column="20" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="13" column="26" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
-      <jump line="25" column="35" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="23" column="20" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="15" column="6" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="49" column="4" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="34" column="37" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="48" column="43" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="42" column="4" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24KZnJvbSBlbGFzdGljc2VhcmNoIGltcG9ydCBFbGFzdGljc2VhcmNoLCBSZXF1ZXN0c0h0dHBDb25uZWN0aW9uLCBzZXJpYWxpemVyLCBjb21wYXQsIGV4Y2VwdGlvbnMKCgpjbGFzcyBKU09OU2VyaWFsaXplclB5dGhvbjIoc2VyaWFsaXplci5KU09OU2VyaWFsaXplcik6CiAgICAiIiIKICAgIFRoaXMgaXMgZnJvbTogaHR0cHM6Ly9naXRodWIuY29tL2VsYXN0aWMvZWxhc3RpY3NlYXJjaC1weS9pc3N1ZXMvMzc0CiAgICBPdmVycmlkZSBlbGFzdGljc2VhcmNoIGxpYnJhcnkgc2VyaWFsaXplciB0byBlbnN1cmUgaXQgZW5jb2RlcyB1dGYgY2hhcmFjdGVycyBkdXJpbmcganNvbiBkdW1wLgogICAgU2VlIG9yaWdpbmFsIGF0OiBodHRwczovL2dpdGh1Yi5jb20vZWxhc3RpYy9lbGFzdGljc2VhcmNoLXB5L2Jsb2IvbWFzdGVyL2VsYXN0aWNzZWFyY2gvc2VyaWFsaXplci5weSNMNDIKICAgIEEgZGVzY3JpcHRpb24gb2YgaG93IGVuc3VyZV9hc2NpaSBlbmNvZGVzIHVuaWNvZGUgY2hhcmFjdGVycyB0byBlbnN1cmUgdGhleSBjYW4gYmUgc2VudCBhY3Jvc3MgdGhlIHdpcmUKICAgIGFzIGFzY2lpIGNhbiBiZSBmb3VuZCBoZXJlOiBodHRwczovL2RvY3MucHl0aG9uLm9yZy8yL2xpYnJhcnkvanNvbi5odG1sI2Jhc2ljLXVzYWdlCiAgICAiIiIKCiAgICBkZWYgZHVtcHMoc2VsZiwgZGF0YSk6CiAgICAgICAgIyBkb24ndCBzZXJpYWxpemUgc3RyaW5ncwogICAgICAgIGlmIGlzaW5zdGFuY2UoZGF0YSwgY29tcGF0LnN0cmluZ190eXBlcyk6CiAgICAgICAgICAgIHJldHVybiBkYXRhCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4ganNvbi5kdW1wcyhkYXRhLCBkZWZhdWx0PXNlbGYuZGVmYXVsdCwgZW5zdXJlX2FzY2lpPVRydWUpCiAgICAgICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IpIGFzIGU6CiAgICAgICAgICAgIHJhaXNlIGV4Y2VwdGlvbnMuU2VyaWFsaXphdGlvbkVycm9yKGRhdGEsIGUpCgoKZGVmIGdldF9lc19pbnN0YW5jZSgpOgoKICAgIGVzID0gRWxhc3RpY3NlYXJjaCgKICAgICAgICBob3N0cz1bCiAgICAgICAgICAgIHsnaG9zdCc6ICdzZWFyY2gtZml0LW4zMmZmeWFsajdwMmYzN2puZWptNXB0ZXJpLnVzLXdlc3QtMi5lcy5hbWF6b25hd3MuY29tJywgJ3BvcnQnOiA0NDN9CiAgICAgICAgXSwKICAgICAgICAjIFRPRE86IGdldCBhdXRoIHdvcmtpbmcgcHJvcGVybHkgb24gRVMKICAgICAgICAjIGh0dHBfYXV0aD0gQVdTNEF1dGgoJ0tFWScsICdTRUNSRVQnLCAndXMtd2VzdC0yJywgJ2VzJyksCiAgICAgICAgdXNlX3NzbD1UcnVlLAogICAgICAgIHZlcmlmeV9jZXJ0cz1UcnVlLAogICAgICAgIGNvbm5lY3Rpb25fY2xhc3M9UmVxdWVzdHNIdHRwQ29ubmVjdGlvbiwKICAgICAgICBzZXJpYWxpemVyPUpTT05TZXJpYWxpemVyUHl0aG9uMigpCiAgICApCiAgICAKCiAgICByZXR1cm4gZXMK</text>
+      <register name="a" type="4">
+        <text>&quot;lexical_field:{lexical_field} AND (term:{term}* OR definition:*{term})&quot;.format(
+                        term=term,
+                        lexical_field=lexical_field
+                    )</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>map(lambda)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Biology&quot;  # TODO: parameterize this</text>
+        <text>map(lambda)</text>
       </register>
       <register name="/" type="4">
         <text>elas</text>
       </register>
       <register name="0" type="4">
-        <text>search, lexical_field, concepts, full</text>
+        <text>glossary_query_query_string_query</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGVmYXVsdF9maWVsZCI6ICJkZWZpbml0aW9uIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cXVlcmllcyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAicXVlcnkiOiB7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>&quot;lexical_field:{lexical_field} AND (term:{term}* OR definition:*{term})&quot;.format(
+                        term=term,
+                        lexical_field=lexical_field
+                    )</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24KZnJvbSBlbGFzdGljc2VhcmNoIGltcG9ydCBFbGFzdGljc2VhcmNoLCBSZXF1ZXN0c0h0dHBDb25uZWN0aW9uLCBzZXJpYWxpemVyLCBjb21wYXQsIGV4Y2VwdGlvbnMKCgpjbGFzcyBKU09OU2VyaWFsaXplclB5dGhvbjIoc2VyaWFsaXplci5KU09OU2VyaWFsaXplcik6CiAgICAiIiIKICAgIFRoaXMgaXMgZnJvbTogaHR0cHM6Ly9naXRodWIuY29tL2VsYXN0aWMvZWxhc3RpY3NlYXJjaC1weS9pc3N1ZXMvMzc0CiAgICBPdmVycmlkZSBlbGFzdGljc2VhcmNoIGxpYnJhcnkgc2VyaWFsaXplciB0byBlbnN1cmUgaXQgZW5jb2RlcyB1dGYgY2hhcmFjdGVycyBkdXJpbmcganNvbiBkdW1wLgogICAgU2VlIG9yaWdpbmFsIGF0OiBodHRwczovL2dpdGh1Yi5jb20vZWxhc3RpYy9lbGFzdGljc2VhcmNoLXB5L2Jsb2IvbWFzdGVyL2VsYXN0aWNzZWFyY2gvc2VyaWFsaXplci5weSNMNDIKICAgIEEgZGVzY3JpcHRpb24gb2YgaG93IGVuc3VyZV9hc2NpaSBlbmNvZGVzIHVuaWNvZGUgY2hhcmFjdGVycyB0byBlbnN1cmUgdGhleSBjYW4gYmUgc2VudCBhY3Jvc3MgdGhlIHdpcmUKICAgIGFzIGFzY2lpIGNhbiBiZSBmb3VuZCBoZXJlOiBodHRwczovL2RvY3MucHl0aG9uLm9yZy8yL2xpYnJhcnkvanNvbi5odG1sI2Jhc2ljLXVzYWdlCiAgICAiIiIKCiAgICBkZWYgZHVtcHMoc2VsZiwgZGF0YSk6CiAgICAgICAgIyBkb24ndCBzZXJpYWxpemUgc3RyaW5ncwogICAgICAgIGlmIGlzaW5zdGFuY2UoZGF0YSwgY29tcGF0LnN0cmluZ190eXBlcyk6CiAgICAgICAgICAgIHJldHVybiBkYXRhCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4ganNvbi5kdW1wcyhkYXRhLCBkZWZhdWx0PXNlbGYuZGVmYXVsdCwgZW5zdXJlX2FzY2lpPVRydWUpCiAgICAgICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IpIGFzIGU6CiAgICAgICAgICAgIHJhaXNlIGV4Y2VwdGlvbnMuU2VyaWFsaXphdGlvbkVycm9yKGRhdGEsIGUpCgoKZGVmIGdldF9lc19pbnN0YW5jZSgpOgoKICAgIGVzID0gRWxhc3RpY3NlYXJjaCgKICAgICAgICBob3N0cz1bCiAgICAgICAgICAgIHsnaG9zdCc6ICdzZWFyY2gtZml0LW4zMmZmeWFsajdwMmYzN2puZWptNXB0ZXJpLnVzLXdlc3QtMi5lcy5hbWF6b25hd3MuY29tJywgJ3BvcnQnOiA0NDN9CiAgICAgICAgXSwKICAgICAgICAjIFRPRE86IGdldCBhdXRoIHdvcmtpbmcgcHJvcGVybHkgb24gRVMKICAgICAgICAjIGh0dHBfYXV0aD0gQVdTNEF1dGgoJ0tFWScsICdTRUNSRVQnLCAndXMtd2VzdC0yJywgJ2VzJyksCiAgICAgICAgdXNlX3NzbD1UcnVlLAogICAgICAgIHZlcmlmeV9jZXJ0cz1UcnVlLAogICAgICAgIGNvbm5lY3Rpb25fY2xhc3M9UmVxdWVzdHNIdHRwQ29ubmVjdGlvbiwKICAgICAgICBzZXJpYWxpemVyPUpTT05TZXJpYWxpemVyUHl0aG9uMigpCiAgICApCiAgICAKCiAgICByZXR1cm4gZXMK</text>
+      <register name="6" type="4">
+        <text>&quot;lexical_field:{lexical_field} AND (term:{term}* OR definition:*{term})&quot;.format(
+                    term=term,
+                    lexical_field=lexical_field
+                )</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVzLnNlYXJjaCgpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgIHByaW50KCdzZXJpYWxpemVyOiB0cnktZHVtcGluZyB3aXRoIGVuc3VyZV9hc2NpaScpCg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogdGhpcyB3aWxsIG5lZWQgc29tZSByZWZhY3RvcmluZyBsYXRlciB0byBhbGxvdyBkb2NfdHlwZSB0byBiZSBwYXJhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgIHByaW50KCdzZXJpYWxpemVyOiBub3QgZHVtcGluZycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -831,8 +852,8 @@
         <entry encoding="base64">JzwsJz5zLyIvYC9n</entry>
         <entry>&quot;w</entry>
         <entry>e!</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
