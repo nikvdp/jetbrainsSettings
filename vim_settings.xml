@@ -234,12 +234,12 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1482283460668">
+      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1482285403487">
         <mark key="'" line="42" column="4" />
-        <mark key="[" line="50" column="9" />
-        <mark key="]" line="51" column="11" />
-        <mark key="." line="51" column="11" />
-        <mark key="^" line="51" column="11" />
+        <mark key="[" line="59" column="46" />
+        <mark key="]" line="59" column="45" />
+        <mark key="." line="59" column="45" />
+        <mark key="^" line="59" column="45" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/gensim/index.js" timestamp="1480980563496">
         <mark key="[" line="3" column="0" />
@@ -547,12 +547,6 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/swagger/swagger.yaml" timestamp="1482283234584">
-        <mark key="[" line="76" column="40" />
-        <mark key="]" line="76" column="44" />
-        <mark key="^" line="76" column="44" />
-        <mark key="." line="76" column="44" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/connexion/connexion/decorators/parameter.py" timestamp="1480989508813">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="15" />
@@ -644,7 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="3" filename="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/routes/index.js" />
       <jump line="12" column="35" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/services/add-rule-to-db.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
@@ -743,6 +736,7 @@
       <jump line="49" column="4" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="34" column="37" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="48" column="43" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="53" column="27" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="42" column="4" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
     </jumps>
     <registers>
@@ -753,10 +747,10 @@
                     )</text>
       </register>
       <register name="&quot;" type="4">
-        <text>map(lambda)</text>
+        <text>es_result</text>
       </register>
       <register name="-" type="4">
-        <text>map(lambda)</text>
+        <text>es_result</text>
       </register>
       <register name="/" type="4">
         <text>elas</text>
@@ -765,37 +759,37 @@
         <text>glossary_query_query_string_query</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGhpdHMgPSBlc19yZXN1bHQuZ2V0KCJoaXRzIikuZ2V0KCJoaXRzIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGVmYXVsdF9maWVsZCI6ICJkZWZpbml0aW9uIiwK</text>
+        <text encoding="base64">ZGVmIGVzX3Jlc3VsdF90b19jb25jZXB0KGVzX3Jlc3VsdCk6CiAgICBoaXRzID0gZXNfcmVzdWx0LmdldCgiaGl0cyIpLmdldCgiaGl0cyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGVmYXVsdF9maWVsZCI6ICJkZWZpbml0aW9uIiwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAicXVlcnkiOiB7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>&quot;lexical_field:{lexical_field} AND (term:{term}* OR definition:*{term})&quot;.format(
                         term=term,
                         lexical_field=lexical_field
                     )</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>&quot;lexical_field:{lexical_field} AND (term:{term}* OR definition:*{term})&quot;.format(
                     term=term,
                     lexical_field=lexical_field
                 )</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogdGhpcyB3aWxsIG5lZWQgc29tZSByZWZhY3RvcmluZyBsYXRlciB0byBhbGxvdyBkb2NfdHlwZSB0byBiZSBwYXJhCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
