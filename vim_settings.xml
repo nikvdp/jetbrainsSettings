@@ -79,12 +79,12 @@
         <mark key="^" line="53" column="108" />
         <mark key="." line="53" column="108" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/controllers/search.py" timestamp="1482281277964">
+      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/controllers/search.py" timestamp="1482291230670">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="13" />
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="12" column="53" />
+        <mark key="^" line="12" column="53" />
+        <mark key="." line="12" column="53" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/requirements.txt" timestamp="1472523641053">
         <mark key="[" line="3" column="7" />
@@ -234,12 +234,12 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1482290600644">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="69" />
-        <mark key="." line="49" column="11" />
-        <mark key="^" line="49" column="11" />
+      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1482291408400">
+        <mark key="'" line="23" column="15" />
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="51" column="34" />
+        <mark key="." line="51" column="34" />
+        <mark key="^" line="51" column="34" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/gensim/index.js" timestamp="1480980563496">
         <mark key="[" line="3" column="0" />
@@ -332,6 +332,11 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/controllers/concepts.py" timestamp="1482290939674">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter/src/App.js" timestamp="1469762118725">
         <mark key="[" line="10" column="30" />
@@ -547,6 +552,13 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/swagger/swagger.yaml" timestamp="1482291480435">
+        <mark key="'" line="75" column="49" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="88" column="19" />
+        <mark key="." line="88" column="19" />
+        <mark key="^" line="88" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/connexion/connexion/decorators/parameter.py" timestamp="1480989508813">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="15" />
@@ -638,8 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
       <jump line="4" column="39" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
       <jump line="282" column="19" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/node_modules/mongoose/lib/model.js" />
       <jump line="14" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/database.example.data.txt" />
@@ -727,7 +737,6 @@
       <jump line="13" column="26" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="25" column="4" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
-      <jump line="23" column="20" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="15" column="6" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
@@ -738,6 +747,9 @@
       <jump line="49" column="23" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="20" column="37" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="29" column="8" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="23" column="15" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="90" column="12" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/swagger/swagger.yaml" />
+      <jump line="75" column="49" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/swagger/swagger.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -747,63 +759,59 @@
                     )</text>
       </register>
       <register name="&quot;" type="4">
-        <text>glossary_query_query_string_query</text>
+        <text>summary/</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>summary/</text>
       </register>
       <register name="/" type="4">
-        <text>glossary_query_query_string_query</text>
+        <text>summ</text>
       </register>
       <register name="0" type="4">
         <text>glossary_query_query_string_query</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJyZXN1bHQgaXM6ICIsKQogICAgcHJpbnQoZXNfcmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgICMgb25seSBwYXNzIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhpdHMgPSBlc19yZXN1bHQuZ2V0KCJoaXRzIikuZ2V0KCJoaXRzIikK</text>
+        <text encoding="base64">aWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGVzX3Jlc3VsdF90b19jb25jZXB0KGVzX3Jlc3VsdCk6CiAgICBoaXRzID0gZXNfcmVzdWx0LmdldCgiaGl0cyIpLmdldCgiaGl0cyIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJyZXN1bHQgaXM6ICIsKQogICAgcHJpbnQoZXNfcmVzdWx0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGhpdHMgPSBlc19yZXN1bHQuZ2V0KCJoaXRzIikuZ2V0KCJoaXRzIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGVzX3Jlc3VsdF90b19jb25jZXB0KGVzX3Jlc3VsdCk6CiAgICBoaXRzID0gZXNfcmVzdWx0LmdldCgiaGl0cyIpLmdldCgiaGl0cyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGVmYXVsdF9maWVsZCI6ICJkZWZpbml0aW9uIiwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAicXVlcnkiOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGVmYXVsdF9maWVsZCI6ICJkZWZpbml0aW9uIiwK</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;lexical_field:{lexical_field} AND (term:{term}* OR definition:*{term})&quot;.format(
-                        term=term,
-                        lexical_field=lexical_field
-                    )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>glossary_query_query_string_query</last-search>
+      <last-search>summ</last-search>
       <last-offset />
-      <last-pattern>glossary_query_query_string_query</last-pattern>
+      <last-pattern>summ</last-pattern>
       <last-replace>glossary_query_string_query</last-replace>
       <last-substitute>glossary_query_query_string_query</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>splitC</entry>
         <entry>ruleId</entry>
         <entry>/static</entry>
         <entry>history</entry>
@@ -823,6 +831,7 @@
         <entry>elas</entry>
         <entry encoding="base64">XDxnbG9zc2FyeV9xdWVyeV9xdWVyeV9zdHJpbmdfcXVlcnlcPg==</entry>
         <entry>glossary_query_query_string_query</entry>
+        <entry>summ</entry>
       </history-search>
       <history-cmd>
         <entry>s/dest/src</entry>
@@ -840,10 +849,10 @@
         <entry encoding="base64">JzwsJz5zLyIvYC9n</entry>
         <entry>&quot;w</entry>
         <entry>e!</entry>
-        <entry>wa</entry>
         <entry>set surround</entry>
         <entry>set hlsearch</entry>
         <entry encoding="base64">JzwsJz5zL2dsb3NzYXJ5X3F1ZXJ5X3F1ZXJ5X3N0cmluZ19xdWVyeS9nbG9zc2FyeV9xdWVyeV9zdHJpbmdfcXVlcnkvZw==</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
