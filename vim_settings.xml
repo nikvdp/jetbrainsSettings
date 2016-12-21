@@ -234,10 +234,10 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1482286382553">
-        <mark key="'" line="49" column="23" />
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="49" column="11" />
+      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1482290600644">
+        <mark key="'" line="29" column="8" />
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="69" />
         <mark key="." line="49" column="11" />
         <mark key="^" line="49" column="11" />
       </file>
@@ -638,7 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="35" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/services/add-rule-to-db.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
       <jump line="4" column="39" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
@@ -722,7 +721,6 @@
       <jump line="29" column="42" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/elastic.py" />
       <jump line="6" column="14" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/controllers/search.py" />
-      <jump line="20" column="45" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="11" column="46" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="14" column="20" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
@@ -738,6 +736,8 @@
       <jump line="53" column="27" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="42" column="4" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="49" column="23" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="20" column="37" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
+      <jump line="29" column="8" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -747,13 +747,13 @@
                     )</text>
       </register>
       <register name="&quot;" type="4">
-        <text>get(&quot;_source&quot;).</text>
+        <text>glossary_query_query_string_query</text>
       </register>
       <register name="-" type="4">
         <text>()</text>
       </register>
       <register name="/" type="4">
-        <text>elas</text>
+        <text>glossary_query_query_string_query</text>
       </register>
       <register name="0" type="4">
         <text>glossary_query_query_string_query</text>
@@ -789,22 +789,20 @@
                     )</text>
       </register>
       <register name=":" type="4">
-        <text>set surround</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>elas</last-search>
+      <last-search>glossary_query_query_string_query</last-search>
       <last-offset />
-      <last-pattern>elas</last-pattern>
-      <last-replace>`</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>glossary_query_query_string_query</last-pattern>
+      <last-replace>glossary_query_string_query</last-replace>
+      <last-substitute>glossary_query_query_string_query</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update rule</entry>
-        <entry encoding="base64">XDx1c2VFUzZcPg==</entry>
         <entry>splitC</entry>
         <entry>ruleId</entry>
         <entry>/static</entry>
@@ -823,10 +821,10 @@
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
         <entry>cur</entry>
         <entry>elas</entry>
+        <entry encoding="base64">XDxnbG9zc2FyeV9xdWVyeV9xdWVyeV9zdHJpbmdfcXVlcnlcPg==</entry>
+        <entry>glossary_query_query_string_query</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
-        <entry>we</entry>
         <entry>s/dest/src</entry>
         <entry encoding="base64">JzwsJz5zL29wdF9zcGxpdC9hY3R1YWxfc3BsaXQvZw==</entry>
         <entry>s</entry>
@@ -843,8 +841,10 @@
         <entry>&quot;w</entry>
         <entry>e!</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>set surround</entry>
+        <entry>set hlsearch</entry>
+        <entry encoding="base64">JzwsJz5zL2dsb3NzYXJ5X3F1ZXJ5X3F1ZXJ5X3N0cmluZ19xdWVyeS9nbG9zc2FyeV9xdWVyeV9zdHJpbmdfcXVlcnkvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
