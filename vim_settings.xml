@@ -117,12 +117,12 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1482923910217">
-        <mark key="'" line="67" column="4" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1482923968572">
+        <mark key="'" line="57" column="4" />
+        <mark key="[" line="57" column="69" />
+        <mark key="]" line="57" column="84" />
+        <mark key="^" line="57" column="84" />
+        <mark key="." line="57" column="84" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="36" column="13" />
@@ -659,7 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="63" filename="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/swagger/swagger.yaml" />
       <jump line="25" column="39" filename="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/swagger/swagger.yaml" />
       <jump line="3" column="4" filename="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/summary.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/summary.py" />
@@ -749,7 +748,6 @@
       <jump line="4" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="53" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="44" column="6" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="58" column="18" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -759,19 +757,21 @@
       <jump line="11" column="16" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="60" column="11" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="67" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="57" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICIiIgogICAgU2VhcmNoIHRoZSBnaXZlbiBkb2N1bWVudCBmb3IgaW5zdGFuY2VzIG9mIHRoZSBnaXZlbiBwYWlyLCByZWNvcmQKICAgIHRoZSBzZXF1ZW5jZSBvZiBQT1MgdGFncyBmb3IgZWFjaCB0b2tlbiBiZXR3ZWVuIHRoZW0sIGFuZCBpbmRleCBpdAogICAgaW4gb3VyIGZlYXR1cmUgYXJyYXkuCgogICAgVGhlIHJlc3VsdGFudCBpbmRleCB3aWxsIGJlIG91ciAiZmVhdHVyZSIgZm9yIHRoaXMgc2VxdWVuY2UKICAgIAogICAgOnBhaXI6IGEgdHVwbGUgb2Ygc3RyaW5ncyBvZiB0aGUgc3JjIGFuZCBkZXN0IHRlcm1zLiBUaGlzIGZ1bmN0aW9uIGFzc3VtZXMKICAgICAgICAgICB0aGF0IHRoZSBzcmMgY29tZXMgQkVGT1JFIHRoZSBkc3QKICAgIDpkb2M6IGEgc3BhY3kgZG9jIHRoYXQgY29udGFpbnMgdGhlIHRlcm1zIHNwZWNpZmllZCBpbiBwYWlyCgogICAgIiIiCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>represenations</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhlICIg</text>
+        <text>represenations</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZGJcPg==</text>
+        <text encoding="base64">XDxpbnRlcl90b2tlbnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBhcHAuZWxhc3RpYyBpbXBvcnQgZ2V0X2VzX2luc3RhbmNlCg==</text>
@@ -808,17 +808,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZGJcPg==</last-search>
+      <last-search encoding="base64">XDxpbnRlcl90b2tlbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZGJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbnRlcl90b2tlbnNcPg==</last-pattern>
       <last-replace>glossary_query_string_query</last-replace>
       <last-substitute>glossary_query_query_string_query</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>history</entry>
         <entry>createHistory</entry>
         <entry>exports.*</entry>
         <entry>^exports</entry>
@@ -838,6 +837,7 @@
         <entry>summ</entry>
         <entry>set</entry>
         <entry encoding="base64">XDxwZGJcPg==</entry>
+        <entry encoding="base64">XDxpbnRlcl90b2tlbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/dest/src</entry>
