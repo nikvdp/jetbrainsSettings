@@ -22,7 +22,7 @@
         <mark key="[" line="24" column="20" />
         <mark key="]" line="24" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1479775526170">
+      <file name="/a.dummy" timestamp="1482923048237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -116,6 +116,13 @@
         <mark key="]" line="62" column="45" />
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1482923267985">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="36" column="13" />
@@ -652,14 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="534" column="22" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/database.example.data.txt" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
-      <jump line="12" column="18" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/models/rule.js" />
-      <jump line="14" column="3" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
-      <jump line="10" column="23" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
-      <jump line="15" column="8" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
       <jump line="30" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/utils/insert-sample-data.js" />
@@ -752,19 +751,24 @@
       <jump line="3" column="12" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/controllers/concepts.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/controllers/concepts.py" />
+      <jump line="38" column="6" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="51" column="10" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="53" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>&quot;lexical_field:{lexical_field} AND (term:{term}* OR definition:*{term})&quot;.format(
-                        term=term,
-                        lexical_field=lexical_field
-                    )</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICIiIgogICAgU2VhcmNoIHRoZSBnaXZlbiBkb2N1bWVudCBmb3IgaW5zdGFuY2VzIG9mIHRoZSBnaXZlbiBwYWlyLCByZWNvcmQKICAgIHRoZSBzZXF1ZW5jZSBvZiBQT1MgdGFncyBmb3IgZWFjaCB0b2tlbiBiZXR3ZWVuIHRoZW0sIGFuZCBpbmRleCBpdAogICAgaW4gb3VyIGZlYXR1cmUgYXJyYXkuCgogICAgVGhlIHJlc3VsdGFudCBpbmRleCB3aWxsIGJlIG91ciAiZmVhdHVyZSIgZm9yIHRoaXMgc2VxdWVuY2UKICAgIAogICAgOnBhaXI6IGEgdHVwbGUgb2Ygc3RyaW5ncyBvZiB0aGUgc3JjIGFuZCBkZXN0IHRlcm1zLiBUaGlzIGZ1bmN0aW9uIGFzc3VtZXMKICAgICAgICAgICB0aGF0IHRoZSBzcmMgY29tZXMgQkVGT1JFIHRoZSBkc3QKICAgIDpkb2M6IGEgc3BhY3kgZG9jIHRoYXQgY29udGFpbnMgdGhlIHRlcm1zIHNwZWNpZmllZCBpbiBwYWlyCgogICAgIiIiCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuZWxhc3RpYyBpbXBvcnQgZ2V0X2VzX2luc3RhbmNlCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJEb2MgaXM6ICIsIGRvYwo=</text>
       </register>
       <register name="-" type="4">
-        <text>summary</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>summ</text>
@@ -773,31 +777,31 @@
         <text encoding="base64">ZnJvbSBhcHAuZWxhc3RpYyBpbXBvcnQgZ2V0X2VzX2luc3RhbmNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJEb2MgaXM6ICIsIGRvYwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YnJhbmNoaW5nIGZhY3Rvcgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgb25seSBwYXNzIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aWQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJyZXN1bHQgaXM6ICIsKQogICAgcHJpbnQoZXNfcmVzdWx0KQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGhpdHMgPSBlc19yZXN1bHQuZ2V0KCJoaXRzIikuZ2V0KCJoaXRzIikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIGVzX3Jlc3VsdF90b19jb25jZXB0KGVzX3Jlc3VsdCk6CiAgICBoaXRzID0gZXNfcmVzdWx0LmdldCgiaGl0cyIpLmdldCgiaGl0cyIpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZlYXR1cmVfc2V0ID0gc2V0KCkKICAgIHdvcmRfbGlzdCA9IHt9ICAjIG1pZ2h0IG5vdCBiZSBuZWNlc3NhcnkgdG8ga2VlcCB0aGlzIG9uZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAiIiIKCiAgICA6cGFyYW0gcGFpcjogCiAgICA6cGFyYW0gZG9jOiAKICAgIDpyZXR1cm46IAogICAgIiIiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICIiIgogICAgU2VhcmNoIHRoZSBnaXZlbiBkb2N1bWVudCBmb3IgaW5zdGFuY2VzIG9mIHRoZSBnaXZlbiBwYWlyLCByZWNvcmQKICAgIHRoZSBzZXF1ZW5jZSBvZiBQT1MgdGFncyBmb3IgZWFjaCB0b2tlbiBiZXR3ZWVuIHRoZW0sIGFuZCBpbmRleCBpdAogICAgaW4gb3VyIGZlYXR1cmUgYXJyYXkuCgogICAgVGhlIHJlc3VsdGFudCBpbmRleCB3aWxsIGJlIG91ciAiZmVhdHVyZSIgZm9yIHRoaXMgc2VxdWVuY2UKICAgIAogICAgOnBhaXI6IGEgdHVwbGUgb2Ygc3RyaW5ncyBvZiB0aGUgc3JjIGFuZCBkZXN0IHRlcm1zLiBUaGlzIGZ1bmN0aW9uIGFzc3VtZXMKICAgICAgICAgICB0aGF0IHRoZSBzcmMgY29tZXMgQkVGT1JFIHRoZSBkc3QKICAgIDpkb2M6IGEgc3BhY3kgZG9jIHRoYXQgY29udGFpbnMgdGhlIHRlcm1zIHNwZWNpZmllZCBpbiBwYWlyCgogICAgIiIiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YnJhbmNoaW5nIGZhY3Rvcgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgb25seSBwYXNzIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
