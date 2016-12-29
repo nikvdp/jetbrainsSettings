@@ -117,8 +117,8 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1482923968572">
-        <mark key="'" line="57" column="4" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1482983549075">
+        <mark key="'" line="55" column="0" />
         <mark key="[" line="57" column="69" />
         <mark key="]" line="57" column="84" />
         <mark key="^" line="57" column="84" />
@@ -455,6 +455,13 @@
         <mark key="^" line="20" column="88" />
         <mark key="." line="20" column="88" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" timestamp="1483001853226">
+        <mark key="'" line="98" column="12" />
+        <mark key="[" line="79" column="69" />
+        <mark key="]" line="79" column="72" />
+        <mark key="^" line="79" column="72" />
+        <mark key="." line="79" column="72" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-proximal-rule.js" timestamp="1473905585880">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -659,8 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="39" filename="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/swagger/swagger.yaml" />
-      <jump line="3" column="4" filename="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/summary.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/summary.py" />
       <jump line="5" column="10" filename="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/tests/test_greet.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/tests/test_greet.py" />
@@ -759,16 +764,18 @@
       <jump line="67" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="57" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="99" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICIiIgogICAgU2VhcmNoIHRoZSBnaXZlbiBkb2N1bWVudCBmb3IgaW5zdGFuY2VzIG9mIHRoZSBnaXZlbiBwYWlyLCByZWNvcmQKICAgIHRoZSBzZXF1ZW5jZSBvZiBQT1MgdGFncyBmb3IgZWFjaCB0b2tlbiBiZXR3ZWVuIHRoZW0sIGFuZCBpbmRleCBpdAogICAgaW4gb3VyIGZlYXR1cmUgYXJyYXkuCgogICAgVGhlIHJlc3VsdGFudCBpbmRleCB3aWxsIGJlIG91ciAiZmVhdHVyZSIgZm9yIHRoaXMgc2VxdWVuY2UKICAgIAogICAgOnBhaXI6IGEgdHVwbGUgb2Ygc3RyaW5ncyBvZiB0aGUgc3JjIGFuZCBkZXN0IHRlcm1zLiBUaGlzIGZ1bmN0aW9uIGFzc3VtZXMKICAgICAgICAgICB0aGF0IHRoZSBzcmMgY29tZXMgQkVGT1JFIHRoZSBkc3QKICAgIDpkb2M6IGEgc3BhY3kgZG9jIHRoYXQgY29udGFpbnMgdGhlIHRlcm1zIHNwZWNpZmllZCBpbiBwYWlyCgogICAgIiIiCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>represenations</text>
+        <text>reversed</text>
       </register>
       <register name="-" type="4">
-        <text>represenations</text>
+        <text>reversed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRlcl90b2tlbnNcPg==</text>
