@@ -339,14 +339,14 @@
         <mark key="^" line="85" column="42" />
         <mark key="." line="85" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483095569992">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483128479775">
         <mark key="a" line="53" column="3" />
         <mark key="'" line="9" column="0" />
         <mark key="k" line="66" column="30" />
-        <mark key="[" line="88" column="27" />
-        <mark key="]" line="88" column="28" />
-        <mark key="^" line="88" column="28" />
-        <mark key="." line="88" column="28" />
+        <mark key="[" line="98" column="14" />
+        <mark key="]" line="98" column="28" />
+        <mark key="^" line="98" column="28" />
+        <mark key="." line="98" column="28" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/swagger/swagger.yaml" timestamp="1481058693147">
         <mark key="[" line="5" column="10" />
@@ -786,7 +786,9 @@
         <text encoding="base64">ICAgIHN0cl9kb2MgPSBtYXAoc3RyLCBkb2MpCiAgICB0cnk6CiAgICAgICAgIyBnZXQgdGhlIHNwYWN5IHRva2VuIGZvciB0aGUgaW5wdXQgcGFpcgogICAgICAgIHNwYWN5X3BhaXIgPSAoc3JjLCBkZXN0KSA9IGRvY1tzdHJfZG9jLmluZGV4KHBhaXJbMF0pXSwgZG9jW3N0cl9kb2MuaW5kZXgocGFpclsxXSldCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAjIG9uZSBvZiB0aGUgcGFpcnMgd2Fzbid0IHByZXNlbnQsIHJ1bm5pbmcgdGhpcyBkb2Vzbid0IG1ha2Ugc2Vuc2UKICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sys.stdout.write</text>
+        <text>u&quot;Thus the constitutive activation of BRAF mutation leads to EGFR-independent tumorigenicity. Therefore the &quot; \
+          u&quot;oncogenic activation of the RAS signaling pathway impairs the response of colorectal cancer cells to &quot; \
+          u&quot;cetuximab. &quot;</text>
       </register>
       <register name="-" type="4">
         <text>sys.stdout.write</text>
@@ -797,32 +799,34 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGF1Z21lbnRlZF9kZXBfZ3JhcGggYXMgYWRnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHN5cy5zdGRvdXQuZmx1c2goKQo=</text>
+      <register name="1" type="4">
+        <text>u&quot;Thus the constitutive activation of BRAF mutation leads to EGFR-independent tumorigenicity. Therefore the &quot; \
+          u&quot;oncogenic activation of the RAS signaling pathway impairs the response of colorectal cancer cells to &quot; \
+          u&quot;cetuximab. &quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICwK</text>
+        <text encoding="base64">ICAgIHN5cy5zdGRvdXQuZmx1c2goKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgYSA9IHJlc3VsdHNbcmVzdWx0cy5rZXlzKClbMF1dCg==</text>
+        <text encoding="base64">ICAgICMgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogcmVtb3ZlIHRoaXMhCg==</text>
+        <text encoding="base64">ICAgICMgYSA9IHJlc3VsdHNbcmVzdWx0cy5rZXlzKClbMF1dCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQoK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogcmVtb3ZlIHRoaXMhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
