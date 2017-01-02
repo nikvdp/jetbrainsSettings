@@ -339,14 +339,14 @@
         <mark key="^" line="85" column="42" />
         <mark key="." line="85" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483397448138">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483399148769">
         <mark key="a" line="53" column="3" />
-        <mark key="'" line="9" column="0" />
+        <mark key="'" line="79" column="23" />
         <mark key="k" line="66" column="30" />
-        <mark key="[" line="83" column="51" />
-        <mark key="]" line="83" column="66" />
-        <mark key="^" line="83" column="66" />
-        <mark key="." line="83" column="66" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/swagger/swagger.yaml" timestamp="1481058693147">
         <mark key="[" line="5" column="10" />
@@ -751,8 +751,6 @@
       <jump line="63" column="36" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="100" column="27" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="7" column="29" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="50" column="11" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="155" column="15" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" />
       <jump line="26" column="21" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" />
@@ -780,62 +778,62 @@
       <jump line="149" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="72" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="7" column="39" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="79" column="23" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHN0cl9kb2MgPSBtYXAoc3RyLCBkb2MpCiAgICB0cnk6CiAgICAgICAgIyBnZXQgdGhlIHNwYWN5IHRva2VuIGZvciB0aGUgaW5wdXQgcGFpcgogICAgICAgIHNwYWN5X3BhaXIgPSAoc3JjLCBkZXN0KSA9IGRvY1tzdHJfZG9jLmluZGV4KHBhaXJbMF0pXSwgZG9jW3N0cl9kb2MuaW5kZXgocGFpclsxXSldCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAjIG9uZSBvZiB0aGUgcGFpcnMgd2Fzbid0IHByZXNlbnQsIHJ1bm5pbmcgdGhpcyBkb2Vzbid0IG1ha2Ugc2Vuc2UKICAgICAgICByZXR1cm4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>u&quot;Thus the constitutive activation of BRAF mutation leads to EGFR-independent tumorigenicity. Therefore the &quot; \
-          u&quot;oncogenic activation of the RAS signaling pathway impairs the response of colorectal cancer cells to &quot; \
-          u&quot;cetuximab. &quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBUT0RPOiBtYWtlIHRoaXMgYSB0aW55IGNsYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sys.stdout.write</text>
+        <text>n_features=22</text>
       </register>
       <register name="/" type="4">
-        <text>def main</text>
+        <text encoding="base64">XDxGZWF0dXJlSGFzaGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGF1Z21lbnRlZF9kZXBfZ3JhcGggYXMgYWRnCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">IyBUT0RPOiBtYWtlIHRoaXMgYSB0aW55IGNsYXNzCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIucGRiLnNldF90cmFjZSgpCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>u&quot;Thus the constitutive activation of BRAF mutation leads to EGFR-independent tumorigenicity. Therefore the &quot; \
           u&quot;oncogenic activation of the RAS signaling pathway impairs the response of colorectal cancer cells to &quot; \
           u&quot;cetuximab. &quot;</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHN5cy5zdGRvdXQuZmx1c2goKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50ICwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICMgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgYSA9IHJlc3VsdHNbcmVzdWx0cy5rZXlzKClbMF1dCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogcmVtb3ZlIHRoaXMhCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgYSA9IHJlc3VsdHNbcmVzdWx0cy5rZXlzKClbMF1dCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>def main</last-search>
+      <last-search encoding="base64">XDxGZWF0dXJlSGFzaGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>def main</last-pattern>
+      <last-pattern encoding="base64">XDxGZWF0dXJlSGFzaGVyXD4=</last-pattern>
       <last-replace>word_pair</last-replace>
       <last-substitute>pair</last-substitute>
       <last-dir>1</last-dir>
@@ -843,7 +841,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDx0ZXh0XD4=</entry>
         <entry>propLis</entry>
@@ -863,6 +860,7 @@
         <entry>pair</entry>
         <entry encoding="base64">XDxfZ2V0X2RlcF9wYXRoXD4=</entry>
         <entry>def main</entry>
+        <entry encoding="base64">XDxGZWF0dXJlSGFzaGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
