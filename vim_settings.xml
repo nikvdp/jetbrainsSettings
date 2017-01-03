@@ -339,9 +339,9 @@
         <mark key="^" line="85" column="42" />
         <mark key="." line="85" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483406883806">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483408532650">
         <mark key="a" line="53" column="3" />
-        <mark key="'" line="101" column="10" />
+        <mark key="'" line="80" column="27" />
         <mark key="k" line="66" column="30" />
         <mark key="[" line="110" column="0" />
         <mark key="]" line="111" column="0" />
@@ -680,9 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="37" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
-      <jump line="29" column="8" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
-      <jump line="23" column="15" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="90" column="12" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/swagger/swagger.yaml" />
       <jump line="75" column="49" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/swagger/swagger.yaml" />
       <jump line="3" column="12" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/controllers/concepts.py" />
@@ -714,7 +711,6 @@
       <jump line="88" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="78" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="61" column="10" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="80" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="65" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="52" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="67" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
@@ -776,10 +772,14 @@
       <jump line="79" column="23" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="9" column="18" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="136" column="11" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="132" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="70" column="16" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="124" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="101" column="10" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="122" column="72" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="132" column="26" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="106" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="80" column="27" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -792,7 +792,7 @@
         <text>n_features=22</text>
       </register>
       <register name="/" type="4">
-        <text>nlp(</text>
+        <text>k</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGF1Z21lbnRlZF9kZXBfZ3JhcGggYXMgYWRnCg==</text>
@@ -831,9 +831,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nlp(</last-search>
+      <last-search>k</last-search>
       <last-offset />
-      <last-pattern>nlp(</last-pattern>
+      <last-pattern>k</last-pattern>
       <last-replace>word_pair</last-replace>
       <last-substitute>pair</last-substitute>
       <last-dir>1</last-dir>
@@ -841,7 +841,6 @@
     </search>
     <history>
       <history-search>
-        <entry>propLis</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxjb2RlY3NcPg==</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
@@ -861,6 +860,7 @@
         <entry encoding="base64">XDxGZWF0dXJlSGFzaGVyXD4=</entry>
         <entry encoding="base64">XDxzcGFjeV9wYWlyXD4=</entry>
         <entry>nlp(</entry>
+        <entry>k</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -917,6 +917,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
