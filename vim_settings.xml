@@ -263,6 +263,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/requirements.txt" timestamp="1483471271279">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/constants/JFLanguages.js" timestamp="1469122442325">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="25" />
@@ -339,14 +345,12 @@
         <mark key="^" line="85" column="42" />
         <mark key="." line="85" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483414647215">
-        <mark key="a" line="65" column="3" />
-        <mark key="'" line="115" column="11" />
-        <mark key="k" line="80" column="30" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="75" column="101" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483471150868">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="87" column="28" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/swagger/swagger.yaml" timestamp="1481058693147">
         <mark key="[" line="5" column="10" />
@@ -470,11 +474,9 @@
         <mark key="." line="20" column="88" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" timestamp="1483011447958">
-        <mark key="'" line="26" column="21" />
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
-        <mark key="^" line="29" column="52" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-proximal-rule.js" timestamp="1473905585880">
         <mark key="[" line="4" column="0" />
@@ -680,7 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="10" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="11" column="16" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="60" column="11" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -689,7 +690,6 @@
       <jump line="57" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="99" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="97" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" />
       <jump line="14" column="48" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
@@ -727,11 +727,9 @@
       <jump line="64" column="23" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="49" column="40" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="57" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="59" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="142" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="89" column="63" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="146" column="16" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="135" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
@@ -780,13 +778,17 @@
       <jump line="77" column="105" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="115" column="11" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="130" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>FeatureSet.is_valid_feature(item)</text>
+        <text encoding="base64">ZGVmIF9nZXRfZGVwX3BhdGgod29yZF9wYWlyLCBncmFwaCwgZG9jKToKICAgIHNyYywgZGVzdCA9IF9nZXRfc3BhY3lfcGFpcih3b3JkX3BhaXIsIGRvYykKICAgIHJldHVybiBrX3Nob3J0ZXN0X3BhdGhzKGdyYXBoLCBzcmMsIGRlc3QsIDMpCgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3BhY3kKc2tsZWFybgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YW5kIGludChyZS5tYXRjaChyIi4qKFswLTldKykkIiwgZmVhdF9uYW1lKS5ncm91cCgxKSkgPD0gRmVhdHVyZVNldC53aW5kb3dfc2l6ZQ==</text>
@@ -798,31 +800,31 @@
         <text encoding="base64">ICAgICAgICAjIGVkZ2UgbGFiZWwgKGRlcCB0eXBlKSBmb3IgZShpKSB0aHJvdWdoIGUoaSt3aW5kb3dfc2l6ZTAKICAgICAgICAic3luX2RlcF9lZGdlX3BhdGgiLAoKICAgICAgICAjIGsgd29yZHMgdG8gdGhlIGxlZnQgb2YgaW5pdGFsIHRva2VuCiAgICAgICAgImxleF9sZXhlbWVfd2luZG93X2xlZnQiLAogICAgICAgICMgayBwb3MgdGFncyB0byB0aGUgbGVmdCBvZiBpbml0aWFsIHRva2VuCiAgICAgICAgImxleF9wb3Nfd2luZG93X2xlZnQiLAoKICAgICAgICAjIGsgd29yZHMgdG8gdGhlIGxlZnQgb2YgaW5pdGFsIHRva2VuCiAgICAgICAgImxleF9sZXhlbWVfd2luZG93X3JpZ2h0IiwKICAgICAgICAjIGsgcG9zIHRhZ3MgdG8gdGhlIHJpZ2h0IG9mIGluaXRpYWwgdG9rZW4KICAgICAgICAibGV4X3Bvc193aW5kb3dfcmlnaHQiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3BhY3kKc2tsZWFybgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZGVmIF9nZXRfZGVwX3BhdGgod29yZF9wYWlyLCBncmFwaCwgZG9jKToKICAgIHNyYywgZGVzdCA9IF9nZXRfc3BhY3lfcGFpcih3b3JkX3BhaXIsIGRvYykKICAgIHJldHVybiBrX3Nob3J0ZXN0X3BhdGhzKGdyYXBoLCBzcmMsIGRlc3QsIDMpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpbmRvd19zaXplID0gMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndpbmRvd19zaXplID0gd2luZG93X3NpemUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGlzIHdheSB0b28gY2xldmVyIHRvIGJlIG1haW50YWluYWJsZSBidXQgaSBsb3ZlIGl0Lgo=</text>
+        <text encoding="base64">ICAgIHdpbmRvd19zaXplID0gMwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
