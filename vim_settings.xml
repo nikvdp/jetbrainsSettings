@@ -339,9 +339,9 @@
         <mark key="^" line="85" column="42" />
         <mark key="." line="85" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483399148769">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483402381557">
         <mark key="a" line="53" column="3" />
-        <mark key="'" line="79" column="23" />
+        <mark key="'" line="124" column="0" />
         <mark key="k" line="66" column="30" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="0" />
@@ -680,9 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="27" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
-      <jump line="42" column="4" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
-      <jump line="49" column="23" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="20" column="37" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="29" column="8" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
       <jump line="23" column="15" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" />
@@ -745,7 +742,6 @@
       <jump line="43" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/test_harness.py" />
       <jump line="23" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/test_harness.py" />
       <jump line="66" column="3" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="68" column="27" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="23" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="63" column="36" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
@@ -773,13 +769,17 @@
       <jump line="89" column="63" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="146" column="16" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="136" column="6" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="135" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="149" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="72" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="7" column="39" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="79" column="23" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="9" column="18" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="136" column="11" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="132" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="70" column="16" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="124" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -792,7 +792,7 @@
         <text>n_features=22</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGZWF0dXJlSGFzaGVyXD4=</text>
+        <text>nlp(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGF1Z21lbnRlZF9kZXBfZ3JhcGggYXMgYWRnCg==</text>
@@ -831,9 +831,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGZWF0dXJlSGFzaGVyXD4=</last-search>
+      <last-search>nlp(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGZWF0dXJlSGFzaGVyXD4=</last-pattern>
+      <last-pattern>nlp(</last-pattern>
       <last-replace>word_pair</last-replace>
       <last-substitute>pair</last-substitute>
       <last-dir>1</last-dir>
@@ -841,8 +841,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry encoding="base64">XDx0ZXh0XD4=</entry>
         <entry>propLis</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxjb2RlY3NcPg==</entry>
@@ -861,6 +859,8 @@
         <entry encoding="base64">XDxfZ2V0X2RlcF9wYXRoXD4=</entry>
         <entry>def main</entry>
         <entry encoding="base64">XDxGZWF0dXJlSGFzaGVyXD4=</entry>
+        <entry encoding="base64">XDxzcGFjeV9wYWlyXD4=</entry>
+        <entry>nlp(</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
