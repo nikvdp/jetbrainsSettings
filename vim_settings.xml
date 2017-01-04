@@ -345,12 +345,12 @@
         <mark key="^" line="85" column="42" />
         <mark key="." line="85" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483490406789">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483498228401">
         <mark key="'" line="39" column="8" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="22" column="49" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="123" column="29" />
+        <mark key="." line="123" column="29" />
+        <mark key="^" line="42" column="80" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/swagger/swagger.yaml" timestamp="1481058693147">
         <mark key="[" line="5" column="10" />
@@ -793,17 +793,17 @@
       <register name="a" type="4">
         <text>WindowedFeatureSet</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>-1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-1</text>
       </register>
       <register name="/" type="4">
         <text>lemma</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;syn_windowed_pos_path&quot;,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGhhc2hlciA9IEZlYXR1cmVIYXNoZXIoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
