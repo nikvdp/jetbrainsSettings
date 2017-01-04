@@ -183,12 +183,12 @@
         <mark key="^" line="43" column="8" />
         <mark key="." line="61" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" timestamp="1483485642684">
-        <mark key="'" line="183" column="4" />
-        <mark key="[" line="168" column="64" />
-        <mark key="]" line="168" column="65" />
-        <mark key="^" line="67" column="33" />
-        <mark key="." line="168" column="65" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" timestamp="1483490365333">
+        <mark key="'" line="114" column="38" />
+        <mark key="[" line="171" column="15" />
+        <mark key="]" line="171" column="15" />
+        <mark key="." line="171" column="15" />
+        <mark key="^" line="171" column="30" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/HelpfulArgumentParser/HelpfulArgumentParser.py" timestamp="1471313587993">
         <mark key="[" line="11" column="6" />
@@ -345,12 +345,12 @@
         <mark key="^" line="85" column="42" />
         <mark key="." line="85" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483486640870">
-        <mark key="'" line="20" column="42" />
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="48" />
-        <mark key="." line="20" column="48" />
-        <mark key="^" line="20" column="48" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483490406789">
+        <mark key="'" line="39" column="8" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="22" column="49" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/swagger/swagger.yaml" timestamp="1481058693147">
         <mark key="[" line="5" column="10" />
@@ -688,11 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="52" column="28" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="47" column="32" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="38" column="31" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="61" column="31" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="190" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="81" column="23" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
@@ -788,49 +783,54 @@
       <jump line="95" column="57" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="20" column="42" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="158" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" />
+      <jump line="122" column="24" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
+      <jump line="43" column="17" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="114" column="38" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
+      <jump line="33" column="123" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="39" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>WindowedFeatureSet</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>AbstractFeatureSet</text>
+        <text>lemma</text>
       </register>
       <register name="0" type="4">
-        <text>AbstractWindowedFeatureSet</text>
+        <text>&quot;syn_windowed_pos_path&quot;,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHdoZW4gdXNpbmcgdGhpcyBmb3IgcmVhbCBuZWVkIHRvIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjVE9ETzogYWRkIGZlYXR1cmVzIGZvciBlYWNoIHBhdGgK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBub3cganVzdCB1c2UgdGhlIHNob3J0ZXN0IHBhdGgsIGlnbm9yZSBhbGwgb3RoZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICNUT0RPOiBhZGQgZmVhdHVyZXMgZm9yIGVhY2ggcGF0aAo=</text>
+        <text encoding="base64">ICAgICMgZm9yIGkgaW4gcmFuZ2UoMCwgbGVuZ3RoKToKICAgICMgICAgIHJlcy5hcHBlbmQoaW5wdXRbc3RhcnRfaWR4OnN0YXJ0X2lkeCtpXSkKICAgICMgcmV0dXJuIHJlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXMuYWRkX3dpbmRvd2VkX2RhdGEoInN5bl9kZXBfZWRnZV9wYXRoIiwgW2VkZ2UuZGVwIGZvciBlZGdlIGluIHNlbGVjdGVkX3BhdGhdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcGF0aCBpbiBkZXBfcGF0aDoK</text>
+        <text encoding="base64">ICAgICAgICByZXMuYWRkX3dpbmRvd2VkX2RhdGEoInN5bl9kZXBfZWRnZV9wYXRoIiwgW2VkZ2UuZGVwIGZvciBlZGdlIGluIHNlbGVjdGVkX3BhdGhdKQpzeW5fbGV4ZW1lX25ncmFtX3BhdGhzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBub3cgd2UgYXJlIGp1c3QK</text>
+        <text encoding="base64">c3luX2xleGVtZV9uZ3JhbV9wYXRocwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -840,17 +840,16 @@
       </register>
     </registers>
     <search>
-      <last-search>AbstractFeatureSet</last-search>
+      <last-search>lemma</last-search>
       <last-offset />
-      <last-pattern>AbstractFeatureSet</last-pattern>
-      <last-replace>type(self)</last-replace>
-      <last-substitute>AbstractFeatureSet</last-substitute>
+      <last-pattern>lemma</last-pattern>
+      <last-replace>pos</last-replace>
+      <last-substitute>lemma</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>:.*,</entry>
         <entry encoding="base64">XDxsZXhfbGVmdF93aW5kb3dcPg==</entry>
         <entry encoding="base64">XDxsZXhfd2luZG93X2xlZnRcPg==</entry>
         <entry encoding="base64">XDxsZXhfd2luZG93X3JpZ2h0XD4=</entry>
@@ -870,9 +869,9 @@
         <entry encoding="base64">XDxBYnN0cmFjdFdpbmRvd2VkRmVhdHVyZVNldFw+</entry>
         <entry encoding="base64">XDxSZWxhdGlvbkV4dHJhY3Rpb25GZWF0dXJlU2V0XD4=</entry>
         <entry>AbstractFeatureSet</entry>
+        <entry>lemma</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zIS9zdGF0aWMhc3RhdGljIWc=</entry>
         <entry encoding="base64">JzwsJz4hIi8hIi9xZ3AtYWRtaW4vIWc=</entry>
         <entry encoding="base64">JzwsJz5zISIvISIvcWdwLWFkbWluLyFn</entry>
@@ -891,6 +890,7 @@
         <entry encoding="base64">JzwsJz4lcy9BYnN0cmFjdFdpbmRvd2VkRmVhdHVyZVNldC9SZWxhdGlvbkV4dHJhY3Rpb25GZWF0dXJlU2V0L2c=</entry>
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zL0Fic3RyYWN0RmVhdHVyZVNldC90eXBlKHNlbGYpL2c=</entry>
+        <entry>s/lemma/pos/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
