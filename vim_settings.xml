@@ -144,12 +144,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/align.py" timestamp="1484082623492">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/align.py" timestamp="1484086743996">
         <mark key="'" line="65" column="30" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="130" column="30" />
-        <mark key="." line="130" column="30" />
-        <mark key="^" line="130" column="30" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="127" column="30" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-dependent-recursive-rule.js" timestamp="1476765436654">
         <mark key="'" line="135" column="7" />
@@ -395,13 +395,13 @@
         <mark key="." line="64" column="17" />
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" timestamp="1484082723902">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" timestamp="1484087096562">
         <mark key="a" line="109" column="31" />
-        <mark key="'" line="227" column="19" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="196" column="84" />
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="145" column="40" />
+        <mark key="]" line="145" column="50" />
+        <mark key="." line="145" column="50" />
+        <mark key="^" line="145" column="50" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/dependencies.js" timestamp="1469065689576">
         <mark key="[" line="2" column="0" />
@@ -693,10 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="95" column="26" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="6" column="6" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
       <jump line="54" column="18" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
       <jump line="60" column="18" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
       <jump line="67" column="24" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
@@ -771,7 +767,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
       <jump line="136" column="32" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
       <jump line="21" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
-      <jump line="103" column="46" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
       <jump line="130" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/align.py" />
       <jump line="69" column="15" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/align.py" />
       <jump line="76" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
@@ -793,61 +788,66 @@
       <jump line="77" column="33" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
       <jump line="227" column="19" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
       <jump line="65" column="30" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/align.py" />
+      <jump line="90" column="7" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
+      <jump line="103" column="75" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
+      <jump line="105" column="75" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{&quot;ent_type&quot;: DICT_ENT_TYPE}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5ld19zcGFuID0gU3Bhbihkb2MsIHN0YXJ0LCBlbmQsIGxhYmVsPWVudF9pZCkKICAgICAgICAjIGRvYy5tZXJnZShzdGFydCwgZW5kLCB0YWc9bGFiZWwsIGxhYmVsPWxhYmVsLCB0YWc9J05OUCcgaWYgbGFiZWwgZWxzZSBzcGFuLnJvb3QudGFnXykKICAgICAgICAjIHggPSBzcGFuLm1lcmdlKGxhYmVsPWxhYmVsLCBlbnRfaWQ9ZW50X2lkLCB0YWc9J05OUCcgaWYgbGFiZWwgZWxzZSBzcGFuLnJvb3QudGFnXykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>ent_name</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>pdb.set</text>
+        <text encoding="base64">XDxtZXJnZV9td2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaGVyLmFkZF9lbnRpdHkoZW50X25hbWUsIHsiZW50X3R5cGUiOiBESUNUX0VOVF9UWVBFfSwgb25fbWF0Y2g9bWVyZ2VfbXdlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5ld19zcGFuID0gU3Bhbihkb2MsIHN0YXJ0LCBlbmQsIGxhYmVsPWVudF9pZCkKICAgICAgICAjIGRvYy5tZXJnZShzdGFydCwgZW5kLCB0YWc9bGFiZWwsIGxhYmVsPWxhYmVsLCB0YWc9J05OUCcgaWYgbGFiZWwgZWxzZSBzcGFuLnJvb3QudGFnXykKICAgICAgICAjIHggPSBzcGFuLm1lcmdlKGxhYmVsPWxhYmVsLCBlbnRfaWQ9ZW50X2lkLCB0YWc9J05OUCcgaWYgbGFiZWwgZWxzZSBzcGFuLnJvb3QudGFnXykK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkb2MuZW50cyA9IFtTcGFuKDAsIDEsIGxhYmVsPSdHUEUnKV0KICAgICAgICAgICAgIyBkb2MubWVyZ2Uoc3RhcnQsIGVuZCwgZW50X2lkPWxhYmVsKQogICAgICAgICAgICAic3RvcCBoZXJlIgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IiIiCmRvYyA9IG5scCh1J0xvbmRvbiBpcyBhIGJpZyBjaXR5IGluIHRoZSBVbml0ZWQgS2luZ2RvbS4nKQpkb2MuZW50cyA9IFtdCmFzc2VydCBkb2NbMF0uZW50X3R5cGVfID09ICcnCmRvYy5lbnRzID0gW1NwYW4oMCwgMSwgbGFiZWw9J0dQRScpXQphc3NlcnQgZG9jWzBdLmVudF90eXBlXyA9PSAnR1BFJwpkb2MuZW50cyA9IFtdCmRvYy5lbnRzID0gWyh1J0xvbmRvbkNpdHknLCB1J0dQRScsIDAsIDEpXQoiIiIKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzdHIobmV3X3Rva2VuKSA9PSAibnVjbGVpYyBhY2lkcyI6CiAgICAgICAgICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBUSElTIE9ORSBXT1JLRUQ6CiMgIiIiCiMgPiAvVXNlcnMvbmlrL0NvZGUvd29yay92b2xsZXkvcmVwb3MvcmVfYmV5b25kX3RoZV9zZW50ZW5jZS9zcGFjeV9wcmVwcm9jZXNzLnB5KDQ1KQojCiMgMjMgICAgIGRlZiBtZXJnZV9waHJhc2VzKG1hdGNoZXIsIGRvYywgaSwgbWF0Y2hlcyk6CiMgMjQgICAgICAgICAiIiIKIyAyNSAgICAgICAgIE1lcmdlIGEgcGhyYXNlLiBXZSBoYXZlIHRvIGJlIGNhcmVmdWwgaGVyZSBiZWNhdXNlIHdlJ2xsIGNoYW5nZSB0aGUgdG9rZW4gaW5kaWNlcy4KIyAyNiAgICAgICAgIFRvIGF2b2lkIHByb2JsZW1zLCBtZXJnZSBhbGwgdGhlIHBocmFzZXMgb25jZSB3ZSdyZSBjYWxsZWQgb24gdGhlIGxhc3QgbWF0Y2guCiMgMjcgICAgICAgICAiIiIKIyAyOCAgICAgICAgICMgTGlmdGVkIGRpcmVjdGx5IEZyb20gRVhBTVBMRSBib3ggYXQgYm90dG9tIG9mIGh0dHBzOi8vc3BhY3kuaW8vZG9jcy91c2FnZS9ydWxlLWJhc2VkLW1hdGNoaW5nCiMgMjkKIyAzMCAgICAgICAgIGlmIGkgIT0gbGVuKG1hdGNoZXMpLTE6CiMgMzEgICAgICAgICAgICAgcmV0dXJuIE5vbmUKIyAzMiAgICAgICAgICMgR2V0IFNwYW4gb2JqZWN0cwojIDMzICAgICAgICAgc3BhbnMgPSBbKGVudF9pZCwgbWF0Y2hlci52b2NhYi5zdHJpbmdzW2xhYmVsX2lkXSwgc3RhcnQsIGVuZCwgZG9jW3N0YXJ0OmVuZF0pIGZvciBlbnRfaWQsIGxhYmVsX2lkLCBzdGFydCwgZW5kIGluIG1hdGNoZXNdCiMgMzQgICAgICAgICAjIHNwYW5zID0gW2RvY1tzdGFydDplbmRdIGZvciBlbnRfaWQsIGxhYmVsLCBzdGFydCwgZW5kIGluIG1hdGNoZXNdCiMgMzUgICAgICAgICAjIG1lcmdlX3NwYW5zKHNwYW5zLCBkb2MpCiMgMzYgICAgICAgICBmb3IgZW50X2lkLCBsYWJlbCwgc3RhcnQsIGVuZCwgc3BhbiBpbiBzcGFuczoKIyAzNyAgICAgICAgICAgICBzcGFuX3R1cGxlID0gX3NwYW5fdG9fdHVwbGUoc3BhbiwgbGFiZWw9bGFiZWwpCiMgMzggICAgICAgICAgICAgZG9jLm1lcmdlKCpzcGFuX3R1cGxlKQojIDM5ICAgICAgICAgICAgIG5ld19zcGFuID0gU3Bhbihkb2MsIHN0YXJ0LCBlbmQsIGxhYmVsPWVudF9pZCkKIyA0MCAgICAgICAgICAgICAjIGRvYy5tZXJnZShzdGFydCwgZW5kLCB0YWc9bGFiZWwsIGxhYmVsPWxhYmVsLCB0YWc9J05OUCcgaWYgbGFiZWwgZWxzZSBzcGFuLnJvb3QudGFnXykKIyA0MSAgICAgICAgICAgICAjIHggPSBzcGFuLm1lcmdlKGxhYmVsPWxhYmVsLCBlbnRfaWQ9ZW50X2lkLCB0YWc9J05OUCcgaWYgbGFiZWwgZWxzZSBzcGFuLnJvb3QudGFnXykKIyA0MiAgICAgICAgICAgICBpZiBsZW4oc3RyKHNwYW4pLnNwbGl0KCIgIikpID4gMToKIyA0MyAgICAgICAgICAgICAgICAgIyBkb2MuZW50cyA9IFtTcGFuKDAsIDEsIGxhYmVsPSdHUEUnKV0KIyA0NCAgICAgICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCiMgNDUgIC0+ICAgICAgICAgICAgICJzdG9wIGhlcmUiCiMgKFBkYisrKSBzcGFuCiMgcGxhc21hIG1lbWJyYW5lCiMgKFBkYisrKSBzcGFuLnN0YXJ0CiMgMTEKIyAoUGRiKyspIHNwYW4uZW5kCiMgMTIKIyAoUGRiKyspIGRvY1sxMToxMl0KIyBwbGFzbWEgbWVtYnJhbmUKIyAoUGRiKyspIGRvYy5tZXJnZSgxMSwgMTIsIGxhYmVsPWVudF9pZCkKIyAoUGRiKyspIGRvY1sxMV0KIyBwbGFzbWEgbWVtYnJhbmUKIyAoUGRiKyspIGRvY1sxMV0uZW50X3R5cGVfCiMgdSdQTEFTTUFfTUVNQlJBTkUnCgojICIiIgoKCgoKIyBkZWYgdXBkYXRlX2VudGl0aWVzKGRvYywgKQoKIyBUaGUgdmFsdWUgeW91IGFzc2lnbiBzaG91bGQgYmUgYSBzZXF1ZW5jZSwgdGhlIHZhbHVlcyBvZiB3aGljaCBjYW4gZWl0aGVyIGJlIFNwYW4gb2JqZWN0cywgb3IgKGVudF9pZCwgZW50X3R5cGUsCiMgc3RhcnQsIGVuZCkgdHVwbGVzLCB3aGVyZSBzdGFydCBhbmQgZW5kIGFyZSB0b2tlbiBvZmZzZXRzIHRoYXQgZGVzY3JpYmUgdGhlIHNsaWNlIG9mIHRoZSBkb2N1bWVudCB0aGF0IHNob3VsZCBiZQojIGFubm90YXRlZC4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgYWRkX2dhemV0dGVlcl90b19tb2RlbChubHAsIHRlcm1fbGlzdCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgc3BwLmFkZF9nYXpldHRlZXIobmxwLCBzYWxpZW50X3Rlcm1zKQogICAgIyBkb2MgPSBzcHAucHJlcHJvY2VzcyhubHAsIHRleHQsIHNhbGllbnRfdGVybXMpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSBtYXRjaGVyOiAKICAgIDpwYXJhbSBkb2M6IAogICAgOnBhcmFtIGk6IAogICAgOnBhcmFtIG1hdGNoZXM6IAogICAgOnJldHVybjogCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBkZWYgZG9zdHVmZihkb2MsIGVudF9pZCwgbGFiZWwsIHN0YXJ0LCBlbmQpOgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">IyBUaGlzIGlzIGEgYml0IGF3a3dhcmQgYXRtLiBXaGF0IHdlJ3JlIGRvaW5nIGhlcmUgaXMgbWVyZ2luZyB0aGUgZW50aXRpZXMsCiMgc28gdGhhdCBlYWNoIG9ubHkgdGFrZXMgdXAgYSBzaW5nbGUgdG9rZW4uIEJ1dCBhbiBlbnRpdHkgaXMgYSBTcGFuLCBhbmQKIyBlYWNoIFNwYW4gaXMgYSB2aWV3IGludG8gdGhlIGRvYy4gV2hlbiB3ZSBtZXJnZSBhIHNwYW4sIHdlIGludmFsaWRhdGUKIyB0aGUgb3RoZXIgc3BhbnMuIFRoaXMgd2lsbCBnZXQgZml4ZWQgLS0tIGJ1dCBmb3Igbm93IHRoZSBzb2x1dGlvbgojIGlzIHRvIGdhdGhlciB0aGUgaW5mb3JtYXRpb24gZmlyc3QsIGJlZm9yZSBtZXJnaW5nLgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIGRlZiB0b19zdHJpbmdpZmllZF9kaWN0KHNlbGYpOgogICAgICAgIHJlcyA9IHt9CiAgICAgICAgZm9yIGtleSBpbiBzZWxmLmZlYXR1cmVzLmtleXMoKToKICAgICAgICAgICAgcmVzW2tleV0gPSBzdHIoc2VsZi5mZWF0dXJlc1trZXldKQogICAgICAgIHJldHVybiByZXMKCiAgICBkZWYgdG9kaWN0KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLmZlYXR1cmVzCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>pdb.set</last-search>
+      <last-search encoding="base64">XDxtZXJnZV9td2VzXD4=</last-search>
       <last-offset />
-      <last-pattern>pdb.set</last-pattern>
+      <last-pattern encoding="base64">XDxtZXJnZV9td2VzXD4=</last-pattern>
       <last-replace>pos</last-replace>
       <last-substitute>lemma</last-substitute>
       <last-dir>1</last-dir>
@@ -855,8 +855,6 @@
     </search>
     <history>
       <history-search>
-        <entry>WindowedFeatureSet</entry>
-        <entry>AbstractWindowedFeatureSet</entry>
         <entry encoding="base64">XDxBYnN0cmFjdEZlYXR1cmVTZXRcPg==</entry>
         <entry encoding="base64">XDxBYnN0cmFjdFdpbmRvd2VkRmVhdHVyZVNldFw+</entry>
         <entry encoding="base64">XDxSZWxhdGlvbkV4dHJhY3Rpb25GZWF0dXJlU2V0XD4=</entry>
@@ -875,9 +873,10 @@
         <entry>json.lo</entry>
         <entry>set_t</entry>
         <entry>pdb.set</entry>
+        <entry encoding="base64">XDxtZXJnZV9waHJhc2VzXD4=</entry>
+        <entry encoding="base64">XDxtZXJnZV9td2VzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zIS9zdGF0aWMhc3RhdGljIWc=</entry>
         <entry encoding="base64">JzwsJz4hIi8hIi9xZ3AtYWRtaW4vIWc=</entry>
         <entry encoding="base64">JzwsJz5zISIvISIvcWdwLWFkbWluLyFn</entry>
         <entry encoding="base64">JzwsJz5zLyIvYC9n</entry>
@@ -897,6 +896,7 @@
         <entry>s/lemma/pos/gc</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
