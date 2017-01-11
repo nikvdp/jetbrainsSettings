@@ -182,9 +182,10 @@
         <mark key="^" line="43" column="8" />
         <mark key="." line="61" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" timestamp="1484089273535">
-        <mark key="[" line="112" column="8" />
-        <mark key="]" line="112" column="8" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" timestamp="1484093359005">
+        <mark key="'" line="165" column="64" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="25" column="17" />
         <mark key="." line="112" column="8" />
         <mark key="^" line="78" column="27" />
       </file>
@@ -342,12 +343,12 @@
         <mark key="^" line="85" column="42" />
         <mark key="." line="85" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1484089856173">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="9" />
-        <mark key="." line="101" column="9" />
-        <mark key="^" line="101" column="9" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1484093264152">
+        <mark key="'" line="44" column="33" />
+        <mark key="[" line="102" column="14" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/swagger/swagger.yaml" timestamp="1481058693147">
         <mark key="[" line="5" column="10" />
@@ -687,24 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="18" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="60" column="18" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="67" column="24" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="75" column="6" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="141" column="6" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="58" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="41" column="33" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="45" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="51" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="57" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="59" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="183" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="93" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="18" column="29" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="95" column="57" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="20" column="42" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="158" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" />
-      <jump line="122" column="24" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
       <jump line="43" column="17" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="114" column="38" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
       <jump line="33" column="123" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
@@ -714,7 +697,6 @@
       <jump line="23" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/test_harness.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="129" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="37" column="43" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/interact.dev.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/interact.dev.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/interact.dev.py" />
@@ -787,97 +769,115 @@
       <jump line="103" column="75" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
       <jump line="22" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
       <jump line="105" column="75" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" />
+      <jump line="75" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
+      <jump line="125" column="27" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
+      <jump line="182" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="82" column="30" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="74" column="68" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="53" column="17" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="78" column="20" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="98" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="101" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="103" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="100" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="121" column="123" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="37" column="44" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="165" column="64" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
+      <jump line="97" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="44" column="33" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{&quot;ent_type&quot;: DICT_ENT_TYPE}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.features</text>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>.features</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXJnZV9td2VzXD4=</text>
+        <text encoding="base64">XDx0b19zdHJpbmdpZmllZF9kaWN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaGVyLmFkZF9lbnRpdHkoZW50X25hbWUsIHsiZW50X3R5cGUiOiBESUNUX0VOVF9UWVBFfSwgb25fbWF0Y2g9bWVyZ2VfbXdlcykK</text>
+        <text encoding="base64">ICAgIGRlZiB0b19zdHJpbmdpZmllZF9kaWN0KHNlbGYpOgogICAgICAgIHJlcyA9IHt9CiAgICAgICAgZm9yIGtleSBpbiBzZWxmLmZlYXR1cmVzLmtleXMoKToKICAgICAgICAgICAgcmVzW2tleV0gPSBzdHIoc2VsZi5mZWF0dXJlc1trZXldKQogICAgICAgIHJldHVybiByZXMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGRlc2NlbmRpbmc6CiAgICAgICAgcmV0dXJuIAo=</text>
+      <register name="2" type="4">
+        <text>[
+
+]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZWRnZSBsYWJlbCAoZGVwIHR5cGUpIGZvciBlKGkpIHRocm91Z2ggZShpK3dpbmRvd19zaXplKQogICAgInN5bl9kZXBfZWRnZV9wYXRoIiwKCiAgICAjIHBhdGggbi1ncmFtIGZlYXR1cmVzCiAgICAic3luX3dpbmRvd2VkX2xleGVtZV9wYXRoIiwKICAgICJzeW5fd2luZG93ZWRfbGVtbWFfcGF0aCIsCiAgICAic3luX3dpbmRvd2VkX3Bvc19wYXRoIiwKCiAgICAjIGsgd29yZHMgdG8gdGhlIGxlZnQgb2YgaW5pdGFsIHRva2VuCiAgICAibGV4X2xleGVtZV93aW5kb3dfbGVmdCIsCiAgICAjIGsgcG9zIHRhZ3MgdG8gdGhlIGxlZnQgb2YgaW5pdGlhbCB0b2tlbgogICAgImxleF9wb3Nfd2luZG93X2xlZnQiLAoKICAgICMgayB3b3JkcyB0byB0aGUgbGVmdCBvZiBpbml0YWwgdG9rZW4KICAgICJsZXhfbGV4ZW1lX3dpbmRvd19yaWdodCIsCiAgICAjIGsgcG9zIHRhZ3MgdG8gdGhlIHJpZ2h0IG9mIGluaXRpYWwgdG9rZW4KICAgICJsZXhfcG9zX3dpbmRvd19yaWdodCIsCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>[
+]</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgYWRkX2dhemV0dGVlcl90b19tb2RlbChubHAsIHRlcm1fbGlzdCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgIyBsZXhpY2FsIGZlYXR1cmUgbGlzdCBmcm9tIE1pbnR6IGV0IGFsIHNlYyA1LjEKICAgICMgc2VxdWVuY2Ugb2YgbGVtbWFzIGluIHRoZSB0b2tlbiBzdHJlYW0KICAgICJsZXhfbGVtbWFfc2VxIiwKICAgICMgd29yZHMgdG8gdGhlIGxlZnQgb2YgaW5pdGlhbCB0b2tlbgogICAgIyAwIGlmIGZpcnN0IGl0ZW0gaW4gcGFpciBhcHBlYXJzIGZpcnN0LCAxIGlmIHNlY29uZCBpdGVtIGFwcGVhcmVkIGZpcnN0CiAgICAibGV4X2FwcGVhcmFuY2Vfb3JkZXIiLAogICAgIyBsaXN0IG9mIFBPUyB0YWdzIGZvciBlYWNoIGxlbW1hIGluIHRoZSB0b2tlbiBzdHJlYW0KICAgICJsZXhfcG9zX3NlcSIsCgogICAgIyBTeW50YWN0aWMgZmVhdHVyZXMgZnJvbSBxdWlyayBhbmQgcG9vbiBhbmQgTWludHogZXQgYWwgc2VjIDUuMgoKICAgICMgcG9zIHRhZ3Mgb2YgZWFjaCBub2RlIG9uIHBhdGgKICAgICJzeW5fZGVwX3Bvc19wYXRoIiwKICAgICMgbGV4aWNhbCBpdGVtIChzdXJmYWNlIGZvcm0pIG9mIGVhY2ggbm9kZSBvbiBwYXRoCiAgICAic3luX2RlcF9sZXhlbWVfcGF0aCIsCiAgICAjIGxlbW1hIG9mIGVhY2ggbm9kZSBvbiBwYXRoCiAgICAic3luX2RlcF9sZW1tYV9wYXRoIiwKCiAgICAjIFRPRE8gaW1wbGVtZW50IGJlbG93IG9ubHkgaWYgbmVlZGVkIHNpbmNlIHF1aXJrIGFuZCBwb29uIGluZGljYXRlIHRoYXQKICAgICMgdGhlc2UgZmVhdHVyZXMgZG9uJ3QgaW1wYWN0IHJlc3VsdHMgbXVjaAogICAgIyAic3luX2RlZl93aW5kb3dfbGVmdCIsICAgIyBub3Qgc3VyZSBpZiB3ZSBuZWVkIHRoZXNlIHdpbmRvdyBmZWF0dXJlcywgd2lsbAogICAgIyAic3luX2RlZl93aW5kb3dfcmlnaHQiLCAgIyBpbXBsZW1lbnQgb25seSBpZiByZXN1bHRzIGFyZSBwb29y</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>res.
+res.
+res.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgc3BwLmFkZF9nYXpldHRlZXIobmxwLCBzYWxpZW50X3Rlcm1zKQogICAgIyBkb2MgPSBzcHAucHJlcHJvY2VzcyhubHAsIHRleHQsIHNhbGllbnRfdGVybXMpCg==</text>
+        <text encoding="base64">ICAgIGlmIGRlc2NlbmRpbmc6CiAgICAgICAgcmV0dXJuIFtpbnB1dFtzdGFydF9pZHg6c3RhcnRfaWR4K2ldIGZvciBpIGluIHJhbmdlKHdpbmRvd19zaXplLCAwLCAtMSldCiAgICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBtYXRjaGVyOiAKICAgIDpwYXJhbSBkb2M6IAogICAgOnBhcmFtIGk6IAogICAgOnBhcmFtIG1hdGNoZXM6IAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMgaWYgbm90IGRlc2NlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIGRlZiB0b19zdHJpbmdpZmllZF9kaWN0KHNlbGYpOgogICAgICAgIHJlcyA9IHt9CiAgICAgICAgZm9yIGtleSBpbiBzZWxmLmZlYXR1cmVzLmtleXMoKToKICAgICAgICAgICAgcmVzW2tleV0gPSBzdHIoc2VsZi5mZWF0dXJlc1trZXldKQogICAgICAgIHJldHVybiByZXMKCiAgICBkZWYgdG9kaWN0KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLmZlYXR1cmVzCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXJnZV9td2VzXD4=</last-search>
+      <last-search encoding="base64">XDx0b19zdHJpbmdpZmllZF9kaWN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXJnZV9td2VzXD4=</last-pattern>
-      <last-replace>pos</last-replace>
-      <last-substitute>lemma</last-substitute>
+      <last-pattern encoding="base64">XDx0b19zdHJpbmdpZmllZF9kaWN0XD4=</last-pattern>
+      <last-replace>window_size</last-replace>
+      <last-substitute>res\[&quot;window_size&quot;\]</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBYnN0cmFjdEZlYXR1cmVTZXRcPg==</entry>
-        <entry encoding="base64">XDxBYnN0cmFjdFdpbmRvd2VkRmVhdHVyZVNldFw+</entry>
-        <entry encoding="base64">XDxSZWxhdGlvbkV4dHJhY3Rpb25GZWF0dXJlU2V0XD4=</entry>
-        <entry>AbstractFeatureSet</entry>
-        <entry>lemma</entry>
-        <entry encoding="base64">XDxfZ2V0X3Rva2VuX3NlcXVlbmNlXD4=</entry>
-        <entry encoding="base64">XDxGZWF0dXJlSGFzaGVyXD4=</entry>
-        <entry encoding="base64">XDxfZ2V0X2tfc2hvcnRlc3RfcGF0aHNcPg==</entry>
-        <entry>get_</entry>
-        <entry>cetuxim</entry>
-        <entry>todict</entry>
-        <entry encoding="base64">XDxpc192YWxpZF9mZWF0dXJlXD4=</entry>
-        <entry encoding="base64">XDxzcHBcPg==</entry>
-        <entry>Matcher</entry>
         <entry>nlp0</entry>
         <entry>json.lo</entry>
         <entry>set_t</entry>
         <entry>pdb.set</entry>
         <entry encoding="base64">XDxtZXJnZV9waHJhc2VzXD4=</entry>
         <entry encoding="base64">XDxtZXJnZV9td2VzXD4=</entry>
+        <entry>pair</entry>
+        <entry>res\.</entry>
+        <entry>res\.([^\w]+)</entry>
+        <entry>res\.([^\W]+)</entry>
+        <entry>res\.([A-z]+)</entry>
+        <entry>res\.\([A-z]+\)</entry>
+        <entry>[A-z]+</entry>
+        <entry>res\.[A-z_]+</entry>
+        <entry>res\.[A-z_]\+</entry>
+        <entry>\vres\.[A-z_]+</entry>
+        <entry>\vres\.([A-z_]+)</entry>
+        <entry>res\[&quot;window_size&quot;\]</entry>
+        <entry>to_st</entry>
+        <entry encoding="base64">XDx0b19zdHJpbmdpZmllZF9kaWN0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4hIi8hIi9xZ3AtYWRtaW4vIWc=</entry>
-        <entry encoding="base64">JzwsJz5zISIvISIvcWdwLWFkbWluLyFn</entry>
-        <entry encoding="base64">JzwsJz5zLyIvYC9n</entry>
-        <entry>&quot;w</entry>
-        <entry>e!</entry>
         <entry>set surround</entry>
-        <entry>set hlsearch</entry>
         <entry encoding="base64">JzwsJz5zL2dsb3NzYXJ5X3F1ZXJ5X3F1ZXJ5X3N0cmluZ19xdWVyeS9nbG9zc2FyeV9xdWVyeV9zdHJpbmdfcXVlcnkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2l0ZW0vYXR0ci9n</entry>
         <entry>s/pair/word_pair/gc</entry>
@@ -889,8 +889,14 @@
         <entry encoding="base64">JzwsJz5zL0Fic3RyYWN0RmVhdHVyZVNldC90eXBlKHNlbGYpL2c=</entry>
         <entry>s/lemma/pos/gc</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>help</entry>
+        <entry>help 'hlsearch'</entry>
+        <entry>set hlsearch</entry>
+        <entry encoding="base64">JzwsJz5zLy9bIlwxIl0vZw==</entry>
+        <entry encoding="base64">JzwsJz5zLy9yZXNbIlwxIl0vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc1xbIndpbmRvd19zaXplIlxdL3dpbmRvd19zaXplL2dj</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
