@@ -18,7 +18,7 @@
         <mark key="." line="87" column="90" />
         <mark key="^" line="87" column="90" />
       </file>
-      <file name="/a.dummy" timestamp="1483512672343">
+      <file name="/a.dummy" timestamp="1484094546535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -113,12 +113,12 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1482983549075">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="57" column="69" />
-        <mark key="]" line="57" column="84" />
-        <mark key="^" line="57" column="84" />
-        <mark key="." line="57" column="84" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484095256772">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="59" column="20" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="36" column="13" />
@@ -143,6 +143,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/align.py" timestamp="1484095300695">
+        <mark key="'" line="122" column="64" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-dependent-recursive-rule.js" timestamp="1476765436654">
         <mark key="'" line="135" column="7" />
@@ -186,7 +192,7 @@
         <mark key="'" line="165" column="64" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="25" column="17" />
-        <mark key="." line="112" column="8" />
+        <mark key="." line="78" column="8" />
         <mark key="^" line="78" column="27" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/HelpfulArgumentParser/HelpfulArgumentParser.py" timestamp="1471313587993">
@@ -343,13 +349,6 @@
         <mark key="^" line="85" column="42" />
         <mark key="." line="85" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1484093264152">
-        <mark key="'" line="44" column="33" />
-        <mark key="[" line="102" column="14" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="103" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/swagger/swagger.yaml" timestamp="1481058693147">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="32" />
@@ -390,7 +389,7 @@
         <mark key="." line="64" column="17" />
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" timestamp="1484087096562">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" timestamp="1484093486479">
         <mark key="a" line="109" column="31" />
         <mark key="'" line="22" column="4" />
         <mark key="[" line="145" column="40" />
@@ -688,9 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="17" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="114" column="38" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
-      <jump line="33" column="123" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="39" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/test_harness.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/test_harness.py" />
@@ -788,54 +784,55 @@
       <jump line="165" column="64" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
       <jump line="97" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="44" column="33" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
+      <jump line="58" column="25" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/align.py" />
+      <jump line="62" column="29" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/align.py" />
+      <jump line="122" column="64" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/align.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{&quot;ent_type&quot;: DICT_ENT_TYPE}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.features</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.features</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19zdHJpbmdpZmllZF9kaWN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b19zdHJpbmdpZmllZF9kaWN0KHNlbGYpOgogICAgICAgIHJlcyA9IHt9CiAgICAgICAgZm9yIGtleSBpbiBzZWxmLmZlYXR1cmVzLmtleXMoKToKICAgICAgICAgICAgcmVzW2tleV0gPSBzdHIoc2VsZi5mZWF0dXJlc1trZXldKQogICAgICAgIHJldHVybiByZXMK</text>
+        <text encoding="base64">ICAgIHBhcnRfb2YgPSBbCiAgICAgICAgKHUnY3l0b3BsYXNtJywgdSdjZWxsJyksCiAgICAgICAgKHUnY3l0b3NvbCcsIHUnY3l0b3BsYXNtJyksCiAgICAgICAgKHUnb3JnYW5lbGxlJywgdSdjeXRvcGxhc20nKSwKICAgICAgICAodSdjeXRvc2tlbGV0b24nLCB1J2N5dG9wbGFzbScpLAogICAgICAgICh1J2N5dG9za2VsZXRvbicsIHUnY2VsbCcpLAogICAgICAgICh1J2FtaW5vIGFjaWQnLCB1J2N5dG9wbGFzbScpLAogICAgICAgICh1J3BsYXNtYSBtZW1icmFuZScsIHUnY2VsbCcpLAogICAgICAgICh1J251Y2xlaWMgYWNpZCcsIHUnY3l0b3BsYXNtJyksCiAgICBdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAodSdjeXRvcGxhc20nLCB1J2NlbGwnKSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGdldF9kYl8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>[
 
 ]</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICMgZWRnZSBsYWJlbCAoZGVwIHR5cGUpIGZvciBlKGkpIHRocm91Z2ggZShpK3dpbmRvd19zaXplKQogICAgInN5bl9kZXBfZWRnZV9wYXRoIiwKCiAgICAjIHBhdGggbi1ncmFtIGZlYXR1cmVzCiAgICAic3luX3dpbmRvd2VkX2xleGVtZV9wYXRoIiwKICAgICJzeW5fd2luZG93ZWRfbGVtbWFfcGF0aCIsCiAgICAic3luX3dpbmRvd2VkX3Bvc19wYXRoIiwKCiAgICAjIGsgd29yZHMgdG8gdGhlIGxlZnQgb2YgaW5pdGFsIHRva2VuCiAgICAibGV4X2xleGVtZV93aW5kb3dfbGVmdCIsCiAgICAjIGsgcG9zIHRhZ3MgdG8gdGhlIGxlZnQgb2YgaW5pdGlhbCB0b2tlbgogICAgImxleF9wb3Nfd2luZG93X2xlZnQiLAoKICAgICMgayB3b3JkcyB0byB0aGUgbGVmdCBvZiBpbml0YWwgdG9rZW4KICAgICJsZXhfbGV4ZW1lX3dpbmRvd19yaWdodCIsCiAgICAjIGsgcG9zIHRhZ3MgdG8gdGhlIHJpZ2h0IG9mIGluaXRpYWwgdG9rZW4KICAgICJsZXhfcG9zX3dpbmRvd19yaWdodCIsCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>[
 ]</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgIyBsZXhpY2FsIGZlYXR1cmUgbGlzdCBmcm9tIE1pbnR6IGV0IGFsIHNlYyA1LjEKICAgICMgc2VxdWVuY2Ugb2YgbGVtbWFzIGluIHRoZSB0b2tlbiBzdHJlYW0KICAgICJsZXhfbGVtbWFfc2VxIiwKICAgICMgd29yZHMgdG8gdGhlIGxlZnQgb2YgaW5pdGlhbCB0b2tlbgogICAgIyAwIGlmIGZpcnN0IGl0ZW0gaW4gcGFpciBhcHBlYXJzIGZpcnN0LCAxIGlmIHNlY29uZCBpdGVtIGFwcGVhcmVkIGZpcnN0CiAgICAibGV4X2FwcGVhcmFuY2Vfb3JkZXIiLAogICAgIyBsaXN0IG9mIFBPUyB0YWdzIGZvciBlYWNoIGxlbW1hIGluIHRoZSB0b2tlbiBzdHJlYW0KICAgICJsZXhfcG9zX3NlcSIsCgogICAgIyBTeW50YWN0aWMgZmVhdHVyZXMgZnJvbSBxdWlyayBhbmQgcG9vbiBhbmQgTWludHogZXQgYWwgc2VjIDUuMgoKICAgICMgcG9zIHRhZ3Mgb2YgZWFjaCBub2RlIG9uIHBhdGgKICAgICJzeW5fZGVwX3Bvc19wYXRoIiwKICAgICMgbGV4aWNhbCBpdGVtIChzdXJmYWNlIGZvcm0pIG9mIGVhY2ggbm9kZSBvbiBwYXRoCiAgICAic3luX2RlcF9sZXhlbWVfcGF0aCIsCiAgICAjIGxlbW1hIG9mIGVhY2ggbm9kZSBvbiBwYXRoCiAgICAic3luX2RlcF9sZW1tYV9wYXRoIiwKCiAgICAjIFRPRE8gaW1wbGVtZW50IGJlbG93IG9ubHkgaWYgbmVlZGVkIHNpbmNlIHF1aXJrIGFuZCBwb29uIGluZGljYXRlIHRoYXQKICAgICMgdGhlc2UgZmVhdHVyZXMgZG9uJ3QgaW1wYWN0IHJlc3VsdHMgbXVjaAogICAgIyAic3luX2RlZl93aW5kb3dfbGVmdCIsICAgIyBub3Qgc3VyZSBpZiB3ZSBuZWVkIHRoZXNlIHdpbmRvdyBmZWF0dXJlcywgd2lsbAogICAgIyAic3luX2RlZl93aW5kb3dfcmlnaHQiLCAgIyBpbXBsZW1lbnQgb25seSBpZiByZXN1bHRzIGFyZSBwb29y</text>
-      </register>
-      <register name="6" type="8">
-        <text>res.
-res.
-res.</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGRlc2NlbmRpbmc6CiAgICAgICAgcmV0dXJuIFtpbnB1dFtzdGFydF9pZHg6c3RhcnRfaWR4K2ldIGZvciBpIGluIHJhbmdlKHdpbmRvd19zaXplLCAwLCAtMSldCiAgICByZXR1cm4gCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXMgaWYgbm90IGRlc2NlCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
