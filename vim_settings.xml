@@ -385,12 +385,12 @@
         <mark key="." line="64" column="17" />
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" timestamp="1484181354728">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="44" column="11" />
-        <mark key="." line="44" column="11" />
-        <mark key="^" line="44" column="11" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/spacy_preprocess.py" timestamp="1484182102627">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="56" column="89" />
+        <mark key="]" line="56" column="89" />
+        <mark key="^" line="56" column="89" />
+        <mark key="." line="56" column="89" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/dependencies.js" timestamp="1469065689576">
         <mark key="[" line="2" column="0" />
@@ -787,11 +787,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAjIExvYWQgbWF0Y2hlciBhbmQgdXNlIGl0IHRvIGNyZWF0ZSB0ZXJtIGxpc3QKICAgICAgICB0ZXJtcyA9IGpzb24ubG9hZChvcGVuKHRlcm1fcGF0aCkpCiAgICAgICAgbWF0Y2hlciA9IHNwcC5nZXRfc3BhY3lfZ2F6ZXR0ZXIoc2VsZi5ubHAsIHRlcm1zKQogICAgICAgIHByaW50ICJBZGRlZCBnYXpldHRlciBvZiAlcyB0ZXJtcyIgJSBsZW4odGVybXMpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>extra_match</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -800,32 +800,31 @@
         <text encoding="base64">ICAgIGhhc2hlciA9IEZlYXR1cmVIYXNoZXIobl9mZWF0dXJlcz1uX2ZlYXR1cmVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldF9tYXRjaF9sZW4gPSBsYW1iZGEgbWF0Y2g6IG1hdGNoWzNdLW1hdGNoWzJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZXMgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>this works fine so long as we segment documents before doing the
-    #       matching,</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNwYWN5Lm1hdGNoZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAoKCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvZGVjcwppbXBvcnQgcGxhYwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWVuX3JhbmdlcyA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKG1hdGNoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzcGFjeS5lbiBpbXBvcnQgRW5nbGlzaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgICB0aGUgc2FtZSByYW5nZSwgKGUuZy4gW05vbmUsIG1hdGNoMSwgbWF0Y2gyXSksIGFuZCB0aGlzIGNvZGUgd2lsbCB0aGVuIGlnbm9yZSB0aGUgc2Vjb25kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzcGFjeS5tYXRjaGVyIGltcG9ydCBQaHJhc2VNYXRjaGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBncmFiIGZpcnN0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHB1ZGI7IHB1ZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzb21lIG90aGVyIHBhdHRlcm4gaGFzIGJlZW4gbWF0Y2hlZCBmb3IgYXQgbGVhc3QgcGFydCBvZiB0aGlzIHJhbmdlIGJlZm9yZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
