@@ -265,10 +265,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/src/spacy_preprocess.py" timestamp="1484528418813">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/src/spacy_preprocess.py" timestamp="1484529269493">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="48" />
+        <mark key="." line="115" column="39" />
+        <mark key="^" line="115" column="39" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/templates.js" timestamp="1469069122154">
         <mark key="[" line="2" column="0" />
@@ -325,12 +326,12 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_spacy_preprocess.py" timestamp="1484528142001">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_spacy_preprocess.py" timestamp="1484529340274">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="24" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="58" column="13" />
+        <mark key="." line="58" column="13" />
+        <mark key="^" line="58" column="13" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/HelpfulArgumentParser/__init__.py" timestamp="1471476013330">
         <mark key="[" line="2" column="38" />
@@ -806,46 +807,46 @@
       <register name="a" type="2">
         <text encoding="base64">bmxwID0gc3BhY3kuZW4uRW5nbGlzaCgpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>mock_relation_list</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>mock_relation_list</text>
       </register>
       <register name="/" type="4">
         <text>def main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGF1Z21lbnRlZF9kZXBfZ3JhcGggYXMgYWRnCg==</text>
+        <text encoding="base64">ICAgIG1hdGNoZXIgPSBnZXRfc3BhY3lfZ2F6ZXR0ZXIobmxwLCB0ZXJtX2xpc3QpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvYyA9IG5scChkb2MpCg==</text>
+        <text encoding="base64">ICAgIHNwcC5wcmVwcm9jZXNzX3NhbGllbnRfdGVybXMobmxwLCBkb2MsIHJlbF9wYWlycykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmxwID0gc3BhY3kuZW4uRW5nbGlzaCgpCg==</text>
+        <text encoding="base64">ICAgIGRvYyA9IG5scChkb2MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmxwID0gc3BhY3kuZW4uRW5nbGlzaCgpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">bmxwID0gc3BhY3kuZW4uRW5nbGlzaCgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">bmxwID0gc3BhY3kuZW4uRW5nbGlzaCgpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">bmxwID0gRW5nbGlzaCgpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>u&quot;Thus the constitutive activation of BRAF mutation leads to EGFR-independent tumorigenicity. Therefore the &quot; \
           u&quot;oncogenic activation of the RAS signaling pathway impairs the response of colorectal cancer cells to &quot; \
           u&quot;cetuximab. &quot;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHN5cy5zdGRvdXQuZmx1c2goKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50ICwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
