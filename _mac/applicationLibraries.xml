@@ -89,60 +89,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
       </SOURCES>
     </library>
-    <library name="Python 2.7.10 virtualenv at ~/.local/revenv/relex3 interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/revenv/relex3/lib/python2.7" />
-        <root url="file://$USER_HOME$/.local/revenv/relex3/lib/python2.7/lib-dynload" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.local/revenv/relex3/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1487253564" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/revenv/relex3/lib/python2.7" />
-        <root url="file://$USER_HOME$/.local/revenv/relex3/lib/python2.7/lib-dynload" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.local/revenv/relex3/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1487253564" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7.10 virtualenv at ~/untitled interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/untitled/lib/python2.7" />
-        <root url="file://$USER_HOME$/untitled/lib/python2.7/lib-dynload" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/untitled/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/1615548121" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/untitled/lib/python2.7" />
-        <root url="file://$USER_HOME$/untitled/lib/python2.7/lib-dynload" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/untitled/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/1615548121" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </SOURCES>
-    </library>
     <library name="Python 2.7.12 (/usr/local/bin/python) interpreter library">
       <CLASSES>
         <root url="file:///usr/local/lib/python2.7/site-packages/_pdbpp_path_hack" />
@@ -208,59 +154,30 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 2.7.12 virtualenv at ~/.local/revenv/relex interpreter library">
+    <library name="Python 2.7.13 virtualenv at ~/.local/revenv/relex interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/site-packages/_pdbpp_path_hack" />
         <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7" />
         <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
         <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/1721469132" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1843010993" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/site-packages/_pdbpp_path_hack" />
         <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7" />
         <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
         <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/1721469132" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7.12 virtualenv at ~/.local/revenv/relex2 interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/revenv/relex2/lib/python2.7" />
-        <root url="file://$USER_HOME$/.local/revenv/relex2/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.local/revenv/relex2/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1616336283" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/revenv/relex2/lib/python2.7" />
-        <root url="file://$USER_HOME$/.local/revenv/relex2/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.local/revenv/relex2/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1616336283" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1843010993" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
