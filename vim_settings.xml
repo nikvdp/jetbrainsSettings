@@ -276,6 +276,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/mock_data.py" timestamp="1484530404836">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/constants/JFLanguages.js" timestamp="1469122442325">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="25" />
@@ -328,10 +333,6 @@
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_spacy_preprocess.py" timestamp="1484530206946">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="14" />
-        <mark key="]" line="58" column="20" />
-        <mark key="." line="58" column="20" />
-        <mark key="^" line="58" column="20" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/HelpfulArgumentParser/__init__.py" timestamp="1471476013330">
         <mark key="[" line="2" column="38" />
@@ -807,8 +808,8 @@
       <register name="a" type="2">
         <text encoding="base64">bmxwID0gc3BhY3kuZW4uRW5nbGlzaCgpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>mock_relation_list</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zm9yIGkgaW4gZW51bWVyYXRlKFthLGJdKToK</text>
       </register>
       <register name="-" type="4">
         <text>mock_relation_list</text>
@@ -820,33 +821,31 @@
         <text encoding="base64">ICAgIG1hdGNoZXIgPSBnZXRfc3BhY3lfZ2F6ZXR0ZXIobmxwLCB0ZXJtX2xpc3QpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGkgaW4gZW51bWVyYXRlKFthLGJdKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNwcC5wcmVwcm9jZXNzX3NhbGllbnRfdGVybXMobmxwLCBkb2MsIHJlbF9wYWlycykK</text>
+        <text encoding="base64">ZW51bWVyYXRlIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvYyA9IG5scChkb2MpCg==</text>
+        <text encoding="base64">ICAgIHNwcC5wcmVwcm9jZXNzX3NhbGllbnRfdGVybXMobmxwLCBkb2MsIHJlbF9wYWlycykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmxwID0gc3BhY3kuZW4uRW5nbGlzaCgpCg==</text>
+        <text encoding="base64">ICAgIGRvYyA9IG5scChkb2MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmxwID0gc3BhY3kuZW4uRW5nbGlzaCgpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmxwID0gRW5nbGlzaCgpCg==</text>
+        <text encoding="base64">bmxwID0gc3BhY3kuZW4uRW5nbGlzaCgpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>u&quot;Thus the constitutive activation of BRAF mutation leads to EGFR-independent tumorigenicity. Therefore the &quot; \
-          u&quot;oncogenic activation of the RAS signaling pathway impairs the response of colorectal cancer cells to &quot; \
-          u&quot;cetuximab. &quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">bmxwID0gc3BhY3kuZW4uRW5nbGlzaCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
