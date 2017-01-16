@@ -1,29 +1,25 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 2.7.13 virtualenv at ~/.local/revenv/relex interpreter library">
+    <library name="Python 3.5.2 virtualenv at ~/.local/revenv/sluffer interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7" />
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1843010993" />
+        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5" />
+        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+        <root url="file:///usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/312313490" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7" />
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1843010993" />
+        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5" />
+        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+        <root url="file:///usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/312313490" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
