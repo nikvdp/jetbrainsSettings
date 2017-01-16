@@ -270,10 +270,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/src/spacy_preprocess.py" timestamp="1484529269493">
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="48" />
-        <mark key="." line="115" column="39" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/src/spacy_preprocess.py" timestamp="1484539283267">
+        <mark key="[" line="131" column="59" />
+        <mark key="]" line="131" column="59" />
+        <mark key="." line="131" column="59" />
         <mark key="^" line="115" column="39" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/templates.js" timestamp="1469069122154">
@@ -281,12 +281,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/mock_data.py" timestamp="1484532261798">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/mock_data.py" timestamp="1484539915826">
         <mark key="'" line="53" column="3" />
-        <mark key="[" line="2127" column="17" />
-        <mark key="]" line="2128" column="0" />
-        <mark key="." line="2128" column="0" />
-        <mark key="^" line="2128" column="0" />
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="5" />
+        <mark key="." line="44" column="5" />
+        <mark key="^" line="44" column="4" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/constants/JFLanguages.js" timestamp="1469122442325">
         <mark key="[" line="2" column="16" />
@@ -338,11 +338,12 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_spacy_preprocess.py" timestamp="1484532304852">
-        <mark key="'" line="14" column="8" />
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="23" column="50" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_spacy_preprocess.py" timestamp="1484539373033">
+        <mark key="'" line="24" column="29" />
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="25" column="40" />
+        <mark key="." line="25" column="40" />
+        <mark key="^" line="25" column="40" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/HelpfulArgumentParser/__init__.py" timestamp="1471476013330">
         <mark key="[" line="2" column="38" />
@@ -719,7 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="44" column="6" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="58" column="18" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="59" column="44" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -819,16 +819,17 @@
       <jump line="53" column="3" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/mock_data.py" />
       <jump line="23" column="14" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_spacy_preprocess.py" />
       <jump line="14" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_spacy_preprocess.py" />
+      <jump line="24" column="29" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_spacy_preprocess.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">bmxwID0gc3BhY3kuZW4uRW5nbGlzaCgpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaWQsCg==</text>
+        <text encoding="base64">IyB0ZXN0IG1lcmdlX213ZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>def main</text>
@@ -837,31 +838,31 @@
         <text encoding="base64">ICAgICAgICBmb3IgaWR4LCBtb2NrX2RvYyBpbiBlbnVtZXJhdGUobW9ja19kb2NzKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaWQsCg==</text>
+        <text encoding="base64">IyB0ZXN0IG1lcmdlX213ZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudW1lcmF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaWQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHR5cGUobWF0Y2hlcikgPT0gc3BhY3kubWF0Y2hlci5tYXRjaGVyKQo=</text>
+        <text encoding="base64">ICAgIGVudW1lcmF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHR5cGUobWF0Y2hlcikgPT0gc3BhY3kubWF0Y2hlci5tYXRjaGVyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZXIgPSBzcHAuZ2V0X3NwYWN5X2dhemV0dGVyKG5scCwgbW9ja190ZXJtX2xpc3QpCiAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzcwo=</text>
+        <text encoding="base64">ICAgIG1hdGNoZXIgPSBzcHAuZ2V0X3NwYWN5X2dhemV0dGVyKG5scCwgbW9ja190ZXJtX2xpc3QpCiAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVudW1lcmF0ZSgpCg==</text>
+        <text encoding="base64">ICAgIGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNwYWN5CmltcG9ydCBzcGFjeS5tYXRjaGVyCg==</text>
+        <text encoding="base64">ICAgIGVudW1lcmF0ZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzcGFjeS5tYXRjaGVyCg==</text>
+        <text encoding="base64">aW1wb3J0IHNwYWN5CmltcG9ydCBzcGFjeS5tYXRjaGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
