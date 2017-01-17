@@ -37,11 +37,11 @@
         <mark key="." line="57" column="64" />
         <mark key="^" line="64" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" timestamp="1484694105760">
-        <mark key="[" line="159" column="17" />
-        <mark key="]" line="159" column="21" />
-        <mark key="^" line="159" column="21" />
-        <mark key="." line="159" column="21" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" timestamp="1484695499187">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="145" column="20" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/server/dev-server.js" timestamp="1478156695647">
         <mark key="[" line="16" column="34" />
@@ -139,10 +139,11 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484531466547">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484695574842">
+        <mark key="[" line="99" column="26" />
+        <mark key="]" line="100" column="7" />
+        <mark key="." line="100" column="7" />
+        <mark key="^" line="100" column="7" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="36" column="13" />
@@ -733,8 +734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="57" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="99" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" />
@@ -833,66 +832,67 @@
       <jump line="25" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/mock_data.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/src/test_graph.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/src/test_graph.py" />
+      <jump line="158" column="17" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
+      <jump line="155" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">bmxwID0gc3BhY3kuZW4uRW5nbGlzaCgpCg==</text>
+        <text encoding="base64">QU5OT1RBVEVfTU9ERSA9IFRydWUKYW5ub3RhdGlvbl9jb3VudF9wb3MgPSAwCmFubm90YXRpb25fY291bnRfbmVnID0gMApzZWVuX3BhaXJzID0gc2V0KCkKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>===============================================================================</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>===============================================================================</text>
+        <text>csv</text>
       </register>
       <register name="/" type="4">
-        <text>\\$</text>
+        <text>human_readable_segment_text</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaWR4LCBtb2NrX2RvYyBpbiBlbnVtZXJhdGUobW9ja19kb2NzKToK</text>
+        <text encoding="base64">ICAgIGlmIEFOTk9UQVRFX01PREUgYW5kIHBhaXIgbm90IGluIHNlZW5fcGFpcnM6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHB1ZGI7IHB1ZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyB0ZXN0IG1lcmdlX213ZXMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaWQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVudW1lcmF0ZQo=</text>
+        <text encoding="base64">QU5OT1RBVEVfTU9ERSA9IFRydWUKYW5ub3RhdGlvbl9jb3VudF9wb3MgPSAwCmFubm90YXRpb25fY291bnRfbmVnID0gMApzZWVuX3BhaXJzID0gc2V0KCkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHR5cGUobWF0Y2hlcikgPT0gc3BhY3kubWF0Y2hlci5tYXRjaGVyKQo=</text>
+        <text encoding="base64">Y3N2Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjc3YK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZXIgPSBzcHAuZ2V0X3NwYWN5X2dhemV0dGVyKG5scCwgbW9ja190ZXJtX2xpc3QpCiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzcwo=</text>
+        <text encoding="base64">ICAgIGlmIEFOTk9UQVRFX01PREUgYW5kIHBhaXIgbm90IGluIHNlZW5fcGFpcnM6CiAgICAgICAgIyB0aGlzIGlzIGhlcmUgb25seSBzbyB0aGF0IHdlIGNhbiBtb3JlIGVhc2lseSBhbm5vdGF0ZSBleGFtcGxlcywKICAgICAgICAjIHNob3VsZCBiZSBzdHJpcHBlZCBwYXNzaW5nIHRvIGNsYXNzaWZpZXIKICAgICAgICBzZWVuX3BhaXJzLmFkZChwYWlyKQogICAgICAgIGh1bWFuX3NwYW4gPSBkb2Nbc3Bhbi5zdGFydC0xOnNwYW4uZW5kKzFdCiAgICAgICAgc3RyX2RvYyA9IHN0cihkb2MpCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXNbImh1bWFuX3JlYWRhYmxlX2RhdGEiXSA9ICJUYXJnZXQ6IFt7c3JjfSBQQVJUIE9GIHtkc3R9XToge3RleHR9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICBzcmM9ZG9jW3NwYW4uc3RhcnQtMV0sCiAgICAgICAgICAgICAgICBkc3Q9ZG9jW3NwYW4uZW5kXSwKICAgICAgICAgICAgICAgIHRleHQ9ZG9jW3NwYW4uc3RhcnQtMTpzcGFuLmVuZCsxXSkKICAgICAgICAgICAgcmVzWyJodW1hbl9yZWFkYWJsZV9zZWdtZW50X3RleHQiXSA9ICIiLmpvaW4oWwogICAgICAgICAgICAgICAgc3RyX2RvY1s6aHVtYW5fc3Bhbi5zdGFydF9jaGFyXSwKICAgICAgICAgICAgICAgICJfXyIsCiAgICAgICAgICAgICAgICBzdHJfZG9jW2h1bWFuX3NwYW4uc3RhcnRfY2hhcjpodW1hbl9zcGFuLmVuZF9jaGFyXSwKICAgICAgICAgICAgICAgICJfXyIsCiAgICAgICAgICAgICAgICBzdHJfZG9jW2h1bWFuX3NwYW4uZW5kX2NoYXI6XQogICAgICAgICAgICBdKQogICAgICAgICAgICByZXNbXQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgcGFzcwoKICAgICAgICBwcmludCAiPSIgKiA4MAogICAgICAgIHByaW50ICJQYWlycyBsYWJlbGVkIHNvIGZhcjogIiBcCiAgICAgICAgICAgICAgIiVzIHBvc2l0aXZlLCAlcyBuZWdhdGl2ZS4gVG90YWw6ICVzXG4iICUgKGFubm90YXRpb25fY291bnRfcG9zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbm5vdGF0aW9uX2NvdW50X25lZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5ub3RhdGlvbl9jb3VudF9wb3MrYW5ub3RhdGlvbl9jb3VudF9uZWcpCiAgICAgICAgcHJpbnQgcmVzWyJodW1hbl9yZWFkYWJsZV9zZWdtZW50X3RleHQiXSwgIlxuIgogICAgICAgIHByaW50IHJlc1siaHVtYW5fcmVhZGFibGVfZGF0YSJdLCAiXG4iCgogICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgIGlucCA9IHJhd19pbnB1dCgiRG9lcyB0aGlzIHNlbnRlbmNlIGluZGljYXRlIGEgUEFSVCBPRiByZWxhdGlvbnNoaXAgZm9yIHRoZXNlIHRlcm1zPyAoeS9uL1BMRUFTRSBOTyBNT1JFKT8gIikKICAgICAgICAgICAgaWYgaW5wLmxvd2VyKCkgPT0gInkiOgogICAgICAgICAgICAgICAgYW5ub3RhdGlvbl9jb3VudF9wb3MgKz0gMQogICAgICAgICAgICAgICAgcmVzWyJodW1hbl9sYWJlbCJdID0gMQogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgaWYgaW5wLmxvd2VyKCkgPT0gIm4iOgogICAgICAgICAgICAgICAgYW5ub3RhdGlvbl9jb3VudF9uZWcgKz0gMQogICAgICAgICAgICAgICAgcmVzWyJodW1hbl9sYWJlbCJdID0gMAogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgaWYgaW5wLnVwcGVyKCkgPT0gJ1BMRUFTRSBOTyBNT1JFJzoKICAgICAgICAgICAgICAgIEFOTk9UQVRFX01PREUgPSBGYWxzZQogICAgICAgICAgICAgICAgcHJpbnQgIlRoYW5rIHlvdSB0aGFuayB5b3UgJXMgdGltZXMgdGhhbmsgeW91ISEhIiAlIGFubm90YXRpb25fY291bnRfcG9zCiAgICAgICAgICAgICAgICBhbm5vdGF0aW9uc19waWNrbGVfZm4gPSAiYW5ub3RhdGlvbnMtJXMucGlja2xlIiAlIHRpbWUuc3RyZnRpbWUoJyViJWQtYXQtJUguJU0nKQogICAgICAgICAgICAgICAgcHJpbnQgIlNhdmluZyB5b3VyIGFubm90YXRpb25zIHRvICVzLi4uIiAlIGFubm90YXRpb25zX3BpY2tsZV9mbiwKICAgICAgICAgICAgICAgIHN5cy5zdGRvdXQuZmx1c2goKQogICAgICAgICAgICAgICAgd2l0aCBvcGVuKGFubm90YXRpb25zX3BpY2tsZV9mbiwgInciKSBhcyBmcDoKICAgICAgICAgICAgICAgICAgICBmZWF0dXJlc19zb19mYXIuYXBwZW5kKF90b19zdHJpbmdpZmllZF9kaWN0KHJlcykpCiAgICAgICAgICAgICAgICAgICAgcGlja2xlLmR1bXAoZmVhdHVyZXNfc29fZmFyLCBmcCkKICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMykKICAgICAgICAgICAgICAgIHByaW50ICJET05FXG4iCiAgICAgICAgICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVudW1lcmF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1xcJC8vZw==</text>
+        <text>%s/human_readable_segment_text/annotater_readable_segment_text/g</text>
       </register>
     </registers>
     <search>
-      <last-search>\\$</last-search>
+      <last-search>human_readable_segment_text</last-search>
       <last-offset />
-      <last-pattern>\\$</last-pattern>
-      <last-replace />
-      <last-substitute>\\$</last-substitute>
+      <last-pattern>human_readable_segment_text</last-pattern>
+      <last-replace>annotater_readable_segment_text</last-replace>
+      <last-substitute>human_readable_segment_text</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ruleId</entry>
         <entry>/static</entry>
         <entry>history</entry>
         <entry>createHistory</entry>
@@ -912,9 +912,9 @@
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry>shortest.weight</entry>
         <entry>\\$</entry>
+        <entry>human_readable_segment_text</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>we</entry>
         <entry>s/dest/src</entry>
         <entry encoding="base64">JzwsJz5zL29wdF9zcGxpdC9hY3R1YWxfc3BsaXQvZw==</entry>
@@ -934,6 +934,7 @@
         <entry>wa</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL1xcJC8vZw==</entry>
+        <entry>%s/human_readable_segment_text/annotater_readable_segment_text/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
