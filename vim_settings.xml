@@ -30,6 +30,13 @@
         <mark key="." line="57" column="64" />
         <mark key="^" line="64" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" timestamp="1484676569926">
+        <mark key="'" line="159" column="24" />
+        <mark key="[" line="159" column="14" />
+        <mark key="]" line="159" column="22" />
+        <mark key="." line="159" column="23" />
+        <mark key="^" line="159" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/server/dev-server.js" timestamp="1478156695647">
         <mark key="[" line="16" column="34" />
         <mark key="]" line="16" column="35" />
@@ -717,7 +724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="39" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="166" column="27" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/FeatureSet.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
@@ -817,16 +823,17 @@
       <jump line="179" column="13" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/src/spacy_preprocess.py" />
       <jump line="198" column="66" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/src/spacy_preprocess.py" />
       <jump line="197" column="26" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/src/spacy_preprocess.py" />
+      <jump line="159" column="24" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">aW1wb3J0IGFwcC5zcGFjeV9wcmVwcm9jZXNzIGFzIHNwcAppbXBvcnQgYXBwLmF1Z21lbnRlZF9kZXBfZ3JhcGggYXMgYWRnCmltcG9ydCBhcHAudmVjdG9yaXplIGFzIHZlYwpmcm9tIGFwcC5hbGlnbiBpbXBvcnQgYWxpZ24K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>===============================================================================</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>===============================================================================</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXJnZV9td2VzXD4=</text>
