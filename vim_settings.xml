@@ -138,12 +138,12 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484701733845">
-        <mark key="'" line="65" column="53" />
-        <mark key="[" line="65" column="47" />
-        <mark key="]" line="65" column="47" />
-        <mark key="." line="65" column="47" />
-        <mark key="^" line="91" column="7" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484708192840">
+        <mark key="'" line="192" column="4" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="93" column="31" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="36" column="13" />
@@ -729,7 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="45" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="39" column="49" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="45" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/test_harness.py" />
@@ -813,7 +812,6 @@
       <jump line="170" column="31" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="1" column="27" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="183" column="51" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="192" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="11" column="45" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
       <jump line="10" column="24" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="80" column="16" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -829,16 +827,18 @@
       <jump line="88" column="17" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="65" column="53" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="82" column="35" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="192" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>[0:1000]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>[0:1000]</text>
+        <text>feature_sets</text>
       </register>
       <register name="/" type="4">
         <text>pudb</text>
@@ -847,28 +847,28 @@
         <text encoding="base64">ICAgIGlmIEFOTk9UQVRFX01PREUgYW5kIHBhaXIgbm90IGluIHNlZW5fcGFpcnM6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIHNhdmVfYW5ub3RhdGlvbnNfdG9fY3N2KGFubm90YXRpb25fc2V0LCBvdXRfZnApOgogICAgZmllbGRfbmFtZXMgPSBhbm5vdGF0aW9uX3NldFswXS5rZXlzKCkKICAgIHdyaXRlciA9IGNzdi5EaWN0V3JpdGVyKG91dF9mcCwgZmllbGRuYW1lcz1maWVsZF9uYW1lcykKICAgIHdyaXRlci53cml0ZWhlYWRlcigpCiAgICB3cml0ZXIud3JpdGVyb3dzKGFubm90YXRpb25fc2V0KQogICAgcmV0dXJuIG91dF9mcAoKCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG91dF9mcC5jbG9zZSgpCg==</text>
+        <text encoding="base64">ZGVmIHNhdmVfYW5ub3RhdGlvbnNfdG9fY3N2KGFubm90YXRpb25fc2V0LCBvdXRfZnApOgogICAgZmllbGRfbmFtZXMgPSBhbm5vdGF0aW9uX3NldFswXS5rZXlzKCkKICAgIHdyaXRlciA9IGNzdi5EaWN0V3JpdGVyKG91dF9mcCwgZmllbGRuYW1lcz1maWVsZF9uYW1lcykKICAgIHdyaXRlci53cml0ZWhlYWRlcigpCiAgICB3cml0ZXIud3JpdGVyb3dzKGFubm90YXRpb25fc2V0KQogICAgcmV0dXJuIG91dF9mcAoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHR5cGUob3V0X2ZwKSA9PSB0eXBlKCIiKToKICAgICAgICAjIG91dF9maWxlIGlzIGEgc3RyaW5nLCBzbyBhc3N1bWUgaXQncyBwYXRoIHRvIGRlc2lyZWQgb3V0cHV0IGZpbGUKICAgICAgICBvdXRfZnA9b3BlbihvdXRfZnAsICJ3IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG91dF9mcC5jbG9zZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGlmIHR5cGUob3V0X2ZwKSA9PSB0eXBlKCIiKToKICAgICAgICAjIG91dF9maWxlIGlzIGEgc3RyaW5nLCBzbyBhc3N1bWUgaXQncyBwYXRoIHRvIGRlc2lyZWQgb3V0cHV0IGZpbGUKICAgICAgICBvdXRfZnA9b3BlbihvdXRfZnAsICJ3IikK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
