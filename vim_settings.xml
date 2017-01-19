@@ -130,10 +130,12 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484797751553">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484799363684">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="87" column="10" />
+        <mark key="]" line="87" column="59" />
+        <mark key="^" line="87" column="59" />
+        <mark key="." line="87" column="59" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="36" column="13" />
@@ -728,8 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="27" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="7" column="29" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="50" column="11" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" />
       <jump line="155" column="15" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" />
@@ -828,67 +828,67 @@
       <jump line="74" column="52" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="36" column="11" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="159" column="74" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
+      <jump line="58" column="35" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGRlZiBwYWlyX2NvbWJpbmVyKHNlbGYsIHBvc2l0aXZlcywgbmVnYXRpdmVzKToK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>POSITIVE_LABEL</text>
       </register>
       <register name="-" type="4">
-        <text>, features_so_far=feature_sets</text>
+        <text>POSITIVE_LABEL</text>
       </register>
       <register name="/" type="4">
-        <text>pudb</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgdHVwbGUobGlzdChwKSArIFsxXSkK</text>
+      <register name="0" type="4">
+        <text>POSITIVE_LABEL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgICAgICMgcHJpbnQgIj0iICogODAKICAgICAgICAjIHByaW50ICJQYWlycyBsYWJlbGVkIHNvIGZhcjogIiBcCiAgICAgICAgIyAgICAgICAiJXMgcG9zaXRpdmUsICVzIG5lZ2F0aXZlLiBUb3RhbDogJXNcbiIgJSAoYW5ub3RhdGlvbl9jb3VudF9wb3MsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5ub3RhdGlvbl9jb3VudF9uZWcsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5ub3RhdGlvbl9jb3VudF9wb3MrYW5ub3RhdGlvbl9jb3VudF9uZWcpCiAgICAgICAgIyBwcmludCByZXNbImh1bWFuX3JlYWRhYmxlX3NlZ21lbnRfdGV4dCJdLCAiXG4iCiAgICAgICAgIyBwcmludCByZXNbImh1bWFuX3JlYWRhYmxlX2RhdGEiXSwgIlxuIgogICAgICAgICMKICAgICAgICAjIHdoaWxlIFRydWU6CiAgICAgICAgIyAgICAgaW5wID0gcmF3X2lucHV0KCJEb2VzIHRoaXMgc2VudGVuY2UgaW5kaWNhdGUgYSBQQVJUIE9GIHJlbGF0aW9uc2hpcCBmb3IgdGhlc2UgdGVybXM/ICh5L24vUExFQVNFIE5PIE1PUkUpPyAiKQogICAgICAgICMgICAgIGlmIGlucC5sb3dlcigpID09ICJ5IjoKICAgICAgICAjICAgICAgICAgYW5ub3RhdGlvbl9jb3VudF9wb3MgKz0gMQogICAgICAgICMgICAgICAgICByZXNbImh1bWFuX2xhYmVsIl0gPSAxCiAgICAgICAgIyAgICAgICAgIGJyZWFrCiAgICAgICAgIyAgICAgaWYgaW5wLmxvd2VyKCkgPT0gIm4iOgogICAgICAgICMgICAgICAgICBhbm5vdGF0aW9uX2NvdW50X25lZyArPSAxCiAgICAgICAgIyAgICAgICAgIHJlc1siaHVtYW5fbGFiZWwiXSA9IDAKICAgICAgICAjICAgICAgICAgYnJlYWsKICAgICAgICAjICAgICBpZiBpbnAudXBwZXIoKSA9PSAnUExFQVNFIE5PIE1PUkUnOgogICAgICAgICMgICAgICAgICBBTk5PVEFURV9NT0RFID0gRmFsc2UKICAgICAgICAjICAgICAgICAgcHJpbnQgIlRoYW5rIHlvdSB0aGFuayB5b3UgJXMgdGltZXMgdGhhbmsgeW91ISEhIiAlIGFubm90YXRpb25fY291bnRfcG9zCiAgICAgICAgIyAgICAgICAgIGFubm90YXRpb25zX3BpY2tsZV9mbiA9ICJhbm5vdGF0aW9ucy0lcy5waWNrbGUiICUgdGltZS5zdHJmdGltZSgnJWIlZC1hdC0lSC4lTScpCiAgICAgICAgIyAgICAgICAgIHByaW50ICJTYXZpbmcgeW91ciBhbm5vdGF0aW9ucyB0byAlcy4uLiIgJSBhbm5vdGF0aW9uc19waWNrbGVfZm4sCiAgICAgICAgIyAgICAgICAgIHN5cy5zdGRvdXQuZmx1c2goKQogICAgICAgICMgICAgICAgICB3aXRoIG9wZW4oYW5ub3RhdGlvbnNfcGlja2xlX2ZuLCAidyIpIGFzIGZwOgogICAgICAgICMgICAgICAgICAgICAgZmVhdHVyZXNfc29fZmFyLmFwcGVuZChkaWN0X3RvX3N0cmluZ2lmaWVkX2RpY3QocmVzKSkKICAgICAgICAjICAgICAgICAgICAgIHBpY2tsZS5kdW1wKGZlYXR1cmVzX3NvX2ZhciwgZnApCiAgICAgICAgIyAgICAgICAgIHRpbWUuc2xlZXAoMykKICAgICAgICAjICAgICAgICAgcHJpbnQgIkRPTkVcbiIKICAgICAgICAjICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpd3RoIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHN0cmluZ2lmeV9mZWF0dXJlczoKICAgICAgICByZXMgPSBfdG9fc3RyaW5naWZpZWRfZGljdChyZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBFYWNoIHR1cGxlIG5vdyBpcyByZWZvcm11bGF0ZWQgYXMgYSB0dXBsZSB3aXRoIHRoZSBwb3NpdGl2ZS9uZWdhdGl2ZSBsYWJlbCAKICAgICAgICBwcmVwZW5kZWQgZWFjaCB0dXBsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tYmluZWRfcGFpcnMgPSBbKHBbMF0sIHBbMV0sIDEpIGZvciBwIGluIHBvdGVudGlhbF9wb3NpdGl2ZV9wYWlyc10KICAgICAgICAgICAgY29tYmluZWRfcGFpcnMuZXh0ZW5kKFsocFswXSwgcFsxXSwgMCkgZm9yIHAgaW4gcHJvYmFibHlfbmVnYXRpdmVfcGFpcnNdKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBwYWlyX2NvbWJpbmVyKHNlbGYsIHBvc2l0aXZlcywgbmVnYXRpdmVzKToK</text>
+        <text encoding="base64">ICAgIGlmIHN0cmluZ2lmeV9mZWF0dXJlczoKICAgICAgICByZXMgPSBfdG9fc3RyaW5naWZpZWRfZGljdChyZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tYmluZWRfcGFpcnMgPSBbKHBbMF0sIHBbMV0sIDEpIGZvciBwIGluIHBvdGVudGlhbF9wb3NpdGl2ZV9wYWlyc10KICAgICAgICAgICAgY29tYmluZWRfcGFpcnMuZXh0ZW5kKFsocFswXSwgcFsxXSwgMCkgZm9yIHAgaW4gcHJvYmFibHlfbmVnYXRpdmVfcGFpcnNdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJyAgQWxpZ25lZCAlcyBwYWlycycgJSBsZW4ocG90ZW50aWFsX3Bvc2l0aXZlX3BhaXJzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pudb</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>pudb</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">OiA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;/</entry>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDx0ZXh0XD4=</entry>
         <entry>propLis</entry>
         <entry>console</entry>
@@ -907,6 +907,8 @@
         <entry>annotation_d</entry>
         <entry encoding="base64">XDxzYXZlX2Fubm90YXRpb25zX3RvX2Nzdlw+</entry>
         <entry>pudb</entry>
+        <entry encoding="base64">XDxQT1NJVElWRV9MQUJFTFw+</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL29wdF9zcGxpdC9hY3R1YWxfc3BsaXQvZw==</entry>
