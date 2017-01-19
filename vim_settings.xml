@@ -130,12 +130,13 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484799363684">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="87" column="10" />
-        <mark key="]" line="87" column="59" />
-        <mark key="^" line="87" column="59" />
-        <mark key="." line="87" column="59" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484800023890">
+        <mark key="a" line="87" column="45" />
+        <mark key="'" line="87" column="56" />
+        <mark key="[" line="62" column="50" />
+        <mark key="]" line="62" column="50" />
+        <mark key="^" line="62" column="42" />
+        <mark key="." line="62" column="50" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="36" column="13" />
@@ -796,7 +797,6 @@
       <jump line="132" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="162" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="181" column="7" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="170" column="31" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="1" column="27" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -804,7 +804,6 @@
       <jump line="11" column="45" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
       <jump line="10" column="24" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="80" column="16" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="87" column="19" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="116" column="56" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="140" column="16" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="141" column="15" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -830,19 +829,21 @@
       <jump line="159" column="74" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
       <jump line="58" column="35" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="87" column="56" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGRlZiBwYWlyX2NvbWJpbmVyKHNlbGYsIHBvc2l0aXZlcywgbmVnYXRpdmVzKToK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>POSITIVE_LABEL</text>
+        <text encoding="base64">ICsg</text>
       </register>
       <register name="-" type="4">
-        <text>POSITIVE_LABEL</text>
+        <text encoding="base64">ICsg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text>compu</text>
       </register>
       <register name="0" type="4">
         <text>POSITIVE_LABEL</text>
@@ -879,9 +880,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search>compu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-pattern>compu</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">OiA=</last-substitute>
       <last-dir>1</last-dir>
@@ -889,8 +890,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXh0XD4=</entry>
-        <entry>propLis</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxjb2RlY3NcPg==</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
@@ -909,6 +908,8 @@
         <entry>pudb</entry>
         <entry encoding="base64">XDxQT1NJVElWRV9MQUJFTFw+</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry>computi</entry>
+        <entry>compu</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL29wdF9zcGxpdC9hY3R1YWxfc3BsaXQvZw==</entry>
