@@ -133,6 +133,12 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484951163775">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="74" column="29" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="36" column="13" />
         <mark key="[" line="32" column="12" />
@@ -806,7 +812,6 @@
       <jump line="67" column="51" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="76" column="58" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="72" column="53" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="35" column="3" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="74" column="52" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="36" column="11" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -846,16 +851,17 @@
       <jump line="43" column="29" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/align.py" />
       <jump line="145" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="146" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>'data/openstax-salient-term-list.json'</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>append_only_log=False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>append_only_log=False</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -864,31 +870,31 @@
         <text encoding="base64">dGVybV9saXN0LCB0ZXh0LCBwYXJ0X29mX3JlbGF0aW9uX2RiLCBvdXRwdXRfZmlsZSwgc2VudGVuY2Vfd2luZG93IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGlja2xlLmR1bXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uX2NvdW50X3BvcyA9IDAKICAgICAgICBhbm5vdGF0aW9uX2NvdW50X25lZyA9IDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgcmV0dXJuIHR1cGxlcyAoc3RyaXBwaW5nIG9mZiBmaXJzdCBpdGVtIG51bWVyaWMgaW5kZXgpCiAgICAgICAgCiAgICAgICAgOnBhcmFtIGRiOiAKICAgICAgICA6cmV0dXJuOiAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
-      </register>
-      <register name="5" type="4">
-        <text>'data/openstax-salient-term-list.json'</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRleHQgPSAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb25zb2xlX291dHB1dDoKICAgICAgICAgICAgY2ggPSBsb2dnaW5nLlN0cmVhbUhhbmRsZXIoKQogICAgICAgICAgICBjaC5zZXRMZXZlbChsb2dnaW5nLklORk8pCiAgICAgICAgICAgIGNoLnNldEZvcm1hdHRlcihmb3JtYXR0ZXIpCiAgICAgICAgICAgIGxvZ2dlci5hZGRIYW5kbGVyKGNoKQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGlja2xlLmR1bXAoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIgcmV0dXJuIHR1cGxlcyAoc3RyaXBwaW5nIG9mZiBmaXJzdCBpdGVtIG51bWVyaWMgaW5kZXgpCiAgICAgICAgCiAgICAgICAgOnBhcmFtIGRiOiAKICAgICAgICA6cmV0dXJuOiAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      </register>
+      <register name="9" type="4">
+        <text>'data/openstax-salient-term-list.json'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
