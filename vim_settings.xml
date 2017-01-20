@@ -133,11 +133,11 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484951163775">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="74" column="29" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484954983202">
+        <mark key="[" line="108" column="40" />
+        <mark key="]" line="108" column="55" />
+        <mark key="." line="108" column="55" />
+        <mark key="^" line="108" column="55" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="36" column="13" />
@@ -217,6 +217,15 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="17" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1484954645903">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1484954733555">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" timestamp="1480996229762">
         <mark key="'" line="43" column="20" />
         <mark key="[" line="30" column="16" />
@@ -234,11 +243,6 @@
         <mark key="]" line="47" column="1" />
         <mark key="^" line="47" column="1" />
         <mark key="." line="47" column="1" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/test_harness.py" timestamp="1483010765766">
-        <mark key="'" line="23" column="8" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="33" />
       </file>
       <file name="$USER_HOME$/miniconda2/envs/relex/lib/python2.7/site-packages/spacy/en/__init__.py" timestamp="1484871988703">
         <mark key="[" line="59" column="20" />
@@ -292,12 +296,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/mock_data.py" timestamp="1484765043850">
-        <mark key="'" line="26" column="4" />
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/mock_data.py" timestamp="1484954121038">
+        <mark key="[" line="30" column="55" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/constants/JFLanguages.js" timestamp="1469122442325">
         <mark key="[" line="2" column="16" />
@@ -387,15 +390,6 @@
         <mark key="]" line="85" column="42" />
         <mark key="^" line="85" column="42" />
         <mark key="." line="85" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483128479775">
-        <mark key="a" line="53" column="3" />
-        <mark key="'" line="9" column="0" />
-        <mark key="k" line="66" column="30" />
-        <mark key="[" line="98" column="14" />
-        <mark key="]" line="98" column="28" />
-        <mark key="^" line="98" column="28" />
-        <mark key="." line="98" column="28" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/swagger/swagger.yaml" timestamp="1481058693147">
         <mark key="[" line="5" column="10" />
@@ -663,6 +657,9 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1484954630394">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-meta-schema-to-gap-data-transform.js" timestamp="1473813863260">
         <mark key="'" line="30" column="6" />
         <mark key="[" line="94" column="0" />
@@ -857,44 +854,44 @@
       <register name="a" type="4">
         <text>'data/openstax-salient-term-list.json'</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgCgo=</text>
+      <register name="&quot;" type="4">
+        <text>db</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>db</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dGVybV9saXN0LCB0ZXh0LCBwYXJ0X29mX3JlbGF0aW9uX2RiLCBvdXRwdXRfZmlsZSwgc2VudGVuY2Vfd2luZG93IA==</text>
+        <text encoding="base64">W1thLCBiXSwgW2QsZV1dIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGIgPSBzZWxmLnByb2Nlc3NfbW9ja19kYihkYikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uX2NvdW50X3BvcyA9IDAKICAgICAgICBhbm5vdGF0aW9uX2NvdW50X25lZyA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWx0ZXIgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGlja2xlLmR1bXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uX2NvdW50X3BvcyA9IDAKICAgICAgICBhbm5vdGF0aW9uX2NvdW50X25lZyA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgcmV0dXJuIHR1cGxlcyAoc3RyaXBwaW5nIG9mZiBmaXJzdCBpdGVtIG51bWVyaWMgaW5kZXgpCiAgICAgICAgCiAgICAgICAgOnBhcmFtIGRiOiAKICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGlja2xlLmR1bXAoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>'data/openstax-salient-term-list.json'</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
