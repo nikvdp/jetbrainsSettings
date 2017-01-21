@@ -133,13 +133,13 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484966637877">
-        <mark key="a" line="135" column="28" />
-        <mark key="'" line="179" column="59" />
-        <mark key="[" line="147" column="67" />
-        <mark key="]" line="147" column="67" />
-        <mark key="^" line="147" column="67" />
-        <mark key="." line="147" column="67" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484967008504">
+        <mark key="a" line="142" column="28" />
+        <mark key="'" line="186" column="59" />
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
+        <mark key="^" line="52" column="18" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="36" column="13" />
@@ -219,7 +219,7 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1484966338441">
+      <file name="/Python Console" timestamp="1484967585876">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1484966507239">
@@ -482,8 +482,12 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/spacy_preprocess.py" timestamp="1484881334891">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/spacy_preprocess.py" timestamp="1484966958959">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="201" column="72" />
+        <mark key="]" line="202" column="11" />
+        <mark key="^" line="202" column="11" />
+        <mark key="." line="202" column="11" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/src/align.py" timestamp="1484531577595">
         <mark key="'" line="10" column="0" />
@@ -862,44 +866,44 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmdhemV0dGVlciA9IHNwcC5nZXRfc3BhY3lfZ2F6ZXR0ZWVyKG5scCwgdGVybV9saXN0KQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Loading</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2FkaW5nXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>term_list</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiTG9hZGluZyBzcGFjeSAgbW9kZWwiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXJtX2xpc3QsIHBhaXJfbGlzdCA9IHNlbGYubXVuZ2VfZGIoc2VjdGlvbnMsIHRlcm1fbGlzdCwgcGFpcl9saXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB0ZXJtX2xpc3QsIHBhaXJfbGlzdCA9IHNlbGYubXVuZ2VfZGIoc2VjdGlvbnMsIHRlcm1fbGlzdCwgcGFpcl9saXN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5nYXpldHRlZXIgPSBzcHAuZ2V0X3NwYWN5X2dhemV0dGVlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXJtX2xpc3QsIHBhaXJfbGlzdCA9IHNlbGYubXVuZ2VfZGIoc2VjdGlvbnMsIHRlcm1fbGlzdCwgcGFpcl9saXN0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1zLmFkZChwYWlyWzFdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5nYXpldHRlZXIgPSBzcHAuZ2V0X3NwYWN5X2dhemV0dGVlcigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1zLmFkZChwYWlyWzFdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hlY2tfYWxsX3Rva3NfaW5fYm9vayA9IGxhbWJkYSBtd2U6IGFueShbeSBpbiB0ZXJtcyBmb3IgeSBpbiBtd2Uuc3BsaXQoIiAiKV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFpcnMuYWRkKHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hlY2tfYWxsX3Rva3NfaW5fYm9vayA9IGxhbWJkYSBtd2U6IGFueShbeSBpbiB0ZXJtcyBmb3IgeSBpbiBtd2Uuc3BsaXQoIiAiKV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdCA9IFtlIGZvciBlIGluIHBhaXJbMF0gaWYgYWxsX3Rlcm1zX2luX2Jvb2soZSldCiAgICAgICAgICAgIHJpZ2h0ID0gW2UgZm9yIGUgaW4gcGFpclsxXSBpZiBhbGxfdGVybXNfaW5fYm9vayhlKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFpcnMuYWRkKHQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdCwgcmlnaHQgPSBwYWlyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVmdCA9IFtlIGZvciBlIGluIHBhaXJbMF0gaWYgYWxsX3Rlcm1zX2luX2Jvb2soZSldCiAgICAgICAgICAgIHJpZ2h0ID0gW2UgZm9yIGUgaW4gcGFpclsxXSBpZiBhbGxfdGVybXNfaW5fYm9vayhlKV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
