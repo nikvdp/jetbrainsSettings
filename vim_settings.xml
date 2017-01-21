@@ -133,12 +133,12 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484961692086">
-        <mark key="'" line="121" column="22" />
-        <mark key="[" line="83" column="11" />
-        <mark key="]" line="85" column="7" />
-        <mark key="^" line="85" column="7" />
-        <mark key="." line="85" column="7" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1484964750223">
+        <mark key="'" line="104" column="51" />
+        <mark key="[" line="92" column="29" />
+        <mark key="]" line="92" column="29" />
+        <mark key="^" line="105" column="30" />
+        <mark key="." line="92" column="29" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="36" column="13" />
@@ -218,14 +218,14 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1484961729818">
+      <file name="/Python Console" timestamp="1484964657304">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1484954733555">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="/fragment.py" timestamp="1484964792739">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="68" />
+        <mark key="^" line="0" column="68" />
+        <mark key="." line="0" column="68" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" timestamp="1480996229762">
         <mark key="'" line="43" column="20" />
@@ -775,7 +775,6 @@
       <jump line="100" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="148" column="23" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
       <jump line="145" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
-      <jump line="104" column="38" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="16" column="7" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
       <jump line="102" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="132" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -856,16 +855,17 @@
       <jump line="99" column="15" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="116" column="21" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="119" column="22" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="104" column="51" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmdhemV0dGVlciA9IHNwcC5nZXRfc3BhY3lfZ2F6ZXR0ZWVyKG5scCwgdGVybV9saXN0KQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBbWyJjeXRvcGxhc20iLCAiY3l0b3NrZWxldG9uIl0sIFsiY2VsbCJdXSwK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>pairs</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2FkaW5nXD4=</text>
@@ -874,31 +874,31 @@
         <text encoding="base64">ICBbWyJjeXRvcGxhc20iLCAiY3l0b3NrZWxldG9uIl0sIFsiY2VsbCJdXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1zLmFkZChwYWlyWzFdKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hlY2tfYWxsX3Rva3NfaW5fYm9vayA9IGxhbWJkYSBtd2U6IGFueShbeSBpbiB0ZXJtcyBmb3IgeSBpbiBtd2Uuc3BsaXQoIiAiKV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGVudHJ5IGluIHBhaXJbMF0gKyBwYWlyWzFdOgogICAgICAgICAgICAgICAgaWYgYWxsX3Rlcm1zX2luX2Jvb2soZW50cnkpOgogICAgICAgICAgICAgICAgICAgIHBhaXJzLmFkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFpcnMuYWRkKHQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X3BhaXIgPSBbW10sIFtdXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVmdCA9IFtlIGZvciBlIGluIHBhaXJbMF0gaWYgYWxsX3Rlcm1zX2luX2Jvb2soZSldCiAgICAgICAgICAgIHJpZ2h0ID0gW2UgZm9yIGUgaW4gcGFpclsxXSBpZiBhbGxfdGVybXNfaW5fYm9vayhlKV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIG5vdF9pbl9ib29rID0gbGFtYmRhIHg6IFt5IGluIHRlcm1zIGZvciB5IGluIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVmdCwgcmlnaHQgPSBwYWlyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudHJ5XyA9IHNlbGYubmxwKGVudHJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcGFpclswXSBpbiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFt0ZXJtcy5hZGQodCkgZm9yIHQgaW4gZW50cnlfIGlmIHQgaW4gYm9va190b2tlbnNdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsX3Rlcm1zX2luX2Jvb2sgPSBsYW1iZGEgbXdlOiBhbnkoW3kgaW4gdGVybXMgZm9yIHkgaW4gbXdlLnNwbGl0KCIgIildKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jID0gc2VsZi5ubHAodGV4dCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
