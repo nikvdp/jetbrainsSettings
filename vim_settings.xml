@@ -452,12 +452,12 @@
         <mark key="]" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/neg_examples.py" timestamp="1485049591069">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/neg_examples.py" timestamp="1485066509944">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="48" />
-        <mark key="." line="3" column="48" />
-        <mark key="^" line="3" column="48" />
+        <mark key="[" line="78" column="27" />
+        <mark key="]" line="78" column="28" />
+        <mark key="." line="78" column="28" />
+        <mark key="^" line="78" column="28" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/config.json" timestamp="1469140553650">
         <mark key="[" line="64" column="13" />
@@ -876,7 +876,7 @@
         <text encoding="base64">ICAgICAgICBmb3Igc2VjX251bSwgZG9jIGluIGVudW1lcmF0ZSh0cWRtKHNlY3Rpb25zLCAiQmlnIHN0ZXAuLi4iKSk6CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJQcmVwcm9jZXNzaW5nIHNlY3Rpb24gJXMiICUgc2VjX251bSkKICAgICAgICAgICAgc2VsZi5nYXpldHRlZXIoZG9jKSAgIyBjb2xsYXBzZSBNV0VzIGZvciB0aGlzIGRvYyB2aWEgZ2F6ZXR0ZWVyCiAgICAgICAgICAgICMgQnVpbGQgYXVnbWVudGVkIGRlcCBncmFwaAogICAgICAgICAgICBsb2dnZXIuaW5mbygnU2VjdGlvbiAlczogIEJ1aWxkaW5nIGRlcGVuZGVuY3kgZ3JhcGgnICUgc2VjX251bSkKICAgICAgICAgICAgZ3JhcGggPSBhZGcuYnVpbGRfZGVwZW5kZW5jeV9ncmFwaChkb2MpCiAgICAgICAgICAgICMgSWRlbnRpZnkgZGIgaW5zdGFuY2UgcGFpcnMgaW4gZG9jCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdTZWN0aW9uICVzOiAgQWxpZ25pbmcgcG9zaXRpdmUgcGFpcnMnICUgc2VjX251bSkKICAgICAgICAgICAgIyByZWFkOiAqcG90ZW50aWFsbHkqIHBvc2l0aXZlIHBhaXJzCiAgICAgICAgICAgIHBvc19wYWlycyA9IGFsaWduKGRvYywgcGFpcl9saXN0LCBzZW50ZW5jZV93aW5kb3cpCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdTZWN0aW9uICVzOiBBbGlnbmVkICVzIHBhaXJzJyAlIChzZWNfbnVtLCBsZW4ocG9zX3BhaXJzKSkpCgogICAgICAgICAgICAjIGdlbmVyYXRlIHNhbWUgYW1vdW50IG9mIG5lZ2F0aXZlIHBhaXJzIGFzIG51bSBvZiBwb3NpdGl2ZSBwYWlyCiAgICAgICAgICAgICMgcmVhZDogKm1vc3QgbGlrZWx5KiBuZWdhdGl2ZSBwYWlycwogICAgICAgICAgICBuZWdfcGFpcnMgPSBsaXN0KGl0ZXJ0b29scy5pc2xpY2UoCiAgICAgICAgICAgICAgICBuZWdhdGl2ZV9wYWlycyhkb2MsIHBhaXJfbGlzdCwgc2VudGVuY2Vfd2luZG93KSwKICAgICAgICAgICAgICAgIDAsCiAgICAgICAgICAgICAgICBsZW4ocG9zX3BhaXJzKSkpCgoKICAgICAgICAgICAgIyBhbmQgcHV0IGl0IGFsbCB0b2dldGhlciBpbiBjb21iaW5lZF9wYWlycwogICAgICAgICAgICBmb3IgKHBvc19uZWdfbGFiZWwsIHNyY190b2ssIGRzdF90b2spIGluIFwKICAgICAgICAgICAgICAgICAgICBzZWxmLmNvbWJpbmVfcGFpcnMocG9zX3BhaXJzLCBuZWdfcGFpcnMpOgogICAgICAgICAgICAgICAgc2VjX3BhdGhzID0gYWRnLmtfc2hvcnRlc3RfcGF0aHMoZ3JhcGgsIHNyY190b2ssIGRzdF90b2ssIG5fZGVwKQogICAgICAgICAgICAgICAgIyBsb2dnZXIuaW5mbygiQ29tcHV0aW5nIGZlYXR1cmVzIGZvciB7bnVtX3BhdGhzfSBwYXRocyBvZiBwYWlyOiAoe3NyY30sIHtkc3R9KSIuZm9ybWF0KAogICAgICAgICAgICAgICAgIyAgICAgc3JjPXNyY190b2ssIGRzdD1kc3RfdG9rLCBudW1fcGF0aHM9bGVuKHNlY19wYXRocykKICAgICAgICAgICAgICAgICMgKSkKICAgICAgICAgICAgICAgIGZlYXR1cmVzID0gW3ZlYy5idWlsZF9mZWF0dXJlc2V0X2Zvcl9wYXRoKHBhdGgpIGZvciBwYXRoIGluIHNlY19wYXRoc10KICAgICAgICAgICAgICAgIGZlYXR1cmVfc2V0cy5leHRlbmQoZmVhdHVyZXMpCiAgICAgICAgICAgICAgICBwcmVkaWN0aW9uX3RhcmdldHMuZXh0ZW5kKFtwb3NfbmVnX2xhYmVsXSAqIGxlbihmZWF0dXJlcykpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zX3BhaXJzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgKHRvazEsIHRvazIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -885,7 +885,7 @@
         <text>model.pickle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlcm1fbGlzdD1wbGFjLkFubm90YXRpb24oIkxvYWQgYSB0ZXJtIGxpc3QiLCBraW5kPSJvcHRpb24iLCBtZXRhdmFyPSJ0ZXJtLWxpc3QiKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgKHRvazEsIHRvazIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcG9zX3BhaXJzID0gW10K</text>
