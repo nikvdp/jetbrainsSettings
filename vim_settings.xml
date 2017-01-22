@@ -140,14 +140,14 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1485075131155">
-        <mark key="a" line="293" column="4" />
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1485128219222">
+        <mark key="a" line="299" column="4" />
         <mark key="f" line="239" column="25" />
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="189" column="18" />
-        <mark key="]" line="189" column="18" />
-        <mark key="." line="189" column="18" />
-        <mark key="^" line="181" column="15" />
+        <mark key="[" line="289" column="73" />
+        <mark key="]" line="289" column="73" />
+        <mark key="." line="289" column="73" />
+        <mark key="^" line="289" column="73" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/App.jsx" timestamp="1478156477697">
         <mark key="'" line="36" column="13" />
@@ -882,30 +882,36 @@
         <text encoding="base64">ICAgIG1vZGVsX2ZpbGUgPSBvcy5wYXRoLnJlYWxwYXRoKG9zLnBhdGguam9pbihkYXRhc2V0X2ZvbGRlciwgTU9ERUxfRk4pKQoKICAgIHdpdGggb3Blbihtb2RlbF9maWxlLCAidyIpIGFzIG1vZGVsX2ZwOgogICAgICAgIHBpY2tsZS5kdW1wKG1vZGVsLCBtb2RlbF9mcCkKCiAgICBleHBlY3RlZCA9IGRhdGFzZXQudGFyZ2V0CiAgICBwcmVkaWN0ZWQgPSBtb2RlbC5wcmVkaWN0KGRhdGFzZXQuZGF0YSkKICAgIHByaW50ICJcbk1ldHJpY3M6IgogICAgcHJpbnQobWV0cmljcy5jbGFzc2lmaWNhdGlvbl9yZXBvcnQoZXhwZWN0ZWQsIHByZWRpY3RlZCkpCiAgICBwcmludCAiTW9kZWwgc2F2ZWQgdG8gJXMhIiAlIG1vZGVsX2ZpbGUK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>doc</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>doc</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxERUZBVUxUX1NFQ1RJT05fTEVOXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiRGVzdCB0b2tlbiI6IGxhbWJkYSBpZHg6IG5scChkYXRhc2V0Lm1ldGFkYXRhW2lkeF0uZ2V0KCdkc3RfdG9rZW4nKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmNyaXRpY2FsKCJXcm90ZSBmZWF0dXJlIHZlY3RvcnMgdG86ICVzIiAlICJmZWF0dXJlX3ZlY3MucGlja2xlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWR4ID0gMjAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmNyaXRpY2FsKCJXcm90ZSBmZWF0dXJlIHZlY3RvcnMgdG86ICVzIiAlICJmZWF0dXJlX3ZlY3MucGlja2xlIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGF0YXNldC5tZXRhZGF0YVsyMDBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmNyaXRpY2FsKCJXcm90ZSBmZWF0dXJlIHZlY3RvcnMgdG86ICVzIiAlICJmZWF0dXJlX3ZlY3MucGlja2xlIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmllbGRfbmFtZV9tYXBbJ1NvdXJjZSBUb2tlbiddKDEwMCkK</text>
+        <text encoding="base64">aWR4ID0gMjAwCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ZGF0YXNldC5tZXRhZGF0YVsyMDBdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZmllbGRfbmFtZV9tYXBbJ1NvdXJjZSBUb2tlbiddKDEwMCkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubHAoZGF0YXNldC5tZXRhZGF0YVtpZHhdLmdldCgnZHN0X3Rva2VuJykpXSksCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>def write_to_psl(dataset, model, out_file):
     import spacy
     print &quot;Loading spacy...&quot;,
@@ -918,17 +924,11 @@
         &quot;Source lemmas&quot;: lambda idx: &quot; &quot;.join([x.lemma_ for x in
                                       nlp(unicode(</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB3cml0ZXIyID0gY3N2LkRpY3RXcml0ZXIob3V0X2ZwKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB1bmZvcnR1bmF0ZWx5IHNwYWN5IG9iamVjdHMgYXJlbid0IHBpY2tsZS1hYmxlLCBzbyBzYXZlIGFsbCBvdXIgbWV0YWRhdGEKICAgICAgICAgICAgIyBhcyBwbGFpbiBzdHJpbmdzCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">REVGQVVMVF9TRUNUSU9OX0xFTiA9IDEwMDAgICMgY2h1bmsgc2l6ZSAoaW4gd29yZHMpIHRvIHNwbGl0IHNlY3Rpb25zIGJ5Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB1bmZvcnR1bmF0ZWx5IHNwYWN5IG9iamVjdHMgYXJlbid0IHBpY2tsZS1hYmxlLCBzbyBzYXZlIGFsbCBvdXIgbWV0YWRhdGEKICAgICAgICAgICAgIyBhcyBwbGFpbiBzdHJpbmdzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
