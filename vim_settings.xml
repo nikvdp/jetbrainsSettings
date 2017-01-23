@@ -399,15 +399,6 @@
         <mark key="^" line="85" column="42" />
         <mark key="." line="85" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/vectorize.py" timestamp="1483128479775">
-        <mark key="a" line="53" column="3" />
-        <mark key="'" line="9" column="0" />
-        <mark key="k" line="66" column="30" />
-        <mark key="[" line="98" column="14" />
-        <mark key="]" line="98" column="28" />
-        <mark key="^" line="98" column="28" />
-        <mark key="." line="98" column="28" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/base-flask-microservice/swagger/swagger.yaml" timestamp="1481058693147">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="32" />
@@ -485,6 +476,13 @@
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/tmp/thingy/queries.py" timestamp="1485208525653">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="75" column="22" />
+        <mark key="]" line="75" column="29" />
+        <mark key="." line="75" column="29" />
+        <mark key="^" line="75" column="29" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/webpack.config.js" timestamp="1478156789125">
         <mark key="[" line="16" column="34" />
@@ -778,15 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="43" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="108" column="18" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
-      <jump line="0" column="13" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/neg_examples.py" />
-      <jump line="183" column="64" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="163" column="35" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="182" column="73" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="142" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="150" column="15" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="171" column="23" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -878,59 +867,58 @@
       <jump line="119" column="58" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="351" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="177" column="25" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="27" column="18" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="28" column="19" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="29" column="10" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/tmp/thingy/queries.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIG1vZGVsX2ZpbGUgPSBvcy5wYXRoLnJlYWxwYXRoKG9zLnBhdGguam9pbihkYXRhc2V0X2ZvbGRlciwgTU9ERUxfRk4pKQoKICAgIHdpdGggb3Blbihtb2RlbF9maWxlLCAidyIpIGFzIG1vZGVsX2ZwOgogICAgICAgIHBpY2tsZS5kdW1wKG1vZGVsLCBtb2RlbF9mcCkKCiAgICBleHBlY3RlZCA9IGRhdGFzZXQudGFyZ2V0CiAgICBwcmVkaWN0ZWQgPSBtb2RlbC5wcmVkaWN0KGRhdGFzZXQuZGF0YSkKICAgIHByaW50ICJcbk1ldHJpY3M6IgogICAgcHJpbnQobWV0cmljcy5jbGFzc2lmaWNhdGlvbl9yZXBvcnQoZXhwZWN0ZWQsIHByZWRpY3RlZCkpCiAgICBwcmludCAiTW9kZWwgc2F2ZWQgdG8gJXMhIiAlIG1vZGVsX2ZpbGUK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>openstax-salient-term-list.json</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>openstax-salient-term-list.json</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>src_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiU291cmNlIFRva2VuIjogbGFtYmRhIGlkeDogZGF0YXNldC5tZXRhZGF0YVtpZHhdLmdldCgnc3JjX3Rva2VuJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJtYXRjaCI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicmVxX21ldGEuZnJvbV9nX3F1ZXJ5IjogCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VjX3BhdGhzWzBdCg==</text>
+        <text encoding="base64">ZGVmIGdvb2dfcXVlcnkoa2V5d29yZCk6CiAgICByZXR1cm4ganNvbi5sb2Fkcyhqc29uLmR1bXBzKGJ5X2dvb2dsZV9zZWFyY2gpLmZvcm1hdChrZXl3b3JkPWtleXdvcmQpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc3JjX3Rvay5wb3NfICE9IAo=</text>
+        <text encoding="base64">YnlfZ29vZ2xlX3NlYXJjaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmNyaXRpY2FsKCJXcm90ZSBmZWF0dXJlIHZlY3RvcnMgdG86ICVzIiAlICJmZWF0dXJlX3ZlY3MucGlja2xlIikK</text>
+        <text encoding="base64">ZGVmIGdvb2dfcXVlcnkoKiprd2FyZ3MpCiAgICBxID0gcXVlcmllcy5nZXQocXVlcnlfbmFtZSkKICAgIHJldHVybiBqc29uLmxvYWRzKGpzb24uZHVtcHMocSkuZm9ybWF0KCoqa3dhcmdzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmNyaXRpY2FsKCJXcm90ZSBmZWF0dXJlIHZlY3RvcnMgdG86ICVzIiAlICJmZWF0dXJlX3ZlY3MucGlja2xlIikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWR4ID0gMjAwCg==</text>
+        <text encoding="base64">cXVlcmllcyA9IGRpY3QoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGF0YXNldC5tZXRhZGF0YVsyMDBdCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmllbGRfbmFtZV9tYXBbJ1NvdXJjZSBUb2tlbiddKDEwMCkK</text>
+        <text encoding="base64">c2VjX3BhdGhzWzBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubHAoZGF0YXNldC5tZXRhZGF0YVtpZHhdLmdldCgnZHN0X3Rva2VuJykpXSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc3JjX3Rvay5wb3NfICE9IAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>def write_to_psl(dataset, model, out_file):
-    import spacy
-    print &quot;Loading spacy...&quot;,
-    sys.stdout.flush()
-    nlp = spacy.en.English()
-    print &quot;DONE&quot;
-    # TODO: this needs readability improvements
-    field_name_map = {
-        &quot;Source Token&quot;: lambda idx: dataset.metadata[idx].get('src_token'),
-        &quot;Source lemmas&quot;: lambda idx: &quot; &quot;.join([x.lemma_ for x in
-                                      nlp(unicode(</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmNyaXRpY2FsKCJXcm90ZSBmZWF0dXJlIHZlY3RvcnMgdG86ICVzIiAlICJmZWF0dXJlX3ZlY3MucGlja2xlIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -943,7 +931,7 @@
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
