@@ -141,10 +141,10 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1485221983100">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1485227616100">
         <mark key="a" line="306" column="4" />
         <mark key="f" line="246" column="25" />
-        <mark key="'" line="177" column="25" />
+        <mark key="'" line="178" column="16" />
         <mark key="[" line="319" column="25" />
         <mark key="]" line="319" column="52" />
         <mark key="." line="319" column="52" />
@@ -228,10 +228,10 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1485136369700">
+      <file name="/Python Console" timestamp="1485227387035">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1485137353842">
+      <file name="/fragment.py" timestamp="1485227653128">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/gap.js" timestamp="1480996229762">
@@ -778,9 +778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="51" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="1" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="234" column="31" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="225" column="24" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
@@ -805,7 +802,6 @@
       <jump line="302" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="9" column="10" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="265" column="62" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="276" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="281" column="9" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="245" column="15" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -878,6 +874,10 @@
       <jump line="127" column="7" filename="$USER_HOME$/tmp/thingy/queries.py" />
       <jump line="130" column="6" filename="$USER_HOME$/tmp/thingy/queries.py" />
       <jump line="133" column="35" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="276" column="27" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="284" column="48" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="123" column="47" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="178" column="16" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -890,7 +890,7 @@
         <text>_idx</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>paths</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9uZ2VzdF9pZHggPSBpZHgK</text>
@@ -927,9 +927,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asdf</last-search>
+      <last-search>paths</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>paths</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -937,7 +937,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AnnotationData</entry>
         <entry>Extracting features...</entry>
         <entry>Processing pairs</entry>
         <entry>text...</entry>
@@ -957,6 +956,7 @@
         <entry encoding="base64">ICwg</entry>
         <entry>,</entry>
         <entry>asdf</entry>
+        <entry>paths</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
