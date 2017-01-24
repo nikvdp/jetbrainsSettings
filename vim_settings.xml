@@ -477,13 +477,13 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/tmp/thingy/queries.py" timestamp="1485213034526">
+      <file name="$USER_HOME$/tmp/thingy/queries.py" timestamp="1485216429852">
         <mark key="a" line="134" column="0" />
-        <mark key="'" line="2" column="30" />
-        <mark key="[" line="126" column="30" />
-        <mark key="]" line="127" column="3" />
-        <mark key="." line="127" column="3" />
-        <mark key="^" line="127" column="3" />
+        <mark key="'" line="133" column="35" />
+        <mark key="[" line="135" column="12" />
+        <mark key="]" line="136" column="7" />
+        <mark key="." line="136" column="7" />
+        <mark key="^" line="136" column="7" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/webpack.config.js" timestamp="1478156789125">
         <mark key="[" line="16" column="34" />
@@ -777,10 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/spacy_preprocess.py" />
-      <jump line="206" column="29" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/spacy_preprocess.py" />
-      <jump line="83" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/spacy_preprocess.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="199" column="51" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="1" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -871,72 +867,75 @@
       <jump line="93" column="0" filename="$USER_HOME$/tmp/thingy/queries.py" />
       <jump line="7" column="37" filename="$USER_HOME$/tmp/thingy/queries.py" />
       <jump line="1" column="29" filename="$USER_HOME$/tmp/thingy/queries.py" />
-      <jump line="8" column="112" filename="$USER_HOME$/tmp/thingy/queries.py" />
       <jump line="129" column="41" filename="$USER_HOME$/tmp/thingy/queries.py" />
       <jump line="96" column="70" filename="$USER_HOME$/tmp/thingy/queries.py" />
       <jump line="126" column="28" filename="$USER_HOME$/tmp/thingy/queries.py" />
       <jump line="124" column="15" filename="$USER_HOME$/tmp/thingy/queries.py" />
       <jump line="2" column="30" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="127" column="7" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="130" column="6" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="133" column="35" filename="$USER_HOME$/tmp/thingy/queries.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIG1vZGVsX2ZpbGUgPSBvcy5wYXRoLnJlYWxwYXRoKG9zLnBhdGguam9pbihkYXRhc2V0X2ZvbGRlciwgTU9ERUxfRk4pKQoKICAgIHdpdGggb3Blbihtb2RlbF9maWxlLCAidyIpIGFzIG1vZGVsX2ZwOgogICAgICAgIHBpY2tsZS5kdW1wKG1vZGVsLCBtb2RlbF9mcCkKCiAgICBleHBlY3RlZCA9IGRhdGFzZXQudGFyZ2V0CiAgICBwcmVkaWN0ZWQgPSBtb2RlbC5wcmVkaWN0KGRhdGFzZXQuZGF0YSkKICAgIHByaW50ICJcbk1ldHJpY3M6IgogICAgcHJpbnQobWV0cmljcy5jbGFzc2lmaWNhdGlvbl9yZXBvcnQoZXhwZWN0ZWQsIHByZWRpY3RlZCkpCiAgICBwcmludCAiTW9kZWwgc2F2ZWQgdG8gJXMhIiAlIG1vZGVsX2ZpbGUK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">XCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ICwg</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICgxLSBzaG9ydGVzdCAtIGxvbmdlc3QgKSAvIDIgPQ==</text>
+        <text encoding="base64">YXJpLHNtb2csY2xpLGx3LHcxLHcyLHczLHc0IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDEgLSBsb25nZXN0IC0gc2hvcnRlc3QgPSB3XzIgKyB3XzMK</text>
+        <text encoding="base64">ICAgICMgZG9uJ3QgYm90aGVyIHdpdGggCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgxIC0gbG9uZ2VzdCAtIHNob3J0ZXN0KSAvIDIgPSB3XzIgPSB3XzMK</text>
+        <text encoding="base64">ICAgIHNlY28K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNob3J0ZXN0IC8gbG9uZ2VzdCA9IHdfMSAvIHdfNAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdlaWdodHMgPSBbXQo=</text>
+        <text encoding="base64">ICAgIG8gPSBpLnN1YnMoemlwKChhcmksIHNtb2csIGNsaSwgbHcpLCAgc3RhdCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1dG9tYXRlZF9yZWFkYWJpbGl0eV9pbmRleAo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNob3J0ZXN0X3cgPSBzaG9ydGVzdCAvIGxvbmdlc3QKICAgIGxvbmdlc3RfdyA9IDEgLSBzaG9ydGVzdF93CgogICAgc2hvcnRlc3QgLyBsb25nZXN0ID0gdzEgLyB3NAoKICAgIHNob3J0ZXN0ICsgd18yICsgd18zICsgbG9uZ2VzdCA9IDEKICAgICgxLSBzaG9ydGVzdCAtIGxvbmdlc3QgKSAvIDIgPSB3XzIKICAgICgxLSBzaG9ydGVzdCAtIGxvbmdlc3QgKSAvIDIgPSB3XzMKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDEgLSBsb25nZXN0IC0gc2hvcnRlc3QgPSB3XzIgKyB3XzMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgxIC0gbG9uZ2VzdCAtIHNob3J0ZXN0KSAvIDIgPSB3XzIgPSB3XzMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ICwg</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ICwg</last-pattern>
-      <last-replace>,\r</last-replace>
-      <last-substitute encoding="base64">ICwg</last-substitute>
+      <last-pattern>asdf</last-pattern>
+      <last-replace encoding="base64">LCA=</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWb2xsZXlBbm5vdGF0aW9uRGF0YVw+</entry>
         <entry>AnnotationData</entry>
         <entry>Extracting features...</entry>
         <entry>Processing pairs</entry>
@@ -948,7 +947,6 @@
         <entry encoding="base64">ICsg</entry>
         <entry>model.pickle</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV90YXJnZXRcPg==</entry>
-        <entry>,</entry>
         <entry>..</entry>
         <entry>\..</entry>
         <entry>\.\.</entry>
@@ -956,10 +954,10 @@
         <entry>src_</entry>
         <entry encoding="base64">IA==</entry>
         <entry encoding="base64">ICwg</entry>
+        <entry>,</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
-        <entry>w'</entry>
-        <entry>set shiftwidth=2</entry>
         <entry>wq</entry>
         <entry>s/&quot;/'/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -977,6 +975,8 @@
         <entry>s/ /', '/g</entry>
         <entry>s/ /\r/g</entry>
         <entry>s/ , /,\r/g</entry>
+        <entry>s/,/ /g</entry>
+        <entry>s/,/, /g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
