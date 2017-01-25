@@ -56,12 +56,6 @@
         <mark key="." line="11" column="32" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/summary.py" timestamp="1479775383935">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-rule.js" timestamp="1474412427150">
         <mark key="'" line="3" column="7" />
         <mark key="[" line="87" column="102" />
@@ -155,12 +149,6 @@
         <mark key="]" line="36" column="13" />
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/requirements.txt" timestamp="1482280705093">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="13" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-meta-schema-to-plain-text-transform.js" timestamp="1473711065726">
         <mark key="[" line="50" column="31" />
@@ -477,12 +465,13 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/tmp/thingy/queries.py" timestamp="1485385247580">
-        <mark key="a" line="129" column="0" />
-        <mark key="'" line="47" column="28" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/tmp/thingy/queries.py" timestamp="1485386983715">
+        <mark key="a" line="47" column="0" />
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="46" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="11" column="46" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/webpack.config.js" timestamp="1478156789125">
         <mark key="[" line="16" column="34" />
@@ -495,12 +484,6 @@
         <mark key="]" line="216" column="34" />
         <mark key="." line="216" column="34" />
         <mark key="^" line="216" column="34" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/src/align.py" timestamp="1484531577595">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/classifier.py" timestamp="1485221014922">
         <mark key="a" line="98" column="36" />
@@ -650,12 +633,6 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/elastic.py" timestamp="1482281164628">
-        <mark key="'" line="28" column="42" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/tests/apply-meta-schema-to-gap-data-transform.test.js" timestamp="1473374005798">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="21" column="3" />
@@ -776,10 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="56" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="259" column="14" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="289" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="260" column="23" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="192" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="203" column="15" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="261" column="21" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -876,16 +849,20 @@
       <jump line="129" column="0" filename="$USER_HOME$/tmp/thingy/queries.py" />
       <jump line="146" column="70" filename="$USER_HOME$/tmp/thingy/queries.py" />
       <jump line="47" column="28" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="52" column="37" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="68" column="10" filename="$USER_HOME$/tmp/thingy/queries.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/tmp/thingy/queries.py" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICMgYXV0b21hdGVkX3JlYWRhYmlsaXR5X2luZGV4IHNtb2dfaW5kZXggY29sZW1hbl9saWF1X2luZGV4IGxpbnNlYXJfd3JpdGVfZm9ybXVsYQo=</text>
+      <register name="a" type="4">
+        <text>es.search(body=get_google_crawl_result_query(concept_name))</text>
       </register>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>zip())</text>
+        <text>do_es_query(concept_name)</text>
       </register>
       <register name="/" type="4">
         <text>pos</text>
@@ -897,28 +874,28 @@
         <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1hdGNoIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJyZXFfbWV0YS5mcm9tX2dfcXVlcnkiOiBrZXl3b3JkICsgIiBiaW9sb2d5IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZGVmIGRvX2VzX3F1ZXJ5KGNvbmNlcHRfbmFtZSk6CiAgICByZXR1cm4gCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzb3J0ZWQoc2NvcmVzLCByZXZlcnNlPVRydWUpCg==</text>
+      <register name="4" type="4">
+        <text>es.search(body=get_google_crawl_result_query(concept_name))</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdldF9zY29yZV9mb3JfdGV4dCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Z2V0X3Jlc291cmNlc19mb3JfY29uY2VwdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYXV0b21hdGVkX3JlYWRhYmlsaXR5X2luZGV4IHNtb2dfaW5kZXggY29sZW1hbl9saWF1X2luZGV4IGxpbnNlYXJfd3JpdGVfZm9ybXVsYQo=</text>
+        <text encoding="base64">CgoiIiIKPj4+IGltcG9ydCByZXF1ZXN0cwo+Pj4gZnJvbSByZXF1ZXN0c19hd3M0YXV0aCBpbXBvcnQgQVdTNEF1dGgKPj4+IGVuZHBvaW50ID0gJ2h0dHA6Ly9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbScKPj4+IGF1dGggPSBBV1M0QXV0aCgnPEFDQ0VTUyBJRD4nLCAnPEFDQ0VTUyBLRVk+JywgJ2V1LXdlc3QtMScsICdzMycpCiIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXMgPSBnZXRfZXNfaW5zdGFuY2UoKQpnZXRfcmVzb3VyY2VzX2Zvcl9jb25jZXB0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
