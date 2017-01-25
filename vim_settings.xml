@@ -127,7 +127,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/data/openstax-salient-term-list.json" timestamp="1485221269157" />
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/tests/apply-arbitration-to-meta-schema.test.js" timestamp="1473808293353">
         <mark key="[" line="107" column="29" />
         <mark key="]" line="108" column="5" />
@@ -141,10 +140,10 @@
         <mark key="." line="62" column="45" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1485229039034">
+      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" timestamp="1485369399712">
         <mark key="a" line="330" column="4" />
         <mark key="f" line="270" column="25" />
-        <mark key="'" line="227" column="0" />
+        <mark key="'" line="304" column="35" />
         <mark key="[" line="198" column="31" />
         <mark key="]" line="199" column="36" />
         <mark key="." line="199" column="36" />
@@ -778,7 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="38" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/vectorize.py" />
       <jump line="270" column="22" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="206" column="25" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="232" column="70" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -878,6 +876,7 @@
       <jump line="171" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="189" column="95" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="222" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
+      <jump line="304" column="35" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -933,7 +932,7 @@
       <last-replace>neg</last-replace>
       <last-substitute>pos</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
