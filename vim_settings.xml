@@ -25,7 +25,7 @@
         <mark key="^" line="50" column="36" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1485387754796">
+      <file name="/a.dummy" timestamp="1485389856710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -127,6 +127,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="30" />
       </file>
+      <file name="$USER_HOME$/tmp/thingy/swagger/swagger.yaml" timestamp="1485389827155">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/tests/apply-arbitration-to-meta-schema.test.js" timestamp="1473808293353">
         <mark key="[" line="107" column="29" />
         <mark key="]" line="108" column="5" />
@@ -161,6 +167,11 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="13" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="/requirements.txt" timestamp="1485389641482">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-meta-schema-to-plain-text-transform.js" timestamp="1473711065726">
         <mark key="[" line="50" column="31" />
@@ -328,6 +339,12 @@
         <mark key="]" line="50" column="9" />
         <mark key="^" line="50" column="9" />
         <mark key="." line="50" column="9" />
+      </file>
+      <file name="$USER_HOME$/tmp/thingy/app/es.py" timestamp="1485389938263">
+        <mark key="'" line="13" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/controllers/spt.js" timestamp="1480980009974">
         <mark key="[" line="9" column="0" />
@@ -644,11 +661,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/tmp/thingy/es.py" timestamp="1485388755608">
-        <mark key="'" line="19" column="45" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/tmp/thingy/es.py" timestamp="1485388796286">
+        <mark key="'" line="18" column="45" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" timestamp="1474479637865">
         <mark key="'" line="41" column="33" />
@@ -721,6 +738,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/tmp/thingy/requirements.txt" timestamp="1485389644532">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/setup.py" timestamp="1472523613292">
         <mark key="[" line="34" column="16" />
@@ -797,10 +819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="57" column="62" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/classifier.py" />
-      <jump line="56" column="22" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/classifier.py" />
-      <jump line="58" column="64" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/classifier.py" />
       <jump line="6" column="8" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/classifier.py" />
       <jump line="68" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/classifier.py" />
       <jump line="34" column="32" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/classifier.py" />
@@ -897,52 +915,56 @@
       <jump line="12" column="28" filename="$USER_HOME$/tmp/thingy/es.py" />
       <jump line="4" column="7" filename="$USER_HOME$/tmp/thingy/es.py" />
       <jump line="18" column="45" filename="$USER_HOME$/tmp/thingy/es.py" />
+      <jump line="4" column="14" filename="/requirements.txt" />
+      <jump line="0" column="0" filename="/requirements.txt" />
+      <jump line="12" column="21" filename="$USER_HOME$/tmp/thingy/app/es.py" />
+      <jump line="30" column="8" filename="$USER_HOME$/tmp/thingy/swagger/swagger.yaml" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">QVdTX0tFWSA9ICdBS0lBSlZHRFRGRk1VTlVYRkRJQScKQVdTX1NFQ1JFVCA9ICdZVkgrdjh5MGJLcHZpenFib0E4bTFCcndBcnpBTS90OEZZcG5wWU9NJwpFU19IT1NUID0geydob3N0JzogCiAgICAgICAgICAgICAgICdzZWFyY2gtdm9sbGV5Y3Jhd2wtcGh2b2hrM2hzNHNjZHlzNWZteDJzcmlmeHEudXMtd2VzdC0yLmVzLmFtYXpvbmF3cy5jb20nLAogICAgICAgICAgICJwb3J0IjogNDQzfQo=</text>
+        <text encoding="base64">IyBUT0RPOiBVc2Ugc2VjcmV0cyBzZXJ2aWNlISEhCkFXU19LRVkgPSAnQUtJQUpWR0RURkZNVU5VWEZESUEnCkFXU19TRUNSRVQgPSAnWVZIK3Y4eTBiS3B2aXpxYm9BOG0xQnJ3QXJ6QU0vdDhGWXBucFlPTScKRVNfSE9TVCA9IHsnaG9zdCc6CiAgICAgICAgICAgICAgICdzZWFyY2gtdm9sbGV5Y3Jhd2wtcGh2b2hrM2hzNHNjZHlzNWZteDJzcmlmeHEudXMtd2VzdC0yLmVzLmFtYXpvbmF3cy5jb20nLAogICAgICAgICAgICJwb3J0IjogNDQzfQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBUT0RPOiBVc2Ugc2VjcmV0cyBzZXJ2aWNlISEhCg==</text>
+        <text encoding="base64">IyBUT0RPOiBVc2Ugc2VjcmV0cyBzZXJ2aWNlISEhCkFXU19LRVkgPSAnQUtJQUpWR0RURkZNVU5VWEZESUEnCkFXU19TRUNSRVQgPSAnWVZIK3Y4eTBiS3B2aXpxYm9BOG0xQnJ3QXJ6QU0vdDhGWXBucFlPTScKRVNfSE9TVCA9IHsnaG9zdCc6CiAgICAgICAgICAgICAgICdzZWFyY2gtdm9sbGV5Y3Jhd2wtcGh2b2hrM2hzNHNjZHlzNWZteDJzcmlmeHEudXMtd2VzdC0yLmVzLmFtYXpvbmF3cy5jb20nLAogICAgICAgICAgICJwb3J0IjogNDQzfQo=</text>
       </register>
       <register name="b" type="4">
         <text>'YVH+v8y0bKpvizqboA8m1BrwArzAM/t8FYpnpYOM'</text>
       </register>
       <register name="-" type="4">
-        <text>search-volleycrawl-phvohk3hs4scdys5fmx2srifxq.us-west-2.es.amazonaws.com</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>pos</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QVdTX0tFWSA9ICdBS0lBSlZHRFRGRk1VTlVYRkRJQScKQVdTX1NFQ1JFVCA9ICdZVkgrdjh5MGJLcHZpenFib0E4bTFCcndBcnpBTS90OEZZcG5wWU9NJwpFU19IT1NUID0geydob3N0JzogCiAgICAgICAgICAgICAgICdzZWFyY2gtdm9sbGV5Y3Jhd2wtcGh2b2hrM2hzNHNjZHlzNWZteDJzcmlmeHEudXMtd2VzdC0yLmVzLmFtYXpvbmF3cy5jb20nLAogICAgICAgICAgICJwb3J0IjogNDQzfQo=</text>
+        <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoKICAgICAgLSBpbjogImZvcm1EYXRhIgogICAgICAgIG5hbWU6ICJuYW1lIgogICAgICAgIHR5cGU6ICJzdHJpbmciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUT0RPOiBVc2Ugc2VjcmV0cyBzZXJ2aWNlISEhCg==</text>
+        <text encoding="base64">ICAgIHBvc3Q6CiAgICAgIG9wZXJhdGlvbklkOiAiY29udHJvbGxlcnMuZ3JlZXRfY29udHJvbGxlci5ncmVldF9uYW1lIgogICAgICBkZXNjcmlwdGlvbjogPgogICAgICAgIFNob3cgYSBncmVldGluZyBtZXNzYWdlIHdpdGggdGhlIHBhc3NlZCBuYW1lLgogICAgICBwYXJhbWV0ZXJzOgogICAgICAtIGluOiAiZm9ybURhdGEiCiAgICAgICAgbmFtZTogIm5hbWUiCiAgICAgICAgdHlwZTogInN0cmluZyIKCiAgICAgIHJlc3BvbnNlczoKICAgICAgICAyMDA6CiAgICAgICAgICBkZXNjcmlwdGlvbjogPgogICAgICAgICAgICBHcmVldHMgdGhlIHVzZXIgc3BlY2lmaWVkIGluIHRoZSAibmFtZSIgcGFyYW1ldGVyCiAgICAgICAgICBzY2hlbWE6CiAgICAgICAgICAgIHR5cGU6ICJzdHJpbmciCiAgICAgIHRhZ3M6CiAgICAgIC0gImRlZmF1bHRfY29udHJvbGxlciIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QVdTX0tFWSA9ICdDSEFOR0VNRScKQVdTX1NFQ1JFVCA9ICdDSEFOR0VNRScKRVNfSE9TVCA9IHsnaG9zdCc6CiAgICAgICAgICAgICAgICdDSEFOR0VNRScsCiAgICAgICAgICAgInBvcnQiOiA0NDN9Cg==</text>
+        <text encoding="base64">IyBUT0RPOiBVc2Ugc2VjcmV0cyBzZXJ2aWNlISEhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QVdTX0tFWSA9ICdBS0lBSlZHRFRGRk1VTlVYRkRJQScKQVdTX1NFQ1JFVCA9ICdZVkgrdjh5MGJLcHZpenFib0E4bTFCcndBcnpBTS90OEZZcG5wWU9NJwpFU19IT1NUID0geydob3N0JzogCiAgICAgICAgICAgICAgICdzZWFyY2gtdm9sbGV5Y3Jhd2wtcGh2b2hrM2hzNHNjZHlzNWZteDJzcmlmeHEudXMtd2VzdC0yLmVzLmFtYXpvbmF3cy5jb20nLAogICAgICAgICAgICJwb3J0IjogNDQzfQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>'YVH+v8y0bKpvizqboA8m1BrwArzAM/t8FYpnpYOM'</text>
-      </register>
-      <register name="6" type="4">
-        <text>'AKIAJVGDTFFMUNUXFDIA'</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">QVdTX0tFWSA9ICdDSEFOR0VNRScKQVdTX1NFQ1JFVCA9ICdDSEFOR0VNRScKRVNfSE9TVCA9IHsnaG9zdCc6CiAgICAgICAgICAgICAgICdDSEFOR0VNRScsCiAgICAgICAgICAgInBvcnQiOiA0NDN9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QVdTX0tFWSA9ICdBS0lBSlZHRFRGRk1VTlVYRkRJQScKQVdTX1NFQ1JFVCA9ICdZVkgrdjh5MGJLcHZpenFib0E4bTFCcndBcnpBTS90OEZZcG5wWU9NJwpFU19IT1NUID0geydob3N0JzogCiAgICAgICAgICAgICAgICdzZWFyY2gtdm9sbGV5Y3Jhd2wtcGh2b2hrM2hzNHNjZHlzNWZteDJzcmlmeHEudXMtd2VzdC0yLmVzLmFtYXpvbmF3cy5jb20nLAogICAgICAgICAgICJwb3J0IjogNDQzfQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>'YVH+v8y0bKpvizqboA8m1BrwArzAM/t8FYpnpYOM'</text>
+      </register>
+      <register name="8" type="4">
+        <text>'AKIAJVGDTFFMUNUXFDIA'</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
