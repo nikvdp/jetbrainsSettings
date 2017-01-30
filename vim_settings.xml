@@ -263,12 +263,11 @@
         <mark key="^" line="47" column="1" />
         <mark key="." line="47" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/personal/sluffer/controllers/slack.py" timestamp="1485750488167">
-        <mark key="'" line="4" column="27" />
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="53" />
-        <mark key="." line="7" column="42" />
+      <file name="$USER_HOME$/Code/personal/sluffer/controllers/slack.py" timestamp="1485753766037">
+        <mark key="'" line="36" column="25" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda2/envs/relex/lib/python2.7/site-packages/spacy/en/__init__.py" timestamp="1484871988703">
         <mark key="[" line="59" column="20" />
@@ -806,16 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="62" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="166" column="22" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="17" column="10" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/classifier.py" />
-      <jump line="221" column="38" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/spacy_preprocess.py" />
-      <jump line="184" column="4" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/spacy_preprocess.py" />
-      <jump line="206" column="29" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/spacy_preprocess.py" />
-      <jump line="83" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/spacy_preprocess.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="199" column="51" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="1" column="12" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="234" column="31" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="225" column="24" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
@@ -906,13 +895,23 @@
       <jump line="202" column="2" filename="$USER_HOME$/Code/personal/sluffer/swagger/swagger.yaml" />
       <jump line="112" column="33" filename="$USER_HOME$/Code/personal/sluffer/swagger/swagger.yaml" />
       <jump line="104" column="6" filename="$USER_HOME$/Code/personal/sluffer/swagger/swagger.yaml" />
+      <jump line="11" column="7" filename="$USER_HOME$/Code/personal/sluffer/controllers/slack.py" />
+      <jump line="8" column="3" filename="$USER_HOME$/Code/personal/sluffer/controllers/slack.py" />
+      <jump line="27" column="15" filename="$USER_HOME$/Code/personal/sluffer/controllers/slack.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/personal/sluffer/controllers/slack.py" />
+      <jump line="28" column="20" filename="$USER_HOME$/Code/personal/sluffer/controllers/slack.py" />
+      <jump line="2" column="16" filename="$USER_HOME$/Code/personal/sluffer/controllers/slack.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/personal/sluffer/controllers/slack.py" />
+      <jump line="22" column="3" filename="$USER_HOME$/Code/personal/sluffer/controllers/slack.py" />
+      <jump line="24" column="7" filename="$USER_HOME$/Code/personal/sluffer/controllers/slack.py" />
+      <jump line="35" column="25" filename="$USER_HOME$/Code/personal/sluffer/controllers/slack.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIG1vZGVsX2ZpbGUgPSBvcy5wYXRoLnJlYWxwYXRoKG9zLnBhdGguam9pbihkYXRhc2V0X2ZvbGRlciwgTU9ERUxfRk4pKQoKICAgIHdpdGggb3Blbihtb2RlbF9maWxlLCAidyIpIGFzIG1vZGVsX2ZwOgogICAgICAgIHBpY2tsZS5kdW1wKG1vZGVsLCBtb2RlbF9mcCkKCiAgICBleHBlY3RlZCA9IGRhdGFzZXQudGFyZ2V0CiAgICBwcmVkaWN0ZWQgPSBtb2RlbC5wcmVkaWN0KGRhdGFzZXQuZGF0YSkKICAgIHByaW50ICJcbk1ldHJpY3M6IgogICAgcHJpbnQobWV0cmljcy5jbGFzc2lmaWNhdGlvbl9yZXBvcnQoZXhwZWN0ZWQsIHByZWRpY3RlZCkpCiAgICBwcmludCAiTW9kZWwgc2F2ZWQgdG8gJXMhIiAlIG1vZGVsX2ZpbGUK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAiVGVsbCBtZSB3aGVyZSB0byBzZW5kIHlvdXIgbWVzc2FnZSBieSBpbmRpY2F0aW5nIGEgdXNlciAiIFwKICAgICAgICAgICAgICAgICAib3IgY2hhbm5lbCB3aXRoIEAgb3IgIyFcblxuIiArIFwKICAgICAgICAgICAgICAgICB1c2FnZQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>other_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1306,7 +1305,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>other_</text>
+        <text>text.split(&quot; &quot;)[0] not in &quot;#@&quot;:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmxpbmVfcmVzcG9uc2VfMjAwXD4=</text>
@@ -1315,31 +1314,31 @@
         <text encoding="base64">ICAgICAgICAyMDA6CiAgICAgICAgICBkZXNjcmlwdGlvbjogIk9LIgogICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAkcmVmOiAiIy9kZWZpbml0aW9ucy9pbmxpbmVfcmVzcG9uc2VfMjAwIgogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICBkZXNjcmlwdGlvbjogInVuZXhwZWN0ZWQgZXJyb3IiCiAgICAgICAgICBzY2hlbWE6CiAgICAgICAgICAgICRyZWY6ICIjL2RlZmluaXRpb25zL2Vycm9yTW9kZWwiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG90aGVyX3BhcmFtcyA9IHBhcmFtcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAyMDA6CiAgICAgICAgICBzY2hlbWE6CiAgICAgICAgICAgICRyZWY6ICIjL2RlZmluaXRpb25zL2lubGluZV9yZXNwb25zZV8yMDAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGVmIHZhbGlkYXRlX21zZyh1c2VyLCBtZXNzYWdlLCB0aW1lX3R4dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjaGVtYToKICAgICAgICAgICAgdHlwZTogInN0cmluZyIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2VzOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAiVGVsbCBtZSB3aGVyZSB0byBzZW5kIHlvdXIgbWVzc2FnZSBieSBpbmRpY2F0aW5nIGEgdXNlciAiIFwKICAgICAgICAgICAgICAgICAib3IgY2hhbm5lbCB3aXRoIEAgb3IgIyFcblxuIiArIFwKICAgICAgICAgICAgICAgICB1c2FnZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">ICAgIHInKFtAI11bQS16XSspICIoW14iXSspIiAoLiopJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHByaW50LnBmb3JtYXQoKQo=</text>
+        <text encoding="base64">ICAgIGlmIHRleHQuc3BsaXQoIiAiKVswXSBub3QgaW4gIiNAIjoKICAgICAgICByZXN1bHQgPSAiVGVsbCBtZSB3aGVyZSB0byBzZW5kIHlvdXIgbWVzc2FnZSBieSBpbmRpY2F0aW5nIGEgdXNlciAiIFwKICAgICAgICAgICAgICAgICAib3IgY2hhbm5lbCB3aXRoIEAgb3IgIyFcblxuIiArIFwKICAgICAgICAgICAgICAgICB1c2FnZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHVzZXIsIG1lc3NhZ2UsIHRpbWVfdHh0ID0gbXNnX3JlZ2V4cC5tYXRjaCh0ZXh0KS5ncm91cHMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN1bWVzOiAKICAgIC0gImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCIK</text>
+        <text encoding="base64">ICAgIG1zZ19yZWdleHAgPSByZS5jb21waWxlKCcoW0AjXVtBLXpdKykgIihbXiJdKykiICguKiknKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
