@@ -25,7 +25,7 @@
         <mark key="^" line="50" column="36" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1485824805047">
+      <file name="/a.dummy" timestamp="1485828460729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -133,6 +133,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="30" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/spacy.py" timestamp="1485828157102">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/tests/apply-arbitration-to-meta-schema.test.js" timestamp="1473808293353">
         <mark key="[" line="107" column="29" />
@@ -253,6 +259,13 @@
         <mark key="." line="31" column="40" />
         <mark key="^" line="31" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" timestamp="1485828431208">
+        <mark key="'" line="3" column="20" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/.editorconfig" timestamp="1473813929085">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -286,6 +299,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="8" column="48" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/nlp.py" timestamp="1485828428096">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/services/add-rule-to-db.js" timestamp="1479262943751">
         <mark key="'" line="31" column="4" />
@@ -527,14 +547,6 @@
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/classifier.py" timestamp="1485135246014">
-        <mark key="a" line="98" column="36" />
-        <mark key="'" line="85" column="88" />
-        <mark key="[" line="83" column="9" />
-        <mark key="]" line="83" column="12" />
-        <mark key="^" line="83" column="12" />
-        <mark key="." line="83" column="12" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter2/src/App.js" timestamp="1469762709519">
         <mark key="[" line="10" column="36" />
@@ -800,12 +812,11 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/vine.py" timestamp="1485827755934">
-        <mark key="'" line="86" column="22" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="163" column="17" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/vine.py" timestamp="1485828131205">
+        <mark key="'" line="84" column="22" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-named-entity-data-to-meta-schema.js" timestamp="1473988555090">
         <mark key="'" line="63" column="37" />
@@ -837,11 +848,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/__init__.py" />
-      <jump line="9" column="6" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_spacy_preprocess.py" />
-      <jump line="13" column="13" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_spacy_preprocess.py" />
-      <jump line="319" column="52" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
-      <jump line="301" column="30" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/featurize.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/personal/sluffer/controllers/default_controller.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/personal/sluffer/controllers/default_controller.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Code/personal/sluffer/swagger/swagger.yaml" />
@@ -937,13 +943,18 @@
       <jump line="237" column="14" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
       <jump line="106" column="43" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
       <jump line="88" column="22" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
+      <jump line="1" column="16" filename="$USER_HOME$/Code/work/volley/repos/vine/spacy.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/spacy.py" />
+      <jump line="2" column="14" filename="$USER_HOME$/Code/work/volley/repos/vine/nlp.py" />
+      <jump line="3" column="20" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" />
+      <jump line="24" column="6" filename="$USER_HOME$/Code/work/volley/repos/vine/nlp.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ZGVmIGxlbW1hdGl6ZV9nbG9zc2FyeShnbG9zc2FyeSwgbmxwKToKICAgIGZvciBlbnRyeSBpbiBnbG9zc2FyeS5lbnRyaWVzOgogICAgICAgIHRlcm0gPSBlbnRyeVsndGVybSddCiAgICAgICAgZW50cnlbJ2xlbW1hJ10gPSBsZW1tYXRpemUodGVybSwgbmxwKQoKZGVmIGxlbW1hdGl6ZV9zeW5zZXRzKHN5bnNldHMsIG5scCk6CiAgICBmb3IgZW50cnkgaW4gc3luc2V0c1snZW50cmllcyddOgogICAgICAgIHRlcm1zID0gZW50cnlbJ3Rlcm1zJ10KICAgICAgICBlbnRyeVsnbGVtbWFzJ10gPSBbbGVtbWF0aXplKHRlcm0sIG5scCkgZm9yIHRlcm0gaW4gdGVybXNdCgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAnTG9hZGluZyBzcGFDeSBFbmdsaXNoIG1vZGVsLi4uICcsCiAgICAgICAgc3lzLnN0ZG91dC5mbHVzaCgpCiAgICAgICAgZ2xvYmFsIG5scAogICAgICAgIG5scCA9IEVuZ2xpc2goKQogICAgICAgIHByaW50ICJET05FIgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpc19ubHAK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1005,49 +1016,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>']</text>
+        <text>create_new_nlp()</text>
       </register>
       <register name="/" type="4">
-        <text>\[['&quot;]\([^'&quot;]\+\)['&quot;]\]</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBhZGRfZW50cmllcyhzZWxmLCBlbnRyaWVzKToKICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShlbnRyaWVzLCBsaXN0KQogICAgICAgIGZvciBlbnRyeSBpbiBlbnRyaWVzOgogICAgICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShlbnRyeSwgR2xvc3NhcnlFbnRyeSkKICAgICAgICAjIGlmIHdlIHJlYWxseSBhcmUgcHJvdmlkZWQgYSBsaXN0IG9mIEdsb3NhcnlFbnRyeSBvYmplY3RzLAogICAgICAgICMgdGhlbiBnbyBhaGVhZCBhbmQgYWRkIHRoZW0gdG8gdGhpcyBnbG9zc2FyeQogICAgICAgIHNlbGYuZW50cmllcy5leHRlbmQoZW50cmllcykKCiAgICBkZWYgYWRkX2VudHJ5KHNlbGYsIGVudHJ5KToKICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShlbnRyeSwgR2xvc3NhcnlFbnRyeSkKICAgICAgICBzZWxmLmVudHJpZXMuYXBwZW5kKGVudHJ5KQoKICAgIGRlZiB0b19kaWN0KHNlbGYpOgogICAgICAgIG91dCA9IHsKICAgICAgICAgICAgImlkIjogaWQsCiAgICAgICAgICAgICJlbnRyaWVzIjogW3MudG9fZGljdCgpIGZvciBzIGluIHNlbGYuZW50cmllc10sCiAgICAgICAgfQogICAgICAgIGlmIHNlbGYubmFtZToKICAgICAgICAgICAgb3V0WyduYW1lJ10gPSBzZWxmLm5hbWUKCiAgICAgICAgcmV0dXJuIG91dAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpc19ubHAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzX25scCA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXNfbmxwID0gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkZWZuOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkZWZuOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBnbG9iYWwgc3BhY3lfaW5zdGFuY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzX25scCA9IGNyZWF0ZV9uZXdfbmxwKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICBnbG9iYWwgbmxwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50ICdMZW1tYXRpemluZyBzeW5zZXRzJwogICAgbGVtbWF0aXplX3N5bnNldHMoc3luc2V0cywgbmxwKQo=</text>
+        <text encoding="base64">ZnJvbSBzcGFjeS5lbiBpbXBvcnQgRW5nbGlzaAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\[['&quot;]\([^'&quot;]\+\)['&quot;]\]</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>\[['&quot;]\([^'&quot;]\+\)['&quot;]\]</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>\.\1</last-replace>
       <last-substitute>\[['&quot;]\([^'&quot;]\+\)['&quot;]\]</last-substitute>
       <last-dir>1</last-dir>
@@ -1055,7 +1066,6 @@
     </search>
     <history>
       <history-search>
-        <entry>model.pickle</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV90YXJnZXRcPg==</entry>
         <entry>,</entry>
         <entry>..</entry>
@@ -1070,11 +1080,12 @@
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxdXD4=</entry>
         <entry>loading spacy</entry>
-        <entry>nlp</entry>
         <entry>\[['&quot;]</entry>
         <entry>\[['&quot;][^'&quot;]+['&quot;]\]</entry>
         <entry>\[['&quot;][^'&quot;]\+['&quot;]\]</entry>
         <entry>\[['&quot;]\([^'&quot;]\+\)['&quot;]\]</entry>
+        <entry>nlp</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>set shiftwidth=2</entry>
@@ -1093,9 +1104,9 @@
         <entry encoding="base64">JzwsJz5zL2xvZ2dlci5jcml0aWNhbC9sb2dnZXIuaW5mby9n</entry>
         <entry encoding="base64">JzwsJz5zL3R5cGUgOi90eXBlOj9n</entry>
         <entry encoding="base64">JzwsJz5zL3R5cGUgOi90eXBlOi9n</entry>
-        <entry>wa</entry>
         <entry>%s//\.\1/gc</entry>
         <entry encoding="base64">JzwsJz5zLy9cLlwxL2c=</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
