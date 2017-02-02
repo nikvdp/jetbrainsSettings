@@ -211,12 +211,13 @@
         <mark key="." line="149" column="106" />
         <mark key="^" line="149" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486077985068">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486078801601">
+        <mark key="a" line="30" column="3" />
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="23" />
-        <mark key="." line="36" column="23" />
-        <mark key="^" line="36" column="23" />
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="73" />
+        <mark key="." line="38" column="73" />
+        <mark key="^" line="38" column="73" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" timestamp="1474412422785">
         <mark key="'" line="3" column="7" />
@@ -994,11 +995,11 @@
       <jump line="60" column="15" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="71" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="59" column="41" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="28" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="633" column="4" filename="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/sqlalchemy/ext/declarative/base.py" />
       <jump line="650" column="0" filename="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/sqlalchemy/ext/declarative/base.py" />
+      <jump line="27" column="3" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1006,7 +1007,7 @@
                                                source=source</text>
       </register>
       <register name="&quot;" type="4">
-        <text>init</text>
+        <text>for f in req</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1068,7 +1069,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>init</text>
+        <text>for f in req</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZGVjbGFyYXRpdmVfY29uc3RydWN0b3JcPg==</text>
@@ -1080,28 +1081,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QmFzZSA9IGRlY2xhcmF0aXZlX2Jhc2UoaW5pdD1hc3NlcnRpb25fc3BlY192YWxpZGF0b3IpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QmFzZSA9IGRlY2xhcmF0aXZlX2Jhc2UoaW5pdD1hc3NlcnRpb25fc3BlY192YWxpZGF0b3IpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">QmFzZSA9IGRlY2xhcmF0aXZlX2Jhc2UoaW5pdD1hc3NlcnRpb25fc3BlY192YWxpZGF0b3IpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">QmFzZSA9IGRlY2xhcmF0aXZlX2Jhc2UoaW5pdD1hc3NlcnRpb25fc3BlY192YWxpZGF0b3IpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBpbXBvcnRlciA9IENvbHVtbihTdHJpbmcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZGV0ZXJtaW5pc3RpYyByZXByZXNlbnRhdGlvbiBvZiB0aGUgaW1wb3J0ZXIgdGhhdCB3YXMgdXNlZCB0byBnZW5lcmF0ZSB0aGlzCiAgICAjIGFzc2VydGlvbi4KICAgICMKICAgICMgVGhpcyBzaG91bGQgYmUgZGVzY3JpcHRpdmUgZW5vdWdoIHRvIGhlbHAgc29tZW9uZQogICAgIyBlbHNlIHJlcGxpY2F0ZSB0aGUgc2FtZSBydW4uIGUuZy4KICAgICMgInJ1biBgdm9sbGV5bGFicy9pbXBvcnRlcnMvc2NyaXB0MS5weSAtZiB0ZXh0LnR4dGAgd2hlcmUKICAgICMgdGV4dC50eHQgaXMKICAgICMgZ2l0aHViLmNvbS92b2xsZXlsYWJzL3NvbWVyZXBvL3NvbWVfZGF0YV9maWxlLnR4dCIK</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgICMgCiAgICAjIAogICAgIyAKICAgICMg</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICBpbXBvcnRlciA9IENvbHVtbihTdHJpbmcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjCg==</text>
+        <text encoding="base64">ICAgICMgZGV0ZXJtaW5pc3RpYyByZXByZXNlbnRhdGlvbiBvZiB0aGUgaW1wb3J0ZXIgdGhhdCB3YXMgdXNlZCB0byBnZW5lcmF0ZSB0aGlzCiAgICAjIGFzc2VydGlvbi4KICAgICMKICAgICMgVGhpcyBzaG91bGQgYmUgZGVzY3JpcHRpdmUgZW5vdWdoIHRvIGhlbHAgc29tZW9uZQogICAgIyBlbHNlIHJlcGxpY2F0ZSB0aGUgc2FtZSBydW4uIGUuZy4KICAgICMgInJ1biBgdm9sbGV5bGFicy9pbXBvcnRlcnMvc2NyaXB0MS5weSAtZiB0ZXh0LnR4dGAgd2hlcmUKICAgICMgdGV4dC50eHQgaXMKICAgICMgZ2l0aHViLmNvbS92b2xsZXlsYWJzL3NvbWVyZXBvL3NvbWVfZGF0YV9maWxlLnR4dCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
