@@ -175,12 +175,9 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1485999034511">
-        <mark key="'" line="19" column="27" />
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="6" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486000379623">
+        <mark key="'" line="34" column="67" />
+        <mark key="^" line="34" column="67" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_augmented_dep_graph.py" timestamp="1485155972159">
         <mark key="[" line="4" column="37" />
@@ -549,12 +546,12 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/base_types.py" timestamp="1485975616922">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/base_types.py" timestamp="1486000551908">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="21" column="16" />
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="13" column="41" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter2/src/App.js" timestamp="1469762709519">
         <mark key="[" line="10" column="36" />
@@ -883,9 +880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="4" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="111" column="12" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="48" column="20" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
       <jump line="46" column="24" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
       <jump line="49" column="21" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
       <jump line="60" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
@@ -980,9 +974,12 @@
       <jump line="18" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="17" column="19" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="28" column="4" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="22" column="32" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="19" column="27" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="2" column="5" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="28" column="55" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="36" column="20" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="35" column="67" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -990,7 +987,7 @@
                                                source=source</text>
       </register>
       <register name="&quot;" type="4">
-        <text>..</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1052,7 +1049,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>..</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>_lemma</text>
@@ -1061,31 +1058,31 @@
         <text>babel_entry.get(&quot;open_stax&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGdldF90ZXJtKGJhYmVsX2VudHJ5KToKICAgIHJldHVybiBiYWJlbF9lbnRyeS5nZXQoIm9wZW5fc3RheCIpLmdldCgibmFtZSIpIG9yIFwKICAgICAgICAgICBiYWJlbF9lbnRyeS5nZXQoImNhbXBiZWxscyIpLmdldCgibmFtZSIpCgpkZWYgZ2V0X3N5bnMoYmFiZWxfZW50cnkpOgo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGEgPSB7fQogICAgYS5nZXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdldF90ZXJtKGJhYmVsX2VudHJ5KToKICAgIHJldHVybiBiYWJlbF9lbnRyeS5nZXQoIm9wZW5fc3RheCIpLmdldCgibmFtZSIpIG9yIFwKICAgICAgICAgICBiYWJlbF9lbnRyeS5nZXQoImNhbXBiZWxscyIpLmdldCgibmFtZSIpCgpkZWYgZ2V0X3N5bnMoYmFiZWxfZW50cnkpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAogICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
