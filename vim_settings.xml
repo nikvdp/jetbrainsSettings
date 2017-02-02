@@ -22,7 +22,7 @@
         <mark key="^" line="50" column="36" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1485988268941">
+      <file name="/a.dummy" timestamp="1486063548605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -67,6 +67,12 @@
         <mark key="." line="87" column="108" />
         <mark key="^" line="87" column="108" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/input_source_types.py" timestamp="1486064357413">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="34" />
+        <mark key="^" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/pdf-book-parser/README.md" timestamp="1471468991666">
         <mark key="[" line="15" column="72" />
         <mark key="]" line="15" column="72" />
@@ -100,13 +106,13 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486062015315">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486065126805">
         <mark key="a" line="73" column="4" />
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="16" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="9" column="16" />
+        <mark key="'" line="29" column="31" />
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="35" />
+        <mark key="^" line="36" column="71" />
+        <mark key="." line="35" column="35" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/requirements.txt" timestamp="1472523641053">
         <mark key="[" line="3" column="7" />
@@ -882,14 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="24" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="49" column="21" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="60" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="64" column="18" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="78" column="21" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="86" column="32" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="87" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="100" column="23" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
       <jump line="127" column="23" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
       <jump line="237" column="14" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
       <jump line="88" column="22" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
@@ -947,7 +945,6 @@
       <jump line="4" column="57" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="45" column="54" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
-      <jump line="1" column="2" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="46" column="40" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="44" column="26" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
@@ -982,6 +979,15 @@
       <jump line="28" column="55" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="36" column="20" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="35" column="67" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="26" column="44" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="22" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="14" column="33" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="39" column="37" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="34" column="83" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="23" column="50" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="11" column="41" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="29" column="31" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -989,7 +995,7 @@
                                                source=source</text>
       </register>
       <register name="&quot;" type="4">
-        <text>InputSource</text>
+        <text encoding="base64">aW5wdXRmaWxlIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1051,40 +1057,41 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>InputSource</text>
+        <text encoding="base64">aW5wdXRmaWxlIA==</text>
       </register>
       <register name="/" type="4">
         <text>_lemma</text>
       </register>
       <register name="0" type="4">
-        <text>babel_entry.get(&quot;open_stax&quot;)</text>
+        <text>source_name=&quot;Campbell's Biology&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gaW1wb3J0ZXJfaWQ6IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGEgPSB7fQogICAgYS5nZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHR5cGU6IChvYmplY3QsIG9iamVjdCwgb2JqZWN0LCBvYmplY3QpIC0+IG9iamVjdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNvdXJjZV9pZCA9IHNvdXJjZV9pZCBvciB1dWlkMSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdldF90ZXJtKGJhYmVsX2VudHJ5KToKICAgIHJldHVybiBiYWJlbF9lbnRyeS5nZXQoIm9wZW5fc3RheCIpLmdldCgibmFtZSIpIG9yIFwKICAgICAgICAgICBiYWJlbF9lbnRyeS5nZXQoImNhbXBiZWxscyIpLmdldCgibmFtZSIpCgpkZWYgZ2V0X3N5bnMoYmFiZWxfZW50cnkpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2FtcGJlbGxzID0gVGV4dEJvb2tTb3VyY2Uoc291cmNlX25hbWU9IkNhbXBiZWxsJ3MgQmlvbG9neSIsIGVkaXRpb249IjEwdGgiKQpvcGVuc3RheCA9IFRleHRCb29rU291cmNlKHNvdXJjZV9uYW1lPSJPcGVuc3RheCIpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgIAo=</text>
+      <register name="7" type="4">
+        <text>[TextBookSource(source_name=&quot;Campbell's Biology&quot;, edition=&quot;8th&quot;),
+               TextBookSource(&quot;Campbels_8th&quot;, ]</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FtcGJlbGxzID0gVGV4dEJvb2tTb3VyY2Uoc291cmNlX25hbWU9IkNhbXBiZWxsJ3MgQmlvbG9neSIsIGVkaXRpb249MTB0aCkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
