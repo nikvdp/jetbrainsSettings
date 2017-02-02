@@ -106,13 +106,15 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486065126805">
-        <mark key="a" line="73" column="4" />
-        <mark key="'" line="29" column="31" />
-        <mark key="[" line="35" column="34" />
-        <mark key="]" line="35" column="35" />
-        <mark key="^" line="36" column="71" />
-        <mark key="." line="35" column="35" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486076294738">
+        <mark key="a" line="92" column="4" />
+        <mark key="'" line="46" column="0" />
+        <mark key="k" line="75" column="19" />
+        <mark key="[" line="60" column="0" />
+        <mark key="m" line="75" column="19" />
+        <mark key="]" line="60" column="12" />
+        <mark key="^" line="59" column="40" />
+        <mark key="." line="60" column="12" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/requirements.txt" timestamp="1472523641053">
         <mark key="[" line="3" column="7" />
@@ -183,9 +185,12 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486060612232">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486075577763">
         <mark key="'" line="34" column="67" />
-        <mark key="^" line="34" column="67" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_augmented_dep_graph.py" timestamp="1485155972159">
         <mark key="[" line="4" column="37" />
@@ -888,15 +893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="23" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="237" column="14" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="88" column="22" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="1" column="16" filename="$USER_HOME$/Code/work/volley/repos/vine/spacy.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/spacy.py" />
-      <jump line="2" column="14" filename="$USER_HOME$/Code/work/volley/repos/vine/nlp.py" />
-      <jump line="3" column="20" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" />
-      <jump line="24" column="6" filename="$USER_HOME$/Code/work/volley/repos/vine/nlp.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/elastic.py" />
       <jump line="81" column="74" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" />
       <jump line="82" column="65" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" />
       <jump line="87" column="24" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" />
@@ -945,12 +941,10 @@
       <jump line="4" column="57" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="45" column="54" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
-      <jump line="46" column="40" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="44" column="26" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="56" column="20" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="40" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
-      <jump line="63" column="36" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="72" column="4" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="49" column="4" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="74" column="20" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
@@ -963,7 +957,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/co_occurrence.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/co_occurrence.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="16" column="25" filename="$USER_HOME$/Code/work/volley/repos/vine/co_occurrence.py" />
       <jump line="139" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/co_occurrence.py" />
       <jump line="137" column="10" filename="$USER_HOME$/Code/work/volley/repos/vine/co_occurrence.py" />
@@ -980,22 +973,34 @@
       <jump line="36" column="20" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="35" column="67" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
-      <jump line="26" column="44" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
-      <jump line="22" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="14" column="33" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="39" column="37" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="34" column="83" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
-      <jump line="23" column="50" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="11" column="41" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="29" column="31" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="22" column="19" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="26" column="17" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="60" column="38" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="38" column="85" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="48" column="69" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="23" column="10" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="52" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="53" column="58" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="62" column="23" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="63" column="41" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="25" column="41" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="59" column="61" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>term=term, term_lemma=term_lemma,
                                                source=source</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW5wdXRmaWxlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRfaWQgPSBzZWdtZW50X2lkIG9yIHV1aWQxKCkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1057,58 +1062,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5wdXRmaWxlIA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>_lemma</text>
+        <text>\([^=+]\)[^,]+,</text>
       </register>
       <register name="0" type="4">
-        <text>source_name=&quot;Campbell's Biology&quot;</text>
+        <text>self, source_name=None, segment_id=None, source_id=None,
+                 importer_id=None</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRfaWQgPSBzZWdtZW50X2lkIG9yIHV1aWQxKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gaW1wb3J0ZXJfaWQ6IAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRfaWQgPSBzZWdtZW50X2lkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHR5cGU6IChvYmplY3QsIG9iamVjdCwgb2JqZWN0LCBvYmplY3QpIC0+IG9iamVjdAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRfaWQgPSBzZWdtZW50X2lkIG9yIHV1aWQxKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNvdXJjZV9pZCA9IHNvdXJjZV9pZCBvciB1dWlkMSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VnbWVudGF0aW9uX3R5cGUgYW5kIChzZWdtZW50X2lkIGlzIG5vdCBOb25lKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VnbWVudGF0aW9uX3R5cGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2FtcGJlbGxzID0gVGV4dEJvb2tTb3VyY2Uoc291cmNlX25hbWU9IkNhbXBiZWxsJ3MgQmlvbG9neSIsIGVkaXRpb249IjEwdGgiKQpvcGVuc3RheCA9IFRleHRCb29rU291cmNlKHNvdXJjZV9uYW1lPSJPcGVuc3RheCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3MK</text>
       </register>
-      <register name="7" type="4">
-        <text>[TextBookSource(source_name=&quot;Campbell's Biology&quot;, edition=&quot;8th&quot;),
-               TextBookSource(&quot;Campbels_8th&quot;, ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRhdGlvbl90eXBlID0gc2VnbWVudGF0aW9uX3R5cGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VnbWVudGF0aW9uX3R5cGU9c2VnbWVudGF0aW9uX3R5cGUsCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y2FtcGJlbGxzID0gVGV4dEJvb2tTb3VyY2Uoc291cmNlX25hbWU9IkNhbXBiZWxsJ3MgQmlvbG9neSIsIGVkaXRpb249MTB0aCkKCg==</text>
+      <register name="9" type="4">
+        <text>source_name, segment_id, segmentation_type,
+                                             source_id, importer_id</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL1woW149K11cKVteLF0rLC9cMT1cMSwvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>_lemma</last-search>
+      <last-search>\([^=+]\)[^,]+,</last-search>
       <last-offset />
-      <last-pattern>_lemma</last-pattern>
-      <last-replace>,\r</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern>\([^=+]\)[^,]+,</last-pattern>
+      <last-replace>\1=\1,</last-replace>
+      <last-substitute>\([^=+]\)[^,]+,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxERUZBVUxUX1NFQ1RJT05fTEVOXD4=</entry>
         <entry>src_</entry>
         <entry>&quot;NOUN&quot;</entry>
         <entry>logger.critical</entry>
@@ -1128,9 +1133,9 @@
         <entry encoding="base64">XDwzXD4=</entry>
         <entry encoding="base64">XDxiYWJlbF9lbnRyeVw+</entry>
         <entry>_lemma</entry>
+        <entry>\([^=+]\)[^,]+,</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zIS9zdGF0aWMhc3RhdGljIWc=</entry>
         <entry encoding="base64">JzwsJz4hIi8hIi9xZ3AtYWRtaW4vIWc=</entry>
@@ -1150,6 +1155,7 @@
         <entry>wa</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL1woW149K11cKVteLF0rLC9cMT1cMSwvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
