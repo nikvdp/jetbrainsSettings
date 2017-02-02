@@ -100,11 +100,13 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1485997673523">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486061938719">
         <mark key="a" line="73" column="4" />
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="32" column="6" />
-        <mark key="]" line="32" column="21" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="11" column="12" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/requirements.txt" timestamp="1472523641053">
         <mark key="[" line="3" column="7" />
@@ -175,7 +177,7 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486000379623">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486060612232">
         <mark key="'" line="34" column="67" />
         <mark key="^" line="34" column="67" />
       </file>
@@ -185,7 +187,7 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/store_assertions.py" timestamp="1485917042958">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/store_assertions.py" timestamp="1486060992397">
         <mark key="'" line="10" column="15" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -987,7 +989,7 @@
                                                source=source</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>source is not None</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1049,7 +1051,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>source is not None</text>
       </register>
       <register name="/" type="4">
         <text>_lemma</text>
