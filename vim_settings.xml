@@ -106,13 +106,13 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486076294738">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486077180097">
         <mark key="a" line="92" column="4" />
         <mark key="'" line="46" column="0" />
         <mark key="k" line="75" column="19" />
-        <mark key="[" line="60" column="0" />
+        <mark key="[" line="35" column="34" />
         <mark key="m" line="75" column="19" />
-        <mark key="]" line="60" column="12" />
+        <mark key="]" line="40" column="83" />
         <mark key="^" line="59" column="40" />
         <mark key="." line="60" column="12" />
       </file>
@@ -211,11 +211,12 @@
         <mark key="." line="149" column="106" />
         <mark key="^" line="149" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1485976015988">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="22" column="14" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486077985068">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="36" column="23" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" timestamp="1474412422785">
         <mark key="'" line="3" column="7" />
@@ -748,6 +749,11 @@
         <mark key="." line="6" column="40" />
         <mark key="^" line="6" column="40" />
       </file>
+      <file name="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/sqlalchemy/ext/declarative/base.py" timestamp="1486077960544">
+        <mark key="'" line="650" column="0" />
+        <mark key="[" line="643" column="0" />
+        <mark key="]" line="649" column="34" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/swagger/swagger.yaml" timestamp="1482436144761">
         <mark key="'" line="75" column="49" />
         <mark key="[" line="87" column="0" />
@@ -893,16 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="74" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" />
-      <jump line="82" column="65" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" />
-      <jump line="87" column="24" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" />
-      <jump line="106" column="30" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" />
-      <jump line="9" column="13" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" />
-      <jump line="74" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/vine.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters.py" />
       <jump line="37" column="6" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters.py" />
@@ -993,14 +989,24 @@
       <jump line="25" column="41" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="59" column="61" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="46" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="69" column="2" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="60" column="15" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="59" column="41" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="28" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="633" column="4" filename="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/sqlalchemy/ext/declarative/base.py" />
+      <jump line="650" column="0" filename="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/sqlalchemy/ext/declarative/base.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>term=term, term_lemma=term_lemma,
                                                source=source</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRfaWQgPSBzZWdtZW50X2lkIG9yIHV1aWQxKCkK</text>
+      <register name="&quot;" type="4">
+        <text>init</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1062,51 +1068,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>init</text>
       </register>
       <register name="/" type="4">
-        <text>\([^=+]\)[^,]+,</text>
+        <text encoding="base64">XDxfZGVjbGFyYXRpdmVfY29uc3RydWN0b3JcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>self, source_name=None, segment_id=None, source_id=None,
-                 importer_id=None</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNsc18gPSB0eXBlKHNlbGYpCiAgICBmb3IgayBpbiBrd2FyZ3M6CiAgICAgICAgaWYgbm90IGhhc2F0dHIoY2xzXywgayk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcigKICAgICAgICAgICAgICAgICIlciBpcyBhbiBpbnZhbGlkIGtleXdvcmQgYXJndW1lbnQgZm9yICVzIiAlCiAgICAgICAgICAgICAgICAoaywgY2xzXy5fX25hbWVfXykpCiAgICAgICAgc2V0YXR0cihzZWxmLCBrLCBrd2FyZ3Nba10pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRfaWQgPSBzZWdtZW50X2lkIG9yIHV1aWQxKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRfaWQgPSBzZWdtZW50X2lkCg==</text>
+        <text encoding="base64">QmFzZSA9IGRlY2xhcmF0aXZlX2Jhc2UoaW5pdD1hc3NlcnRpb25fc3BlY192YWxpZGF0b3IpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRfaWQgPSBzZWdtZW50X2lkIG9yIHV1aWQxKCkK</text>
+        <text encoding="base64">QmFzZSA9IGRlY2xhcmF0aXZlX2Jhc2UoaW5pdD1hc3NlcnRpb25fc3BlY192YWxpZGF0b3IpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VnbWVudGF0aW9uX3R5cGUgYW5kIChzZWdtZW50X2lkIGlzIG5vdCBOb25lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VnbWVudGF0aW9uX3R5cGUK</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3MK</text>
+        <text encoding="base64">CiAgICBpbXBvcnRlciA9IENvbHVtbihTdHJpbmcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRhdGlvbl90eXBlID0gc2VnbWVudGF0aW9uX3R5cGUK</text>
+        <text encoding="base64">ICAgICMgZGV0ZXJtaW5pc3RpYyByZXByZXNlbnRhdGlvbiBvZiB0aGUgaW1wb3J0ZXIgdGhhdCB3YXMgdXNlZCB0byBnZW5lcmF0ZSB0aGlzCiAgICAjIGFzc2VydGlvbi4KICAgICMKICAgICMgVGhpcyBzaG91bGQgYmUgZGVzY3JpcHRpdmUgZW5vdWdoIHRvIGhlbHAgc29tZW9uZQogICAgIyBlbHNlIHJlcGxpY2F0ZSB0aGUgc2FtZSBydW4uIGUuZy4KICAgICMgInJ1biBgdm9sbGV5bGFicy9pbXBvcnRlcnMvc2NyaXB0MS5weSAtZiB0ZXh0LnR4dGAgd2hlcmUKICAgICMgdGV4dC50eHQgaXMKICAgICMgZ2l0aHViLmNvbS92b2xsZXlsYWJzL3NvbWVyZXBvL3NvbWVfZGF0YV9maWxlLnR4dCIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VnbWVudGF0aW9uX3R5cGU9c2VnbWVudGF0aW9uX3R5cGUsCg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAgICMgCiAgICAjIAogICAgIyAKICAgICMg</text>
       </register>
-      <register name="9" type="4">
-        <text>source_name, segment_id, segmentation_type,
-                                             source_id, importer_id</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyMjCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1woW149K11cKVteLF0rLC9cMT1cMSwvZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\([^=+]\)[^,]+,</last-search>
+      <last-search encoding="base64">XDxfZGVjbGFyYXRpdmVfY29uc3RydWN0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern>\([^=+]\)[^,]+,</last-pattern>
+      <last-pattern encoding="base64">XDxfZGVjbGFyYXRpdmVfY29uc3RydWN0b3JcPg==</last-pattern>
       <last-replace>\1=\1,</last-replace>
       <last-substitute>\([^=+]\)[^,]+,</last-substitute>
       <last-dir>1</last-dir>
@@ -1114,7 +1118,6 @@
     </search>
     <history>
       <history-search>
-        <entry>src_</entry>
         <entry>&quot;NOUN&quot;</entry>
         <entry>logger.critical</entry>
         <entry>type :</entry>
@@ -1134,6 +1137,7 @@
         <entry encoding="base64">XDxiYWJlbF9lbnRyeVw+</entry>
         <entry>_lemma</entry>
         <entry>\([^=+]\)[^,]+,</entry>
+        <entry encoding="base64">XDxfZGVjbGFyYXRpdmVfY29uc3RydWN0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
@@ -1154,8 +1158,8 @@
         <entry>s/,/,\r/g</entry>
         <entry>wa</entry>
         <entry>we</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL1woW149K11cKVteLF0rLC9cMT1cMSwvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
