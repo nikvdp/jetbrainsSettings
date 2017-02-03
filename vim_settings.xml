@@ -106,14 +106,14 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486081096482">
-        <mark key="'" line="71" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486082530025">
+        <mark key="'" line="74" column="0" />
         <mark key="k" line="65" column="19" />
-        <mark key="[" line="60" column="0" />
+        <mark key="[" line="72" column="8" />
         <mark key="m" line="65" column="19" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="71" column="7" />
+        <mark key="]" line="72" column="14" />
+        <mark key="." line="72" column="14" />
+        <mark key="^" line="72" column="14" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/requirements.txt" timestamp="1472523641053">
         <mark key="[" line="3" column="7" />
@@ -184,12 +184,12 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486080712174">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="39" column="32" />
-        <mark key="^" line="39" column="32" />
-        <mark key="." line="39" column="32" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486081613809">
+        <mark key="'" line="39" column="14" />
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="13" />
+        <mark key="^" line="39" column="13" />
+        <mark key="." line="39" column="13" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_augmented_dep_graph.py" timestamp="1485155972159">
         <mark key="[" line="4" column="37" />
@@ -211,12 +211,12 @@
         <mark key="." line="149" column="106" />
         <mark key="^" line="149" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486081486704">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486082289552">
         <mark key="'" line="19" column="51" />
-        <mark key="[" line="24" column="48" />
-        <mark key="]" line="24" column="49" />
-        <mark key="." line="24" column="48" />
-        <mark key="^" line="24" column="50" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" timestamp="1474412422785">
         <mark key="'" line="3" column="7" />
@@ -749,10 +749,10 @@
         <mark key="." line="6" column="40" />
         <mark key="^" line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/sqlalchemy/ext/declarative/base.py" timestamp="1486077960544">
+      <file name="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/sqlalchemy/ext/declarative/base.py" timestamp="1486082216651">
         <mark key="'" line="650" column="0" />
-        <mark key="[" line="643" column="0" />
-        <mark key="]" line="649" column="34" />
+        <mark key="[" line="650" column="0" />
+        <mark key="]" line="650" column="46" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/swagger/swagger.yaml" timestamp="1482436144761">
         <mark key="'" line="75" column="49" />
@@ -899,7 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters.py" />
       <jump line="8" column="26" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters.py" />
@@ -999,14 +998,15 @@
       <jump line="42" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="19" column="51" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="39" column="14" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>term=term, term_lemma=term_lemma,
                                                source=source</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2U9c291cmNlKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1068,40 +1068,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>__init__(term=term, term_lemma=term_lemma,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZGVjbGFyYXRpdmVfY29uc3RydWN0b3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYXNzZXJ0aW9uIGluIGFzc2VydGlvbnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihEZWZpbml0aW9uQXNzZXJ0aW9uLCBzZWxmKS5fX2luaXRfXyh0ZXJtPXRlcm0sIHRlcm1fbGVtbWE9dGVybV9sZW1tYSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2U9c291cmNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGFzc2VydGlvbiBpbiBhc3NlcnRpb25zLmdlbmVyYXRlX2RhdGFfYXNzZXJ0aW9ucygpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2U9c291cmNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gc2VsZi5zdGFydF9zZXNzaW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICBvdXQgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgc2Vzc2lvbiA9IHNlbGYuc3RhcnRfc2Vzc2lvbigpCiAgICAgICAgIyBUT0RPOiB1c2Ugc2Vzc2lvbi5hZGRfYWxsCiAgICAgICAgZm9yIGFzc2VydGlvbiBpbiBhc3NlcnRpb25zLmdlbmVyYXRlX2RhdGFfYXNzZXJ0aW9ucygpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhdHlwZXMuYmFzZV90eXBlcyBpbXBvcnQgVm9sbGV5QmFzZU9iamVjdAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgQXNzZXJ0aW9uKERpY3RMaWtlKToKICAgIHBhc3MK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIGFzc2VydGlvbl9zcGVjX3ZhbGlkYXRvcihzZWxmLCAqa3dhcmdzKToKICAgIGNsc18gPSB0eXBlKHNlbGYpCiAgICBmb3IgayBpbiBrd2FyZ3M6CiAgICAgICAgaWYgbm90IGhhc2F0dHIoY2xzXywgayk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcigKICAgICAgICAgICAgICAgICIlciBpcyBhbiBpbnZhbGlkIGtleXdvcmQgYXJndW1lbnQgZm9yICVzIiAlCiAgICAgICAgICAgICAgICAoaywgY2xzXy5fX25hbWVfXykpCiAgICAgICAgc2V0YXR0cihzZWxmLCBrLCBrd2FyZ3Nba10pCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YXNzZXJ0aW9uX3NwZWNfdmFsaWRhdG9yLl9fbmFtZV9fID0gJ19faW5pdF9fJwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">X2RlY2xhcmF0aXZlX2NvbnN0cnVjdG9yLl9fbmFtZV9fID0gJ19faW5pdF9fJwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QXNzZXJ0aW9uID0gVGVybUFzc2VydGlvbgo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
