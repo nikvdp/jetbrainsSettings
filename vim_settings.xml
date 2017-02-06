@@ -109,13 +109,13 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486094446815">
-        <mark key="'" line="51" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486408458231">
+        <mark key="'" line="31" column="31" />
         <mark key="k" line="60" column="19" />
-        <mark key="[" line="78" column="30" />
+        <mark key="[" line="39" column="24" />
         <mark key="m" line="60" column="19" />
-        <mark key="]" line="78" column="32" />
-        <mark key="." line="78" column="32" />
+        <mark key="]" line="39" column="25" />
+        <mark key="." line="39" column="25" />
         <mark key="^" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/requirements.txt" timestamp="1472523641053">
@@ -930,7 +930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="25" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/app/spacy_preprocess.py" />
       <jump line="20" column="35" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="4" column="57" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
@@ -1030,13 +1029,14 @@
       <jump line="27" column="28" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="31" column="31" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>&quot;%s/%s&quot; % (__package__, basename(__file__)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, babel_sub_source)</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1106,33 +1106,33 @@
       <register name="0" type="4">
         <text>babel_entry.get(&quot;babel&quot;, {}).get(&quot;definitions&quot;)[0].get(&quot;gloss&quot;)</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>babel_entry.get(&quot;babel&quot;, {}).get(&quot;definitions&quot;)[0].get(&quot;gloss&quot;),
                 babel_entry.get(&quot;babel&quot;, {}).get(&quot;definitions&quot;)[0].get(&quot;source&quot;)</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgc291cmNlX25hbWUgaXMgbm90IE5vbmUK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgc291cmNlIGlzIG5vdCBOb25lCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAjIFRPRE86IENvbm5lY3QgdGhpcyB3aXRoIHBlcnNpc3RlbmNlIGxheWVyLCB3ZSBzaG91bGQgbWFrZSBhIGJlc3QgZWZmb3J0IHRvCiAgICAgICAgIyBwb3B1bGF0ZSB0aGlzIFNvdXJjZSB3aXRoIGluZm8gZnJvbSB0aGUgZGF0YWJhc2UgaWYgcHJlc2VudCAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICMgVE9ETzogQ29ubmVjdCB0aGlzIHdpdGggcGVyc2lzdGVuY2UgbGF5ZXIsIHdlIHNob3VsZCBtYWtlIGEgYmVzdCBlZmZvcnQgdG8KICAgICAgICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2UgPSAiYmFiZWxfJXMiICUgc291cmNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
