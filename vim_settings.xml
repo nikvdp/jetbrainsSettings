@@ -109,14 +109,14 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486408458231">
-        <mark key="'" line="31" column="31" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486414916375">
+        <mark key="'" line="136" column="61" />
         <mark key="k" line="60" column="19" />
-        <mark key="[" line="39" column="24" />
+        <mark key="[" line="113" column="6" />
         <mark key="m" line="60" column="19" />
-        <mark key="]" line="39" column="25" />
-        <mark key="." line="39" column="25" />
-        <mark key="^" line="78" column="32" />
+        <mark key="]" line="113" column="29" />
+        <mark key="." line="136" column="61" />
+        <mark key="^" line="136" column="59" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/requirements.txt" timestamp="1472523641053">
         <mark key="[" line="3" column="7" />
@@ -187,12 +187,12 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486410899164">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486414785389">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="56" column="30" />
-        <mark key="]" line="56" column="39" />
-        <mark key="." line="56" column="39" />
-        <mark key="^" line="56" column="39" />
+        <mark key="[" line="56" column="41" />
+        <mark key="]" line="57" column="11" />
+        <mark key="." line="57" column="11" />
+        <mark key="^" line="57" column="11" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_augmented_dep_graph.py" timestamp="1485155972159">
         <mark key="[" line="4" column="37" />
@@ -327,12 +327,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/co_occurrence.py" timestamp="1485996950953">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/co_occurrence.py" timestamp="1486415241563">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="17" column="29" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/src/services/add-rule-to-db.js" timestamp="1479262943751">
         <mark key="'" line="31" column="4" />
@@ -930,7 +930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="35" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="4" column="57" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="45" column="54" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
@@ -1030,13 +1029,14 @@
       <jump line="50" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="31" column="31" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
+      <jump line="136" column="61" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>&quot;%s/%s&quot; % (__package__, basename(__file__)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRfY29vY3VycmVuY2VfZm9yX2xpbmUoKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1098,42 +1098,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, Source</text>
+        <text>fp.readlines()</text>
       </register>
       <register name="/" type="4">
         <text>source=</text>
       </register>
       <register name="0" type="4">
-        <text>babel_entry.get(&quot;babel&quot;, {}).get(&quot;definitions&quot;)[0].get(&quot;gloss&quot;)</text>
+        <text>BulkCoocurrenceAssertion</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRfY29vY3VycmVuY2VfZm9yX2xpbmUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UkVRVUlSRURfRklFTERTID0gWyd0ZXJtJywgJ3Rlcm1fbGVtbWEnLCAnaW1wb3J0ZXInLCAnaW1wb3J0X2lkJ10KCg==</text>
+        <text encoding="base64">ICAgICMgQkFEIFNBTVBMRSBDT0RFLCB0aGlzIGRvZXNuJ3QgZG8gYW55dGhpbmcsIGp1c3QgYW4gaWxsdXN0YXJ0aW9uIG9mIGhvdyB0aGlzCiAgICAjIHdvdWxkIHdvcmsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZwID0gb3BlbihpbnB1dF9mbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhc3NfZGljWydzb3VyY2UnXSA9IHNyYy5zb3VyY2VfaWQgaWYgaXNpbnN0YW5jZShzcmMsIFNvdXJjZSkgZWxzZSBzdHIoc3JjKQogICAgICAgICAgICAjIGFzc2VydCBpc2luc3RhbmNlKGFzc19kaWMuZ2V0KCdzb3VyY2UnKSwgc3RyKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggaW5maWxlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2UoYXNzX2RpYy5nZXQoJ3NvdXJjZScpLCBzdHIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3NvdXJjZScgaW4gYXNzX2RpYy5rZXlzKCk6CiAgICAgICAgICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5bm9ueW1Bc3NlcnRpb24odGVybT10ZXJtLCB0ZXJtX2xlbW1hPXRlcm1fbGVtbWEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZV9pZD1zb3VyY2UsIHN5bm9ueW09cykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>DefinitionAssertion(term=term, term_lemma=term_lemma,
-                                                  source_id=sub_source.source_id,
-                                                  defn=defn)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
