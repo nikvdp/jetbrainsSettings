@@ -187,12 +187,12 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486094213463">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486410899164">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="49" column="82" />
-        <mark key="]" line="50" column="49" />
-        <mark key="." line="50" column="49" />
-        <mark key="^" line="50" column="49" />
+        <mark key="[" line="56" column="30" />
+        <mark key="]" line="56" column="39" />
+        <mark key="." line="56" column="39" />
+        <mark key="^" line="56" column="39" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_augmented_dep_graph.py" timestamp="1485155972159">
         <mark key="[" line="4" column="37" />
@@ -214,12 +214,11 @@
         <mark key="." line="149" column="106" />
         <mark key="^" line="149" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486094379955">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486410870173">
         <mark key="'" line="27" column="28" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="44" />
-        <mark key="." line="42" column="44" />
-        <mark key="^" line="42" column="44" />
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="47" />
+        <mark key="." line="4" column="47" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" timestamp="1474412422785">
         <mark key="'" line="3" column="7" />
@@ -1035,8 +1034,8 @@
       <register name="a" type="4">
         <text>&quot;%s/%s&quot; % (__package__, basename(__file__)</text>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
+      <register name="&quot;" type="4">
+        <text>, Source</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1098,7 +1097,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, babel_sub_source)</text>
+        <text>, Source</text>
       </register>
       <register name="/" type="4">
         <text>source=</text>
@@ -1106,33 +1105,35 @@
       <register name="0" type="4">
         <text>babel_entry.get(&quot;babel&quot;, {}).get(&quot;definitions&quot;)[0].get(&quot;gloss&quot;)</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>babel_entry.get(&quot;babel&quot;, {}).get(&quot;definitions&quot;)[0].get(&quot;gloss&quot;),
-                babel_entry.get(&quot;babel&quot;, {}).get(&quot;definitions&quot;)[0].get(&quot;source&quot;)</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBhc3NfZGljWydzb3VyY2UnXSA9IHNyYy5zb3VyY2VfaWQgaWYgaXNpbnN0YW5jZShzcmMsIFNvdXJjZSkgZWxzZSBzdHIoc3JjKQogICAgICAgICAgICAjIGFzc2VydCBpc2luc3RhbmNlKGFzc19kaWMuZ2V0KCdzb3VyY2UnKSwgc3RyKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2UoYXNzX2RpYy5nZXQoJ3NvdXJjZScpLCBzdHIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3NvdXJjZScgaW4gYXNzX2RpYy5rZXlzKCk6CiAgICAgICAgICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc291cmNlX25hbWUgaXMgbm90IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5bm9ueW1Bc3NlcnRpb24odGVybT10ZXJtLCB0ZXJtX2xlbW1hPXRlcm1fbGVtbWEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZV9pZD1zb3VyY2UsIHN5bm9ueW09cykK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc291cmNlIGlzIG5vdCBOb25lCg==</text>
+      <register name="6" type="4">
+        <text>DefinitionAssertion(term=term, term_lemma=term_lemma,
+                                                  source_id=sub_source.source_id,
+                                                  defn=defn)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IENvbm5lY3QgdGhpcyB3aXRoIHBlcnNpc3RlbmNlIGxheWVyLCB3ZSBzaG91bGQgbWFrZSBhIGJlc3QgZWZmb3J0IHRvCiAgICAgICAgIyBwb3B1bGF0ZSB0aGlzIFNvdXJjZSB3aXRoIGluZm8gZnJvbSB0aGUgZGF0YWJhc2UgaWYgcHJlc2VudCAK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICMgVE9ETzogQ29ubmVjdCB0aGlzIHdpdGggcGVyc2lzdGVuY2UgbGF5ZXIsIHdlIHNob3VsZCBtYWtlIGEgYmVzdCBlZmZvcnQgdG8KICAgICAgICA=</text>
+        <text>babel_entry.get(&quot;babel&quot;, {}).get(&quot;definitions&quot;)[0].get(&quot;gloss&quot;),
+                babel_entry.get(&quot;babel&quot;, {}).get(&quot;definitions&quot;)[0].get(&quot;source&quot;)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
