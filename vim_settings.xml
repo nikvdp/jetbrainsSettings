@@ -214,11 +214,12 @@
         <mark key="." line="149" column="106" />
         <mark key="^" line="149" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486410870173">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486411112980">
         <mark key="'" line="27" column="28" />
-        <mark key="[" line="4" column="47" />
-        <mark key="]" line="4" column="47" />
-        <mark key="." line="4" column="47" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" timestamp="1474412422785">
         <mark key="'" line="3" column="7" />
@@ -1034,8 +1035,8 @@
       <register name="a" type="4">
         <text>&quot;%s/%s&quot; % (__package__, basename(__file__)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, Source</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1109,31 +1110,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhc3NfZGljWydzb3VyY2UnXSA9IHNyYy5zb3VyY2VfaWQgaWYgaXNpbnN0YW5jZShzcmMsIFNvdXJjZSkgZWxzZSBzdHIoc3JjKQogICAgICAgICAgICAjIGFzc2VydCBpc2luc3RhbmNlKGFzc19kaWMuZ2V0KCdzb3VyY2UnKSwgc3RyKQo=</text>
+        <text encoding="base64">UkVRVUlSRURfRklFTERTID0gWyd0ZXJtJywgJ3Rlcm1fbGVtbWEnLCAnaW1wb3J0ZXInLCAnaW1wb3J0X2lkJ10KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2UoYXNzX2RpYy5nZXQoJ3NvdXJjZScpLCBzdHIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3NvdXJjZScgaW4gYXNzX2RpYy5rZXlzKCk6CiAgICAgICAgICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhc3NfZGljWydzb3VyY2UnXSA9IHNyYy5zb3VyY2VfaWQgaWYgaXNpbnN0YW5jZShzcmMsIFNvdXJjZSkgZWxzZSBzdHIoc3JjKQogICAgICAgICAgICAjIGFzc2VydCBpc2luc3RhbmNlKGFzc19kaWMuZ2V0KCdzb3VyY2UnKSwgc3RyKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2UoYXNzX2RpYy5nZXQoJ3NvdXJjZScpLCBzdHIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3NvdXJjZScgaW4gYXNzX2RpYy5rZXlzKCk6CiAgICAgICAgICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5bm9ueW1Bc3NlcnRpb24odGVybT10ZXJtLCB0ZXJtX2xlbW1hPXRlcm1fbGVtbWEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZV9pZD1zb3VyY2UsIHN5bm9ueW09cykK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>DefinitionAssertion(term=term, term_lemma=term_lemma,
                                                   source_id=sub_source.source_id,
                                                   defn=defn)</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>babel_entry.get(&quot;babel&quot;, {}).get(&quot;definitions&quot;)[0].get(&quot;gloss&quot;),
-                babel_entry.get(&quot;babel&quot;, {}).get(&quot;definitions&quot;)[0].get(&quot;source&quot;)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
