@@ -193,12 +193,12 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486436990928">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486499935904">
         <mark key="'" line="14" column="31" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="58" column="7" />
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="46" />
+        <mark key="." line="57" column="17" />
+        <mark key="^" line="59" column="17" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_augmented_dep_graph.py" timestamp="1485155972159">
         <mark key="[" line="4" column="37" />
@@ -1038,11 +1038,11 @@
       <jump line="45" column="29" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoYXNzZXJ0aW9uLCBBc3NlcnRpb24pOgogICAgICAgICAgICAgICAgaW1wb3J0IHB1ZGI7IHB1ZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="a" type="4">
+        <text>BabelDumpDataSource(input_fn)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>BabelDumpDataSource(input_fn)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1112,8 +1112,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>BabelDumpDataSource(input_fn)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1122,22 +1122,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNwYWN5LmxvYWQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQogICAgICAgIGZvciBrLCB2IGluIGRpY3RfcmVwLml0ZXJpdGVtcygpOgogICAgICAgICAgICBpZiBub3QgaGFzYXR0cihEYXRhU291cmNlU3BlYywgayk6CiAgICAgICAgICAgICAgICBkZWwoZGljdF9yZXBba10pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaWN0X3JlcCA9IHsnc291cmNlX25hbWUnLCBzb3VyY2VfbmFtZX0KICAgICAgICBkaWN0X3JlcC51cGRhdGUoa3dhcmdzKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNwYWN5LmxvYWQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQogICAgICAgIGZvciBrLCB2IGluIGRpY3RfcmVwLml0ZXJpdGVtcygpOgogICAgICAgICAgICBpZiBub3QgaGFzYXR0cihEYXRhU291cmNlU3BlYywgayk6CiAgICAgICAgICAgICAgICBkZWwoZGljdF9yZXBba10pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkaWN0X3JlcCA9IHsnc291cmNlX25hbWUnLCBzb3VyY2VfbmFtZX0KICAgICAgICBkaWN0X3JlcC51cGRhdGUoa3dhcmdzKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaWN0X3JlcC4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
