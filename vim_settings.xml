@@ -220,12 +220,13 @@
         <mark key="." line="149" column="106" />
         <mark key="^" line="149" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486494850329">
-        <mark key="a" line="115" column="0" />
-        <mark key="[" line="41" column="33" />
-        <mark key="]" line="41" column="34" />
-        <mark key="." line="41" column="34" />
-        <mark key="^" line="48" column="15" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486497375667">
+        <mark key="a" line="111" column="0" />
+        <mark key="'" line="44" column="29" />
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="53" column="23" />
+        <mark key="^" line="53" column="23" />
+        <mark key="." line="53" column="23" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" timestamp="1474412422785">
         <mark key="'" line="3" column="7" />
@@ -935,7 +936,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="15" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="71" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="59" column="41" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="28" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
@@ -1035,13 +1035,14 @@
       <jump line="47" column="20" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="13" column="25" filename="$USER_HOME$/Code/work/volley/repos/vine/spacy_utils.py" />
       <jump line="256" column="29" filename="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/spacy/language.py" />
+      <jump line="45" column="29" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoYXNzZXJ0aW9uLCBBc3NlcnRpb24pOgogICAgICAgICAgICAgICAgaW1wb3J0IHB1ZGI7IHB1ZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNwYWN5LmxvYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1103,49 +1104,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>))</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text>kwargs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNwYWN5LmxvYWQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQogICAgICAgIGZvciBrLCB2IGluIGRpY3RfcmVwLml0ZXJpdGVtcygpOgogICAgICAgICAgICBpZiBub3QgaGFzYXR0cihEYXRhU291cmNlU3BlYywgayk6CiAgICAgICAgICAgICAgICBkZWwoZGljdF9yZXBba10pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWN0X3JlcCA9IHsnc291cmNlX25hbWUnLCBzb3VyY2VfbmFtZX0KICAgICAgICBkaWN0X3JlcC51cGRhdGUoa3dhcmdzKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNwYWN5LmxvYWQK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQogICAgICAgIGZvciBrLCB2IGluIGRpY3RfcmVwLml0ZXJpdGVtcygpOgogICAgICAgICAgICBpZiBub3QgaGFzYXR0cihEYXRhU291cmNlU3BlYywgayk6CiAgICAgICAgICAgICAgICBkZWwoZGljdF9yZXBba10pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaWN0X3JlcC4K</text>
+        <text encoding="base64">ICAgICAgICBkaWN0X3JlcCA9IHsnc291cmNlX25hbWUnLCBzb3VyY2VfbmFtZX0KICAgICAgICBkaWN0X3JlcC51cGRhdGUoa3dhcmdzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfc3FsX3NvdXJjZV90b19zb3VyY2Uoc2VsZiwgc3FsX3NvdXJjZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWN0X3JlcC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>asdf</last-search>
+      <last-search>kwargs</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern>kwargs</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>source_id</last-substitute>
       <last-dir>1</last-dir>
@@ -1153,7 +1154,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\[['&quot;][^'&quot;]+['&quot;]\]</entry>
         <entry>\[['&quot;][^'&quot;]\+['&quot;]\]</entry>
         <entry>\[['&quot;]\([^'&quot;]\+\)['&quot;]\]</entry>
         <entry>,</entry>
@@ -1173,6 +1173,7 @@
         <entry>source=</entry>
         <entry>vec_</entry>
         <entry>asdf</entry>
+        <entry>kwargs</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hIi8hIi9xZ3AtYWRtaW4vIWc=</entry>
