@@ -1106,7 +1106,7 @@
         <text>))</text>
       </register>
       <register name="/" type="4">
-        <text>vec_</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
@@ -1143,9 +1143,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vec_</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>vec_</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>source_id</last-substitute>
       <last-dir>1</last-dir>
@@ -1157,7 +1157,6 @@
         <entry>\[['&quot;][^'&quot;]\+['&quot;]\]</entry>
         <entry>\[['&quot;]\([^'&quot;]\+\)['&quot;]\]</entry>
         <entry>,</entry>
-        <entry>asdf</entry>
         <entry>nlp</entry>
         <entry>vocab</entry>
         <entry encoding="base64">XDwzXD4=</entry>
@@ -1173,6 +1172,7 @@
         <entry>self.source</entry>
         <entry>source=</entry>
         <entry>vec_</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hIi8hIi9xZ3AtYWRtaW4vIWc=</entry>
