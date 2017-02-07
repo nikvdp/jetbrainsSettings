@@ -221,13 +221,13 @@
         <mark key="." line="149" column="106" />
         <mark key="^" line="149" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486504233899">
-        <mark key="a" line="142" column="0" />
-        <mark key="'" line="65" column="17" />
-        <mark key="[" line="131" column="16" />
-        <mark key="]" line="131" column="22" />
-        <mark key="." line="131" column="22" />
-        <mark key="^" line="131" column="22" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486510527918">
+        <mark key="a" line="150" column="0" />
+        <mark key="'" line="73" column="17" />
+        <mark key="[" line="63" column="52" />
+        <mark key="]" line="63" column="52" />
+        <mark key="." line="63" column="52" />
+        <mark key="^" line="63" column="52" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" timestamp="1474412422785">
         <mark key="'" line="3" column="7" />
@@ -1046,7 +1046,7 @@
         <text encoding="base64">ICAgICAgICBmb3IgaywgdiBpbiBkaWN0X3JlcC5pdGVtcygpOgogICAgICAgICAgICBpZiBub3QgaGFzYXR0cihEYXRhU291cmNlU3BlYywgaykgb3IgdiBpcyBOb25lOgogICAgICAgICAgICAgICAgZGVsKGRpY3RfcmVwW2tdKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>will</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1108,7 +1108,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>will</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
@@ -1117,31 +1117,31 @@
         <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gc2VsZi5zdGFydF9zZXNzaW9uKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdlbmVyYXRlIGFuIGlkIGlmIHdlIGRvbid0IGhhdmUgb25lCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIGdlbmVyYXRlIGFuIGlkIGlmIHdlIGRvbid0IGhhdmUgb25lCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaywgdiBpbiBkaWN0X3JlcC5pdGVtcygpOgogICAgICAgICAgICBpZiBub3QgaGFzYXR0cihEYXRhU291cmNlU3BlYywgaykgb3IgdiBpcyBOb25lOgogICAgICAgICAgICAgICAgZGVsKGRpY3RfcmVwW2tdKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gc2VsZi5zdGFydF9zZXNzaW9uKCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaywgdiBpbiBkaWN0X3JlcC5pdGVtcygpOgogICAgICAgICAgICBpZiBub3QgaGFzYXR0cihEYXRhU291cmNlU3BlYywgaykgb3IgdiBpcyBOb25lOgogICAgICAgICAgICAgICAgZGVsKGRpY3RfcmVwW2tdKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gc2VsZi5zdGFydF9zZXNzaW9uKCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBwZXJzaXN0KHNlbGYpOgogICAgICAgIHNlbGYucGVyc2lzdGVyLmtrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTcWxMaXRlUGVyc2lzdGVyLgo=</text>
+        <text encoding="base64">ICAgIGRlZiBwZXJzaXN0KHNlbGYpOgogICAgICAgIHNlbGYucGVyc2lzdGVyLmtrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaGFzYXR0cihzZWxmLCAncGVyc2lzdGVyJykgb3Igc2VsZi5wZXJzaXN0ZXIgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICBTcWxMaXRlUGVyc2lzdGVyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -1154,7 +1154,7 @@
       <last-replace>source</last-replace>
       <last-substitute>source_id</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
