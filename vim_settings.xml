@@ -137,11 +137,12 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" timestamp="1486493438924">
-        <mark key="'" line="54" column="23" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" timestamp="1486500019752">
+        <mark key="'" line="53" column="23" />
+        <mark key="[" line="36" column="46" />
+        <mark key="]" line="36" column="49" />
+        <mark key="." line="36" column="49" />
+        <mark key="^" line="36" column="49" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1479342306546">
         <mark key="[" line="5" column="0" />
@@ -220,13 +221,13 @@
         <mark key="." line="149" column="106" />
         <mark key="^" line="149" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486497680891">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486500150053">
         <mark key="a" line="111" column="0" />
         <mark key="'" line="44" column="29" />
-        <mark key="[" line="53" column="21" />
-        <mark key="]" line="53" column="23" />
-        <mark key="^" line="53" column="23" />
-        <mark key="." line="53" column="23" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" timestamp="1474412422785">
         <mark key="'" line="3" column="7" />
@@ -1041,8 +1042,8 @@
       <register name="a" type="4">
         <text>BabelDumpDataSource(input_fn)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>BabelDumpDataSource(input_fn)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1104,7 +1105,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQ==</text>
+        <text>source_name=None, **kwargs</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
@@ -1112,35 +1113,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>BabelDumpDataSource(input_fn)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWN0X3JlcC51cGRhdGUoa3dhcmdzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkY3RfcmVwID0gc2VsZi50b19kaWN0KCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>BabelDumpDataSource(input_fn)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNwYWN5LmxvYWQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQogICAgICAgIGZvciBrLCB2IGluIGRpY3RfcmVwLml0ZXJpdGVtcygpOgogICAgICAgICAgICBpZiBub3QgaGFzYXR0cihEYXRhU291cmNlU3BlYywgayk6CiAgICAgICAgICAgICAgICBkZWwoZGljdF9yZXBba10pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaWN0X3JlcCA9IHsnc291cmNlX25hbWUnLCBzb3VyY2VfbmFtZX0KICAgICAgICBkaWN0X3JlcC51cGRhdGUoa3dhcmdzKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHNwYWN5LmxvYWQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQogICAgICAgIGZvciBrLCB2IGluIGRpY3RfcmVwLml0ZXJpdGVtcygpOgogICAgICAgICAgICBpZiBub3QgaGFzYXR0cihEYXRhU291cmNlU3BlYywgayk6CiAgICAgICAgICAgICAgICBkZWwoZGljdF9yZXBba10pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1194,8 +1195,8 @@
         <entry encoding="base64">JzwsJz5zL1woW149K11cKVteLF0rLC9cMT1cMSwvZw==</entry>
         <entry>s/source_id/source/g</entry>
         <entry>%s/source_id/source/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
