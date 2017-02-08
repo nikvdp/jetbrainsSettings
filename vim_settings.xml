@@ -25,7 +25,7 @@
         <mark key="^" line="50" column="36" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1486593612000">
+      <file name="/a.dummy" timestamp="1486595814988">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -137,12 +137,12 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" timestamp="1486595672976">
-        <mark key="'" line="38" column="58" />
-        <mark key="[" line="53" column="42" />
-        <mark key="]" line="53" column="42" />
-        <mark key="^" line="53" column="34" />
-        <mark key="." line="53" column="42" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" timestamp="1486597178843">
+        <mark key="'" line="86" column="54" />
+        <mark key="[" line="65" column="32" />
+        <mark key="]" line="66" column="28" />
+        <mark key="^" line="66" column="28" />
+        <mark key="." line="66" column="28" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1479342306546">
         <mark key="[" line="5" column="0" />
@@ -947,8 +947,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="50" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="26" column="43" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="37" column="3" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
@@ -1047,13 +1045,15 @@
       <jump line="38" column="66" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="40" column="58" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="61" column="41" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="86" column="54" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlcihBdG9taWNUZXh0RG9jdW1lbnQsIHNlbGYpLl9faW5pdF9fKGlkKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gaWQgb3IgdXVpZCgpCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1115,40 +1115,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>id=self.id,</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aXNpbnN0YW5jZSh0ZXh0LCBzdHIpIA==</text>
+        <text>segmentable_by</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gaWQgb3IgdXVpZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihBdG9taWNUZXh0RG9jdW1lbnQsIHNlbGYpLl9faW5pdF9fKGlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gaWQgb3IgdXVpZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdXBwb3J0c19zZWdtZW50YXRpb24oc2VsZik6CiAgICAgICAgcmV0dXJuIFtdCg==</text>
+        <text encoding="base64">IwojIEV4YW1wbGVzCiMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdXBwb3J0c19zZWdtZW50YXRpb24oc2VsZik6CiAgICAgICAgcmV0dXJuIFtdCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihBdG9taWNUZXh0RG9jdW1lbnQsIHNlbGYpLl9faW5pdF9fKGlkKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBzdXBwb3J0c19zZWdtZW50YXRpb24oc2VsZik6CiAgICAgICAgcmV0dXJuIFtdCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBlcnNpc3RlciA9IHBlcnNpc3RlcigpIGlmIHBlcnNpc3RlciBlbHNlIFNxbExpdGVQZXJzaXN0ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuYW1lLCBpZD1Ob25lLCBwZXJzaXN0ZXI9U3FsTGl0ZVBlcnNpc3Rlcik6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzdXBwb3J0c19zZWdtZW50YXRpb24oc2VsZik6CiAgICAgICAgcmV0dXJuIFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuYW1lLCBpZD1Ob25lLCBwZXJzaXN0ZXI9U3FsTGl0ZVBlcnNpc3Rlcik6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
