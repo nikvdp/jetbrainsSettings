@@ -25,6 +25,11 @@
         <mark key="^" line="50" column="36" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/dummy_data/__init__.py" timestamp="1486620687020">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1486597549265">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -109,9 +114,9 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486511721015">
-        <mark key="[" line="109" column="48" />
-        <mark key="]" line="109" column="48" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486620456730">
+        <mark key="[" line="82" column="6" />
+        <mark key="]" line="82" column="29" />
         <mark key="." line="109" column="48" />
         <mark key="^" line="25" column="11" />
       </file>
@@ -727,6 +732,13 @@
         <mark key="." line="40" column="43" />
         <mark key="^" line="40" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/dummy_data/coocurrence.py" timestamp="1486621027791">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="65" />
+        <mark key="." line="21" column="66" />
+        <mark key="^" line="22" column="47" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" timestamp="1474498683069">
         <mark key="'" line="57" column="21" />
         <mark key="[" line="49" column="0" />
@@ -949,14 +961,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="30" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/input_types.py" />
-      <jump line="33" column="60" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
-      <jump line="25" column="29" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="4" column="82" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="29" column="14" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="47" column="39" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="33" column="65" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="22" column="73" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="40" column="29" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="16" column="28" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="62" column="79" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
@@ -1049,13 +1053,21 @@
       <jump line="27" column="89" filename="$USER_HOME$/Code/work/volley/repos/vine/README.md" />
       <jump line="41" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/README.md" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/README.md" />
+      <jump line="15" column="51" filename="$USER_HOME$/Code/work/volley/repos/vine/dummy_data/__init__.py" />
+      <jump line="20" column="30" filename="$USER_HOME$/Code/work/volley/repos/vine/dummy_data/__init__.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/dummy_data/__init__.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/dummy_data/__init__.py" />
+      <jump line="11" column="38" filename="$USER_HOME$/Code/work/volley/repos/vine/dummy_data/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/dummy_data/__init__.py" />
+      <jump line="12" column="14" filename="$USER_HOME$/Code/work/volley/repos/vine/dummy_data/coocurrence.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/dummy_data/coocurrence.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>+---------------------------------------+</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkYXRhdHlwZXMuYXNzZXJ0aW9uX3R5cGVzIGltcG9ydCBCdWxrQ29vY3VycmVuY2VBc3NlcnRpb24KZnJvbSBkYXRhdHlwZXMucGVyc2lzdGVycy5TcWxMaXRlUGVyc2lzdGVyIGltcG9ydCBTcWxMaXRlUGVyc2lzdGVyCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1117,40 +1129,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgIA==</text>
+        <text>gen_dummy_coocurrence_assertions()</text>
       </register>
       <register name="/" type="4">
         <text>supported_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRhdHlwZXMuYXNzZXJ0aW9uX3R5cGVzIGltcG9ydCBCdWxrQ29vY3VycmVuY2VBc3NlcnRpb24KZnJvbSBkYXRhdHlwZXMucGVyc2lzdGVycy5TcWxMaXRlUGVyc2lzdGVyIGltcG9ydCBTcWxMaXRlUGVyc2lzdGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24KZnJvbSByYW5kb20gaW1wb3J0IGNob2ljZSBhcyByYW5kb21fY2hvaWNlCmZyb20gZGF0YXR5cGVzLmFzc2VydGlvbl90eXBlcyBpbXBvcnQgQnVsa0Nvb2N1cnJlbmNlQXNzZXJ0aW9uCmZyb20gZGF0YXR5cGVzLnBlcnNpc3RlcnMuU3FsTGl0ZVBlcnNpc3RlciBpbXBvcnQgU3FsTGl0ZVBlcnNpc3Rlcgpmcm9tIHNwYWN5X3V0aWxzIGltcG9ydCBsZW1tYXRpemVfdGVybQoKCmRlZiBnZW5fZHVtbXlfY29vY3VycmVuY2VfZGF0YShudW1fb2ZfYXNzZXJ0aW9ucz0xMDApOgogICAgd2l0aCBvcGVuKCIuLi9kYXRhL29wZW5zdGF4LXNhbGllbnQtdGVybS1saXN0Lmpzb24iKSBhcyBmcDoKICAgICAgICB0ZXJtcyA9IGpzb24ubG9hZChmcCkKCiAgICBmb3IgaSBpbiB4cmFuZ2UobnVtX29mX2Fzc2VydGlvbnMpOgogICAgICAgIHNyYyA9IHJhbmRvbV9jaG9pY2UodGVybXMpCiAgICAgICAgb2NjcyA9IFtyYW5kb21fY2hvaWNlKHRlcm1zKSBmb3IgaSBpbiByYW5nZSgzKV0KICAgICAgICB5aWVsZCBCdWxrQ29vY3VycmVuY2VBc3NlcnRpb24odGVybV9sZW1tYT1sZW1tYXRpemVfdGVybShzcmMpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb29jdXJyZW5jZV9saXN0PW9jY3MpCgoKZGVmIG1haW4oKToKICAgIHBlcnNpc3RlciA9IFNxbExpdGVQZXJzaXN0ZXIoKQogICAgcGVyc2lzdGVyLnBlcnNpc3RfYXNzZXJ0aW9ucyhnZW5fZHVtbXlfY29vY3VycmVuY2VfZGF0YSgpKQoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=</text>
       </register>
-      <register name="2" type="8">
-        <text>+---------------------------------------+</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHwK</text>
+        <text encoding="base64">ZnJvbSBzcGFjeS5sZW1tYXRpemVyIGltcG9ydCBsZW1tYXRpemUK</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">Ky0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tKyAKfCAgaW50ZXJmYWNlIGZvciBxdWVyeWluZyB0ZXJtcyBhbmQgY29uY2VwdHMgICAgICAgICAgfCAKfCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAKPiAgICAqIFNob3VsZCBzdXBwb3J0IGZpbmRpbmcgcmVsYXRlZCBjb25jZXB0cyAgICAgICAgfC0KfCAgICAqIFNob3VsZCBzdXBwb3J0IGdldHRpbmcgYXJiaXRyYXJ5IHN0YXRzIGZvciBhbnkgfCAKfCAgICAgIGNvbmNlcHQgb3IgdGVybSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAKKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tKyA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsZW1tYXRpemUK</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">Ky0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tKwp8ICBpbnRlcmZhY2UgZm9yIHF1ZXJ5aW5nIHRlcm1zIGFuZCBjb25jZXB0cyAgICAgICAgICB8CnwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKPiAgICAqIFNob3VsZCBzdXBwb3J0IGZpbmRpbmcgcmVsYXRlZCBjb25jZXB0cyAgICAgICAgfAp8ICAgICogU2hvdWxkIHN1cHBvcnQgZ2V0dGluZyBhcmJpdHJhcnkgc3RhdHMgZm9yIGFueSB8CnwgICAgICBjb25jZXB0IG9yIHRlcm0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tKw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IGNob29zZSBhcyBjaG9vc2VfcmFuZG9tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0rCiAgfCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CiAgfCAgICAgICAgICAgICAgICAgIHJhdyBkYXRhICAgICAgICAgICAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsKICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgICAgICstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0rICAgIHwgICAgICAgICBBc3NlcnRpb25zIGFib3V0IHRoZSBkYXRhICAgICAgICAgICAgfAogIHwgICBFeGFtcGxlczogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAgICAgfCAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgICAgfCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CiAgfCAgICAgKiBhc2NpaSB0ZXh0IG9mIENhbXBiZWxsJ3MgMTB0aCAgICAgICAgICAgICAgICArLS0tLS0rIFNlZ21lbnRlZC9TdHJ1Y3R1cmVkIGRhdGEgKy0tLS0+IEV4YW1wbGVzOiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKICB8ICAgICAqIGpzb24gb2YgQ2FtcGJlbGwncyBnbG9zc2FyeSB0ZXJtcyBmcm9tIG10dXJrIHwgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICB8ICAgIHwgICAqIFNvdXJjZSBBIGFzc2VydHMgdGhhdCBUZXJtIFggb2NjdXJzICAgICAgfAogIHwgICAgICogVm9sbGV5Tm9ybWFsaXplZFRleHQgICAgICAgICAgICAgICAgICAgICAgICAgfCAgICAgKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsgICAgfCAgICAgNTAgdGltZXMgaW4gc2VnbWVudCAxMCBvZiBEb2N1bWVudCBZICAgICB8CiAgfCAgICAgKiBTdHJ1Y3R1cmVkIGRhdGEgbGl2aW5nIGluIGFuIEVTIHN0b3JlICAgICAgICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsKICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKICArLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKICAgICAgICAgICAgICAgICAgKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsKICAgICAgICAgICAgICAgICAgfAogICAgICAgICAgICAgICAgICB8CiAgICAgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsKICArLS0tLS0tLS0tLS0tLS0tdi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAgaW50ZXJmYWNlIGZvciBxdWVyeWluZyB0ZXJtcyBhbmQgY29uY2VwdHMgICAgICAgICAgfAogIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAgICArLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tKyAgICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CiAgfCBQZXJzaXN0IHRoZSBhc3NlcnRpb25zIHRvIGEgZGF0YSBzdG9yZSArLS0tLT4gIENyZWF0ZSBsaW5rcyBmcm9tIHRlcm1zIHRvIGNvbmNlcHRzICArLS0tLT4gICAgKiBTaG91bGQgc3VwcG9ydCBmaW5kaW5nIHJlbGF0ZWQgY29uY2VwdHMgICAgICAgIHwKICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgICAgKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsgICAgfCAgICAqIFNob3VsZCBzdXBwb3J0IGdldHRpbmcgYXJiaXRyYXJ5IHN0YXRzIGZvciBhbnkgfAogICstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tKyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8ICAgICAgY29uY2VwdCBvciB0ZXJtICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsKCg==</text>
+      <register name="8" type="8">
+        <text>+---------------------------------------+</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBEZXZlbG9wbWVudCBwbGFuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
