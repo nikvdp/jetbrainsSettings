@@ -147,7 +147,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" timestamp="1486667626364">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" timestamp="1486669332724">
         <mark key="'" line="40" column="30" />
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="24" />
@@ -517,6 +517,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/data_sources.py" timestamp="1486669576365">
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="52" />
+        <mark key="." line="27" column="52" />
+        <mark key="^" line="27" column="52" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/tests/test_greet.py" timestamp="1479775454473">
         <mark key="'" line="3" column="0" />
@@ -1107,7 +1113,7 @@
         <text>+---------------------------------------+</text>
       </register>
       <register name="&quot;" type="4">
-        <text>new_key</text>
+        <text>None</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1169,7 +1175,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new_key</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcHJ1bmVfdG9fc3BlY1w+</text>
@@ -1178,28 +1184,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvdXRbbmV3X2tleV0gPSB2Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWdtZW50YWJsZV9ieSBpcyBOb25lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXdfa2V5ID0ga2V5bWFwW2tdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0ga2V5bWFwOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXdfa2V5ID0ga2V5bWFwW2tdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0ga2V5bWFwOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbChvdXRba10pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbChvdXRba10pCg==</text>
