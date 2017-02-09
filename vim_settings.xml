@@ -25,7 +25,7 @@
         <mark key="^" line="50" column="36" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1486595814988">
+      <file name="/a.dummy" timestamp="1486597549265">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -137,12 +137,12 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" timestamp="1486597178843">
-        <mark key="'" line="86" column="54" />
-        <mark key="[" line="65" column="32" />
-        <mark key="]" line="66" column="28" />
-        <mark key="^" line="66" column="28" />
-        <mark key="." line="66" column="28" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" timestamp="1486598384459">
+        <mark key="'" line="84" column="8" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="88" column="29" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1479342306546">
         <mark key="[" line="5" column="0" />
@@ -947,11 +947,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="43" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="37" column="3" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
-      <jump line="63" column="25" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
-      <jump line="48" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="103" column="3" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="17" column="25" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/input_types.py" />
@@ -1047,13 +1042,18 @@
       <jump line="40" column="58" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="61" column="41" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="86" column="54" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="75" column="15" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="60" column="17" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="76" column="45" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="83" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="84" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihBdG9taWNUZXh0RG9jdW1lbnQsIHNlbGYpLl9faW5pdF9fKGlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihQYXJhZ3JhcGgsIHNlbGYpLl9faW5pdF9fKHNlbGYsIHBhcmVudF9kb2M9cGFyZW50X2RvYywgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWdtZW50X3RleHQ9cGFyYWdyYXBoX3RleHQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZD1pZCwgc2VnbWVudF90eXBlPSdwYXJhZ3JhcGgnKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gaWQgb3IgdXVpZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1115,58 +1115,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>id=self.id,</text>
+        <text>['paragraph']</text>
       </register>
       <register name="/" type="4">
-        <text>kwargs</text>
+        <text>paragraph</text>
       </register>
-      <register name="0" type="4">
-        <text>segmentable_by</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y2xhc3MgUGFyYWdyYXBoKERvY3VtZW50U2VnbWVudCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgcGFyZW50X2RvYywgcGFyYWdyYXBoX3RleHQsIGlkPU5vbmUpOgogICAgICAgIHN1cGVyKFBhcmFncmFwaCwgc2VsZikuX19pbml0X18ocGFyZW50X2RvYywgcGFyYWdyYXBoX3RleHQsIGlkPWlkLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZ21lbnRfdHlwZT0ncGFyYWdyYXBoJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gaWQgb3IgdXVpZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gaWQgb3IgdXVpZCgpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzdXBwb3J0c19zZWdtZW50YXRpb24oc2VsZik6CiAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IwojIEV4YW1wbGVzCiMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQ2hhcHRlcihEb2N1bWVudFNlZ21lbnQpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHBhcmVudF9kb2MsIGNoYXB0ZXJfdGV4dCwgaWQ9Tm9uZSk6CiAgICAgICAgc3VwZXIoQ2hhcHRlciwgc2VsZikuX19pbml0X18ocGFyZW50X2RvYywgY2hhcHRlcl90ZXh0LCBpZD1pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZ21lbnRfdHlwZT0nY2hhcHRlcicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihBdG9taWNUZXh0RG9jdW1lbnQsIHNlbGYpLl9faW5pdF9fKGlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihQYXJhZ3JhcGgsIHNlbGYpLl9faW5pdF9fKHNlbGYsIHBhcmVudF9kb2M9cGFyZW50X2RvYywgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWdtZW50X3RleHQ9cGFyYWdyYXBoX3RleHQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZD1pZCwgc2VnbWVudF90eXBlPSdwYXJhZ3JhcGgnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdXBwb3J0c19zZWdtZW50YXRpb24oc2VsZik6CiAgICAgICAgcmV0dXJuIFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBkb2cgPSBpZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwYXJlbnRfZG9jLCBzZWdtZW50X3RleHQsIGlkPU5vbmUsIHNlZ21lbnRlZF9ieT1Ob25lKToKICAgICAgICBzdXBlcihEb2N1bWVudFBhcmFncmFwaCwgc2VsZikuX19pbml0X18ocGFyZW50X2RvYywgc2VnbWVudF90ZXh0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdXBwb3J0c19zZWdtZW50YXRpb24oc2VsZik6CiAgICAgICAgcmV0dXJuIFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gaWQgb3IgdXVpZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gaWQgb3IgdXVpZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>kwargs</last-search>
+      <last-search>paragraph</last-search>
       <last-offset />
-      <last-pattern>kwargs</last-pattern>
-      <last-replace>source</last-replace>
-      <last-substitute>source_id</last-substitute>
+      <last-pattern>paragraph</last-pattern>
+      <last-replace>chapter</last-replace>
+      <last-substitute>paragraph</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\[['&quot;][^'&quot;]\+['&quot;]\]</entry>
-        <entry>\[['&quot;]\([^'&quot;]\+\)['&quot;]\]</entry>
         <entry>,</entry>
         <entry>nlp</entry>
         <entry>vocab</entry>
@@ -1185,10 +1183,10 @@
         <entry>vec_</entry>
         <entry>asdf</entry>
         <entry>kwargs</entry>
+        <entry>Paragraph</entry>
+        <entry>paragraph</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zISIvISIvcWdwLWFkbWluLyFn</entry>
-        <entry encoding="base64">JzwsJz5zLyIvYC9n</entry>
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz5zL1xcJC8vZw==</entry>
         <entry>e!</entry>
@@ -1206,6 +1204,8 @@
         <entry>%s/source_id/source/g</entry>
         <entry>W</entry>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz5zL1BhcmFncmFwaC9DaGFwdGVyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3BhcmFncmFwaC9jaGFwdGVyL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
