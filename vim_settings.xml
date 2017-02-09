@@ -105,12 +105,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" timestamp="1486682219924">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="17" column="37" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" timestamp="1486683518359">
+        <mark key="'" line="123" column="45" />
+        <mark key="[" line="14" column="55" />
+        <mark key="]" line="14" column="55" />
+        <mark key="." line="14" column="55" />
+        <mark key="^" line="14" column="64" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/data-sets/separators.js" timestamp="1476767073072">
         <mark key="'" line="61" column="0" />
@@ -276,23 +276,24 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/util/misc.py" timestamp="1486682399764">
-        <mark key="'" line="9" column="74" />
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/util/misc.py" timestamp="1486682630073">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/data/babel-parsed-dump.json" timestamp="1486090409986">
         <mark key="[" line="420" column="9" />
         <mark key="]" line="420" column="9" />
         <mark key="." line="420" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/AssertionGenerator.py" timestamp="1486681975209">
-        <mark key="'" line="65" column="73" />
-        <mark key="[" line="65" column="73" />
-        <mark key="]" line="65" column="73" />
-        <mark key="." line="65" column="73" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/AssertionGenerator.py" timestamp="1486682974483">
+        <mark key="'" line="31" column="35" />
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="48" />
+        <mark key="." line="38" column="48" />
+        <mark key="^" line="38" column="48" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/README.md" timestamp="1472597996702">
         <mark key="'" line="13" column="0" />
@@ -633,12 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
-      <jump line="11" column="14" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/base_types.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/base_types.py" />
-      <jump line="46" column="46" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="57" column="48" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="51" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="54" column="23" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
@@ -730,16 +725,22 @@
       <jump line="68" column="14" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="118" column="32" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="91" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="8" column="74" filename="$USER_HOME$/Code/work/volley/repos/vine/util/misc.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/util/misc.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/util/misc.py" />
+      <jump line="31" column="35" filename="$USER_HOME$/Code/work/volley/repos/vine/AssertionGenerator.py" />
+      <jump line="122" column="85" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="72" column="13" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="61" column="34" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="123" column="45" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhc291cmNlX2ZpZWxkX21hcCA9IHsnbmFtZSc6ICdzb3VyY2VfbmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NlZ21lbnRhYmxlX2J5JzogbGFtYmRhIHg6IGpzb24uZHVtcHMoeCl9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHB1ZGI7IHB1ZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGVsc2UgTm9uZQ==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -801,44 +802,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text encoding="base64">IGVsc2UgTm9uZQ==</text>
       </register>
       <register name="/" type="4">
         <text>.id</text>
       </register>
-      <register name="0" type="4">
-        <text>isinstance(ass_dic.get('source'), str)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNpbnN0YW5jZShzdHJpbmdfbGlrZSwgc3RyKSBvciBpc2luc3RhbmNlKHN0cmluZ19saWtlLCB1bmljb2RlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHB1ZGI7IHB1ZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5pZCBhbmQgaWQ6Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>isinstance(ass_dic.get('source'), str) or \
-                   isinstance(ass_dic.get('source'), unicode)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gaWQgb3IgdXVpZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gaWQgb3IgdXVpZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gaWQgb3IgdXVpZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gaWQgb3IgdXVpZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWdtZW50ID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpc2luc3RhbmNlKHN0cmluZ19saWtlLCBzdHIpIG9yIGlzaW5zdGFuY2Uoc3RyaW5nX2xpa2UsIHVuaWNvZGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwZGJwcAo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCB1bmljb2RlX2xpdGVyYWxzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZGJwcCAgIAo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCB1bmljb2RlX2xpdGVyYWxzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -892,8 +892,8 @@
         <entry encoding="base64">JzwsJz5zL3R5cGUgOi90eXBlOj9n</entry>
         <entry encoding="base64">JzwsJz5zL3R5cGUgOi90eXBlOi9n</entry>
         <entry>ewa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
