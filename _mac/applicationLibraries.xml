@@ -29,6 +29,33 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
+    <library name="Python 2.7.12 virtualenv at ~/.local/revenv/resource-rank interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/revenv/resource-rank/lib/python2.7" />
+        <root url="file://$USER_HOME$/.local/revenv/resource-rank/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/.local/revenv/resource-rank/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/371000843" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/revenv/resource-rank/lib/python2.7" />
+        <root url="file://$USER_HOME$/.local/revenv/resource-rank/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/.local/revenv/resource-rank/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/371000843" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
     <library name="Python 2.7.13 (~/miniconda2/envs/relex/bin/python) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/miniconda2/envs/relex/lib/python2.7" />
@@ -83,7 +110,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
-    <library name="Python 2.7.13 (~/miniconda2/envs/vine/bin/python) interpreter library">
+    <library name="Python 2.7.13 (~/miniconda2/envs/vine/bin/python2.7) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7" />
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/plat-darwin" />
@@ -93,7 +120,7 @@
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/lib-dynload" />
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages" />
         <root url="jar://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-644619568" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1062720341" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
@@ -106,7 +133,7 @@
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/lib-dynload" />
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages" />
         <root url="jar://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-644619568" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1062720341" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
@@ -130,6 +157,44 @@
         <root url="file:///usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
         <root url="file://$USER_HOME$/.local/revenv/sluffer/lib/python3.5/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/312313490" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.6.0 (~/miniconda2/envs/fit-population/bin/python3.6) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/miniconda2/envs/fit-population/lib/python3.6" />
+        <root url="file://$USER_HOME$/miniconda2/envs/fit-population/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda2/envs/fit-population/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/miniconda2/envs/fit-population/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1158636086" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/miniconda2/envs/fit-population/lib/python3.6" />
+        <root url="file://$USER_HOME$/miniconda2/envs/fit-population/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda2/envs/fit-population/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/miniconda2/envs/fit-population/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1158636086" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.6.0 (~/miniconda2/envs/sluffer/bin/python3.6) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/miniconda2/envs/sluffer/lib/python3.6" />
+        <root url="file://$USER_HOME$/miniconda2/envs/sluffer/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda2/envs/sluffer/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/miniconda2/envs/sluffer/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1827057640" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/miniconda2/envs/sluffer/lib/python3.6" />
+        <root url="file://$USER_HOME$/miniconda2/envs/sluffer/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda2/envs/sluffer/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/miniconda2/envs/sluffer/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1827057640" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
