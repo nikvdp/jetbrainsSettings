@@ -132,12 +132,12 @@
         <mark key="]" line="27" column="13" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486689148167">
-        <mark key="'" line="26" column="31" />
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="23" column="7" />
-        <mark key="." line="23" column="7" />
-        <mark key="^" line="23" column="7" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486695623663">
+        <mark key="'" line="17" column="18" />
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="59" />
+        <mark key="." line="19" column="59" />
+        <mark key="^" line="19" column="59" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/store_assertions.py" timestamp="1486093543536">
         <mark key="'" line="14" column="15" />
@@ -153,9 +153,9 @@
         <mark key="." line="149" column="106" />
         <mark key="^" line="149" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486686144923">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486695559246">
         <mark key="a" line="118" column="0" />
-        <mark key="'" line="32" column="72" />
+        <mark key="'" line="101" column="58" />
         <mark key="[" line="96" column="15" />
         <mark key="]" line="96" column="36" />
         <mark key="." line="96" column="36" />
@@ -283,10 +283,12 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/DummyAssertionGenerator.py" timestamp="1486692381652">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/DummyAssertionGenerator.py" timestamp="1486696352090">
+        <mark key="'" line="39" column="40" />
+        <mark key="[" line="70" column="38" />
+        <mark key="]" line="70" column="45" />
+        <mark key="." line="70" column="45" />
+        <mark key="^" line="70" column="45" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/data/babel-parsed-dump.json" timestamp="1486090409986">
         <mark key="[" line="420" column="9" />
@@ -639,14 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="47" column="20" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="13" column="25" filename="$USER_HOME$/Code/work/volley/repos/vine/spacy_utils.py" />
-      <jump line="256" column="29" filename="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/spacy/language.py" />
-      <jump line="45" column="29" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="33" column="14" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="120" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="94" column="22" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="121" column="40" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
@@ -739,13 +733,22 @@
       <jump line="92" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="120" column="23" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="125" column="49" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="42" column="60" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="49" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="4" column="11" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="17" column="18" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="78" column="28" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="101" column="58" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="39" column="40" filename="$USER_HOME$/Code/work/volley/repos/vine/DummyAssertionGenerator.py" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhc291cmNlX2ZpZWxkX21hcCA9IHsnbmFtZSc6ICdzb3VyY2VfbmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NlZ21lbnRhYmxlX2J5JzogbGFtYmRhIHg6IGpzb24uZHVtcHMoeCl9Cg==</text>
+      <register name="a" type="4">
+        <text>BabelSubSource(source,
+                                                        babel_sub_source_name)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHlpZWxkIHNyYywgb2NjcwogICAgICAgICMgVE9ETzogYWRkIGEgc291cmNlISEhCg==</text>
+      <register name="&quot;" type="4">
+        <text>'test'</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -807,49 +810,50 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>'test'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcHJ1bmVfdG9fc3BlY1w+</text>
+        <text>imp</text>
       </register>
       <register name="0" type="4">
         <text>source_secondary_type</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHlpZWxkIHNyYywgb2NjcwogICAgICAgICMgVE9ETzogYWRkIGEgc291cmNlISEhCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb250ZW50KHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VnbWVudF90eXBlIGlzIG5vdCBOb25lCiAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2Uoc2VnbWVudF90ZXh0LCBzdHIpIG9yIGlzaW5zdGFuY2Uoc2VnbWVudF90ZXh0LCB1bmljb2RlKQogICAgICAgIGFzc2VydCBpc2luc3RhbmNlKHBhcmVudF9kb2MsIERvY3VtZW50KQoKICAgICAgICBzZWxmLnRleHQgPSBzZWdtZW50X3RleHQKICAgICAgICBzZWxmLnBhcmVudF9kb2MgPSBwYXJlbnRfZG9jCiAgICAgICAgc2VsZi5zZWdtZW50X3R5cGUgPSBzZWdtZW50X3R5cGUKICAgICAgICBzZWxmLnNlZ21lbnRfaWQgPSBzZWdtZW50X2lkCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBkYXRhdHlwZXMuYXNzZXJ0ZXJzIGltcG9ydCBBc3NlcnRlcgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>BabelSubSource(source,
+                                                        babel_sub_source_name)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcHJ1bmVfdG9fc3BlY1w+</last-search>
+      <last-search>imp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcHJ1bmVfdG9fc3BlY1w+</last-pattern>
+      <last-pattern>imp</last-pattern>
       <last-replace>chapter</last-replace>
       <last-substitute>paragraph</last-substitute>
       <last-dir>1</last-dir>
@@ -857,8 +861,6 @@
     </search>
     <history>
       <history-search>
-        <entry>os.mk</entry>
-        <entry encoding="base64">ICsg</entry>
         <entry>model.pickle</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV90YXJnZXRcPg==</entry>
         <entry>,</entry>
@@ -877,6 +879,8 @@
         <entry>Assertion</entry>
         <entry>.id</entry>
         <entry encoding="base64">XDxfcHJ1bmVfdG9fc3BlY1w+</entry>
+        <entry>importer</entry>
+        <entry>imp</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
