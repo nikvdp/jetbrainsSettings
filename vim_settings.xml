@@ -237,12 +237,12 @@
         <mark key="." line="149" column="106" />
         <mark key="^" line="149" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486953941401">
-        <mark key="'" line="106" column="8" />
-        <mark key="[" line="92" column="35" />
-        <mark key="]" line="92" column="35" />
-        <mark key="." line="92" column="35" />
-        <mark key="^" line="83" column="18" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486956082926">
+        <mark key="'" line="166" column="19" />
+        <mark key="[" line="55" column="61" />
+        <mark key="]" line="56" column="18" />
+        <mark key="." line="56" column="18" />
+        <mark key="^" line="56" column="18" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" timestamp="1474412422785">
         <mark key="'" line="3" column="7" />
@@ -988,16 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="4" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="18" column="22" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="23" column="4" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="34" column="116" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="38" column="21" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="25" column="53" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
-      <jump line="8" column="50" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="49" column="70" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
-      <jump line="11" column="14" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/base_types.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/base_types.py" />
       <jump line="46" column="46" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="57" column="48" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
@@ -1081,20 +1071,30 @@
       <jump line="57" column="48" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="50" column="35" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="46" column="22" filename="$USER_HOME$/Code/work/volley/repos/vine/DummyAssertionGenerator.py" />
-      <jump line="171" column="40" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="224" column="4" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="22" column="73" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="101" column="73" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="104" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="54" column="34" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="180" column="34" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="171" column="25" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="154" column="12" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="215" column="11" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="169" column="32" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="1" column="21" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="160" column="43" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="82" column="39" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="165" column="19" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">YXNzX3NvdXJjZXMgPSBbCiAgICBnZW5fZHVtbXlfY29vY3VycmVuY2VfYXNzZXJ0aW9ucyh0ZXJtcyksCiAgICBnZW5fZHVtbXlfdGZfYXNzZXJ0aW9ucyh0ZXJtcykKXQo=</text>
+        <text encoding="base64">IiIiU21hbGwgbWl4aW4gZnVuY3Rpb24gdG8gYWRkIGEgdG9fZGljdCgpIG1ldGhvZCB0byBjbGFzc2VzIHRoYXQgdXNlIGF0dHJpYnV0ZXMKCk1lYW50IGZvciB1c2Ugd2l0aCBjbGFzc2VzIGRlcml2ZWQgZnJvbSBTcWxBbGNoZW15J3MgQmFzZSBjbGFzc2UKIiIiCmRlZiBzcGVjX3RvX2RpY3Qoc2VsZik6CiAgICBkaWN0X3JlcCA9IHt9CgogICAgIyBzaW5jZSBzcWxhbGNoZW15IHVzZXMgY2xhc3MgYXR0cmlidXRlcyB0byBzdG9yZSBldmVyeXRoaW5nIHdlCiAgICAjIG5lZWQgdG8gbG9vcCB0aHJvdWdoIGFsbCB0aGUgYXR0cmlidXRlcyBhcyByZXBvcnRlZCBieSBkaXIsCiAgICAjIHN0cmlwIG91dCB0aGUgcHJpdmF0ZSBvbmVzICgnXycgcHJlZml4KSBhbmQgZ2VuZXJhdGUgYSBkaWN0CiAgICAjIGJhc2VkIG9uIHRoYXQKICAgIGZvciBrZXkgaW4gZmlsdGVyKGxhbWJkYSB4OiBub3QgeC5zdGFydHN3aXRoKCJfIiksIGRpcihzZWxmKSk6CiAgICAgICAgZGljdF9yZXBba2V5XSA9IGdldGF0dHIoc2VsZiwga2V5KQogICAgcmV0dXJuIGRpY3RfcmVwCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG9yIHYgaXMgTm9uZQ==</text>
+        <text encoding="base64">IEN1cnJlbnRseQ==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1156,7 +1156,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9yIHYgaXMgTm9uZQ==</text>
+        <text encoding="base64">IEN1cnJlbnRseQ==</text>
       </register>
       <register name="/" type="4">
         <text>more</text>
@@ -1165,31 +1165,31 @@
         <text encoding="base64">ZnJvbSBkYXRhdHlwZXMuYXNzZXJ0aW9uX3R5cGVzIGltcG9ydCBCdWxrQ29vY3VycmVuY2VBc3NlcnRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQudXBkYXRlKHNwZWNfZGljdC51cGRhdGUoc291cmNlX3JlcCkK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHRoaXMgbmVlZHMgdG8gcmVzcGVjdCBOVUxMcyB0byB3b3JrIHByb3Blcmx5LiBDdXJyZW50bHliCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQgPSBjb3B5KHNvdXJjZV9yZXApCg==</text>
+        <text encoding="base64">c2V0YXR0cihCYXNlLCAndG9fZGljdCcsIE1ldGhvZFR5cGUoc3BlY190b19kaWN0LCBraikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjX2RpY3QgPSBzcGVjLnRvX2RpY3QoKQo=</text>
+        <text encoding="base64">IiIiU21hbGwgbWl4aW4gZnVuY3Rpb24gdG8gYWRkIGEgdG9fZGljdCgpIG1ldGhvZCB0byBjbGFzc2VzIHRoYXQgdXNlIGF0dHJpYnV0ZXMKCk1lYW50IGZvciB1c2Ugd2l0aCBjbGFzc2VzIGRlcml2ZWQgZnJvbSBTcWxBbGNoZW15J3MgQmFzZSBjbGFzc2UKIiIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlcm0gPSBDb2x1bW4oU3RyaW5nKQo=</text>
+        <text encoding="base64">QmFzZSA9IGRlY2xhcmF0aXZlX2Jhc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVybSBpcyBub3QgTm9uZQogICAgICAgIHNlbGYudGVybSA9IHRlcm0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgQWxsIGFzc2VydGlvbnMgbXVzdCBpbmNsdWRlIHRlcm0gYW5kIHRlcm1fbGVtbWEK</text>
+        <text encoding="base64">c3RhdGljbWV0aG9kCmNsYXNzbWV0aG9kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLl9sb2FkX2Zyb21fcGVyc2lzdGVuY2VfbGF5ZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzX2RpY1snaW1wb3J0X2lkJ10gPSBpbXBvcnRfaWQgb3IgdXVpZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzX2RpY1snaW1wb3J0X2lkJ10gPSBpbXBvcnRfaWQgb3IgdXVpZCgpCg==</text>
+        <text encoding="base64">IiIiU21hbGwgbWl4aW4gZnVuY3Rpb24gdG8gYWRkIGEgdG9fZGljdCgpIG1ldGhvZCB0byBjbGFzc2VzIHRoYXQgdXNlIGF0dHJpYnV0ZXMKCk1lYW50IGZvciB1c2Ugd2l0aCBjbGFzc2VzIGRlcml2ZWQgZnJvbSBTcWxBbGNoZW15J3MgQmFzZSBjbGFzc2UKIiIiCmRlZiBzcGVjX3RvX2RpY3Qoc2VsZik6CiAgICBkaWN0X3JlcCA9IHt9CgogICAgIyBzaW5jZSBzcWxhbGNoZW15IHVzZXMgY2xhc3MgYXR0cmlidXRlcyB0byBzdG9yZSBldmVyeXRoaW5nIHdlCiAgICAjIG5lZWQgdG8gbG9vcCB0aHJvdWdoIGFsbCB0aGUgYXR0cmlidXRlcyBhcyByZXBvcnRlZCBieSBkaXIsCiAgICAjIHN0cmlwIG91dCB0aGUgcHJpdmF0ZSBvbmVzICgnXycgcHJlZml4KSBhbmQgZ2VuZXJhdGUgYSBkaWN0CiAgICAjIGJhc2VkIG9uIHRoYXQKICAgIGZvciBrZXkgaW4gZmlsdGVyKGxhbWJkYSB4OiBub3QgeC5zdGFydHN3aXRoKCJfIiksIGRpcihzZWxmKSk6CiAgICAgICAgZGljdF9yZXBba2V5XSA9IGdldGF0dHIoc2VsZiwga2V5KQogICAgcmV0dXJuIGRpY3RfcmVwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
