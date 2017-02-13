@@ -132,13 +132,7 @@
         <mark key="]" line="27" column="13" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486695623663">
-        <mark key="'" line="17" column="18" />
-        <mark key="[" line="19" column="41" />
-        <mark key="]" line="19" column="59" />
-        <mark key="." line="19" column="59" />
-        <mark key="^" line="19" column="59" />
-      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486696654139" />
       <file name="$USER_HOME$/Code/work/volley/repos/vine/store_assertions.py" timestamp="1486093543536">
         <mark key="'" line="14" column="15" />
         <mark key="[" line="7" column="31" />
@@ -282,13 +276,6 @@
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/DummyAssertionGenerator.py" timestamp="1486696352090">
-        <mark key="'" line="39" column="40" />
-        <mark key="[" line="70" column="38" />
-        <mark key="]" line="70" column="45" />
-        <mark key="." line="70" column="45" />
-        <mark key="^" line="70" column="45" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/data/babel-parsed-dump.json" timestamp="1486090409986">
         <mark key="[" line="420" column="9" />
@@ -641,7 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="94" column="22" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="121" column="40" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="51" column="19" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
@@ -734,21 +720,22 @@
       <jump line="120" column="23" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="125" column="49" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="42" column="60" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="49" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="4" column="11" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="17" column="18" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="78" column="28" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="101" column="58" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="39" column="40" filename="$USER_HOME$/Code/work/volley/repos/vine/DummyAssertionGenerator.py" />
+      <jump line="42" column="36" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="25" column="33" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>BabelSubSource(source,
                                                         babel_sub_source_name)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'test'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihCYWJlbFN1YlNvdXJjZSwgc2VsZikuX19pbml0X18oKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -810,7 +797,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'test'</text>
+        <text encoding="base64">aWQgb3Ig</text>
       </register>
       <register name="/" type="4">
         <text>imp</text>
@@ -819,13 +806,13 @@
         <text>source_secondary_type</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihCYWJlbFN1YlNvdXJjZSwgc2VsZikuX19pbml0X18oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
@@ -837,17 +824,17 @@
         <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBkYXRhdHlwZXMuYXNzZXJ0ZXJzIGltcG9ydCBBc3NlcnRlcgo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>BabelSubSource(source,
                                                         babel_sub_source_name)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -901,8 +888,8 @@
         <entry encoding="base64">JzwsJz5zL3R5cGUgOi90eXBlOj9n</entry>
         <entry encoding="base64">JzwsJz5zL3R5cGUgOi90eXBlOi9n</entry>
         <entry>ewa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
