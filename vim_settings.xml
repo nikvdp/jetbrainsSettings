@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1486623238190">
+      <file name="/start_script.py" timestamp="1486960471041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter/src/index.js" timestamp="1469762109143">
@@ -149,11 +149,11 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" timestamp="1486953029236">
-        <mark key="'" line="130" column="49" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" timestamp="1486958887589">
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="25" column="11" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/stanford-core-nlp/wrapper/controllers/normalizer.js" timestamp="1479342306546">
         <mark key="[" line="5" column="0" />
@@ -211,11 +211,12 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486953652695">
-        <mark key="'" line="54" column="34" />
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="34" />
-        <mark key="." line="54" column="34" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1486960460767">
+        <mark key="'" line="26" column="33" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_augmented_dep_graph.py" timestamp="1485155972159">
         <mark key="[" line="4" column="37" />
@@ -237,12 +238,12 @@
         <mark key="." line="149" column="106" />
         <mark key="^" line="149" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486956082926">
-        <mark key="'" line="166" column="19" />
-        <mark key="[" line="55" column="61" />
-        <mark key="]" line="56" column="18" />
-        <mark key="." line="56" column="18" />
-        <mark key="^" line="56" column="18" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1486960227971">
+        <mark key="'" line="123" column="27" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="16" />
+        <mark key="." line="143" column="16" />
+        <mark key="^" line="142" column="37" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" timestamp="1474412422785">
         <mark key="'" line="3" column="7" />
@@ -986,15 +987,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="61" />
       </file>
+      <file name="/fragment.java" timestamp="1486960502997">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/base_types.py" />
-      <jump line="46" column="46" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="57" column="48" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="51" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="54" column="23" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="14" column="31" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="39" column="30" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
@@ -1008,7 +1005,6 @@
       <jump line="120" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="94" column="22" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="108" column="24" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="123" column="32" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="121" column="40" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="51" column="19" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="52" column="21" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
@@ -1032,7 +1028,6 @@
       <jump line="60" column="17" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="76" column="45" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="83" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
-      <jump line="84" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="107" column="40" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="27" column="89" filename="$USER_HOME$/Code/work/volley/repos/vine/README.md" />
       <jump line="41" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/README.md" />
@@ -1088,13 +1083,22 @@
       <jump line="82" column="39" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="165" column="19" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="84" column="13" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="20" column="33" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="22" column="75" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="41" column="37" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="25" column="33" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="23" column="57" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
+      <jump line="85" column="31" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
+      <jump line="123" column="27" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">IiIiU21hbGwgbWl4aW4gZnVuY3Rpb24gdG8gYWRkIGEgdG9fZGljdCgpIG1ldGhvZCB0byBjbGFzc2VzIHRoYXQgdXNlIGF0dHJpYnV0ZXMKCk1lYW50IGZvciB1c2Ugd2l0aCBjbGFzc2VzIGRlcml2ZWQgZnJvbSBTcWxBbGNoZW15J3MgQmFzZSBjbGFzc2UKIiIiCmRlZiBzcGVjX3RvX2RpY3Qoc2VsZik6CiAgICBkaWN0X3JlcCA9IHt9CgogICAgIyBzaW5jZSBzcWxhbGNoZW15IHVzZXMgY2xhc3MgYXR0cmlidXRlcyB0byBzdG9yZSBldmVyeXRoaW5nIHdlCiAgICAjIG5lZWQgdG8gbG9vcCB0aHJvdWdoIGFsbCB0aGUgYXR0cmlidXRlcyBhcyByZXBvcnRlZCBieSBkaXIsCiAgICAjIHN0cmlwIG91dCB0aGUgcHJpdmF0ZSBvbmVzICgnXycgcHJlZml4KSBhbmQgZ2VuZXJhdGUgYSBkaWN0CiAgICAjIGJhc2VkIG9uIHRoYXQKICAgIGZvciBrZXkgaW4gZmlsdGVyKGxhbWJkYSB4OiBub3QgeC5zdGFydHN3aXRoKCJfIiksIGRpcihzZWxmKSk6CiAgICAgICAgZGljdF9yZXBba2V5XSA9IGdldGF0dHIoc2VsZiwga2V5KQogICAgcmV0dXJuIGRpY3RfcmVwCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG9wdGlvbmFsIGZpZWxkcyB0byBzdG9yZSBzZWNvbmRhcnkgdHlwZSBpbmZvcm1hdGlvbiwgZm9yIHNvdXJjZXMKICAgICAgICAjIHdoZXJlIGl0IG1ha2VzIHNlbnNlIGUuZy4gc2VnbWVudF90eXBlIGFuZCBzZWdtZW50X2lkCiAgICAgICAgaWYgc2Vjb25kYXJ5X2lkOgogICAgICAgICAgICBzZWxmLnNlY29uZGFyeV9pZCA9IHNlY29uZGFyeV9pZAogICAgICAgIGlmIHNlY29uZGFyeV9pZF90eXBlOgogICAgICAgICAgICBzZWxmLnNlY29uZGFyeV9pZF90eXBlID0gc2Vjb25kYXJ5X2lkX3R5cGUK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEN1cnJlbnRseQ==</text>
+        <text encoding="base64">aXBtb3J0IHB1ZGI7IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1156,49 +1160,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEN1cnJlbnRseQ==</text>
+        <text encoding="base64">aXBtb3J0IHB1ZGI7IA==</text>
       </register>
       <register name="/" type="4">
-        <text>more</text>
+        <text>segment_type</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhdHlwZXMuYXNzZXJ0aW9uX3R5cGVzIGltcG9ydCBCdWxrQ29vY3VycmVuY2VBc3NlcnRpb24K</text>
+      <register name="0" type="4">
+        <text>'-_-'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHRoaXMgbmVlZHMgdG8gcmVzcGVjdCBOVUxMcyB0byB3b3JrIHByb3Blcmx5LiBDdXJyZW50bHliCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihCYWJlbFN1YlNvdXJjZSwgc2VsZikuX19pbml0X18ocGFyZW50X3NyYy5pbl9maWxlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0YXR0cihCYXNlLCAndG9fZGljdCcsIE1ldGhvZFR5cGUoc3BlY190b19kaWN0LCBraikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IiIiU21hbGwgbWl4aW4gZnVuY3Rpb24gdG8gYWRkIGEgdG9fZGljdCgpIG1ldGhvZCB0byBjbGFzc2VzIHRoYXQgdXNlIGF0dHJpYnV0ZXMKCk1lYW50IGZvciB1c2Ugd2l0aCBjbGFzc2VzIGRlcml2ZWQgZnJvbSBTcWxBbGNoZW15J3MgQmFzZSBjbGFzc2UKIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG9wdGlvbmFsIGZpZWxkcyB0byBzdG9yZSBzZWNvbmRhcnkgdHlwZSBpbmZvcm1hdGlvbiwgZm9yIHNvdXJjZXMKICAgICAgICAjIHdoZXJlIGl0IG1ha2VzIHNlbnNlIGUuZy4gc2VnbWVudF90eXBlIGFuZCBzZWdtZW50X2lkCiAgICAgICAgaWYgc2Vjb25kYXJ5X2lkOgogICAgICAgICAgICBzZWxmLnNlY29uZGFyeV9pZCA9IHNlY29uZGFyeV9pZAogICAgICAgIGlmIHNlY29uZGFyeV9pZF90eXBlOgogICAgICAgICAgICBzZWxmLnNlY29uZGFyeV9pZF90eXBlID0gc2Vjb25kYXJ5X2lkX3R5cGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QmFzZSA9IGRlY2xhcmF0aXZlX2Jhc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluX2ZpbGUgPSAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RhdGljbWV0aG9kCmNsYXNzbWV0aG9kCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG9wdGlvbmFsIGZpZWxkcyB0byBzdG9yZSBzZWNvbmRhcnkgdHlwZSBpbmZvcm1hdGlvbiwgZm9yIHNvdXJjZXMKICAgICAgICAjIHdoZXJlIGl0IG1ha2VzIHNlbnNlIGUuZy4gc2VnbWVudF90eXBlIGFuZCBzZWdtZW50X2lkCiAgICAgICAgc2VsZi5zZWNvbmRhcnlfaWQgPSBzZWNvbmRhcnlfaWQKICAgICAgICBzZWxmLnNlY29uZGFyeV9pZF90eXBlID0gc2Vjb25kYXJ5X2lkX3R5cGUK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlY29uZGFyeV9pZF90eXBlID0gJ2JhYmVsX3N1Yl9zb3VyY2UnCiAgICAgICAgc2VsZi5zZWNvbmRhcnlfaWQgPSBuYW1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiIiU21hbGwgbWl4aW4gZnVuY3Rpb24gdG8gYWRkIGEgdG9fZGljdCgpIG1ldGhvZCB0byBjbGFzc2VzIHRoYXQgdXNlIGF0dHJpYnV0ZXMKCk1lYW50IGZvciB1c2Ugd2l0aCBjbGFzc2VzIGRlcml2ZWQgZnJvbSBTcWxBbGNoZW15J3MgQmFzZSBjbGFzc2UKIiIiCmRlZiBzcGVjX3RvX2RpY3Qoc2VsZik6CiAgICBkaWN0X3JlcCA9IHt9CgogICAgIyBzaW5jZSBzcWxhbGNoZW15IHVzZXMgY2xhc3MgYXR0cmlidXRlcyB0byBzdG9yZSBldmVyeXRoaW5nIHdlCiAgICAjIG5lZWQgdG8gbG9vcCB0aHJvdWdoIGFsbCB0aGUgYXR0cmlidXRlcyBhcyByZXBvcnRlZCBieSBkaXIsCiAgICAjIHN0cmlwIG91dCB0aGUgcHJpdmF0ZSBvbmVzICgnXycgcHJlZml4KSBhbmQgZ2VuZXJhdGUgYSBkaWN0CiAgICAjIGJhc2VkIG9uIHRoYXQKICAgIGZvciBrZXkgaW4gZmlsdGVyKGxhbWJkYSB4OiBub3QgeC5zdGFydHN3aXRoKCJfIiksIGRpcihzZWxmKSk6CiAgICAgICAgZGljdF9yZXBba2V5XSA9IGdldGF0dHIoc2VsZiwga2V5KQogICAgcmV0dXJuIGRpY3RfcmVwCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>more</last-search>
+      <last-search>segment_type</last-search>
       <last-offset />
-      <last-pattern>more</last-pattern>
+      <last-pattern>segment_type</last-pattern>
       <last-replace>chapter</last-replace>
       <last-substitute>paragraph</last-substitute>
       <last-dir>1</last-dir>
@@ -1206,8 +1210,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lcmF0ZV90YXJnZXRcPg==</entry>
-        <entry>,</entry>
         <entry>..</entry>
         <entry>\..</entry>
         <entry>\.\.</entry>
@@ -1226,6 +1228,8 @@
         <entry>term=</entry>
         <entry>import_id</entry>
         <entry>more</entry>
+        <entry>secondary</entry>
+        <entry>segment_type</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
