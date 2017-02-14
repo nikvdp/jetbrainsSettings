@@ -869,12 +869,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="/code.py" timestamp="1486667466045">
-        <mark key="'" line="0" column="26" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="29" />
+      <file name="/code.py" timestamp="1487031679795">
+        <mark key="'" line="56" column="29" />
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="28" />
+        <mark key="^" line="56" column="14" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/data_assertions.py" timestamp="1485834233023">
         <mark key="[" line="1" column="5" />
@@ -976,7 +976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="17" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="76" column="45" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="83" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="84" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
@@ -1076,14 +1075,15 @@
       <jump line="86" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/termstat_types.py" />
       <jump line="6" column="23" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/termstat_types.py" />
+      <jump line="56" column="29" filename="/code.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>BabelSubSource(source,
                                                         babel_sub_source_name)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>bad</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1145,7 +1145,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGVyc2lzdGVyPVNxbExpdGVQZXJzaXN0ZXIsIA==</text>
+        <text>bad</text>
       </register>
       <register name="/" type="4">
         <text>imp</text>
@@ -1154,32 +1154,32 @@
         <text>cooccurring_terms</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBlcnNpc3RlciA9IHBlcnNpc3RlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBlcnNpc3RlciA9IHBlcnNpc3RlcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRmID0gdGYKICAgICAgICBzZWxmLmRmID0gZGYKICAgICAgICBzZWxmLmNvb2N1cnJpbmdfdGVybXMgPSBjb29jcwogICAgICAgIHNlbGYuZGVmaW5pdGlvbnMgPSBkZWZpbml0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRmID0gdGYKICAgICAgICBzZWxmLmRmID0gZGYKICAgICAgICBzZWxmLmNvb2N1cnJpbmdfdGVybXMgPSBjb29jcwogICAgICAgIHNlbGYuZGVmaW5pdGlvbnMgPSBkZWZpbml0aW9ucwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>tf=None, coocs=None, definitions=None, df=None,
                  sources=None</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRmID0gZGYK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRmID0gZGYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRmID0gZGYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
