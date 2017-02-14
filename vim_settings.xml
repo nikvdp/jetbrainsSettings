@@ -210,11 +210,12 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1487021149308">
-        <mark key="[" line="42" column="39" />
-        <mark key="]" line="42" column="39" />
-        <mark key="^" line="49" column="0" />
-        <mark key="." line="42" column="39" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1487040502611">
+        <mark key="'" line="52" column="17" />
+        <mark key="[" line="63" column="27" />
+        <mark key="]" line="63" column="48" />
+        <mark key="^" line="63" column="26" />
+        <mark key="." line="63" column="27" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_augmented_dep_graph.py" timestamp="1485155972159">
         <mark key="[" line="4" column="37" />
@@ -522,12 +523,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/data_sources.py" timestamp="1486669576365">
-        <mark key="[" line="27" column="48" />
-        <mark key="]" line="27" column="52" />
-        <mark key="." line="27" column="52" />
-        <mark key="^" line="27" column="52" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/app/tests/test_greet.py" timestamp="1479775454473">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="26" />
@@ -601,12 +596,12 @@
         <mark key="." line="64" column="17" />
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" timestamp="1487036296631">
-        <mark key="'" line="9" column="57" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="29" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" timestamp="1487040361014">
+        <mark key="'" line="11" column="57" />
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+        <mark key="^" line="15" column="55" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/dependencies.js" timestamp="1469065689576">
         <mark key="[" line="2" column="0" />
@@ -812,12 +807,12 @@
         <mark key="." line="0" column="64" />
         <mark key="^" line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/openstax_importer.py" timestamp="1487039203805">
-        <mark key="'" line="42" column="18" />
-        <mark key="[" line="126" column="22" />
-        <mark key="]" line="126" column="22" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/openstax_importer.py" timestamp="1487040622268">
+        <mark key="'" line="12" column="26" />
+        <mark key="[" line="93" column="51" />
+        <mark key="]" line="93" column="51" />
         <mark key="^" line="129" column="37" />
-        <mark key="." line="126" column="22" />
+        <mark key="." line="93" column="51" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/elastic.py" timestamp="1485835568300">
         <mark key="'" line="4" column="0" />
@@ -1017,10 +1012,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="32" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="86" column="62" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="87" column="24" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="117" column="57" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="111" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
@@ -1117,13 +1108,17 @@
       <jump line="26" column="44" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister/stat_mungers/resolvers.py" />
       <jump line="42" column="18" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/openstax_importer.py" />
       <jump line="30" column="13" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister/stat_mungers/resolvers.py" />
+      <jump line="22" column="44" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="52" column="17" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="91" column="29" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/openstax_importer.py" />
+      <jump line="12" column="26" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/openstax_importer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIG1hbnlfdG9fb25lX2ZpZWxkcyA9IHsKICAgICAgICAnY29vY3VycmVuY2VfMSc6ICgnY29vY3VycmVuY2VzJywgYXJyYXlfZXh0ZW5kKSwKICAgICAgICAnY29vY3VycmVuY2VfMic6ICgnY29vY3VycmVuY2VzJywgYXJyYXlfZXh0ZW5kKSwKICAgICAgICAnY29vY3VycmVuY2VfMyc6ICgnY29vY3VycmVuY2VzJywgYXJyYXlfZXh0ZW5kKSwKICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>appending</text>
+        <text>.document</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1185,50 +1180,50 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>appending</text>
+        <text>.document</text>
       </register>
       <register name="/" type="4">
-        <text>to_dict</text>
+        <text encoding="base64">XDxUUURNXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IiIiVGhpcyBmaWxlIGNvbnRhaW5zIHNtYWxsIGhlbHBlciBtZXRob2RzIHRvIG0KIiIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB1dGlsLnNwYWN5X3V0aWxzIGltcG9ydCBsZW1tYXRpemVfdGVybSwgZ2V0X3NwYWN5X25scAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzcGFjeV91dGlscyBpbXBvcnQgZ2V0X3NwYWN5X25scCwgbGVtbWF0aXplX3Rlcm0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhd19pbnB1dCgia2VlcCBnb2luZz8iKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHRyeToKICAgICAgICByZW1vdmUoIndvb3Quc3FsaXRlIikKICAgIGV4Y2VwdDoK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>lemmatized_term = u'autonomic nervous system'
 stats = map(spec_to_dict, session.query(SqlLitePersiste</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIE1lYW50IGZvciB1c2Ugd2l0aCBjbGFzc2VzIGRlcml2ZWQgZnJvbSBTcWxBbGNoZW15J3MgQmFzZSBjbGFzc2UK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFNxbExpdGVQZXJzaXN0ZXIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAuU3FsIGltcG9ydCBTcWxMaXRlUGVyc2lzdGVyIGFzIERlZmF1bHRQZXJzaXN0ZXIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1lYW50IGZvciB1c2Ugd2l0aCBjbGFzc2VzIGRlcml2ZWQgZnJvbSBTcWxBbGNoZW15J3MgQmFzZSBjbGFzc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>to_dict</last-search>
+      <last-search encoding="base64">XDxUUURNXD4=</last-search>
       <last-offset />
-      <last-pattern>to_dict</last-pattern>
+      <last-pattern encoding="base64">XDxUUURNXD4=</last-pattern>
       <last-replace>chapter</last-replace>
       <last-substitute>paragraph</last-substitute>
       <last-dir>1</last-dir>
@@ -1236,8 +1231,6 @@ stats = map(spec_to_dict, session.query(SqlLitePersiste</text>
     </search>
     <history>
       <history-search>
-        <entry>..</entry>
-        <entry>\..</entry>
         <entry>\.\.</entry>
         <entry encoding="base64">XDxERUZBVUxUX1NFQ1RJT05fTEVOXD4=</entry>
         <entry>src_</entry>
@@ -1256,6 +1249,8 @@ stats = map(spec_to_dict, session.query(SqlLitePersiste</text>
         <entry>array_ex</entry>
         <entry>to_di</entry>
         <entry>to_dict</entry>
+        <entry>lemma</entry>
+        <entry encoding="base64">XDxUUURNXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
