@@ -608,13 +608,11 @@
         <mark key="." line="64" column="17" />
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" timestamp="1487123864975">
-        <mark key="a" line="70" column="0" />
-        <mark key="'" line="72" column="20" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="16" />
-        <mark key="^" line="67" column="61" />
-        <mark key="." line="68" column="16" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" timestamp="1487126039226">
+        <mark key="'" line="80" column="24" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/tasks/web/dependencies.js" timestamp="1469065689576">
         <mark key="[" line="2" column="0" />
@@ -1040,12 +1038,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="2" filename="$USER_HOME$/Code/work/volley/repos/vine/metrics.py" />
-      <jump line="53" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/DESIGN.md" />
-      <jump line="27" column="4" filename="$USER_HOME$/Code/work/volley/repos/vine/DESIGN.md" />
-      <jump line="25" column="1" filename="$USER_HOME$/Code/work/volley/repos/vine/DESIGN.md" />
-      <jump line="50" column="10" filename="$USER_HOME$/Code/work/volley/repos/vine/DESIGN.md" />
-      <jump line="21" column="23" filename="$USER_HOME$/Code/work/volley/repos/vine/DESIGN.md" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/DESIGN.md" />
       <jump line="76" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/DESIGN.md" />
       <jump line="7" column="4" filename="$USER_HOME$/Code/work/volley/repos/vine/DESIGN.md" />
@@ -1120,9 +1112,6 @@
       <jump line="34" column="4" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
       <jump line="18" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
-      <jump line="63" column="38" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
-      <jump line="53" column="12" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
       <jump line="1" column="23" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
       <jump line="2" column="23" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
@@ -1136,17 +1125,26 @@
       <jump line="13" column="36" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/termstat_types.py" />
       <jump line="18" column="12" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/termstat_types.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/termstat_types.py" />
-      <jump line="67" column="19" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
       <jump line="72" column="70" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
-      <jump line="70" column="20" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
+      <jump line="81" column="17" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
+      <jump line="59" column="109" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
+      <jump line="54" column="44" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
+      <jump line="53" column="60" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
+      <jump line="89" column="53" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
+      <jump line="75" column="54" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
+      <jump line="63" column="42" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
+      <jump line="67" column="19" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
+      <jump line="84" column="24" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>filter(lambda x: str(x) != str(term_lemma), stats.synonyms)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>concept['lemmas']</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2hvdWxkIGJlIGFibGUgdG8gcHV0IGl0IGFsbCBsaW5hCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1208,57 +1206,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stats.synonyms</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text encoding="base64">XDx0ZXJtX2xlbW1hXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>concept['lemmas']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmNlcHRbJ2xlbW1hcyddLmFwcGVuZCh0ZXJtX2xlbW1hKQogICAgICAgICAgICAgICAgY29uY2VwdFsnc3RhdHMnXS5hcHBlbmQoc3RhdHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN0cmlwIG91dCBzeW5zIHRoYXQgYXJlIHNhbWUgYXMgb3JpZ2luYWwgbGVtbWEgYW5kIGR1cGxpY2F0ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2hvdWxkIGJlIGFibGUgdG8gcHV0IGl0IGFsbCBsaW5hCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5vbnltcyA9IGNsZWFuX3N5bnNldChzdGF0cy5zeW5vbnltcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBzeW5vbnltX29mIG5vdCBpbiBjb25jZXB0WydsZW1tYXMnXToKICAgICAgICAgICAgICAgICAgICAgICAgY29uY2VwdFsnbGVtbWFzJ10uYXBwZW5kKHRlcm0pCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbmNlcHRbJ3N0YXRzJ10uYXBwZW5kKHN0YXRzKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>filter(lambda x: str(x) != str(term_lemma), stats.synonyms)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogbWVyZ2UgYmVsb3cgd2l0aCBgaWYgdGVybV9sZW1tYSBub3QgaW4gY29uY2VwdFsnbGVtbWFzJ11gIGFib3ZlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5vbnltcyA9IGNsZWFuX3N5bnNldChmaWx0ZXIobGFtYmRhIHg6IHN0cih4KSAhPSBzdHIodGVybV9sZW1tYSksIHN0YXRzLnN5bm9ueW1zKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25jZXB0WydsZW1tYXMnXS5hcHBlbmQoc3lub255bV9vZikK</text>
       </register>
-      <register name="5" type="4">
-        <text>filter(lambda x: str(x) != str(term_lemma), stats.synonyms)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhdHMgaXMgbm90IE5vbmUKICAgICAgICAgICAgYW5kIHN0YXRzLnRlcm1fbGVtbWEgIT0gdGVybV9sZW1tYQogICAgICAgICAgICBhbmQgc3RhdHMudGVybV9sZW1tYSBpbiB0ZXJtX3RvX2NvbmNlcHRfbWFwKToKCiAgICAgICAgICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHdlJ3ZlIGxvb2tlZCB1cCBhIHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGNsZWFuX3N5bnNldChzeW5zZXQpOgogICAgcmV0dXJuIHVuaXEoW3N0cihzKSBmb3IgcyBpbiBzeW5zZXRdCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBjb3VudCA+PSA4OgogICAgICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>asdf</last-search>
+      <last-search encoding="base64">XDx0ZXJtX2xlbW1hXD4=</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
-      <last-replace>, lambda x: x)</last-replace>
-      <last-substitute>)</last-substitute>
+      <last-pattern encoding="base64">XDx0ZXJtX2xlbW1hXD4=</last-pattern>
+      <last-replace>term</last-replace>
+      <last-substitute encoding="base64">XDx0ZXJtX2xlbW1hXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxdXD4=</entry>
         <entry>prune</entry>
         <entry>Assertion</entry>
         <entry>.id</entry>
@@ -1278,10 +1275,9 @@
         <entry>concepts</entry>
         <entry>)</entry>
         <entry>asdf</entry>
+        <entry encoding="base64">XDx0ZXJtX2xlbW1hXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4hIi8hIi9xZ3AtYWRtaW4vIWc=</entry>
-        <entry encoding="base64">JzwsJz5zISIvISIvcWdwLWFkbWluLyFn</entry>
         <entry encoding="base64">JzwsJz5zLyIvYC9n</entry>
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz5zL1xcJC8vZw==</entry>
@@ -1298,6 +1294,8 @@
         <entry encoding="base64">JzwsJz5zLy8sIGxhbWJkYSB4OiB4Lw==</entry>
         <entry encoding="base64">JzwsJz5zLy8sIGxhbWJkYSB4OiB4L2c=</entry>
         <entry encoding="base64">JzwsJz5zLy8sIGxhbWJkYSB4OiB4KS9n</entry>
+        <entry>.,.+3w</entry>
+        <entry encoding="base64">JzwsJz5zLy90ZXJtL2c=</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
