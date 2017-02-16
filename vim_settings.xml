@@ -210,10 +210,10 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1487193615175">
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1487206016633">
         <mark key="'" line="52" column="17" />
-        <mark key="[" line="63" column="27" />
-        <mark key="]" line="63" column="48" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="52" />
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="27" />
       </file>
@@ -236,14 +236,6 @@
         <mark key="]" line="4" column="45" />
         <mark key="." line="149" column="106" />
         <mark key="^" line="149" column="106" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" timestamp="1487035198441">
-        <mark key="a" line="210" column="22" />
-        <mark key="'" line="214" column="4" />
-        <mark key="[" line="210" column="25" />
-        <mark key="]" line="211" column="0" />
-        <mark key="." line="211" column="0" />
-        <mark key="^" line="211" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-regex-creator-rule.js" timestamp="1474412422785">
         <mark key="'" line="3" column="7" />
@@ -561,6 +553,10 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/site-packages/hvac/v1/__init__.py" timestamp="1487205816650">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="21" column="50" />
+      </file>
       <file name="$USER_HOME$/Code/personal/crypter/src/App.js" timestamp="1469762118725">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="33" />
@@ -658,6 +654,12 @@
         <mark key="]" line="29" column="27" />
         <mark key="." line="29" column="27" />
         <mark key="^" line="29" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/__init__.py" timestamp="1487206082312">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Code/personal/crypter2/src/App.js" timestamp="1469762709519">
         <mark key="[" line="10" column="36" />
@@ -930,6 +932,13 @@
         <mark key="." line="56" column="28" />
         <mark key="^" line="56" column="14" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/volley_secrets.py" timestamp="1487206063019">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/data_assertions.py" timestamp="1485834233023">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="21" />
@@ -1036,10 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/AssertionGenerator.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/AssertionGenerator.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/AssertionGenerator.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/AssertionGenerator.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/AssertionGenerator.py" />
       <jump line="78" column="61" filename="$USER_HOME$/Code/work/volley/repos/vine/AssertionGenerator.py" />
       <jump line="70" column="3" filename="$USER_HOME$/Code/work/volley/repos/vine/AssertionGenerator.py" />
@@ -1136,13 +1141,17 @@
       <jump line="36" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/termstat_types.py" />
       <jump line="6" column="15" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/concept_types.py" />
       <jump line="70" column="7" filename="$USER_HOME$/Code/work/volley/repos/vine/concept_generator.py" />
+      <jump line="4" column="13" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/volley_secrets.py" />
+      <jump line="7" column="28" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/volley_secrets.py" />
+      <jump line="6" column="28" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/volley_secrets.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/volley_secrets.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Y2xhc3MgQ29uY2VwdChEaWN0TGlrZSk6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHN0YXRfbGlzdCk6CiAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2Uoc3RhdF9saXN0LCBsaXN0KQogICAgICAgIGZvciBzdGF0IGluIHN0YXRfbGlzdDoKICAgICAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2Uoc3RhdCwgVGVybVN0YXRzKQogICAgICAgIHNlbGYuc3RhdF9saXN0ID0gc3RhdF9saXN0CgoK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGdldCBhdXRoIHdvcmtpbmcgcHJvcGVybHkgb24gRVMK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1204,43 +1213,45 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>.type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmllbGQgaW4gZmllbGRzOgogICAgICAgICAgICBzZXRhdHRyKHNlbGYsIGZpZWxkLm5hbWUsIGZpZWxkLnR5cGUoKSkKCiAgICAgICAgICAgIGlmIGt3YXJncy5nZXQoZmllbGQubmFtZSkgaXMgbm90IE5vbmU6CgogICAgICAgICAgICAgICAgaWYgY2FsbGFibGUoZmllbGQuaGVscGVyX2ZuKToKICAgICAgICAgICAgICAgICAgICBrd2FyZ3NbZmllbGQubmFtZV0gPSBmaWVsZC5oZWxwZXJfZm4oa3dhcmdzW2ZpZWxkLm5hbWVdKQoKICAgICAgICAgICAgICAgIHNldGF0dHIoc2VsZiwgZmllbGQubmFtZSwga3dhcmdzW2ZpZWxkLm5hbWVdKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihCYWJlbCwgc2VsZikuX19pbml0X18obmFtZSBvciAiYmFiZWwiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGdldCBhdXRoIHdvcmtpbmcgcHJvcGVybHkgb24gRVMK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGRhdGF0eXBlcy50ZXJtc3RhdF90eXBlcyBpbXBvcnQgQ29uY2VwdAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgQ29uY2VwdChEaWN0TGlrZSk6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHN0YXRfbGlzdCk6CiAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2Uoc3RhdF9saXN0LCBsaXN0KQogICAgICAgIGZvciBzdGF0IGluIHN0YXRfbGlzdDoKICAgICAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2Uoc3RhdCwgVGVybVN0YXRzKQogICAgICAgIHNlbGYuc3RhdF9saXN0ID0gc3RhdF9saXN0CgoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhdHlwZXMudGVybXN0YXRfdHlwZXMgaW1wb3J0IENvbmNlcHQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGF0eXBlcy50ZXJtc3RhdF90eXBlcyBhcyB0ZXJtc3RhdHMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhdHlwZXMudGVybXN0YXRfdHlwZXMgaW1wb3J0IENvbmNlcHQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBbCiAgICAgICAgICAgIEZpZWxkKCd0ZXJtX3N0YXRzJywgVGVybVN0YXRzLCBpZGVudGl0eSksCiAgICAgICAgXQogICAgICAgIAogICAgICAgIGZvciBmaWVsZCBpbiBmaWVsZHM6CiAgICAgICAgICAgIHNldGF0dHIoc2VsZiwgZmllbGQubmFtZSwgZmllbGQudHlwZSgpKQoKICAgICAgICAgICAgaWYga3dhcmdzLmdldChmaWVsZC5uYW1lKSBpcyBub3QgTm9uZToKCiAgICAgICAgICAgICAgICBpZiBjYWxsYWJsZShmaWVsZC5oZWxwZXJfZm4pOgogICAgICAgICAgICAgICAgICAgIGt3YXJnc1tmaWVsZC5uYW1lXSA9IGZpZWxkLmhlbHBlcl9mbihrd2FyZ3NbZmllbGQubmFtZV0pCgogICAgICAgICAgICAgICAgc2V0YXR0cihzZWxmLCBmaWVsZC5uYW1lLCBrd2FyZ3NbZmllbGQubmFtZV0pCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBodHRwczovL3NlY3JldHMudm9sbGV5cHJvdG90eXBlLmNvbQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihDbGllbnQpLl9faW5pdF9fKHVybD11cmwsICoqa3dhcmdzKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBodmFjIGltcG9ydCAqCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>, token=None,
+                 cert=None, verify=True, timeout=30, proxies=None,
+                 allow_redirects=True, session=None</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1294,8 +1305,8 @@
         <entry encoding="base64">JzwsJz5zLy8sIGxhbWJkYSB4OiB4KS9n</entry>
         <entry>.,.+3w</entry>
         <entry encoding="base64">JzwsJz5zLy90ZXJtL2c=</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
