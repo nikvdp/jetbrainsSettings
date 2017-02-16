@@ -695,13 +695,13 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" timestamp="1487213586071">
-        <mark key="a" line="73" column="26" />
-        <mark key="'" line="12" column="45" />
-        <mark key="[" line="76" column="12" />
-        <mark key="]" line="76" column="17" />
-        <mark key="^" line="76" column="17" />
-        <mark key="." line="76" column="17" />
+      <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" timestamp="1487214347751">
+        <mark key="a" line="78" column="26" />
+        <mark key="'" line="44" column="63" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="47" />
+        <mark key="^" line="36" column="47" />
+        <mark key="." line="36" column="47" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/fit-vmp/README.md" timestamp="1481757278103">
         <mark key="[" line="22" column="0" />
@@ -1090,7 +1090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="131" column="49" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="26" column="34" filename="$USER_HOME$/Code/work/volley/repos/vine/DummyAssertionGenerator.py" />
       <jump line="57" column="48" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" />
@@ -1190,13 +1189,14 @@
       <jump line="72" column="74" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" />
       <jump line="12" column="45" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" />
+      <jump line="43" column="63" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>24*30</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgIHBvbGljeV9uYW1lID0gJyVzXyVzXyVzJyAlIChhcHBfbmFtZSwgc2VjcmV0X25hbWUsIHN0cmZ0aW1lKCIlcyIpKQoKICAgICMgYml6YXJyZSB2YXVsdCBIQ0wgc3ludGF4CiAgICBwb2xpY3lfcnVsZXMgPSAiIiJwYXRoICIlcy8qIiB7CiAgICAgICAgcG9saWN5ID0gInJlYWQiCiAgICB9IiIiICUgcGF0aAoKICAgIHZhdWx0LnNldF9wb2xpY3kocG9saWN5X25hbWUsIHBvbGljeV9ydWxlcykK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bizarre</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1258,7 +1258,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>seconds</text>
+        <text>bizarre</text>
       </register>
       <register name="/" type="4">
         <text>renew-self</text>
@@ -1267,31 +1267,31 @@
         <text encoding="base64">ICAgIDpwYXJhbSB2YXVsdDogYW4gaW5zdGFuY2Ugb2YgaHZhYy5DbGllbnQgb3Igdm9sbGV5X2F1dGguQ2xpZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvbGljeV9uYW1lID0gJyVzXyVzXyVzJyAlIChhcHBfbmFtZSwgc2VjcmV0X25hbWUsIHN0cmZ0aW1lKCIlcyIpKQoKICAgICMgYml6YXJyZSB2YXVsdCBIQ0wgc3ludGF4CiAgICBwb2xpY3lfcnVsZXMgPSAiIiJwYXRoICIlcy8qIiB7CiAgICAgICAgcG9saWN5ID0gInJlYWQiCiAgICB9IiIiICUgcGF0aAoKICAgIHZhdWx0LnNldF9wb2xpY3kocG9saWN5X25hbWUsIHBvbGljeV9ydWxlcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>24*30</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiByZWFkKHNlbGYsIHBhdGgsICoqa3dhcmdzKToKICAgICAgICByZXR1cm4gc3VwZXIoQ2xpZW50LCBzZWxmKS5yZWFkKHBhdGgsICoqa3dhcmdzKQoKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gdmF1bHQ6IGFuIGluc3RhbmNlIG9mIGh2YWMuQ2xpZW50IG9yIHZvbGxleV9hdXRoLkNsaWVudAogICAgICAgIHBhdGggIiVzLyoiIHsKICAgICAgICAgICAgcG9saWN5ID0gInJlYWQiCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>24*30</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiByZWFkKHNlbGYsIHBhdGgsICoqa3dhcmdzKToKICAgICAgICByZXR1cm4gc3VwZXIoQ2xpZW50LCBzZWxmKS5yZWFkKHBhdGgsICoqa3dhcmdzKQoKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gdmF1bHQ6IGFuIGluc3RhbmNlIG9mIGh2YWMuQ2xpZW50IG9yIHZvbGxleV9hdXRoLkNsaWVudAogICAgICAgIHBhdGggIiVzLyoiIHsKICAgICAgICAgICAgcG9saWN5ID0gInJlYWQiCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiByZWFkKHNlbGYsIHBhdGgsICoqa3dhcmdzKToKICAgICAgICByZXR1cm4gc3VwZXIoQ2xpZW50LCBzZWxmKS5yZWFkKHBhdGgsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlbmV3IHRoZSB0b2tlbiBmb3IgMzAgZGF5cyBvbiBldmVyeSByZWFkCiAgICAgICAgIyBzZWxmLnJlbmV3X3Rva2VuKHNlbGYudG9rZW4sIGluY3JlbWVudD0ne31oJy5mb3JtYXQoMjQqMzApKQo=</text>
+        <text encoding="base64">ICAgIGRlZiByZWFkKHNlbGYsIHBhdGgsICoqa3dhcmdzKToKICAgICAgICByZXR1cm4gc3VwZXIoQ2xpZW50LCBzZWxmKS5yZWFkKHBhdGgsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYucmVuZXdfdG9rZW4oc2VsZi50b2tlbiwgaW5jcmVtZW50PSd7fWgnLmZvcm1hdCgyNCozMCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJlbmV3IHRoZSB0b2tlbiBmb3IgMzAgZGF5cyBvbiBldmVyeSByZWFkCiAgICAgICAgIyBzZWxmLnJlbmV3X3Rva2VuKHNlbGYudG9rZW4sIGluY3JlbWVudD0ne31oJy5mb3JtYXQoMjQqMzApKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1330,7 +1330,6 @@
         <entry>renew-self</entry>
       </history-search>
       <history-cmd>
-        <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz5zL1xcJC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2xvZ2dlci5jcml0aWNhbC9sb2dnZXIuaW5mby9n</entry>
         <entry encoding="base64">JzwsJz5zL3R5cGUgOi90eXBlOj9n</entry>
@@ -1349,6 +1348,7 @@
         <entry encoding="base64">JzwsJz5zLy90ZXJtL2c=</entry>
         <entry>s/\\//g</entry>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
