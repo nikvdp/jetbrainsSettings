@@ -381,12 +381,11 @@
         <mark key="^" line="2" column="61" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1482436352637">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="52" column="18" />
-        <mark key="^" line="52" column="18" />
+      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1487288946466">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="2" column="76" />
+        <mark key="." line="2" column="76" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/gensim/index.js" timestamp="1480980563496">
         <mark key="[" line="3" column="0" />
@@ -850,9 +849,6 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/openstax_importer.py" timestamp="1487040622268">
-        <mark key="^" line="129" column="37" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/elastic.py" timestamp="1485835568300">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="30" column="18" />
@@ -960,11 +956,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/volley_secrets.py" timestamp="1487206407960">
+      <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/volley_secrets.py" timestamp="1487288650216">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="44" />
-        <mark key="." line="6" column="44" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
         <mark key="^" line="6" column="44" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/data_assertions.py" timestamp="1485834233023">
@@ -1187,7 +1183,7 @@
         <text encoding="base64">ICAgICMgcG9saWNpZXMgYXJlIGluIHRoaXMgc3RyYW5nZSB2YXVsdCBIQ0wgc3ludGF4CiAgICBwb2xpY3lfcnVsZXMgPSAiIiJwYXRoICIlcy8qIiB7CiAgICAgICAgcG9saWN5ID0gInJlYWQiCiAgICB9IiIiICUgcGF0aAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>volley-secrets</text>
+        <text>, 'port': 443}</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1249,7 +1245,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>volley-secrets</text>
+        <text>, 'port': 443}</text>
       </register>
       <register name="/" type="4">
         <text>oops</text>
@@ -1258,31 +1254,31 @@
         <text encoding="base64">dGFzayA9IGxhbWJkYTogdmF1bHQuZ2V0X3BvbGljeSgiZG9nc19hbmRfY2F0cyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBrd2FyZ3MuZ2V0KCd0b2tlbicpIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ZnJvbSB2b2xsZXlfc2VjCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c19jbGkucmVhZCgpCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAuZWxhc3RpYyBpbXBvcnQgZ2V0X2VzX2luc3RhbmNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c21hbGxfdmF1bAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgcmVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBrd2FyZ3MuZ2V0KCd0b2tlbicpIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGF0dGVtcHRfdG9rZW5fcmVuZXdhbDoKICAgICAgICAjIHJlbmV3IHRoZSB0b2tlbiBmb3IgMzAgZGF5cyBvbiBldmVyeSByZWFkCiAgICAgICAgdHJ5OgogICAgICAgICAgICB2YXVsdC5yZW5ld190b2tlbihpbmNyZW1lbnQ9J3t9aCcuZm9ybWF0KERFRkFVTFRfVE9LRU5fUkVORVdBTF9USU1FKSkKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIGltcG9ydCB0cmFjZWJhY2sKICAgICAgICAgICAgcHJpbnQgdHJhY2ViYWNrLmZvcm1hdF9leGMoKQogICAgICAgICAgICBwcmludCAib29wcyB0b2tlbiByZW5ld2FsIGZhaWxlZCIKICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">c19jbGkucmVhZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eAo=</text>
+        <text encoding="base64">c21hbGxfdmF1bAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVzLnN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3AuanNvaW4K</text>
+        <text encoding="base64">ICAgIGlmIGF0dGVtcHRfdG9rZW5fcmVuZXdhbDoKICAgICAgICAjIHJlbmV3IHRoZSB0b2tlbiBmb3IgMzAgZGF5cyBvbiBldmVyeSByZWFkCiAgICAgICAgdHJ5OgogICAgICAgICAgICB2YXVsdC5yZW5ld190b2tlbihpbmNyZW1lbnQ9J3t9aCcuZm9ybWF0KERFRkFVTFRfVE9LRU5fUkVORVdBTF9USU1FKSkKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIGltcG9ydCB0cmFjZWJhY2sKICAgICAgICAgICAgcHJpbnQgdHJhY2ViYWNrLmZvcm1hdF9leGMoKQogICAgICAgICAgICBwcmludCAib29wcyB0b2tlbiByZW5ld2FsIGZhaWxlZCIKICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IHVybAogICAgcmVzcC5qc29uKCkK</text>
+        <text encoding="base64">eAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
