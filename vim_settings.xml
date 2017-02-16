@@ -558,8 +558,8 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/site-packages/hvac/v1/__init__.py" timestamp="1487214593565">
-        <mark key="'" line="372" column="8" />
+      <file name="$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/site-packages/hvac/v1/__init__.py" timestamp="1487217258524">
+        <mark key="'" line="409" column="4" />
         <mark key="[" line="19" column="17" />
         <mark key="]" line="21" column="50" />
       </file>
@@ -679,13 +679,12 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" timestamp="1487215918263">
-        <mark key="a" line="77" column="26" />
-        <mark key="'" line="31" column="7" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="51" column="44" />
-        <mark key="." line="51" column="44" />
-        <mark key="^" line="52" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" timestamp="1487217245171">
+        <mark key="a" line="78" column="26" />
+        <mark key="'" line="32" column="7" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/fit-vmp/README.md" timestamp="1481757278103">
         <mark key="[" line="22" column="0" />
@@ -946,7 +945,7 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="/code.py" timestamp="1487216502143">
+      <file name="/code.py" timestamp="1487217204964">
         <mark key="'" line="67" column="29" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="19" />
@@ -1074,8 +1073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="4" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="22" column="73" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="101" column="73" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="104" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
@@ -1174,13 +1171,15 @@
       <jump line="36" column="0" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" />
       <jump line="57" column="64" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" />
       <jump line="31" column="7" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" />
+      <jump line="387" column="16" filename="$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/site-packages/hvac/v1/__init__.py" />
+      <jump line="409" column="4" filename="$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/site-packages/hvac/v1/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHBvbGljeV9uYW1lID0gJyVzXyVzXyVzJyAlIChhcHBfbmFtZSwgc2VjcmV0X25hbWUsIHN0cmZ0aW1lKCIlcyIpKQoKICAgICMgYml6YXJyZSB2YXVsdCBIQ0wgc3ludGF4CiAgICBwb2xpY3lfcnVsZXMgPSAiIiJwYXRoICIlcy8qIiB7CiAgICAgICAgcG9saWN5ID0gInJlYWQiCiAgICB9IiIiICUgcGF0aAoKICAgIHZhdWx0LnNldF9wb2xpY3kocG9saWN5X25hbWUsIHBvbGljeV9ydWxlcykK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>{&quot;period&quot;: }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhdWx0LmdldF8gIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1245,46 +1244,46 @@
         <text>{&quot;period&quot;: }</text>
       </register>
       <register name="/" type="4">
-        <text>write</text>
+        <text>def.*token</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSB2YXVsdDogYW4gaW5zdGFuY2Ugb2YgaHZhYy5DbGllbnQgb3Igdm9sbGV5X2F1dGguQ2xpZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWVzdHMuZ2V0KClrago=</text>
+        <text encoding="base64">ICAgIHZhdWx0LmdldF8gIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWVzdHMuZ2V0KClrago=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByb2xlX25hbWUK</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRva2VuID0gdmF1bHQuY3JlYXRlX3Rva2VuKHJlbmV3YWJsZT1UcnVlLCByb2xlPXJvbGVfbmFtZSkKCiAgICByZXR1cm4gdG9rZW4uZ2V0KCdhdXRoJykuZ2V0KCdjbGllbnRfdG9rZW4nKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByb2xlX25hbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGNyZWF0ZV9yZWFkX3BvbGljeShwYXRoLCB2YXVsdCk6Cg==</text>
+        <text encoding="base64">ICAgIHRva2VuID0gdmF1bHQuY3JlYXRlX3Rva2VuKHJlbmV3YWJsZT1UcnVlLCByb2xlPXJvbGVfbmFtZSkKCiAgICByZXR1cm4gdG9rZW4uZ2V0KCdhdXRoJykuZ2V0KCdjbGllbnRfdG9rZW4nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJvbGVfbmFtZSA9IGNyZWF0ZV9yZWFkX3BvbGljeShwYXRoLCB2YXVsdCkK</text>
+        <text encoding="base64">ZGVmIGNyZWF0ZV9yZWFkX3BvbGljeShwYXRoLCB2YXVsdCk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhdWx0LmNyZWF0ZV9yb2xlKGFsbG93ZWRfcG9saWNpZXM9W10pCg==</text>
+        <text encoding="base64">ICAgIHJvbGVfbmFtZSA9IGNyZWF0ZV9yZWFkX3BvbGljeShwYXRoLCB2YXVsdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvbGljeV9uYW1lID0gJyVzXyVzXyVzJyAlIChhcHBfbmFtZSwgc2VjcmV0X25hbWUsIHN0cmZ0aW1lKCIlcyIpKQoKICAgICMgYml6YXJyZSB2YXVsdCBIQ0wgc3ludGF4CiAgICBwb2xpY3lfcnVsZXMgPSAiIiJwYXRoICIlcy8qIiB7CiAgICAgICAgcG9saWN5ID0gInJlYWQiCiAgICB9IiIiICUgcGF0aAoKICAgIHZhdWx0LnNldF9wb2xpY3kocG9saWN5X25hbWUsIHBvbGljeV9ydWxlcykK</text>
+        <text encoding="base64">ICAgIHZhdWx0LmNyZWF0ZV9yb2xlKGFsbG93ZWRfcG9saWNpZXM9W10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>write</last-search>
+      <last-search>def.*token</last-search>
       <last-offset />
-      <last-pattern>write</last-pattern>
+      <last-pattern>def.*token</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -1292,7 +1291,6 @@
     </search>
     <history>
       <history-search>
-        <entry>imp</entry>
         <entry>array_ex</entry>
         <entry>to_di</entry>
         <entry>to_dict</entry>
@@ -1312,6 +1310,7 @@
         <entry>renew-self</entry>
         <entry>period</entry>
         <entry>write</entry>
+        <entry>def.*token</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcJC8vZw==</entry>
