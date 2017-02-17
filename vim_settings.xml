@@ -381,11 +381,11 @@
         <mark key="^" line="2" column="61" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1487288946466">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="2" column="76" />
-        <mark key="." line="2" column="76" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1487290572223">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="43" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/gensim/index.js" timestamp="1480980563496">
         <mark key="[" line="3" column="0" />
@@ -1033,10 +1033,12 @@
         <mark key="." line="23" column="7" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" timestamp="1487206630058">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="13" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" timestamp="1487291558374">
+        <mark key="'" line="69" column="4" />
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="30" column="38" />
+        <mark key="." line="30" column="38" />
+        <mark key="^" line="30" column="44" />
       </file>
       <file name="$USER_HOME$/Code/personal/sluffer/app.py" timestamp="1485751017343">
         <mark key="[" line="7" column="21" />
@@ -1077,17 +1079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="165" column="19" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="84" column="13" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
-      <jump line="20" column="33" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="22" column="75" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
-      <jump line="41" column="37" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="25" column="33" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
-      <jump line="23" column="57" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
-      <jump line="85" column="31" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="144" column="16" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="123" column="26" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="180" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="178" column="10" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
@@ -1177,13 +1168,24 @@
       <jump line="44" column="18" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" />
       <jump line="127" column="19" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" />
       <jump line="62" column="11" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_auth/volley_secrets.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
+      <jump line="79" column="12" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
+      <jump line="48" column="12" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
+      <jump line="8" column="38" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
+      <jump line="49" column="64" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
+      <jump line="34" column="21" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
+      <jump line="68" column="4" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICMgcG9saWNpZXMgYXJlIGluIHRoaXMgc3RyYW5nZSB2YXVsdCBIQ0wgc3ludGF4CiAgICBwb2xpY3lfcnVsZXMgPSAiIiJwYXRoICIlcy8qIiB7CiAgICAgICAgcG9saWN5ID0gInJlYWQiCiAgICB9IiIiICUgcGF0aAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, 'port': 443}</text>
+        <text>=None</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1245,49 +1247,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 'port': 443}</text>
+        <text>=None</text>
       </register>
       <register name="/" type="4">
-        <text>oops</text>
+        <text>SecretS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFzayA9IGxhbWJkYTogdmF1bHQuZ2V0X3BvbGljeSgiZG9nc19hbmRfY2F0cyIpCg==</text>
+        <text encoding="base64">ICAgIHBhdGggPSAic2VjcmV0L3thcHBfbmFtZX0vZWxhc3RpY3NlYXJjaCIuZm9ybWF0KGFwcF9uYW1lPWFwcF9uYW1lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB2b2xsZXlfc2VjCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBzZWNyZXRfdG9rZW4gaXMgbm90IE5vbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuZWxhc3RpYyBpbXBvcnQgZ2V0X2VzX2luc3RhbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWNyZXRfcGF0aCA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgcmVzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBrd2FyZ3MuZ2V0KCd0b2tlbicpIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c19jbGkucmVhZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c21hbGxfdmF1bAo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRoID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGF0dGVtcHRfdG9rZW5fcmVuZXdhbDoKICAgICAgICAjIHJlbmV3IHRoZSB0b2tlbiBmb3IgMzAgZGF5cyBvbiBldmVyeSByZWFkCiAgICAgICAgdHJ5OgogICAgICAgICAgICB2YXVsdC5yZW5ld190b2tlbihpbmNyZW1lbnQ9J3t9aCcuZm9ybWF0KERFRkFVTFRfVE9LRU5fUkVORVdBTF9USU1FKSkKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIGltcG9ydCB0cmFjZWJhY2sKICAgICAgICAgICAgcHJpbnQgdHJhY2ViYWNrLmZvcm1hdF9leGMoKQogICAgICAgICAgICBwcmludCAib29wcyB0b2tlbiByZW5ld2FsIGZhaWxlZCIKICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIGtleSA9IGF3c19zZWNyZXQuZ2V0KCdrZXknKQogICAgc2VjcmV0ID0gYXdzX3NlY3JldC5nZXQoJ3NlY3JldCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eAo=</text>
+        <text encoding="base64">ICAgIGF3c19zZWNyZXQgPSBzZWNyZXRzLnJlYWQoc2VjcmV0X3BhdGgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>oops</last-search>
+      <last-search>SecretS</last-search>
       <last-offset />
-      <last-pattern>oops</last-pattern>
+      <last-pattern>SecretS</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -1295,7 +1297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>to_di</entry>
         <entry>to_dict</entry>
         <entry>lemma</entry>
         <entry encoding="base64">XDxUUURNXD4=</entry>
@@ -1315,6 +1316,7 @@
         <entry>write</entry>
         <entry>def.*token</entry>
         <entry>oops</entry>
+        <entry>SecretS</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcJC8vZw==</entry>
