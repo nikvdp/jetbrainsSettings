@@ -381,11 +381,10 @@
         <mark key="^" line="2" column="61" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1487290572223">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="43" />
-        <mark key="." line="2" column="43" />
-        <mark key="^" line="2" column="43" />
+      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1487291727914">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/qgp-docker/stanford-core-nlp/wrapper/gensim/index.js" timestamp="1480980563496">
         <mark key="[" line="3" column="0" />
@@ -949,14 +948,14 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="/code.py" timestamp="1487287951424">
+      <file name="/code.py" timestamp="1487294301727">
         <mark key="'" line="88" column="29" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/volley_secrets.py" timestamp="1487288650216">
+      <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/volley_secrets.py" timestamp="1487294229945">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -1184,8 +1183,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICMgcG9saWNpZXMgYXJlIGluIHRoaXMgc3RyYW5nZSB2YXVsdCBIQ0wgc3ludGF4CiAgICBwb2xpY3lfcnVsZXMgPSAiIiJwYXRoICIlcy8qIiB7CiAgICAgICAgcG9saWN5ID0gInJlYWQiCiAgICB9IiIiICUgcGF0aAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>=None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHZvbGxleV9zZWNyZXRzCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1256,31 +1255,35 @@
         <text encoding="base64">ICAgIHBhdGggPSAic2VjcmV0L3thcHBfbmFtZX0vZWxhc3RpY3NlYXJjaCIuZm9ybWF0KGFwcF9uYW1lPWFwcF9uYW1lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBzZWNyZXRfdG9rZW4gaXMgbm90IE5vbmUK</text>
+        <text encoding="base64">aW1wb3J0IHZvbGxleV9zZWNyZXRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWNyZXRfcGF0aCA9IAo=</text>
+        <text encoding="base64">ZnJvbSB2b2xsZXlfc2VjcmV0cy5hd3NfZWxhc3RpYyBpbXBvcnQgZ2V0X2VzX2luc3RhbmNlCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>VAULT_TOKEN = 'd598da45-5697-6472-6e1a-6451b6af47d1'
+
+ES_HOST = 'search-fit-n32ffyalj7p2f37jnejm5pteri.us-west-2.es.amazonaws.com'
+
+es = get_es_instance(ES_HOST, 'secret/fit-mvp/elasticsearch', VAULT_TOKEN)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBzZWNyZXRfdG9rZW4gaXMgbm90IE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWNyZXRfcGF0aCA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtleSA9IGF3c19zZWNyZXQuZ2V0KCdrZXknKQogICAgc2VjcmV0ID0gYXdzX3NlY3JldC5nZXQoJ3NlY3JldCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF3c19zZWNyZXQgPSBzZWNyZXRzLnJlYWQoc2VjcmV0X3BhdGgpCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
