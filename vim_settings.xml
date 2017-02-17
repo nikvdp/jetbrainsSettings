@@ -133,9 +133,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="96" column="47" />
       </file>
-      <file name="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/spacy/language.py" timestamp="1486494405270">
-        <mark key="'" line="256" column="29" />
-      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/webcrawl/volley/volley/spiders/resources.py" timestamp="1487298356870" />
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-ranker/requirements.txt" timestamp="1472523641053">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="4" column="8" />
@@ -266,9 +264,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="33" column="6" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/random.py" timestamp="1486948392464">
-        <mark key="'" line="889" column="16" />
       </file>
       <file name="$USER_HOME$/Downloads/python-flask-server 2/app/datastore/__init__.py" timestamp="1481510058631">
         <mark key="[" line="1" column="0" />
@@ -432,6 +427,14 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/webcrawl/volley/volley/pipelines.py" timestamp="1487298644664">
+        <mark key="a" line="156" column="7" />
+        <mark key="'" line="9" column="9" />
+        <mark key="[" line="157" column="60" />
+        <mark key="]" line="157" column="33" />
+        <mark key="^" line="157" column="33" />
+        <mark key="." line="157" column="65" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/metrics.py" timestamp="1487020589936">
         <mark key="[" line="0" column="0" />
@@ -723,9 +726,6 @@
         <mark key="." line="28" column="38" />
         <mark key="^" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/plac.py" timestamp="1487114347803">
-        <mark key="'" line="28" column="5" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/setup.py" timestamp="1487287997893">
         <mark key="[" line="35" column="39" />
         <mark key="]" line="35" column="56" />
@@ -759,10 +759,6 @@
         <mark key="." line="23" column="144" />
         <mark key="^" line="32" column="4" />
       </file>
-      <file name="/concept_generator.py" timestamp="1487109785761">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="24" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/volley-secrets/README.rst" timestamp="1487295854646" />
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-proximal-rule.js" timestamp="1473905585880">
         <mark key="[" line="4" column="0" />
@@ -780,9 +776,6 @@
         <mark key="]" line="12" column="33" />
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-population/populate_elastic.py" timestamp="1486505936719">
-        <mark key="'" line="78" column="26" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/tests/apply-rules-to-meta-schema.test.js" timestamp="1473372920049">
         <mark key="[" line="80" column="36" />
@@ -995,11 +988,8 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="/a.regexp" timestamp="1486952696455">
+      <file name="/a.regexp" timestamp="1487298003103">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniconda2/envs/vine/lib/python2.7/shelve.py" timestamp="1487114172918">
-        <mark key="'" line="229" column="4" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/temp-repos/volley-rank-resources/resource-dler.py/resource-dler/__init__.py" timestamp="1470859394112">
         <mark key="[" line="3" column="12" />
@@ -1080,10 +1070,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="178" column="10" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="160" column="4" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="43" column="55" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="27" column="27" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
       <jump line="58" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
       <jump line="137" column="34" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
@@ -1180,13 +1166,17 @@
       <jump line="34" column="21" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
       <jump line="68" column="4" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/aws_elastic.py" />
       <jump line="24" column="36" filename="$USER_HOME$/Code/work/volley/repos/volley-secrets/src/volley_secrets/volley_secrets.py" />
+      <jump line="155" column="0" filename="$USER_HOME$/Code/work/volley/repos/webcrawl/volley/volley/pipelines.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/Code/work/volley/repos/webcrawl/volley/volley/pipelines.py" />
+      <jump line="154" column="7" filename="$USER_HOME$/Code/work/volley/repos/webcrawl/volley/volley/pipelines.py" />
+      <jump line="9" column="9" filename="$USER_HOME$/Code/work/volley/repos/webcrawl/volley/volley/pipelines.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICMgcG9saWNpZXMgYXJlIGluIHRoaXMgc3RyYW5nZSB2YXVsdCBIQ0wgc3ludGF4CiAgICBwb2xpY3lfcnVsZXMgPSAiIiJwYXRoICIlcy8qIiB7CiAgICAgICAgcG9saWN5ID0gInJlYWQiCiAgICB9IiIiICUgcGF0aAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ES_HOST</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1248,13 +1238,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=None</text>
+        <text>ES_HOST</text>
       </register>
       <register name="/" type="4">
         <text>SecretS</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSAic2VjcmV0L3thcHBfbmFtZX0vZWxhc3RpY3NlYXJjaCIuZm9ybWF0KGFwcF9uYW1lPWFwcF9uYW1lKQo=</text>
+      <register name="0" type="4">
+        <text>settings['ES_HOST']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
