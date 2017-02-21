@@ -404,6 +404,7 @@
         <mark key="." line="40" column="43" />
         <mark key="^" line="40" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/PicklePersister.py" timestamp="1487719597654" />
       <file name="$USER_HOME$/Code/work/volley/repos/gensim-summary-microservice/swagger/swagger.yaml" timestamp="1480990942082">
         <mark key="'" line="25" column="39" />
         <mark key="[" line="27" column="0" />
@@ -633,8 +634,8 @@
         <mark key="^" line="50" column="37" />
         <mark key="." line="50" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1487719454256">
-        <mark key="'" line="26" column="27" />
+      <file name="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" timestamp="1487719589013">
+        <mark key="'" line="80" column="8" />
         <mark key="[" line="44" column="42" />
         <mark key="]" line="44" column="49" />
         <mark key="^" line="44" column="49" />
@@ -961,12 +962,6 @@
         <mark key="." line="41" column="34" />
         <mark key="^" line="41" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/elastic.py" timestamp="1487206606157">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="12" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/tests/apply-meta-schema-to-gap-data-transform.test.js" timestamp="1473374005798">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="21" column="3" />
@@ -1078,13 +1073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="44" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="138" column="49" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister.py" />
-      <jump line="37" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/util/misc.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/util/misc.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/DummyAssertionGenerator.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/DummyAssertionGenerator.py" />
-      <jump line="29" column="48" filename="$USER_HOME$/Code/work/volley/repos/vine/DummyAssertionGenerator.py" />
       <jump line="68" column="35" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="11" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
       <jump line="49" column="26" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/source_types.py" />
@@ -1178,6 +1166,13 @@
       <jump line="6" column="0" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/Dockerfile.test" />
       <jump line="10" column="7" filename="$USER_HOME$/Code/work/volley/repos/fit-mvp/Dockerfile.test" />
       <jump line="521" column="25" filename="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/mock_data.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="52" column="15" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="53" column="32" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="60" column="45" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="64" column="22" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="65" column="42" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
+      <jump line="80" column="8" filename="$USER_HOME$/Code/work/volley/repos/vine/importers/babel.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1249,7 +1244,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>SecretS</text>
+        <text>Definit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBBZGRzIGFueSBrZXlzIGZvdW5kIGluIG1pc2Mvc3NoLWtleXMgKGUuZy4gZGVwbG95IGtleXMpIHRvIHNzaCBjb25maWcgYW5kIGRpc2FibGVzIHN0cmljdCBrZXkgY2hlY2tpbmcKIyBzbyB0aGF0IHRoZSBrZXlzIGNhbiBhY3R1YWxseSBiZSB1c2VkIG9uIHRoZSBmaXJzdCBydW4KUlVOIGVjaG8gIlN0cmljdEhvc3RLZXlDaGVja2luZyBubyIgPj4gL2V0Yy9zc2gvc3NoX2NvbmZpZyAmJiBcCiAgICBmb3IgaSBpbiAvdm9sbGV5L21pc2Mvc3NoLWtleXMvKjsgIGRvICAgICAgICAgICAgICAgICAgICAgXAogICAgICAgIGNobW9kIDYwMCAiJGkiOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFwKICAgICAgICBlY2hvICJJZGVudGl0eUZpbGUgJGkiID4+IC9ldGMvc3NoL3NzaF9jb25maWc7ICAgICAgICBcCiAgICBkb25lCg==</text>
@@ -1286,9 +1281,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SecretS</last-search>
+      <last-search>Definit</last-search>
       <last-offset />
-      <last-pattern>SecretS</last-pattern>
+      <last-pattern>Definit</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -1296,8 +1291,6 @@
     </search>
     <history>
       <history-search>
-        <entry>to_dict</entry>
-        <entry>lemma</entry>
         <entry encoding="base64">XDxUUURNXD4=</entry>
         <entry>,</entry>
         <entry>',</entry>
@@ -1316,6 +1309,8 @@
         <entry>def.*token</entry>
         <entry>oops</entry>
         <entry>SecretS</entry>
+        <entry>term</entry>
+        <entry>Definit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcJC8vZw==</entry>
