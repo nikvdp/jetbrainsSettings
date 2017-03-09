@@ -203,11 +203,11 @@
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" timestamp="1489029870843">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="59" column="18" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" timestamp="1489030600320">
+        <mark key="[" line="82" column="22" />
+        <mark key="]" line="81" column="15" />
+        <mark key="." line="81" column="15" />
+        <mark key="^" line="81" column="15" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1487819872442">
         <mark key="'" line="1" column="0" />
@@ -1247,21 +1247,15 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="61" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestionBasic.js" timestamp="1489029979397">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="13" column="9" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestionBasic.js" timestamp="1489030019507">
+        <mark key="'" line="14" column="20" />
+        <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="21" />
+        <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="40" filename="$USER_HOME$/Code/work/volley/repos/python-volley-nlp-utils/src/volley_nlp_utils/spacy/gazetteer.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/work/volley/repos/python-volley-nlp-utils/src/volley_nlp_utils/spacy/gazetteer.py" />
-      <jump line="15" column="18" filename="$USER_HOME$/Code/work/volley/repos/python-volley-nlp-utils/src/volley_nlp_utils/tests/test_spacy.py" />
-      <jump line="24" column="8" filename="$USER_HOME$/Code/work/volley/repos/python-volley-nlp-utils/src/volley_nlp_utils/tests/test_spacy.py" />
-      <jump line="28" column="43" filename="$USER_HOME$/Code/work/volley/repos/python-volley-nlp-utils/src/volley_nlp_utils/tests/test_spacy.py" />
-      <jump line="16" column="6" filename="$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/site-packages/spacy/en/__init__.py" />
       <jump line="12" column="51" filename="$USER_HOME$/Code/work/volley/repos/python-volley-nlp-utils/src/volley_nlp_utils/tests/test_spacy.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/work/volley/repos/python-volley-nlp-utils/src/volley_nlp_utils/tests/test_spacy.py" />
       <jump line="37" column="59" filename="$USER_HOME$/Code/work/volley/repos/python-volley-nlp-utils/src/volley_nlp_utils/tests/test_spacy.py" />
@@ -1341,7 +1335,6 @@
       <jump line="49" column="29" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
       <jump line="89" column="24" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
       <jump line="105" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
-      <jump line="79" column="51" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
       <jump line="178" column="40" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
       <jump line="124" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestionBasic.js" />
@@ -1356,13 +1349,23 @@
       <jump line="127" column="112" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
       <jump line="41" column="29" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
       <jump line="84" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
+      <jump line="9" column="79" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestionBasic.js" />
+      <jump line="14" column="20" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestionBasic.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
+      <jump line="79" column="44" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
+      <jump line="3" column="29" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
+      <jump line="86" column="16" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
+      <jump line="81" column="81" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGN1cnJlbnRRdWVzdGlvbiA9IHF1ZXN0aW9uc1tpXTsKICAgICAgICAgICAgbGV0IGNob2ljZXMgPSBRdWl6LnNodWZmbGUoY3VycmVudFF1ZXN0aW9uLmNob2ljZXMpOwogICAgICAgICAgICBsZXQgcXVlc3Rpb25UZXh0ID0gY3VycmVudFF1ZXN0aW9uLnF1ZXN0aW9uOwogICAgICAgICAgICBsZXQgcXVpeiA9IHRoaXM7CiAgICAgICAgICAgIGxldCBkaXN0cmFjdG9yVmlld3MgPSBjaG9pY2VzLm1hcChkaXN0cmFjdG9yID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICAgICAgPFRvdWNoYWJsZU9wYWNpdHkgc3R5bGU9e3N0eWxlcy5kaXN0cmFjdG9yfSBrZXk9e2Rpc3RyYWN0b3J9PgogICAgICAgICAgICAgICAgICAgIDxUZXh0CiAgICAgICAgICAgICAgICAgICAgICAgIG9uUHJlc3M9e3RoaXMuaGFuZGxlTmlrLmJpbmQocXVpeiwgY3VycmVudFF1ZXN0aW9uLCBkaXN0cmFjdG9yKX0KICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5kaXN0cmFjdG9yVGV4dH0KICAgICAgICAgICAgICAgICAgICAgICAga2V5PXtkaXN0cmFjdG9yfT57ZGlzdHJhY3Rvcn0KICAgICAgICAgICAgICAgICAgICA8L1RleHQ+CiAgICAgICAgICAgICAgICAgICAgPC9Ub3VjaGFibGVPcGFjaXR5PgogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0aGlzLnF1aXoubWFwKHEgPT4gPFF1aXpRdWVzdGlvbiB0eXBlPSJiYXNpYyIgcXVlc3Rpb249e3F9Pil9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
+      </register>
+      <register name="b" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IG9uUHJlc3M9e3RoaXMuaGFuZGxlQ2hlY2tBbnN3ZXIuYmluZCh0aGlzKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuY2hlY2tBbnN3ZXJCdXR0b259PgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJHcmFkaWVudCBjb2xvcnM9e1snIzMxQTdFNycsJyMxREMyREYnXX0gc3RhcnQ9e3t4OjAsIHk6MX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZD17e3g6MSwgeToxfX0gc3R5bGU9e3tmbGV4OjF9fT4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5jaGVja0Fuc3dlcn0+eydDaGVjayBBbnN3ZXIgPid9PC9UZXh0PgogICAgICAgICAgICAgICAgICAgIDwvTGluZWFyR3JhZGllbnQ+CiAgICAgICAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1424,49 +1427,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_key</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWl6U2NyZWVuQ29tcG9uZW50c1w+</text>
+        <text encoding="base64">XDxRdWl6UXVlc3Rpb25cPg==</text>
       </register>
       <register name="0" type="4">
         <text>QuizQuestionBasic</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0aGlzLnF1aXoubWFwKHEgPT4gPFF1aXpRdWVzdGlvbiB0eXBlPSJiYXNpYyIgcXVlc3Rpb249e3F9Pil9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgaWYgKHRoaXMucHJvcHMudHlwZSA9PSAiYmFzaWMiKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0aGlzLnF1aXoubWFwKHEgPT4gPFF1aXpRdWVzdGlvbiB0eXBlPSJiYXNpYyIgcXVlc3Rpb249e3F9Pil9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpbmd5OiAiT29vb28/IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IG9uUHJlc3M9e3RoaXMuaGFuZGxlQ2hlY2tBbnN3ZXIuYmluZCh0aGlzKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuY2hlY2tBbnN3ZXJCdXR0b259PgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJHcmFkaWVudCBjb2xvcnM9e1snIzMxQTdFNycsJyMxREMyREYnXX0gc3RhcnQ9e3t4OjAsIHk6MX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZD17e3g6MSwgeToxfX0gc3R5bGU9e3tmbGV4OjF9fT4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5jaGVja0Fuc3dlcn0+eydDaGVjayBBbnN3ZXIgPid9PC9UZXh0PgogICAgICAgICAgICAgICAgICAgIDwvTGluZWFyR3JhZGllbnQ+CiAgICAgICAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZU5payhxdWVzdGlvbiwgYW5zd2VyKSB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7dGhpbmd5OiBxdWVzdGlvbi5hbnN3ZXIgPT0gYW5zd2VyfSkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgImhpIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgICAgICAgICAgPFN0YXR1c0JhciBiYXJTdHlsZT0nZGFyay1jb250ZW50JyBhbmltYXRlZD17dHJ1ZX0vPgogICAgICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5uYXZiYXJUZXh0Q29udGFpbmVyfT4KICAgICAgICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLm5hdmJhckNvbmNlcHROYW1lfT57fTwvVGV4dD4KICAgICAgICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLm5hdmJhclF1aXpTdGF0ZX0+e308L1RleHQ+CiAgICAgICAgICAgICAgICA8L1ZpZXc+CgoKICAgICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IG9uUHJlc3M9e3RoaXMuaGFuZGxlQ2hlY2tBbnN3ZXIuYmluZCh0aGlzKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuY2hlY2tBbnN3ZXJCdXR0b259PgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJHcmFkaWVudCBjb2xvcnM9e1snIzMxQTdFNycsJyMxREMyREYnXX0gc3RhcnQ9e3t4OjAsIHk6MX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZD17e3g6MSwgeToxfX0gc3R5bGU9e3tmbGV4OjF9fT4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5jaGVja0Fuc3dlcn0+eydDaGVjayBBbnN3ZXIgPid9PC9UZXh0PgogICAgICAgICAgICAgICAgICAgIDwvTGluZWFyR3JhZGllbnQ+CiAgICAgICAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+CiAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZUNoZWNrQW5zd2VyKGRhdGEpIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWl6U2NyZWVuQ29tcG9uZW50c1w+</last-search>
+      <last-search encoding="base64">XDxRdWl6UXVlc3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWl6U2NyZWVuQ29tcG9uZW50c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxRdWl6UXVlc3Rpb25cPg==</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -1474,7 +1477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asdf</entry>
         <entry>dict_rep</entry>
         <entry>candidate</entry>
         <entry>get_source</entry>
@@ -1494,6 +1496,7 @@
         <entry>nik</entry>
         <entry>thingy</entry>
         <entry encoding="base64">XDxxdWl6U2NyZWVuQ29tcG9uZW50c1w+</entry>
+        <entry encoding="base64">XDxRdWl6UXVlc3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycsLycsIHN0ciksL2c=</entry>
