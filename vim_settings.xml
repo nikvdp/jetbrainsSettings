@@ -200,14 +200,13 @@
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/assets/styles.js" timestamp="1489087236971" />
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" timestamp="1489086951135">
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" timestamp="1489103083271">
         <mark key="a" line="112" column="33" />
         <mark key="'" line="74" column="30" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
+        <mark key="[" line="107" column="30" />
+        <mark key="]" line="107" column="30" />
         <mark key="^" line="77" column="8" />
-        <mark key="." line="79" column="0" />
+        <mark key="." line="107" column="30" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1487819872442">
         <mark key="'" line="1" column="0" />
@@ -800,12 +799,13 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" timestamp="1489087168937">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="89" column="14" />
-        <mark key="]" line="90" column="34" />
-        <mark key="^" line="90" column="34" />
-        <mark key="." line="90" column="34" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" timestamp="1489103908690">
+        <mark key="a" line="110" column="29" />
+        <mark key="'" line="110" column="29" />
+        <mark key="[" line="158" column="8" />
+        <mark key="]" line="158" column="10" />
+        <mark key="." line="158" column="10" />
+        <mark key="^" line="158" column="10" />
       </file>
       <file name="$USER_HOME$/miniconda2/envs/relex/lib/python2.7/site-packages/spacy/en/__init__.py" timestamp="1484871988703">
         <mark key="[" line="59" column="20" />
@@ -1246,11 +1246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/PicklePersister.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/base_types.py" />
-      <jump line="87" column="15" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/PicklePersister.py" />
-      <jump line="104" column="31" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/PicklePersister.py" />
-      <jump line="121" column="36" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/PicklePersister.py" />
       <jump line="126" column="13" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/PicklePersister.py" />
       <jump line="42" column="26" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/base_types.py" />
       <jump line="140" column="0" filename="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/PicklePersister.py" />
@@ -1344,15 +1339,20 @@
       <jump line="105" column="22" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
       <jump line="7" column="18" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="11" column="33" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="74" column="30" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="194" column="35" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="22" column="20" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="130" column="47" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="107" column="29" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIGFuc3dlckNsaWNrSGFuZGxlcihhbnN3ZXIpIHsKICAgICAgICBjb25zb2xlLmxvZygiY2xpY2tlZCAnJXMnIHdpdGg6ICIsIGFuc3dlciwgdGhpcyk7CiAgICAgICAgdGhpcy5wcm9wcy5jYWxsYmFjayh0aGlzLnN0YXRlLnF1ZXN0aW9uLmFuc3dlciA9PSBhbnN3ZXIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpc0Ryb3Bab25lKGdlc3R1cmUpewogICAgICAgICAgICB2YXIgZHogPSB0aGlzLnN0YXRlLmRyb3Bab25lVmFsdWVzOwogICAgICAgICAgICByZXR1cm4gZ2VzdHVyZS5tb3ZlWSA+IGR6LnkgJiYgZ2VzdHVyZS5tb3ZlWSA8IGR6LnkgKyBkei5oZWlnaHQ7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>var</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IG9uUHJlc3M9e3RoaXMuaGFuZGxlQ2hlY2tBbnN3ZXIuYmluZCh0aGlzKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuY2hlY2tBbnN3ZXJCdXR0b259PgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJHcmFkaWVudCBjb2xvcnM9e1snIzMxQTdFNycsJyMxREMyREYnXX0gc3RhcnQ9e3t4OjAsIHk6MX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZD17e3g6MSwgeToxfX0gc3R5bGU9e3tmbGV4OjF9fT4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5jaGVja0Fuc3dlcn0+eydDaGVjayBBbnN3ZXIgPid9PC9UZXh0PgogICAgICAgICAgICAgICAgICAgIDwvTGluZWFyR3JhZGllbnQ+CiAgICAgICAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+Cg==</text>
@@ -1417,28 +1417,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>shuffle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNob2ljZXMgPSBRdWl6LnNodWZmbGUoY3VycmVudFF1ZXN0aW9uLmNob2ljZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9ICggPFF1aXpRdWVzdGlvbkFsdGVybmF0ZSB7Li4udGhpcy5wcm9wc30vPiApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc0Ryb3Bab25lKGdlc3R1cmUpewogICAgICAgICAgICB2YXIgZHogPSB0aGlzLnN0YXRlLmRyb3Bab25lVmFsdWVzOwogICAgICAgICAgICByZXR1cm4gZ2VzdHVyZS5tb3ZlWSA+IGR6LnkgJiYgZ2VzdHVyZS5tb3ZlWSA8IGR6LnkgKyBkei5oZWlnaHQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiY2hlY2sgYW5zd2VyIHdpdGggbmV4dEluZGV4ICVzIGFuZCB0aGlzID0gIiwgbmV4dEluZGV4LCB0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzd2l0Y2ggKCdiYXNpYycpIHsK</text>
+        <text encoding="base64">ICAgIGNsYXNzIERyYWdnYWJsZUNob2ljZSBleHRlbmRzIENob2ljZSB7CgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiYWx0ZXJuYXRlIHJlLXJlbmRlciIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiY2xpY2tlZCAnJXMnIHdpdGg6ICIsIGFuc3dlciwgdGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDogCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4215,16 +4215,18 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBmaW5kIGEgcGxhY2UgdG8gcHV0IHRoaXMgc2h1ZmZsZSBmbiwgaW1wb3J0aW5nIGZyb20gcXVpeiB0aGlzIHdheQogICAgICAgIC8vIGlzIG5vIGdvb2QKICAgICAgICAvLyB0aGlzLmNob2ljZXMgPSBRdWl6LnNodWZmbGUoY3VycmVudFF1ZXN0aW9uLmNob2ljZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnYmFzaWMnOgogICAgICAgICAgICAgICAgLy8gcHJveHkgYWxsIHByb3BzIHRvIHRoZSBhY3R1YWwgcXVlc3Rpb24gcmVuZGVyZXIKICAgICAgICAgICAgICAgIHJlc3VsdCA9ICggPFF1aXpRdWVzdGlvbkJhc2ljIHsuLi50aGlzLnByb3BzfS8+ICk7CiAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicXVpeiBxdWVzdGlvbiByZS1yZW5kZXIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFF1aXogZnJvbSAnLi9RdWl6Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gb3RoZXIgcXVpeiBxdWVzdGlvbiByZW5kZXIgdHlwZXMgZ28gaGVyZS4uLgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCkK</text>
+      <register name="9" type="4">
+        <text>{
+        
+    }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4237,7 +4239,7 @@
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
