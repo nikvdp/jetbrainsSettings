@@ -200,11 +200,11 @@
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" timestamp="1489112178917">
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" timestamp="1489288799778">
         <mark key="a" line="112" column="33" />
-        <mark key="'" line="20" column="11" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="20" />
+        <mark key="'" line="3" column="21" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="19" />
         <mark key="^" line="77" column="8" />
         <mark key="." line="3" column="20" />
       </file>
@@ -572,6 +572,12 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBasic.js" timestamp="1489288770969">
+        <mark key="'" line="20" column="24" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/Rule.jsx" timestamp="1474595562481">
         <mark key="'" line="302" column="65" />
         <mark key="[" line="283" column="22" />
@@ -799,13 +805,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" timestamp="1489286757087">
-        <mark key="'" line="210" column="71" />
-        <mark key="k" line="257" column="8" />
-        <mark key="[" line="276" column="66" />
-        <mark key="]" line="276" column="67" />
-        <mark key="." line="276" column="67" />
-        <mark key="^" line="265" column="40" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" timestamp="1489288983617">
+        <mark key="'" line="4" column="49" />
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/miniconda2/envs/relex/lib/python2.7/site-packages/spacy/en/__init__.py" timestamp="1484871988703">
         <mark key="[" line="59" column="20" />
@@ -849,6 +853,14 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="29" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1489288821055">
+        <mark key="a" line="223" column="31" />
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="215" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/constants/JFLanguages.js" timestamp="1469122442325">
         <mark key="[" line="2" column="16" />
@@ -1018,6 +1030,13 @@
         <mark key="]" line="28" column="38" />
         <mark key="." line="28" column="38" />
         <mark key="^" line="28" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" timestamp="1489287563327">
+        <mark key="'" line="30" column="33" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="96" column="3" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" timestamp="1483011447958">
         <mark key="'" line="26" column="21" />
@@ -1250,41 +1269,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="16" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
-      <jump line="80" column="57" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="73" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="39" column="17" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="40" column="20" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="27" column="37" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="72" column="8" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
-      <jump line="50" column="17" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="2" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="53" column="28" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="86" column="16" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="60" column="25" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="61" column="29" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="104" column="6" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="26" column="23" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="79" column="10" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
-      <jump line="156" column="26" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="129" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="62" column="36" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="110" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="107" column="63" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
-      <jump line="12" column="15" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
-      <jump line="91" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
-      <jump line="82" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
       <jump line="81" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
       <jump line="112" column="33" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
       <jump line="58" column="56" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="45" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="23" column="14" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="8" column="8" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
@@ -1300,7 +1288,6 @@
       <jump line="88" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="194" column="35" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="22" column="20" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="107" column="29" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="169" column="55" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="168" column="34" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="355" column="3" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
@@ -1315,11 +1302,9 @@
       <jump line="133" column="32" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="145" column="20" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="180" column="8" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="176" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="28" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
-      <jump line="4" column="9" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="186" column="32" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="187" column="50" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="31" column="7" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
@@ -1350,13 +1335,47 @@
       <jump line="292" column="18" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="253" column="38" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="210" column="71" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="76" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="13" column="38" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBasic.js" />
+      <jump line="5" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBasic.js" />
+      <jump line="28" column="25" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBasic.js" />
+      <jump line="192" column="24" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="15" column="9" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="25" column="28" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="26" column="34" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="222" column="31" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="107" column="23" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="14" column="18" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBasic.js" />
+      <jump line="30" column="33" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="37" column="20" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="13" column="56" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="30" column="28" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="62" column="6" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="89" column="29" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="6" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBasic.js" />
+      <jump line="24" column="29" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBasic.js" />
+      <jump line="1" column="21" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBasic.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="68" column="32" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="29" column="24" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBasic.js" />
+      <jump line="31" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="3" column="21" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
+      <jump line="16" column="16" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="34" column="28" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="4" column="49" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>passThroughStyle</text>
+        <text encoding="base64">Y2xhc3MgTGV0dGVyIGV4dGVuZHMgQ29tcG9uZW50IHsKICAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpOwoKICAgICAgICB0aGlzLnN0YXRlID0gewogICAgICAgICAgICBzaG93RHJhZ2dhYmxlOiB0cnVlLAogICAgICAgICAgICBkcm9wWm9uZVZhbHVlczogbnVsbCwKICAgICAgICAgICAgcGFuOiBuZXcgQW5pbWF0ZWQuVmFsdWVYWSgpCiAgICAgICAgfTsKCgogICAgICAgIHRoaXMucGFuUmVzcG9uZGVyID0gUGFuUmVzcG9uZGVyLmNyZWF0ZSh7CiAgICAgICAgICAgIG9uU3RhcnRTaG91bGRTZXRQYW5SZXNwb25kZXI6ICgpID0+IHRydWUsCiAgICAgICAgICAgIG9uUGFuUmVzcG9uZGVyTW92ZTogQW5pbWF0ZWQuZXZlbnQoW251bGwsIHsKICAgICAgICAgICAgICAgIGR4OiB0aGlzLnN0YXRlLnBhbi54LAogICAgICAgICAgICAgICAgZHk6IHRoaXMuc3RhdGUucGFuLnkKICAgICAgICAgICAgfV0pLAogICAgICAgICAgICBvblBhblJlc3BvbmRlclJlbGVhc2U6IChlLCBnZXN0dXJlKSA9PiB7CiAgICAgICAgICAgICAgICAvLyBpZiAodGhpcy5pc0Ryb3Bab25lKGdlc3R1cmUpKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgIHNob3dEcmFnZ2FibGU6IGZhbHNlCiAgICAgICAgICAgICAgICAvLyAgICAgfSk7CiAgICAgICAgICAgICAgICAvLyB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIEFuaW1hdGVkLnNwcmluZygKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5zdGF0ZS5wYW4sCiAgICAgICAgICAgICAgICAgICAgICAgIHt0b1ZhbHVlOiB7eDogMCwgeTogMH19CiAgICAgICAgICAgICAgICAgICAgKS5zdGFydCgpOwogICAgICAgICAgICAgICAgLy8gfQogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9CgogICAgcmVuZGVyICgpIHsKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICA8QW5pbWF0ZWQuVmlldwogICAgICAgICAgICAgICAgey4uLnRoaXMucGFuUmVzcG9uZGVyLnBhbkhhbmRsZXJzfQogICAgICAgICAgICAgICAgc3R5bGU9e1t0aGlzLnN0YXRlLnBhbi5nZXRMYXlvdXQoKSwgdGhpcy5wcm9wcy5zdHlsZS5sZXR0ZXJCb3hdfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPFRleHQKICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3RoaXMucHJvcHMuc3R5bGUubGV0dGVyfQogICAgICAgICAgICAgICAgICAgICAgICBrZXk9e3RoaXMucHJvcHMudGV4dH0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgIHt0aGlzLnByb3BzLnRleHR9CiAgICAgICAgICAgICAgICAgICAgPC9UZXh0PgogICAgICAgICAgICA8L0FuaW1hdGVkLlZpZXc+CiAgICAgICAgKTsKICAgIH0KCiAgICBpc0Ryb3Bab25lKGdlc3R1cmUpewogICAgICAgIGxldCBkeiA9IHRoaXMuc3RhdGUuZHJvcFpvbmVWYWx1ZXM7CiAgICAgICAgcmV0dXJuIGdlc3R1cmUubW92ZVkgPiBkei55ICYmIGdlc3R1cmUubW92ZVkgPCBkei55ICsgZHouaGVpZ2h0OwogICAgfQp9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>abseheight</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IG9uUHJlc3M9e3RoaXMuaGFuZGxlQ2hlY2tBbnN3ZXIuYmluZCh0aGlzKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuY2hlY2tBbnN3ZXJCdXR0b259PgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJHcmFkaWVudCBjb2xvcnM9e1snIzMxQTdFNycsJyMxREMyREYnXX0gc3RhcnQ9e3t4OjAsIHk6MX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZD17e3g6MSwgeToxfX0gc3R5bGU9e3tmbGV4OjF9fT4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5jaGVja0Fuc3dlcn0+eydDaGVjayBBbnN3ZXIgPid9PC9UZXh0PgogICAgICAgICAgICAgICAgICAgIDwvTGluZWFyR3JhZGllbnQ+CiAgICAgICAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+Cg==</text>
@@ -1421,28 +1440,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>abseheight</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlU2l6ZVw+</text>
+        <text encoding="base64">XDxRdWl6UXVlc3Rpb25CYXNpY1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>height + height/2</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVmlldywgVGV4dCwgU3R5bGVTaGVldCwgTGlzdFZpZXcsIFN0YXR1c0JhciwgRGltZW5zaW9ucywKICAgICAgICAgVG91Y2hhYmxlT3BhY2l0eSwgQW5pbWF0ZWQsIFBhblJlc3BvbmRlciB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaGVpZ2h0OiA4LAo=</text>
+        <text encoding="base64">aW1wb3J0IHsKICAgIFZpZXcsCiAgICBUZXh0LAogICAgU3R5bGVTaGVldCwKICAgIExpc3RWaWV3LAogICAgU3RhdHVzQmFyLAogICAgRGltZW5zaW9ucywKICAgIFRvdWNoYWJsZU9wYWNpdHksCiAgICBBbmltYXRlZCwKICAgIFBhblJlc3BvbmRlcgp9IGZyb20gInJlYWN0LW5hdGl2ZSI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFsaWduSXRlbXM6ICdmbGV4LXN0YXJ0JywKICAgICAgICAgICAgICAgIC8vIGp1c3RpZnlDb250ZW50OiAnZmxleC1zdGFydCcsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsKICAgIFZpZXcsCiAgICBUZXh0LAogICAgU3R5bGVTaGVldCwKICAgIExpc3RWaWV3LAogICAgU3RhdHVzQmFyLAogICAgRGltZW5zaW9ucywKICAgIFRvdWNoYWJsZU9wYWNpdHksCiAgICBBbmltYXRlZCwKICAgIFBhblJlc3BvbmRlcgp9IGZyb20gInJlYWN0LW5hdGl2ZSI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IFF1aXpRdWVzdGlvbkJhc2ljIGZyb20gJy4vUXVpelF1ZXN0aW9ucy9RdWl6UXVlc3Rpb25CYXNpYycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxpZ25JdGVtczogJ2ZsZXgtZW5kJywKICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdzcGFjZS1hcm91bmQnLAo=</text>
+        <text encoding="base64">aW1wb3J0IENob2ljZSBmcm9tICcuLi9RdWl6UXVlc3Rpb24nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlcldpZHRoOiAxLAogICAgICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiAyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4219,55 +4238,54 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlclJhZGl1czogMiwK</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIFF1aXpRdWVzdGlvbkJhc2ljIGV4dGVuZHMgUXVpelF1ZXN0aW9uIHsKCiAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPFZpZXcgc3R5bGU9e2Jhc2ljU3R5bGUucXVpelF1ZXN0aW9uQ29udGFpbmVyfT4KICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXtiYXNpY1N0eWxlLnF1aXpRdWVzdGlvbn0+CiAgICAgICAgICAgICAgICAgICAge3RoaXMucXVlc3Rpb25UZXh0fQogICAgICAgICAgICAgICAgPC9UZXh0PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRoaXMuY2hvaWNlcy5tYXAoYyA9PiAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Q2hvaWNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25QcmVzcz17dGhpcy5hbnN3ZXJDbGlja0hhbmRsZXIuYmluZCh0aGlzLCBjKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17YmFzaWNTdHlsZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9e2N9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dD17Y30KICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIDwvVmlldz4KICAgICAgICApCiAgICB9Cgp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBiYWNrZ3JvdW5kQ29sb3I6ICdvcmFuZ2UnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICdibHVlJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXt7anVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInfX0+CiAgICAgICAgICAgICAgICB7IHRoaXMubGV0dGVycyB9CiAgICAgICAgICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKCdiYXNpYycpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXNlU2l6ZVw+</last-search>
+      <last-search encoding="base64">XDxRdWl6UXVlc3Rpb25CYXNpY1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlU2l6ZVw+</last-pattern>
-      <last-replace>;</last-replace>
-      <last-substitute>Animated</last-substitute>
+      <last-pattern encoding="base64">XDxRdWl6UXVlc3Rpb25CYXNpY1w+</last-pattern>
+      <last-replace>WheelOfFortune</last-replace>
+      <last-substitute>Basic</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXN0cmFjdG9yQ29udGFpbmVyXD4=</entry>
-        <entry>quizCon</entry>
-        <entry encoding="base64">XDxxdWl6UXVlc3Rpb25Db250YWluZXJcPg==</entry>
-        <entry encoding="base64">XDxjdXJyZW50UXVlc3Rpb25cPg==</entry>
-        <entry>:</entry>
-        <entry>,</entry>
-        <entry>wa</entry>
-        <entry>state.choices</entry>
-        <entry>state.</entry>
-        <entry>state\.</entry>
         <entry>message</entry>
         <entry>setT</entry>
         <entry encoding="base64">XDxRdWl6XD4=</entry>
         <entry>Animated</entry>
-        <entry encoding="base64">XDxzaHVmZmxlXD4=</entry>
         <entry>Quiz.</entry>
         <entry>Quiz.shu</entry>
         <entry>shuffle</entry>
         <entry encoding="base64">XDxMZXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxiYXNlU2l6ZVw+</entry>
+        <entry>basicStyle</entry>
+        <entry>WheelOf</entry>
+        <entry>Basic</entry>
+        <entry encoding="base64">XDxzaHVmZmxlXD4=</entry>
+        <entry encoding="base64">XDxSZWFjdFw+</entry>
+        <entry>super</entry>
+        <entry encoding="base64">XDxRdWl6UXVlc3Rpb25XaGVlbE9mRm9ydHVuZVw+</entry>
+        <entry encoding="base64">XDxDaG9pY2VcPg==</entry>
+        <entry>default</entry>
+        <entry>Choice</entry>
+        <entry encoding="base64">XDxRdWl6UXVlc3Rpb25CYXNpY1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>.,.+3w</entry>
         <entry encoding="base64">JzwsJz5zLy90ZXJtL2c=</entry>
         <entry>s/\\//g</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -4285,6 +4303,7 @@
         <entry encoding="base64">JzwsJz5zLzovID0vZw==</entry>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
         <entry>W</entry>
+        <entry>s/Basic/WheelOfFortune/g</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
