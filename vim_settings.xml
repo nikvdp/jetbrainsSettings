@@ -297,13 +297,13 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1489542441257">
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1489543363579">
         <mark key="a" line="117" column="32" />
-        <mark key="'" line="222" column="56" />
-        <mark key="[" line="240" column="35" />
-        <mark key="]" line="240" column="37" />
-        <mark key="." line="240" column="37" />
-        <mark key="^" line="240" column="37" />
+        <mark key="'" line="206" column="4" />
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="294" column="0" />
+        <mark key="." line="294" column="0" />
+        <mark key="^" line="294" column="33" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/metrics.py" timestamp="1487020589936">
         <mark key="[" line="0" column="0" />
@@ -868,7 +868,6 @@
       <jump line="190" column="11" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="143" column="21" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="161" column="6" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
-      <jump line="206" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="243" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="210" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="178" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
@@ -878,13 +877,14 @@
       <jump line="205" column="61" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="192" column="45" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="222" column="56" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="206" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8vIHRoaXMgaXMgYW4gb2RkIGFuZCBub3Qgd2VsbCBkb2N1bWVudGVkIHBhdHRlcm4uIFJvdGF0aW9uIHZhbHVlcyBuZWVkCiAgICAvLyB0byBiZSBpbiBzdHJpbmdzIHRoYXQgbG9vayBsaWtlICIxODBkZWciLCBidXQgcmVhY3QncyBBbmltYXRpb24uVmFsdWUgb25seQogICAgLy8gYWxsb3dzIG51bWJlcnMsIHNvIHlvdSBoYXZlIHRvIHRoaXMgaW50ZXJwb2xhdGlvbiBzdGVwLiBTZWUKICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9hLzM3NDQ1OTE2LzE5MzM3NjMKICAgIHJvdGF0ZSA9IHRoaXMuc3RhdGUuelJvdGF0aW9uLmludGVycG9sYXRlKHsKICAgICAgICBpbnB1dFJhbmdlOiBbMCwgMV0sCiAgICAgICAgb3V0cHV0UmFuZ2U6IFsnMGRlZycsICcxODBkZWcnXQogICAgfSk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>this.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlLnNjYWxlVmFsdWUuc2V0KCkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IG9uUHJlc3M9e3RoaXMuaGFuZGxlQ2hlY2tBbnN3ZXIuYmluZCh0aGlzKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuY2hlY2tBbnN3ZXJCdXR0b259PgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJHcmFkaWVudCBjb2xvcnM9e1snIzMxQTdFNycsJyMxREMyREYnXX0gc3RhcnQ9e3t4OjAsIHk6MX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZD17e3g6MSwgeToxfX0gc3R5bGU9e3tmbGV4OjF9fT4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5jaGVja0Fuc3dlcn0+eydDaGVjayBBbnN3ZXIgPid9PC9UZXh0PgogICAgICAgICAgICAgICAgICAgIDwvTGluZWFyR3JhZGllbnQ+CiAgICAgICAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+Cg==</text>
@@ -952,13 +952,13 @@
         <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text>transform</text>
+        <text>scale</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dGhpcy5wcm9wcy5pc1JldmVhbGVkICYmIHRoaXMuc2hvdWxkRmxpcA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlLnNjYWxlVmFsdWUuc2V0KCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -970,7 +970,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMgaXMgYW4gb2RkIGFuZCBub3Qgd2VsbCBkb2N1bWVudGVkIHBhdHRlcm4uIFJvdGF0aW9uIHZhbHVlcyBuZWVkCiAgICAvLyB0byBiZSBpbiBzdHJpbmdzIHRoYXQgbG9vayBsaWtlICIxODBkZWciLCBidXQgcmVhY3QncyBBbmltYXRpb24uVmFsdWUgb25seQogICAgLy8gYWxsb3dzIG51bWJlcnMsIHNvIHlvdSBoYXZlIHRvIHRoaXMgaW50ZXJwb2xhdGlvbiBzdGVwLiBTZWUKICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9hLzM3NDQ1OTE2LzE5MzM3NjMKICAgIHJvdGF0ZSA9IHRoaXMuc3RhdGUuelJvdGF0aW9uLmludGVycG9sYXRlKHsKICAgICAgICBpbnB1dFJhbmdlOiBbMCwgMV0sCiAgICAgICAgb3V0cHV0UmFuZ2U6IFsnMGRlZycsICcxODBkZWcnXQogICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3747,25 +3747,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGlzIGFuIG9kZCBhbmQgbm90IHdlbGwgZG9jdW1lbnRlZCBwYXR0ZXJuLiBSb3RhdGlvbiB2YWx1ZXMgbmVlZAogICAgICAgIC8vIHRvIGJlIGluIHN0cmluZ3MgdGhhdCBsb29rIGxpa2UgIjE4MGRlZyIsIGJ1dCByZWFjdCdzIEFuaW1hdGlvbi5WYWx1ZSBvbmx5CiAgICAgICAgLy8gYWxsb3dzIG51bWJlcnMsIHNvIHlvdSBoYXZlIHRvIHRoaXMgaW50ZXJwb2xhdGlvbiBzdGVwLiBTZWUKICAgICAgICAvLyBodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8zNzQ0NTkxNi8xOTMzNzYzCiAgICAgICAgY29uc3Qgcm90YXRlID0gdGhpcy5zdGF0ZS56Um90YXRpb24uaW50ZXJwb2xhdGUoewogICAgICAgICAgICBpbnB1dFJhbmdlOiBbMCwgMV0sCiAgICAgICAgICAgIG91dHB1dFJhbmdlOiBbJzBkZWcnLCAnMTgwZGVnJ10KICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMgaXMgYW4gb2RkIGFuZCBub3Qgd2VsbCBkb2N1bWVudGVkIHBhdHRlcm4uIFJvdGF0aW9uIHZhbHVlcyBuZWVkCiAgICAvLyB0byBiZSBpbiBzdHJpbmdzIHRoYXQgbG9vayBsaWtlICIxODBkZWciLCBidXQgcmVhY3QncyBBbmltYXRpb24uVmFsdWUgb25seQogICAgLy8gYWxsb3dzIG51bWJlcnMsIHNvIHlvdSBoYXZlIHRvIHRoaXMgaW50ZXJwb2xhdGlvbiBzdGVwLiBTZWUKICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9hLzM3NDQ1OTE2LzE5MzM3NjMKICAgIHJvdGF0ZSA9IHRoaXMuc3RhdGUuelJvdGF0aW9uLmludGVycG9sYXRlKHsKICAgICAgICBpbnB1dFJhbmdlOiBbMCwgMV0sCiAgICAgICAgb3V0cHV0UmFuZ2U6IFsnMGRlZycsICcxODBkZWcnXQogICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gU2Vjb25kIGludGVycG9sYXRlIGJlZ2lubmluZyBhbmQgZW5kIHZhbHVlcyAoaW4gdGhpcyBjYXNlIDAgYW5kIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGlzIGFuIG9kZCBhbmQgbm90IHdlbGwgZG9jdW1lbnRlZCBwYXR0ZXJuLiBSb3RhdGlvbiB2YWx1ZXMgbmVlZAogICAgICAgIC8vIHRvIGJlIGluIHN0cmluZ3MgdGhhdCBsb29rIGxpa2UgIjE4MGRlZyIsIGJ1dCByZWFjdCdzIEFuaW1hdGlvbi5WYWx1ZSBvbmx5CiAgICAgICAgLy8gYWxsb3dzIG51bWJlcnMsIHNvIHlvdSBoYXZlIHRvIHRoaXMgaW50ZXJwb2xhdGlvbiBzdGVwLiBTZWUKICAgICAgICAvLyBodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8zNzQ0NTkxNi8xOTMzNzYzCiAgICAgICAgY29uc3Qgcm90YXRlID0gdGhpcy5zdGF0ZS56Um90YXRpb24uaW50ZXJwb2xhdGUoewogICAgICAgICAgICBpbnB1dFJhbmdlOiBbMCwgMV0sCiAgICAgICAgICAgIG91dHB1dFJhbmdlOiBbJzBkZWcnLCAnMTgwZGVnJ10KICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGaXJzdCBzZXQgdXAgYW5pbWF0aW9uIAo=</text>
+        <text encoding="base64">Ly8gU2Vjb25kIGludGVycG9sYXRlIGJlZ2lubmluZyBhbmQgZW5kIHZhbHVlcyAoaW4gdGhpcyBjYXNlIDAgYW5kIDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBbmltYXRlZC50aW1pbmcoCiAgICAgICAgICAgIHRoaXMuc3RhdGUuelJvdGF0aW9uLAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0b1ZhbHVlOiAxLAogICAgICAgICAgICAgICAgZHVyYXRpb246IDMwMDAsCiAgICAgICAgICAgICAgICBlYXNpbmc6IEVhc2luZy5saW5lYXIKICAgICAgICAgICAgfQogICAgICAgICkuc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBGaXJzdCBzZXQgdXAgYW5pbWF0aW9uIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>transform</last-search>
+      <last-search>scale</last-search>
       <last-offset />
-      <last-pattern>transform</last-pattern>
+      <last-pattern>scale</last-pattern>
       <last-replace>Scrabble</last-replace>
       <last-substitute>WheelOfFortune</last-substitute>
       <last-dir>1</last-dir>
@@ -3773,7 +3773,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.letter</entry>
         <entry>generate</entry>
         <entry>letterTiles</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUxldHRlclRpbGVzXD4=</entry>
@@ -3793,6 +3792,7 @@
         <entry>animated.timing</entry>
         <entry>rotate</entry>
         <entry>transform</entry>
+        <entry>scale</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25scC9zZWxmLl9ubHAvZw==</entry>
