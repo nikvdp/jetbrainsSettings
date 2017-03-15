@@ -527,13 +527,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1489532217185">
-        <mark key="a" line="116" column="32" />
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="81" />
-        <mark key="^" line="24" column="81" />
-        <mark key="." line="24" column="81" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1489535875124">
+        <mark key="a" line="117" column="32" />
+        <mark key="[" line="181" column="19" />
+        <mark key="]" line="181" column="38" />
+        <mark key="." line="181" column="38" />
+        <mark key="^" line="181" column="38" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/metrics.py" timestamp="1487020589936">
         <mark key="[" line="0" column="0" />
@@ -778,11 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="63" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
-      <jump line="19" column="21" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="2" column="27" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="33" column="1" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="24" column="19" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="10" column="25" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBase.js" />
@@ -794,7 +788,6 @@
       <jump line="98" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
       <jump line="3" column="25" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBasic.js" />
       <jump line="0" column="40" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBase.js" />
-      <jump line="216" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="93" column="41" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="1" column="26" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
@@ -855,7 +848,6 @@
       <jump line="72" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="23" column="21" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="189" column="42" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
-      <jump line="205" column="6" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="76" column="31" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="43" column="40" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBase.js" />
       <jump line="105" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
@@ -868,7 +860,6 @@
       <jump line="121" column="1" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="113" column="22" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="124" column="23" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
-      <jump line="112" column="21" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="5" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="116" column="32" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="27" column="21" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
@@ -878,13 +869,21 @@
       <jump line="250" column="29" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="242" column="8" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="36" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="205" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="112" column="13" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="114" column="33" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="207" column="13" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="216" column="14" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="206" column="55" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="180" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb25QcmVzcz17dGhpcy5yZXNwb25zZVRpbGVUb3VjaEhhbmRsZXIuYmluZCh0aGlzLCBsZXR0ZXIpfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>{},</text>
+        <text>this.style.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IG9uUHJlc3M9e3RoaXMuaGFuZGxlQ2hlY2tBbnN3ZXIuYmluZCh0aGlzKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuY2hlY2tBbnN3ZXJCdXR0b259PgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJHcmFkaWVudCBjb2xvcnM9e1snIzMxQTdFNycsJyMxREMyREYnXX0gc3RhcnQ9e3t4OjAsIHk6MX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZD17e3g6MSwgeToxfX0gc3R5bGU9e3tmbGV4OjF9fT4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5jaGVja0Fuc3dlcn0+eydDaGVjayBBbnN3ZXIgPid9PC9UZXh0PgogICAgICAgICAgICAgICAgICAgIDwvTGluZWFyR3JhZGllbnQ+CiAgICAgICAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+Cg==</text>
@@ -949,30 +948,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{},</text>
+        <text>this.style.</text>
       </register>
       <register name="/" type="4">
-        <text>anim</text>
+        <text>resp.*tile</text>
       </register>
       <register name="0" type="4">
         <text>responseLetterTileAnimVals</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXNwb25zZUxldHRlclNldCA9ICdhYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5eicuc3BsaXQoJycpOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3BvbnNlTGV0dGVyVGlsZUFuaW1WYWxzID0gewogICAgICAgICAgICAgICAgLi4udGhpcy5zdGF0ZS5yZXNwb25zZUxldHRlclRpbGVBbmltVmFscwogICAgICAgICAgICB9OwogICAgICAgICAgICByZXNwb25zZUxldHRlclRpbGVBbmltVmFsc1tsZXR0ZXJdID0gbmV3IEFuaW1hdGVkLlZhbHVlKDEpOwoKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7cmVzcG9uc2VMZXR0ZXJUaWxlQW5pbVZhbHN9KTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYW5zd2VyTGV0dGVyU3R5bGUgPSB7CiAgICAgICAgICAgIGxldHRlcjogewogICAgICAgICAgICAgICAgLi4udGhpcy5zdHlsZS5xdWVzdGlvblRleHQsCiAgICAgICAgICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgICAgICAgICAgICAgY29sb3I6ICdibGFjaycsCiAgICAgICAgICAgICAgICAvLyBiYWNrZ3JvdW5kQ29sb3I6ICdvcmFuZ2UnLAogICAgICAgICAgICAgICAgaGVpZ2h0OiBiYXNlU2l6ZSwKICAgICAgICAgICAgICAgIHdpZHRoOiBiYXNlU2l6ZSwKICAgICAgICAgICAgICAgIG1hcmdpbjogYmFzZVNpemUgKiAuMTUsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGxldHRlckJveDogewogICAgICAgICAgICAgICAgbWFyZ2luOiBiYXNlU2l6ZSAqIC4yLAogICAgICAgICAgICAgICAgaGVpZ2h0OiBiYXNlU2l6ZSArIGJhc2VTaXplLzIsCiAgICAgICAgICAgICAgICB3aWR0aDogYmFzZVNpemUgKyBiYXNlU2l6ZS8yLAogICAgICAgICAgICAgICAgYm9yZGVyV2lkdGg6IGJhc2VTaXplICogLjEsCiAgICAgICAgICAgICAgICBib3JkZXJSYWRpdXM6IGJhc2VTaXplICogLjIsCiAgICAgICAgICAgIH0KICAgICAgICB9OwoKICAgICAgICBsZXQgcGFzc1Rocm91Z2hTdHlsZSA9IHsuLi5hbnN3ZXJMZXR0ZXJTdHlsZSwKICAgICAgICAgICAgbGV0dGVyQm94OiB7CiAgICAgICAgICAgICAgICAuLi5hbnN3ZXJMZXR0ZXJTdHlsZS5sZXR0ZXJCb3gsCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICdibGFjaycsIH0sCiAgICAgICAgICAgIGxldHRlcjogewogICAgICAgICAgICAgICAgLi4uYW5zd2VyTGV0dGVyU3R5bGUubGV0dGVyLAogICAgICAgICAgICAgICAgY29sb3I6ICd3aGl0ZScKICAgICAgICAgICAgfQogICAgICAgIH07Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdGF0ZS50ZXN0aW5nLCAgICAgICAgICAgICAgICAgLy8gQW5pbWF0ZSBgYm91bmNlVmFsdWVgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgICAgIGxldCBhbnN3ZXJMZXR0ZXJTdHlsZSA9IHsKICAgICAgICAgICAgbGV0dGVyOiB7CiAgICAgICAgICAgICAgICAuLi50aGlzLnN0eWxlLnF1ZXN0aW9uVGV4dCwKICAgICAgICAgICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICBjb2xvcjogJ2JsYWNrJywKICAgICAgICAgICAgICAgIC8vIGJhY2tncm91bmRDb2xvcjogJ29yYW5nZScsCiAgICAgICAgICAgICAgICBoZWlnaHQ6IGJhc2VTaXplLAogICAgICAgICAgICAgICAgd2lkdGg6IGJhc2VTaXplLAogICAgICAgICAgICAgICAgbWFyZ2luOiBiYXNlU2l6ZSAqIC4xNSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgbGV0dGVyQm94OiB7CiAgICAgICAgICAgICAgICBtYXJnaW46IGJhc2VTaXplICogLjIsCiAgICAgICAgICAgICAgICBoZWlnaHQ6IGJhc2VTaXplICsgYmFzZVNpemUvMiwKICAgICAgICAgICAgICAgIHdpZHRoOiBiYXNlU2l6ZSArIGJhc2VTaXplLzIsCiAgICAgICAgICAgICAgICBib3JkZXJXaWR0aDogYmFzZVNpemUgKiAuMSwKICAgICAgICAgICAgICAgIGJvcmRlclJhZGl1czogYmFzZVNpemUgKiAuMiwKICAgICAgICAgICAgfQogICAgICAgIH07CgogICAgICAgIGxldCBwYXNzVGhyb3VnaFN0eWxlID0gey4uLmFuc3dlckxldHRlclN0eWxlLAogICAgICAgICAgICBsZXR0ZXJCb3g6IHsKICAgICAgICAgICAgICAgIC4uLmFuc3dlckxldHRlclN0eWxlLmxldHRlckJveCwKICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ2JsYWNrJywgfSwKICAgICAgICAgICAgbGV0dGVyOiB7CiAgICAgICAgICAgICAgICAuLi5hbnN3ZXJMZXR0ZXJTdHlsZS5sZXR0ZXIsCiAgICAgICAgICAgICAgICBjb2xvcjogJ3doaXRlJwogICAgICAgICAgICB9CiAgICAgICAgfTsKCiAgICAgICAgbGV0IGFuc3dlclJlbmRlcmVkID0gdGhpcy5xdWVzdGlvbi5hbnN3ZXIuc3BsaXQoJycpLm1hcCgobGV0dGVyLCBpZHgpID0+IHsKICAgICAgICAgICAgY29uc3QgcGFzc3Rocm91Z2hDaGFycyA9ICI/IS0gJyIuc3BsaXQoJycpOwogICAgICAgICAgICBsZXQgb3V0cHV0OwogICAgICAgICAgICBpZiAocGFzc3Rocm91Z2hDaGFycy5pbmNsdWRlcyhsZXR0ZXIpKSB7CiAgICAgICAgICAgICAgICBvdXRwdXQgPSAoPExldHRlclRpbGUgc3R5bGU9e3Bhc3NUaHJvdWdoU3R5bGV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJhZ2dhYmxlPXt0cnVlfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9e2xldHRlcn0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9e2lkeH0vPikKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG91dHB1dCA9ICg8TGV0dGVyVGlsZQogICAgICAgICAgICAgICAgICAgIHN0eWxlPXthbnN3ZXJMZXR0ZXJTdHlsZX0KICAgICAgICAgICAgICAgICAgICBkcmFnZ2FibGU9e2ZhbHNlfQogICAgICAgICAgICAgICAgICAgIHRleHQ9e3RoaXMuc3RhdGUucmV2ZWFsZWRMZXR0ZXJzLmluY2x1ZGVzKGxldHRlcikgPyBsZXR0ZXIgOiAiXyJ9CiAgICAgICAgICAgICAgICAgICAga2V5PXtpZHh9Lz4pCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG91dHB1dDsKICAgICAgICB9KTsKCiAgICAgICAgcmV0dXJuIGFuc3dlclJlbmRlcmVkOwogICAgfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text>: {
-                    ...this.state.responseLetterTileAnimVals,
-                }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvVmFsdWU6IDAsICAgICAgICAgICAgICAgICAgICAgICAgIC8vIEFuaW1hdGUgdG8gc21hbGxlciBzaXplCiAgICAgICAgICAgICAgICB2ZWxvY2l0eTogMSwgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIEJvdW5jaWVyIHNwcmluZwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3752,22 +3749,22 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5wcm9wcy5vblByZXNzIGluc3RhbmNlb2YgRnVuY3Rpb24pIHsKICAgICAgICAgICAgdGhpcy5wcm9wcy5vblByZXNzKCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAga2V5PXtpZHh9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGFuaW1WYWwgPSAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLm9uUAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>anim</last-search>
+      <last-search>resp.*tile</last-search>
       <last-offset />
-      <last-pattern>anim</last-pattern>
+      <last-pattern>resp.*tile</last-pattern>
       <last-replace>Scrabble</last-replace>
       <last-substitute>WheelOfFortune</last-substitute>
       <last-dir>1</last-dir>
@@ -3775,9 +3772,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Choice</entry>
-        <entry>WheelOfFortune</entry>
-        <entry encoding="base64">XDxCdXR0b25cPg==</entry>
         <entry>handler</entry>
         <entry>handl</entry>
         <entry>letterTou</entry>
@@ -3795,6 +3789,9 @@
         <entry>Touch</entry>
         <entry>.includes</entry>
         <entry>anim</entry>
+        <entry>Animated</entry>
+        <entry>responselet</entry>
+        <entry>resp.*tile</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25scC9zZWxmLl9ubHAvZw==</entry>
