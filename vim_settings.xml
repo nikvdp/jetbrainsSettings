@@ -297,13 +297,13 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1489544643493">
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1489599745778">
         <mark key="a" line="117" column="32" />
-        <mark key="'" line="206" column="4" />
-        <mark key="[" line="247" column="21" />
-        <mark key="]" line="248" column="39" />
-        <mark key="." line="248" column="39" />
-        <mark key="^" line="248" column="39" />
+        <mark key="'" line="359" column="38" />
+        <mark key="[" line="376" column="46" />
+        <mark key="]" line="376" column="46" />
+        <mark key="." line="376" column="46" />
+        <mark key="^" line="376" column="46" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/metrics.py" timestamp="1487020589936">
         <mark key="[" line="0" column="0" />
@@ -778,9 +778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="17" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBase.js" />
-      <jump line="51" column="38" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBase.js" />
-      <jump line="92" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBase.js" />
       <jump line="62" column="28" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBase.js" />
       <jump line="106" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBase.js" />
       <jump line="81" column="64" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBase.js" />
@@ -878,13 +875,16 @@
       <jump line="192" column="45" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="222" column="56" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="206" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="252" column="37" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="234" column="54" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="359" column="38" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMgaXMgYW4gb2RkIGFuZCBub3Qgd2VsbCBkb2N1bWVudGVkIHBhdHRlcm4uIFJvdGF0aW9uIHZhbHVlcyBuZWVkCiAgICAvLyB0byBiZSBpbiBzdHJpbmdzIHRoYXQgbG9vayBsaWtlICIxODBkZWciLCBidXQgcmVhY3QncyBBbmltYXRpb24uVmFsdWUgb25seQogICAgLy8gYWxsb3dzIG51bWJlcnMsIHNvIHlvdSBoYXZlIHRvIHRoaXMgaW50ZXJwb2xhdGlvbiBzdGVwLiBTZWUKICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9hLzM3NDQ1OTE2LzE5MzM3NjMKICAgIHJvdGF0ZSA9IHRoaXMuc3RhdGUuelJvdGF0aW9uLmludGVycG9sYXRlKHsKICAgICAgICBpbnB1dFJhbmdlOiBbMCwgMV0sCiAgICAgICAgb3V0cHV0UmFuZ2U6IFsnMGRlZycsICcxODBkZWcnXQogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBleHBhbmQgPSB0aGlzLnN0YXRlLnpSb3RhdGlvbi5pbnRlcnBvbGF0ZSh7CiAgICAgICAgICAgIGlucHV0UmFuZ2U6IFswLCAxXSwKICAgICAgICAgICAgb3V0cHV0UmFuZ2U6IFswLCAzMF0KICAgICAgICB9KTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHRyYW5zZm9ybTogWwogICAgICAgICAgICAgICAgICAgICAgICAgIHtyb3RhdGVZOiByb3RhdGV9LAogICAgICAgICAgICAgICAgICAgICAgXQo=</text>
+      <register name="&quot;" type="4">
+        <text>1,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IG9uUHJlc3M9e3RoaXMuaGFuZGxlQ2hlY2tBbnN3ZXIuYmluZCh0aGlzKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuY2hlY2tBbnN3ZXJCdXR0b259PgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJHcmFkaWVudCBjb2xvcnM9e1snIzMxQTdFNycsJyMxREMyREYnXX0gc3RhcnQ9e3t4OjAsIHk6MX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZD17e3g6MSwgeToxfX0gc3R5bGU9e3tmbGV4OjF9fT4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5jaGVja0Fuc3dlcn0+eydDaGVjayBBbnN3ZXIgPid9PC9UZXh0PgogICAgICAgICAgICAgICAgICAgIDwvTGluZWFyR3JhZGllbnQ+CiAgICAgICAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+Cg==</text>
@@ -949,28 +949,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>1,</text>
       </register>
       <register name="/" type="4">
         <text>scale</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dGhpcy5wcm9wcy5pc1JldmVhbGVkICYmIHRoaXMuc2hvdWxkRmxpcA==</text>
+        <text>baseSize * (2/baseSize)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHRyYW5zZm9ybTogWwogICAgICAgICAgICAgICAgICAgICAgICAgIHtyb3RhdGVZOiByb3RhdGV9LAogICAgICAgICAgICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aDogdGhpcy5zdGF0ZS5zY2FsZVZhbHVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlLnNjYWxlVmFsdWUuc2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgIHRyYW5zZm9ybTogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7c2NhbGU6IHRoaXMuc3RhdGUuc2NhbGVWYWx1ZX0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHRyYW5zZm9ybTogWwogICAgICAgICAgICAgICAgICAgICAgICAgIHtyb3RhdGVZOiByb3RhdGV9LAogICAgICAgICAgICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBleHBhbmQgPSB0aGlzLnN0YXRlLnpSb3RhdGlvbi5pbnRlcnBvbGF0ZSh7CiAgICAgICAgICAgIGlucHV0UmFuZ2U6IFswLCAxXSwKICAgICAgICAgICAgb3V0cHV0UmFuZ2U6IFswLCAzMF0KICAgICAgICB9KTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3747,19 +3747,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICB0cmFuc2Zvcm06IFsKICAgICAgICAgICAgICAgICAgICAgICAgICB7cm90YXRlWTogcm90YXRlfSwKICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMgaXMgYW4gb2RkIGFuZCBub3Qgd2VsbCBkb2N1bWVudGVkIHBhdHRlcm4uIFJvdGF0aW9uIHZhbHVlcyBuZWVkCiAgICAvLyB0byBiZSBpbiBzdHJpbmdzIHRoYXQgbG9vayBsaWtlICIxODBkZWciLCBidXQgcmVhY3QncyBBbmltYXRpb24uVmFsdWUgb25seQogICAgLy8gYWxsb3dzIG51bWJlcnMsIHNvIHlvdSBoYXZlIHRvIHRoaXMgaW50ZXJwb2xhdGlvbiBzdGVwLiBTZWUKICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9hLzM3NDQ1OTE2LzE5MzM3NjMKICAgIHJvdGF0ZSA9IHRoaXMuc3RhdGUuelJvdGF0aW9uLmludGVycG9sYXRlKHsKICAgICAgICBpbnB1dFJhbmdlOiBbMCwgMV0sCiAgICAgICAgb3V0cHV0UmFuZ2U6IFsnMGRlZycsICcxODBkZWcnXQogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGlzIGFuIG9kZCBhbmQgbm90IHdlbGwgZG9jdW1lbnRlZCBwYXR0ZXJuLiBSb3RhdGlvbiB2YWx1ZXMgbmVlZAogICAgICAgIC8vIHRvIGJlIGluIHN0cmluZ3MgdGhhdCBsb29rIGxpa2UgIjE4MGRlZyIsIGJ1dCByZWFjdCdzIEFuaW1hdGlvbi5WYWx1ZSBvbmx5CiAgICAgICAgLy8gYWxsb3dzIG51bWJlcnMsIHNvIHlvdSBoYXZlIHRvIHRoaXMgaW50ZXJwb2xhdGlvbiBzdGVwLiBTZWUKICAgICAgICAvLyBodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8zNzQ0NTkxNi8xOTMzNzYzCiAgICAgICAgY29uc3Qgcm90YXRlID0gdGhpcy5zdGF0ZS56Um90YXRpb24uaW50ZXJwb2xhdGUoewogICAgICAgICAgICBpbnB1dFJhbmdlOiBbMCwgMV0sCiAgICAgICAgICAgIG91dHB1dFJhbmdlOiBbJzBkZWcnLCAnMTgwZGVnJ10KICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHRyYW5zZm9ybTogWwogICAgICAgICAgICAgICAgICAgICAgICAgIHtyb3RhdGVZOiByb3RhdGV9LAogICAgICAgICAgICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gU2Vjb25kIGludGVycG9sYXRlIGJlZ2lubmluZyBhbmQgZW5kIHZhbHVlcyAoaW4gdGhpcyBjYXNlIDAgYW5kIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlLnNjYWxlVmFsdWUuc2V0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3813,8 +3813,8 @@
         <entry>s/Alternate/Basic/g</entry>
         <entry>%s//LetterTile/gc</entry>
         <entry>s/WheelOfFortune/Scrabble/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
