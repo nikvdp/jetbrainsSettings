@@ -297,13 +297,13 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1489633026637">
-        <mark key="a" line="286" column="24" />
-        <mark key="'" line="205" column="65" />
-        <mark key="[" line="210" column="14" />
-        <mark key="]" line="210" column="25" />
-        <mark key="." line="210" column="25" />
-        <mark key="^" line="210" column="25" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1489633788822">
+        <mark key="a" line="291" column="24" />
+        <mark key="'" line="193" column="4" />
+        <mark key="[" line="200" column="65" />
+        <mark key="]" line="201" column="57" />
+        <mark key="^" line="201" column="57" />
+        <mark key="." line="201" column="57" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/metrics.py" timestamp="1487020589936">
         <mark key="[" line="0" column="0" />
@@ -781,9 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="40" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBase.js" />
-      <jump line="105" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
-      <jump line="79" column="36" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="33" column="8" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="52" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="120" column="9" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
@@ -881,13 +878,16 @@
       <jump line="196" column="22" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="181" column="24" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="208" column="65" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="366" column="6" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="367" column="6" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="193" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJUaWxlczogW10sCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlID0gey4uLnRoaXMuc3RhdGUsIG9yZGVyVGlsZXM6IHRpbGVzfTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fullAnswerArr</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0UmFuZ2U6IFsnMGRlZycsICc5MGRlZyddCg==</text>
@@ -952,28 +952,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fullAnswerArr</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text encoding="base64">XDxSZXNwb25zZUxldHRlclRpbGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>this.props.isRevealed ? 1 : 0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBmdWxsQW5zd2VyID0gdGhpcy5wcm9wcy5xdWVzdGlvbi5hbnN3ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpbGVTdGF0ZXNbbGV0dGVyXSA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgICAgICB0aWxlU3RhdGVzW2xldHRlcl0gPSBbXTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGlsZVN0YXRlcyA9IHt9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGlsZVN0YXRlc1tsZXR0ZXJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlID0gey4uLnRoaXMuc3RhdGUsIG9yZGVyVGlsZXM6IHRpbGVzfTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3750,25 +3750,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGlsZVJldmVhbFN0YXRlcy5wdXNoKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGlsZVJldmVhbFN0YXRlcyA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpbGVTdGF0ZXNbbGV0dGVyXSA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgICAgICB0aWxlU3RhdGVzW2xldHRlcl0gPSBbXTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbGUuc2V0UHJvcHMK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdGlsZVN0YXRlcyA9IHt9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd1cGRhdGVkIHRpbGU6ICcsIHRpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGlsZVN0YXRlc1tsZXR0ZXJdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>asdf</last-search>
+      <last-search encoding="base64">XDxSZXNwb25zZUxldHRlclRpbGVcPg==</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern encoding="base64">XDxSZXNwb25zZUxldHRlclRpbGVcPg==</last-pattern>
       <last-replace>;\r</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -3792,10 +3792,10 @@
         <entry>expand</entry>
         <entry>isRevealed</entry>
         <entry encoding="base64">XDxmcm9udFJvdGF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxSZXNwb25zZUxldHRlclRpbGVcPg==</entry>
         <entry>handle</entry>
         <entry>;</entry>
         <entry>asdf</entry>
+        <entry encoding="base64">XDxSZXNwb25zZUxldHRlclRpbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RpY3RfcmVwL2xlZnQvZ2M=</entry>
