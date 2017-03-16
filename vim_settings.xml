@@ -297,12 +297,13 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1489630026970">
-        <mark key="a" line="292" column="24" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1489632111262">
+        <mark key="a" line="288" column="24" />
         <mark key="'" line="201" column="22" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
+        <mark key="[" line="180" column="75" />
+        <mark key="]" line="181" column="24" />
+        <mark key="." line="181" column="24" />
+        <mark key="^" line="181" column="24" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/metrics.py" timestamp="1487020589936">
         <mark key="[" line="0" column="0" />
@@ -885,8 +886,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb3JkZXJUaWxlczogW10sCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbGUuc2V0UHJvcHMK</text>
+      <register name="&quot;" type="4">
+        <text>tileRevealStates[idx]</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0UmFuZ2U6IFsnMGRlZycsICc5MGRlZyddCg==</text>
@@ -951,7 +952,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>props.isRevealed = true;</text>
+        <text>tileRevealStates[idx]</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
@@ -960,19 +961,19 @@
         <text>this.props.isRevealed ? 1 : 0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbGUuc2V0UHJvcHMK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdGlsZVJldmVhbFN0YXRlcyA9IFtdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd1cGRhdGVkIHRpbGU6ICcsIHRpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbGUuc2V0UHJvcHMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd1cGRhdGVkIHRpbGU6ICcsIHRpbGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBsZXR0ZXIgPSB0aWxlLnByb3BzLmxldHRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd1cGRhdGVkIHRpbGU6ICcsIHRpbGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBsZXR0ZXIgPSB0aWxlLnByb3BzLmxldHRlcjsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3749,16 +3750,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBidWlsZCB0d28gaW50ZXJwb2xhdG9ycyB0aGF0IGFyZSBiYXNlZCBvZmYgdGhlIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGlzIGFuIG9kZCBhbmQgbm90IHdlbGwgZG9jdW1lbnRlZCBwYXR0ZXJuLiBSb3RhdGlvbiB2YWx1ZXMgbmVlZAogICAgICAgIC8vIHRvIGJlIGluIHN0cmluZ3MgdGhhdCBsb29rIGxpa2UgIjE4MGRlZyIsIGJ1dCByZWFjdCdzIEFuaW1hdGlvbi5WYWx1ZSBvbmx5CiAgICAgICAgLy8gYWxsb3dzIG51bWJlcnMsIHNvIHlvdSBoYXZlIHRvIHRoaXMgaW50ZXJwb2xhdGlvbiBzdGVwLiBTZWUKICAgICAgICAvLyBodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8zNzQ0NTkxNi8xOTMzNzYzCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBidWlsZCB0d28gaW50ZXJwb2xhdG9ycyB0aGF0IGFyZSBiYXNlZCBvZmYgdGhlIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAga2V5PXtpZHh9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGlzIGFuIG9kZCBhbmQgbm90IHdlbGwgZG9jdW1lbnRlZCBwYXR0ZXJuLiBSb3RhdGlvbiB2YWx1ZXMgbmVlZAogICAgICAgIC8vIHRvIGJlIGluIHN0cmluZ3MgdGhhdCBsb29rIGxpa2UgIjE4MGRlZyIsIGJ1dCByZWFjdCdzIEFuaW1hdGlvbi5WYWx1ZSBvbmx5CiAgICAgICAgLy8gYWxsb3dzIG51bWJlcnMsIHNvIHlvdSBoYXZlIHRvIHRoaXMgaW50ZXJwb2xhdGlvbiBzdGVwLiBTZWUKICAgICAgICAvLyBodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8zNzQ0NTkxNi8xOTMzNzYzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7cXVlc3Rpb25UaWxlUm93fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAga2V5PXtpZHh9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
