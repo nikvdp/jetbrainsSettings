@@ -213,12 +213,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" timestamp="1489700965143">
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" timestamp="1489701337512">
         <mark key="'" line="18" column="21" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="20" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="20" />
         <mark key="^" line="3" column="32" />
-        <mark key="." line="25" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/webcrawl/requirements.txt" timestamp="1487298747073">
         <mark key="'" line="84" column="0" />
@@ -259,13 +259,8 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" timestamp="1489701056783">
-        <mark key="a" line="113" column="33" />
-        <mark key="'" line="3" column="21" />
-        <mark key="[" line="82" column="28" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="114" column="19" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" timestamp="1489702976274">
+        <mark key="'" line="31" column="4" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1487819872442">
         <mark key="'" line="1" column="0" />
@@ -774,8 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
-      <jump line="216" column="14" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="164" column="3" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="26" column="15" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionBase.js" />
       <jump line="146" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
@@ -874,6 +867,8 @@
       <jump line="140" column="27" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="152" column="37" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="18" column="21" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
+      <jump line="38" column="34" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
+      <jump line="31" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -945,10 +940,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">WyVzXSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text encoding="base64">XDxnZXRRdWl6XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmdWxsQW5zd2VyID0gdGhpcy5wcm9wcy5xdWVzdGlvbi5hbnN3ZXI7Cg==</text>
@@ -957,16 +952,16 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBhZGRUaW1lPSAgIHt0aGlzLnN0YXRlLmFkZFRpbWV9IAogICAgICAgICAgICAgICAgICAgICAgIHJlZHVjZVRpbWU9e3RoaXMuc3RhdGUucmVkdWNlVGltZX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBhZGRUaW1lPSAgIHt0aGlzLnN0YXRlLmFkZFRpbWV9IAogICAgICAgICAgICAgICAgICAgICAgIHJlZHVjZVRpbWU9e3RoaXMuc3RhdGUucmVkdWNlVGltZX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZUNvdW50ID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldCBmbGlwcGluZ1RpbGVzID0gdGhpcy5zdGF0ZS5mbGlwcGluZ1RpbGVzLm1hcCgoKSA9PiBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZUNvdW50ID0gW107Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3743,33 +3738,32 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldCBmbGlwcGluZ1RpbGVzID0gdGhpcy5zdGF0ZS5mbGlwcGluZ1RpbGVzLm1hcCgoKSA9PiBmYWxzZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search encoding="base64">XDxnZXRRdWl6XD4=</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRRdWl6XD4=</last-pattern>
       <last-replace>;\r</last-replace>
       <last-substitute>;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>animated.timing</entry>
         <entry>rotate</entry>
         <entry>transform</entry>
         <entry>scale</entry>
@@ -3789,6 +3783,7 @@
         <entry encoding="base64">XDxSZXNwb25zZUxldHRlclRpbGVcPg==</entry>
         <entry>responseTileTou</entry>
         <entry>console.log</entry>
+        <entry encoding="base64">XDxnZXRRdWl6XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NhbmRpZGF0ZS9yaWdodC9nYw==</entry>
