@@ -1,61 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 2.7.12 virtualenv at ~/.local/revenv/relex interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/site-packages/_pdbpp_path_hack" />
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7" />
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/1721469132" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/site-packages/_pdbpp_path_hack" />
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7" />
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.local/revenv/relex/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/1721469132" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7.12 virtualenv at ~/.local/revenv/resource-rank interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/revenv/resource-rank/lib/python2.7" />
-        <root url="file://$USER_HOME$/.local/revenv/resource-rank/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.local/revenv/resource-rank/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/371000843" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/revenv/resource-rank/lib/python2.7" />
-        <root url="file://$USER_HOME$/.local/revenv/resource-rank/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.local/revenv/resource-rank/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/371000843" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </SOURCES>
-    </library>
     <library name="Python 2.7.13 (~/miniconda2/envs/fit-mvp/bin/python2.7) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/miniconda2/envs/fit-mvp/lib/python2.7" />
@@ -80,6 +24,33 @@
         <root url="file://$USER_HOME$/miniconda2/envs/fit-mvp/lib/python2.7/site-packages" />
         <root url="jar://$USER_HOME$/miniconda2/envs/fit-mvp/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/568823898" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7.13 (~/miniconda2/envs/python-volley-nlp-utils/bin/python2.7) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7" />
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/site-packages" />
+        <root url="jar://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/2090079798" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7" />
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/site-packages" />
+        <root url="jar://$USER_HOME$/miniconda2/envs/python-volley-nlp-utils/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/2090079798" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
@@ -137,6 +108,60 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
+    <library name="Python 2.7.13 (~/miniconda2/envs/resource_rank_mvp/bin/python2.7) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7" />
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/site-packages" />
+        <root url="jar://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/1680257108" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7" />
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/site-packages" />
+        <root url="jar://$USER_HOME$/miniconda2/envs/resource_rank_mvp/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/1680257108" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7.13 (~/miniconda2/envs/the-secret-service/bin/python2.7) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7" />
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/site-packages" />
+        <root url="jar://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/1817466165" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7" />
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/site-packages" />
+        <root url="jar://$USER_HOME$/miniconda2/envs/the-secret-service/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/1817466165" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
     <library name="Python 2.7.13 (~/miniconda2/envs/vine/bin/python) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7" />
@@ -173,6 +198,7 @@
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/lib-dynload" />
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages" />
+        <root url="jar://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1062720341" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
@@ -185,34 +211,8 @@
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/lib-dynload" />
         <root url="file://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages" />
+        <root url="jar://$USER_HOME$/miniconda2/envs/vine/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1062720341" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7.13 (~/miniconda2/envs/volley-secrets/bin/python2.7) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7" />
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/plat-darwin" />
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/plat-mac" />
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/lib-dynload" />
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/site-packages" />
-        <root url="jar://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1312668" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7" />
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/plat-darwin" />
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/plat-mac" />
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/lib-dynload" />
-        <root url="file://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/site-packages" />
-        <root url="jar://$USER_HOME$/miniconda2/envs/volley-secrets/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1312668" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
