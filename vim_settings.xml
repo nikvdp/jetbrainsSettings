@@ -194,6 +194,13 @@
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" timestamp="1490034046996">
+        <mark key="'" line="109" column="67" />
+        <mark key="[" line="109" column="34" />
+        <mark key="]" line="109" column="65" />
+        <mark key="^" line="109" column="33" />
+        <mark key="." line="109" column="66" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/fit-mvp/app/search.py" timestamp="1487819872442">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="6" column="0" />
@@ -640,7 +647,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="96" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortuneComponents/QuestionTileContainer.js" timestamp="1490031643351">
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortuneComponents/QuestionTileContainer.js" timestamp="1490033872700">
         <mark key="'" line="21" column="38" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/webcrawl/volley/volley/spiders/resources.py" timestamp="1487301256646">
@@ -824,12 +831,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1490033155763">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="44" column="42" />
-        <mark key="]" line="45" column="56" />
-        <mark key="." line="45" column="56" />
-        <mark key="^" line="45" column="56" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" timestamp="1490034173105">
+        <mark key="'" line="75" column="49" />
+        <mark key="[" line="68" column="48" />
+        <mark key="]" line="69" column="36" />
+        <mark key="." line="69" column="36" />
+        <mark key="^" line="69" column="36" />
       </file>
       <file name="$USER_HOME$/Code/work/jiff/incentives-web-app/app/modules/common/constants/JFLanguages.js" timestamp="1469122442325">
         <mark key="[" line="2" column="16" />
@@ -1207,7 +1214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="20" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="27" column="37" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestion.js" />
       <jump line="72" column="8" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
       <jump line="50" column="17" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
@@ -1286,7 +1292,6 @@
       <jump line="153" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="65" column="46" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="121" column="24" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
-      <jump line="75" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="113" column="30" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="139" column="52" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="31" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
@@ -1307,6 +1312,8 @@
       <jump line="71" column="60" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="47" column="19" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
+      <jump line="109" column="67" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Quiz.js" />
+      <jump line="75" column="49" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1320,7 +1327,7 @@
         }</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihsID0+IC9bQS16XS8udGVzdChsKSkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IG9uUHJlc3M9e3RoaXMuaGFuZGxlQ2hlY2tBbnN3ZXIuYmluZCh0aGlzKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuY2hlY2tBbnN3ZXJCdXR0b259PgogICAgICAgICAgICAgICAgICAgIDxMaW5lYXJHcmFkaWVudCBjb2xvcnM9e1snIzMxQTdFNycsJyMxREMyREYnXX0gc3RhcnQ9e3t4OjAsIHk6MX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZD17e3g6MSwgeToxfX0gc3R5bGU9e3tmbGV4OjF9fT4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5jaGVja0Fuc3dlcn0+eydDaGVjayBBbnN3ZXIgPid9PC9UZXh0PgogICAgICAgICAgICAgICAgICAgIDwvTGluZWFyR3JhZGllbnQ+CiAgICAgICAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+Cg==</text>
@@ -1385,28 +1392,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Update</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>winstate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbnN3ZXJMZXR0ZXJzID0gYW5zd2VyTGV0dGVycy5maWx0ZXIoKGwsIGlkeCwgc2VsZikgPT4gc2VsZi5pbmRleE9mKGwpID09IGlkeCkuc29ydCgpOwo=</text>
+      <register name="0" type="4">
+        <text>this.state.currentQuestionIndex</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihsID0+IC9bQS16XS8udGVzdChsKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlID0gOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGVzZSBhcmUgdXNlZCB0byBzdG9yZSBhbmltYXRpb24gc3RhdGUgb2YgZWFjaCBvZiB0aGUgdXNlZCBsZXR0ZXJzCiAgICAgICAgbGV0IHVzZWRMZXR0ZXJBbmltVmFscyA9IHt9OwogICAgICAgIGxldHRlcnMuZm9yRWFjaChsID0+IHVzZWRMZXR0ZXJBbmltVmFsc1tsXSA9IG5ldyBBbmltYXRlZC5WYWx1ZSgwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlID0gIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXRXaW5Db25kaXRpb24oKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -4182,26 +4189,17 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text>{
-            revealedLetters: [],
-            shouldFlip: [],
-            usedLetters: [],
-            refs: {
-                usedLetterAnimVals
-            }
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ewogICAgICAgIHN1cGVyKHByb3BzKTsKICAgICAgICB0aGlzLnN0eWxlID0gd2hlZWxPZkZvcnR1bmVTdHlsZTsKCiAgICAgICAgLy8gdGhlc2UgYXJlIHVzZWQgdG8gc3RvcmUgYW5pbWF0aW9uIHN0YXRlIG9mIGVhY2ggb2YgdGhlIHVzZWQgbGV0dGVycwogICAgICAgIGxldCB1c2VkTGV0dGVyQW5pbVZhbHMgPSB7fTsKICAgICAgICBsZXR0ZXJzLmZvckVhY2gobCA9PiB1c2VkTGV0dGVyQW5pbVZhbHNbbF0gPSBuZXcgQW5pbWF0ZWQuVmFsdWUoMCkpOwoKICAgICAgICB0aGlzLnN0YXRlID0gewogICAgICAgICAgICByZXZlYWxlZExldHRlcnM6IFtdLAogICAgICAgICAgICBzaG91bGRGbGlwOiBbXSwKICAgICAgICAgICAgdXNlZExldHRlcnM6IFtdLAogICAgICAgICAgICByZWZzOiB7CiAgICAgICAgICAgICAgICB1c2VkTGV0dGVyQW5pbVZhbHMKICAgICAgICAgICAgfQogICAgICAgIH07CiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-                usedLetterAnimVals
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnF1ZXN0aW9uLndpblN0YXRlID0gdGhpcy5xdWVzdGlvbi5hbnN3ZXIuc3BsaXQoJycpCiAgICAgICAgICAgIC5maWx0ZXIobCA9PiAvW0Etel0vLnRlc3QobCkpCiAgICAgICAgICAgIC5maWx0ZXIoKGwsIGlkeCwgc2VsZikgPT4gc2VsZi5pbmRleE9mKGwpID09IGlkeCkKICAgICAgICAgICAgLnNvcnQoKQogICAgICAgICAgICAuam9pbignJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
