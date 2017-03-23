@@ -540,12 +540,12 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/CompletedQuiz.js" timestamp="1490198976128">
-        <mark key="'" line="15" column="44" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="12" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/CompletedQuiz.js" timestamp="1490199013155">
+        <mark key="'" line="13" column="44" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="5" column="12" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionHangman.js" timestamp="1490197178480">
         <mark key="'" line="58" column="27" />
@@ -1110,10 +1110,11 @@
         <mark key="." line="41" column="34" />
         <mark key="^" line="41" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/App.js" timestamp="1490198847003">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/App.js" timestamp="1490199078639">
+        <mark key="[" line="184" column="38" />
+        <mark key="]" line="184" column="41" />
+        <mark key="." line="184" column="41" />
+        <mark key="^" line="184" column="41" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/tests/apply-meta-schema-to-gap-data-transform.test.js" timestamp="1473374005798">
         <mark key="[" line="20" column="22" />
@@ -1387,7 +1388,7 @@
         <text encoding="base64">ICAgIEFjdGlvbnMuY29uY2VwdCh7Y29uY2VwdDogc2VsZWN0ZWQsIHRpdGxlOiBzZWxlY3RlZC5uYW1lfSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>a</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1452,7 +1453,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>state.dropZones</text>
@@ -1461,7 +1462,7 @@
         <text encoding="base64">dGhpcy5wcm9wcy5wb2ludHMg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2614,16 +2615,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGlkZU5hdkJhcj17dHJ1ZX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ego=</text>
+        <text encoding="base64">ICAgICAgICB9LCA1MDAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbD17dHJ1ZX0K</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4OiAxLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5400,19 +5401,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ego=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbD17dHJ1ZX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmbGV4OiAxLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -5466,8 +5467,8 @@
         <entry>s/y/x/gc</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXRlLmRyb3Bab25lcy9wcm9wcy5kcm9wWm9uZXMvZw==</entry>
         <entry>s</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
