@@ -320,12 +320,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableLetterTile.js" timestamp="1490322473174">
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableLetterTile.js" timestamp="1490642183441">
         <mark key="'" line="50" column="45" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="38" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="19" />
+        <mark key="[" line="36" column="63" />
+        <mark key="]" line="36" column="78" />
+        <mark key="." line="36" column="78" />
+        <mark key="^" line="36" column="78" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/AnswerDropSlots.js" timestamp="1490319668190">
         <mark key="'" line="94" column="4" />
@@ -1446,8 +1446,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlzRHJvcFpvbmUoZ2VzdHVyZSl7CiAgICAgICAgaWYgKCEgdGhpcy5zdGF0ZS5kcm9wWm9uZVZhbHVlcykgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIGxldCBkcm9wWm9uZXMgPSB0aGlzLnN0YXRlLmRyb3Bab25lVmFsdWVzOwogICAgICAgIGZvciAobGV0IGk9MDsgaSA8IGRyb3Bab25lcy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBsZXQgZHJvcFpvbmUgPSBkcm9wWm9uZXNbaV07CiAgICAgICAgICAgIGlmIChnZXN0dXJlLm1vdmVZID4gZHJvcFpvbmUueQogICAgICAgICAgICAgICAgJiYgZ2VzdHVyZS5tb3ZlWSA8IGRyb3Bab25lLnkgKyBkcm9wWm9uZS5oZWlnaHQKICAgICAgICAgICAgICAgICYmIGdlc3R1cmUubW92ZVggPiBkcm9wWm9uZS54CiAgICAgICAgICAgICAgICAmJiBnZXN0dXJlLm1vdmVYIDwgZHJvcFpvbmUueCArIGRyb3Bab25lLndpZHRoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>reactAnimMapper</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1512,7 +1512,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>reactAnimMapper</text>
       </register>
       <register name="/" type="4">
         <text>render:</text>
