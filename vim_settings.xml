@@ -39,12 +39,12 @@
         <mark key="." line="147" column="0" />
         <mark key="^" line="62" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/api/index.js" timestamp="1490746137035">
-        <mark key="'" line="7" column="11" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="20" column="4" />
-        <mark key="^" line="20" column="7" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/api/index.js" timestamp="1490748030380">
+        <mark key="'" line="10" column="15" />
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+        <mark key="^" line="4" column="46" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortuneComponents/ResponseTile.js" timestamp="1489709294189">
         <mark key="[" line="0" column="0" />
@@ -1129,12 +1129,11 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" timestamp="1490745558522">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="75" column="56" />
-        <mark key="]" line="76" column="39" />
-        <mark key="^" line="76" column="39" />
-        <mark key="." line="76" column="39" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" timestamp="1490747994039">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="11" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/README.md" timestamp="1486608065822">
         <mark key="'" line="28" column="0" />
@@ -1387,8 +1386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableLetterTile.js" />
-      <jump line="45" column="16" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableLetterTile.js" />
       <jump line="41" column="37" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableScrabbleTileContainer.js" />
       <jump line="26" column="55" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableScrabbleTileContainer.js" />
       <jump line="31" column="57" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableScrabbleTileContainer.js" />
@@ -1487,13 +1484,15 @@
       <jump line="76" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
       <jump line="20" column="8" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/api/index.js" />
       <jump line="7" column="11" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/api/index.js" />
+      <jump line="10" column="15" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/api/index.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAvLyBpbml0aWFsaXplIHRoZSBhbnN3ZXIKICAgICAgICBsZXQgYW5zd2VyID0gdGhpcy5wcm9wcy5xdWVzdGlvbi5hbnN3ZXI7CiAgICAgICAgLy8gY3JlYXRlIGFuIGFycmF5IG9mIGFsbCBsZXR0ZXJUaWxlcyB1c2VkIGluIHRoZSBjb3JyZWN0IGFuc3dlcgogICAgICAgIHRoaXMubGV0dGVyVGlsZXMgPSBhbnN3ZXIudG9Mb3dlckNhc2UoKS5zcGxpdCgnJykuZmlsdGVyKGwgPT4gL1tBLXpdLy50ZXN0KGwpKTsKICAgICAgICAvLyB0aGVuIGFkZCBzb21lIHJhbmRvbSBsZXR0ZXJUaWxlcyBhbmQgc2h1ZmZsZSBpdAogICAgICAgIHRoaXMubGV0dGVyVGlsZXMgPSBzaHVmZmxlQXJyYXkoWy4uLnRoaXMubGV0dGVyVGlsZXMsIC4uLmdlbmVyYXRlUmFuZG9tTGV0dGVycygzKV0pOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1558,7 +1557,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb25jZXB0Q29tcGxldGlvbnNcPg==</text>
@@ -1567,7 +1566,7 @@
         <text encoding="base64">ICAgIGNvbnN0IHJlcSA9IHsKICAgICAgbWV0aG9kOiAnUE9TVCcKICAgIH07CiAgICAvLyBUT0RPOiB0aGlzIHNob3VsZCBiZSBieSBpZCAoZmV0Y2hlZCBhbG9uZ3NpZGUgbmFtZSBpbiBjb21wbGV0aW9uIGxpc3QpIHdoZW4gdGhhdCByb3V0ZSBpcyBjb21wbGV0ZWQuCiAgICBmZXRjaChgaHR0cDovLzEwNC4xOTYuMjM5LjE5MjozMDAwL2FwaS92MT9xdWVyeT1xdWVyeSB7CiAgICAgIGNvbmNlcHRDb21wbGV0aW9ucyhyZWxhdGVkOiBmYWxzZSwgdGV4dDogIiR7dGhpcy5wcm9wcy50aXRsZX0iKSB7CiAgICAgICAgaWQKICAgICAgICBuYW1lLAogICAgICAgIGRlZmluaXRpb24sCiAgICAgICAgcmVzb3VyY2VzKGNvdW50OiA0KSB7CiAgICAgICAgICBpZCwKICAgICAgICAgIHVybCwKICAgICAgICAgIHByZXZpZXcKICAgICAgICB9CiAgICAgIH0KICAgIH1gLCByZXEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2720,42 +2719,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiB3aXJlIHRoaXMgbWV0aG9kIGludG8gQVBJCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnF1aXogPSBhd2FpdCB0aGlzLmdldFF1aXooJ2NlbGwnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcXVpeiA9IGF3YWl0IGdldENvbmNlcHRDb21wbGV0aW9ucyhxdWl6S2V5KTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>[
-                {
-                    question: &quot;Integral proteins penetrate the _____ of the lipid bilayer.&quot;,
-                    choices: [&quot;hydrophobic core&quot;, &quot;hydrophobic interior&quot;, &quot;bilayer's interior&quot;, &quot;hydrophobic autoinducer&quot;], // distractors + answer
-                    answer: &quot;hydrophobic interior&quot;, // already included in choices
-                },
-                {
-                    question: &quot;_____ are lipids characterized by a carbon skeleton consisting of four fused rings.&quot;,
-                    choices: [&quot;Sex Hormones&quot;, &quot;Lipid-soluble hormones&quot;, &quot;Cholesterols&quot;, &quot;Steroids&quot;],
-                    answer: &quot;Steroids&quot;
-                },
-                {
-                    question: &quot;As the plaque grows, the walls of the artery become thick and stiff, and the _____ of the artery increases.&quot;,
-                    choices: [&quot;obstruction&quot;, &quot;edema&quot;, &quot;physical condition&quot;, &quot;airway recruitment&quot;],
-                    answer: &quot;obstruction&quot;
-                },
-                {
-                    question: &quot;Some fungi produce _____ that are effective in treating bacterial infections.&quot;,
-                    choices: [ &quot;recombinant bacterial plasmids&quot;, &quot;bacterial biofilms&quot;, &quot;bacterial resistances&quot;, &quot;antibiotics&quot;],
-                    answer: &quot;antibiotics&quot;
-                },
-                {
-                    question: &quot;The first organ to emerge from the germinating seed is the _____, the embryonic root.&quot;,
-                    choices: [&quot;dicot root&quot;, &quot;radicle&quot;, &quot;slender root&quot;, &quot;rudimentary root&quot;],
-                    answer: &quot;radicle&quot;
-                }
-            ]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IHtnZXRDb25jZXB0Q29tcGxldGlvbnN9Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiR290IHF1aXo6ICIsIHF1aXopOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5532,16 +5505,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGFzeW5jIGdldFF1aXoocXVpektleSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihyZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKHJlc3AgPT4gcmVzcC5qc29uKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcSA9IHsKICAgICAgICBtZXRob2Q6ICdQT1NUJwogICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
