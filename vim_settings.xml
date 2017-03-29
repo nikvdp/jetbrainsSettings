@@ -39,12 +39,12 @@
         <mark key="." line="147" column="0" />
         <mark key="^" line="62" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/api/index.js" timestamp="1490754596260">
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/api/index.js" timestamp="1490816145963">
         <mark key="'" line="5" column="4" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="4" />
-        <mark key="." line="32" column="4" />
-        <mark key="^" line="32" column="30" />
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortuneComponents/ResponseTile.js" timestamp="1489709294189">
         <mark key="[" line="0" column="0" />
@@ -1129,12 +1129,12 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" timestamp="1490755109821">
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" timestamp="1490816172900">
         <mark key="'" line="127" column="29" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="79" column="14" />
+        <mark key="[" line="84" column="46" />
+        <mark key="]" line="84" column="55" />
+        <mark key="." line="84" column="55" />
+        <mark key="^" line="84" column="55" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/README.md" timestamp="1486608065822">
         <mark key="'" line="28" column="0" />
@@ -1492,8 +1492,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAvLyBpbml0aWFsaXplIHRoZSBhbnN3ZXIKICAgICAgICBsZXQgYW5zd2VyID0gdGhpcy5wcm9wcy5xdWVzdGlvbi5hbnN3ZXI7CiAgICAgICAgLy8gY3JlYXRlIGFuIGFycmF5IG9mIGFsbCBsZXR0ZXJUaWxlcyB1c2VkIGluIHRoZSBjb3JyZWN0IGFuc3dlcgogICAgICAgIHRoaXMubGV0dGVyVGlsZXMgPSBhbnN3ZXIudG9Mb3dlckNhc2UoKS5zcGxpdCgnJykuZmlsdGVyKGwgPT4gL1tBLXpdLy50ZXN0KGwpKTsKICAgICAgICAvLyB0aGVuIGFkZCBzb21lIHJhbmRvbSBsZXR0ZXJUaWxlcyBhbmQgc2h1ZmZsZSBpdAogICAgICAgIHRoaXMubGV0dGVyVGlsZXMgPSBzaHVmZmxlQXJyYXkoWy4uLnRoaXMubGV0dGVyVGlsZXMsIC4uLmdlbmVyYXRlUmFuZG9tTGV0dGVycygzKV0pOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>(count: 3)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1558,7 +1558,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cXVlc3Rpb25zID0g</text>
+        <text>(count: 3)</text>
       </register>
       <register name="/" type="4">
         <text>getQ</text>
