@@ -1158,12 +1158,12 @@
         <mark key="." line="28" column="38" />
         <mark key="^" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" timestamp="1490165694119">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="77" column="19" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" timestamp="1490910396104">
+        <mark key="'" line="139" column="13" />
+        <mark key="[" line="137" column="24" />
+        <mark key="]" line="137" column="24" />
+        <mark key="^" line="136" column="39" />
+        <mark key="." line="137" column="27" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/augmented_dep_graph.py" timestamp="1483011447958">
         <mark key="'" line="26" column="21" />
@@ -1172,7 +1172,7 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" timestamp="1490908652807">
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" timestamp="1490909379603">
         <mark key="'" line="130" column="8" />
         <mark key="[" line="138" column="39" />
         <mark key="]" line="138" column="59" />
@@ -1446,17 +1446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="7" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/AlertBanner.js" />
-      <jump line="24" column="25" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/AlertBanner.js" />
-      <jump line="38" column="7" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/AlertBanner.js" />
-      <jump line="42" column="11" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/AlertBanner.js" />
-      <jump line="25" column="47" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/AlertBanner.js" />
-      <jump line="43" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/AlertBanner.js" />
-      <jump line="45" column="1" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/AlertBanner.js" />
-      <jump line="29" column="30" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/AlertBanner.js" />
-      <jump line="41" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/AlertBanner.js" />
-      <jump line="30" column="18" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/AlertBanner.js" />
-      <jump line="49" column="31" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/AlertBanner.js" />
       <jump line="1" column="7" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/FeaturedCollections.js" />
       <jump line="21" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/FeaturedCollections.js" />
       <jump line="22" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/Hub/FeaturedCollections.js" />
@@ -1546,13 +1535,24 @@
       <jump line="130" column="8" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
       <jump line="27" column="26" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/SharedComponents/LoadingScreen.js" />
       <jump line="16" column="21" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/SharedComponents/InfiniteSpinner.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="114" column="27" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="68" column="49" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="115" column="27" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="87" column="32" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="103" column="37" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="122" column="35" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="125" column="13" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
+      <jump line="139" column="13" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionAlternate.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ewogICAgY29udGFpbmVyOiB7CiAgICAgICAgYmFja2dyb3VuZENvbG9yOiBDb2xvcnMudGFuLAogICAgICAgIGZsZXg6IDEKICAgIH0sCiAgICBjaGVja0Fuc3dlckJ1dHRvbkRpc2FibGVkOiB7CiAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICAgICAgd2lkdGg6IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS53aWR0aCwKICAgICAgICBoZWlnaHQ6IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS5oZWlnaHQvMTAsCiAgICAgICAgc2hhZG93Q29sb3I6ICdyZ2JhKDMyLDY0LDEwNCwwLjQpJywKICAgICAgICBzaGFkb3dPZmZzZXQ6IHsKICAgICAgICAgICAgd2lkdGg6IDAsCiAgICAgICAgICAgIGhlaWdodDogLTEKICAgICAgICB9LAogICAgICAgIHNoYWRvd1JhZGl1czogMiwKICAgICAgICBzaGFkb3dPcGFjaXR5OiAwLAogICAgICAgIGJvdHRvbTogMCwKICAgICAgICB6SW5kZXg6IDEwCiAgICB9LAogICAgY2hlY2tBbnN3ZXJCdXR0b246IHsKICAgICAgICBwb3NpdGlvbjogJ2Fic29sdXRlJywKICAgICAgICB3aWR0aDogRGltZW5zaW9ucy5nZXQoJ3dpbmRvdycpLndpZHRoLAogICAgICAgIGhlaWdodDogRGltZW5zaW9ucy5nZXQoJ3dpbmRvdycpLmhlaWdodC8xMCwKICAgICAgICBzaGFkb3dDb2xvcjogJ3JnYmEoMzIsNjQsMTA0LDAuNCknLAogICAgICAgIHNoYWRvd09mZnNldDogewogICAgICAgICAgICB3aWR0aDogMCwKICAgICAgICAgICAgaGVpZ2h0OiAtMQogICAgICAgIH0sCiAgICAgICAgc2hhZG93UmFkaXVzOiAyLAogICAgICAgIHNoYWRvd09wYWNpdHk6IDEsCiAgICAgICAgYm90dG9tOiAwLAogICAgICAgIHpJbmRleDogMTAKICAgIH0sCiAgICBjaGVja0Fuc3dlcjogewogICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3RyYW5zcGFyZW50JywKICAgICAgICBjb2xvcjogJ3doaXRlJywKICAgICAgICBmb250RmFtaWx5OiAnQXZlbmlyTmV4dC1SZWd1bGFyJywKICAgICAgICBmb250V2VpZ2h0OiAnYm9sZCcsCiAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgICAgICBtYXJnaW5Ub3A6IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS5oZWlnaHQvMzIsCiAgICAgICAgZm9udFNpemU6IDE4LAogICAgICAgIGxldHRlclNwYWNpbmc6IDAuMywKICAgICAgICBzaGFkb3dDb2xvcjogJ3JnYmEoMzIsNjQsMTA0LDAuNCknLAogICAgICAgIHNoYWRvd09mZnNldDogewogICAgICAgICAgICB3aWR0aDogMCwKICAgICAgICAgICAgaGVpZ2h0OiAxCiAgICAgICAgfSwKICAgICAgICBzaGFkb3dSYWRpdXM6IDIsCiAgICAgICAgc2hhZG93T3BhY2l0eTogMQogICAgfSwKICAgIGNoZWNrQW5zd2VyVGV4dERpc2FibGVkOiB7CiAgICAgICAgYmFja2dyb3VuZENvbG9yOiAndHJhbnNwYXJlbnQnLAogICAgICAgIGNvbG9yOiAnd2hpdGUnLAogICAgICAgIGZvbnRGYW1pbHk6ICdBdmVuaXJOZXh0LVJlZ3VsYXInLAogICAgICAgIGZvbnRXZWlnaHQ6ICdib2xkJywKICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgICAgIG1hcmdpblRvcDogRGltZW5zaW9ucy5nZXQoJ3dpbmRvdycpLmhlaWdodC8zMiwKICAgICAgICBmb250U2l6ZTogMTgsCiAgICAgICAgbGV0dGVyU3BhY2luZzogMC4zLAogICAgICAgIHNoYWRvd0NvbG9yOiAncmdiYSgzMiw2NCwxMDQsMC4yKScsCiAgICAgICAgc2hhZG93T2Zmc2V0OiB7CiAgICAgICAgICAgIHdpZHRoOiAwLAogICAgICAgICAgICBoZWlnaHQ6IDEKICAgICAgICB9LAogICAgICAgIHNoYWRvd1JhZGl1czogMiwKICAgICAgICBzaGFkb3dPcGFjaXR5OiAwCiAgICB9Cn07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hhZG93T2Zmc2V0OiB7CiAgICAgICAgICAgICAgICB3aWR0aDogMCwKICAgICAgICAgICAgICAgIGhlaWdodDogMwogICAgICAgICAgICB9LAogICAgICAgICAgICBzaGFkb3dSYWRpdXM6IDYsCiAgICAgICAgICAgIHNoYWRvd09wYWNpdHk6IDAuMywK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>this.state.currentQuestionType</text>
+        <text>140</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1561,16 +1561,16 @@
         <text>color: Colors.white</text>
       </register>
       <register name="-" type="4">
-        <text>this.state.currentQuestionType</text>
+        <text>140</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkaW5nU2NyZWVuXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEluZmluaXRlU3Bpbm5lciBmcm9tICJAc2hhcmVkQ29tcG9uZW50cy9JbmZpbml0ZVNwaW5uZXIiOwo=</text>
+      <register name="0" type="4">
+        <text>distractorBoxSize + 20</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYWRvd0NvbG9yOiBDb2xvcnMuc2xhdGUsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2723,16 +2723,105 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlclJhZGl1czogMTAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHJ1ZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsZXhEaXJlY3Rpb246ICdyb3cnLAo=</text>
+      </register>
+      <register name="s" type="4">
+        <text>{
+    distractorContainer: {
+        flex: 1,
+        flexDirection: 'row',
+        flexWrap: 'wrap',
+        marginTop: Dimensions.get('window').height/80,
+        justifyContent: 'center'        
+    },
+    distractorWrapper: {
+        margin: 8,
+        justifyContent: 'center',
+        alignItems: 'center',
+        width: 140,
+        height: 140,
+        flexDirection: 'row'
+    },
+    distractorUnselected: {
+        backgroundColor: 'rgba(255,255,255,0.8)',
+        margin: 8,
+        justifyContent: 'center',
+        alignItems: 'center',
+        width: 140,
+        height: 140,
+        padding: 1,
+        flexDirection: 'row',
+        borderRadius: 10,
+        shadowColor: Colors.slate,
+        shadowOffset: {
+            width: 0,
+            height: 3
+        },
+        shadowRadius: 6,
+        shadowOpacity: 0.3,
+    },
+    distractorSelected: {
+        backgroundColor: 'rgba(255,255,255,1)',
+        margin: 18,
+        justifyContent: 'center',
+        alignItems: 'center',
+        width: 160,
+        height: 160,
+        padding: 1,
+        flexDirection: 'row',
+        borderRadius: 10,
+        shadowColor: Colors.slate,
+        shadowOffset: {
+            width: 0,
+            height: 6
+        },
+        shadowRadius: 10,
+        shadowOpacity: 0.5
+    },
+    quizQuestion: {
+        fontFamily: 'AvenirNext-Regular',
+        fontSize: 20,
+        textAlign: 'left',
+        marginLeft: 15,
+        marginRight: 15,
+        marginBottom: 10,
+        fontWeight: '700',
+        color: Colors.white,
+        backgroundColor: 'transparent'
+    },
+    distractorText: {
+        textAlign: 'center',
+        fontFamily: 'AvenirNext-Regular',
+        fontSize: 20,
+        zIndex: 100,
+        color: '#096072',
+        top: 40,
+        width: 155,
+        justifyContent: 'center',
+        alignItems: 'center',
+        position: 'absolute'
+    },
+    selectedDistractorText: {
+        position: 'absolute',
+        textAlign: 'center',
+        alignItems: 'center',
+        fontFamily: 'AvenirNext-Medium',
+        color: '#4FB5EE',
+        fontSize: 22,
+        zIndex: 100,
+        top: 40,
+        width: 155
+    }
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHpJbmRleDogMjAwMDAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmc6IDEsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5509,41 +5598,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZ1NjcmVlbjogLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hhZG93T2Zmc2V0OiB7CiAgICAgICAgICAgICAgICB3aWR0aDogMCwKICAgICAgICAgICAgICAgIGhlaWdodDogMwogICAgICAgICAgICB9LAogICAgICAgICAgICBzaGFkb3dSYWRpdXM6IDYsCiAgICAgICAgICAgIHNoYWRvd09wYWNpdHk6IDAuMywK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-                mainWrapper: {
-                    position: 'absolute',
-                    flexDirection: 'column',
-                    justifyContent: 'center',
-                    alignItems: 'center',
-                    alignSelf: 'stretch',
-                    left: 0,
-                    top: 0,
-                    right: 0,
-                    bottom: 0,
-
-                },
-                innerView: {
-                    backgroundColor: '#93dbff',
-                    height: 100,
-                    width: 100,
-                    borderRadius: 50,
-                    flexDirection: 'row',
-                    justifyContent: 'center',
-                    alignItems: 'center',
-                },
-                loadingText: {
-                    color: 'white',
-                }
-            }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JnYmEoMjU1LDI1NSwyNTUsMC44KScsCiAgICAgICAgICAgICAgICBtYXJnaW46IDgsCiAgICAgICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICAgICAgICAgIHdpZHRoOiBkaXN0cmFjdG9yQm94U2l6ZSwKICAgICAgICAgICAgICAgIGhlaWdodDogZGlzdHJhY3RvckJveFNpemUsCiAgICAgICAgICAgICAgICBwYWRkaW5nOiAxLAogICAgICAgICAgICAgICAgZmxleERpcmVjdGlvbjogJ3JvdycsCiAgICAgICAgICAgICAgICBib3JkZXJSYWRpdXM6IDEwLAogICAgICAgICAgICAgICAgc2hhZG93Q29sb3I6IENvbG9ycy5zbGF0ZSwKICAgICAgICAgICAgICAgIHNoYWRvd09mZnNldDogewogICAgICAgICAgICAgICAgICAgIHdpZHRoOiAwLAogICAgICAgICAgICAgICAgICAgIGhlaWdodDogMwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHNoYWRvd1JhZGl1czogNiwKICAgICAgICAgICAgICAgIHNoYWRvd09wYWNpdHk6IDAuMywK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJbmZpbml0ZVNwaW5uZXIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkaXN0cmFjdG9yQ29tbW9uID0ge307Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
