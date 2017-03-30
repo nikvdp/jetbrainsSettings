@@ -1172,12 +1172,12 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" timestamp="1490901268218">
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" timestamp="1490908652807">
         <mark key="'" line="130" column="8" />
-        <mark key="[" line="131" column="37" />
-        <mark key="]" line="131" column="37" />
-        <mark key="." line="131" column="37" />
-        <mark key="^" line="131" column="37" />
+        <mark key="[" line="138" column="39" />
+        <mark key="]" line="138" column="59" />
+        <mark key="." line="138" column="59" />
+        <mark key="^" line="138" column="59" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/README.md" timestamp="1486608065822">
         <mark key="'" line="28" column="0" />
@@ -1552,7 +1552,7 @@
         <text encoding="base64">ewogICAgY29udGFpbmVyOiB7CiAgICAgICAgYmFja2dyb3VuZENvbG9yOiBDb2xvcnMudGFuLAogICAgICAgIGZsZXg6IDEKICAgIH0sCiAgICBjaGVja0Fuc3dlckJ1dHRvbkRpc2FibGVkOiB7CiAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICAgICAgd2lkdGg6IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS53aWR0aCwKICAgICAgICBoZWlnaHQ6IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS5oZWlnaHQvMTAsCiAgICAgICAgc2hhZG93Q29sb3I6ICdyZ2JhKDMyLDY0LDEwNCwwLjQpJywKICAgICAgICBzaGFkb3dPZmZzZXQ6IHsKICAgICAgICAgICAgd2lkdGg6IDAsCiAgICAgICAgICAgIGhlaWdodDogLTEKICAgICAgICB9LAogICAgICAgIHNoYWRvd1JhZGl1czogMiwKICAgICAgICBzaGFkb3dPcGFjaXR5OiAwLAogICAgICAgIGJvdHRvbTogMCwKICAgICAgICB6SW5kZXg6IDEwCiAgICB9LAogICAgY2hlY2tBbnN3ZXJCdXR0b246IHsKICAgICAgICBwb3NpdGlvbjogJ2Fic29sdXRlJywKICAgICAgICB3aWR0aDogRGltZW5zaW9ucy5nZXQoJ3dpbmRvdycpLndpZHRoLAogICAgICAgIGhlaWdodDogRGltZW5zaW9ucy5nZXQoJ3dpbmRvdycpLmhlaWdodC8xMCwKICAgICAgICBzaGFkb3dDb2xvcjogJ3JnYmEoMzIsNjQsMTA0LDAuNCknLAogICAgICAgIHNoYWRvd09mZnNldDogewogICAgICAgICAgICB3aWR0aDogMCwKICAgICAgICAgICAgaGVpZ2h0OiAtMQogICAgICAgIH0sCiAgICAgICAgc2hhZG93UmFkaXVzOiAyLAogICAgICAgIHNoYWRvd09wYWNpdHk6IDEsCiAgICAgICAgYm90dG9tOiAwLAogICAgICAgIHpJbmRleDogMTAKICAgIH0sCiAgICBjaGVja0Fuc3dlcjogewogICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3RyYW5zcGFyZW50JywKICAgICAgICBjb2xvcjogJ3doaXRlJywKICAgICAgICBmb250RmFtaWx5OiAnQXZlbmlyTmV4dC1SZWd1bGFyJywKICAgICAgICBmb250V2VpZ2h0OiAnYm9sZCcsCiAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgICAgICBtYXJnaW5Ub3A6IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS5oZWlnaHQvMzIsCiAgICAgICAgZm9udFNpemU6IDE4LAogICAgICAgIGxldHRlclNwYWNpbmc6IDAuMywKICAgICAgICBzaGFkb3dDb2xvcjogJ3JnYmEoMzIsNjQsMTA0LDAuNCknLAogICAgICAgIHNoYWRvd09mZnNldDogewogICAgICAgICAgICB3aWR0aDogMCwKICAgICAgICAgICAgaGVpZ2h0OiAxCiAgICAgICAgfSwKICAgICAgICBzaGFkb3dSYWRpdXM6IDIsCiAgICAgICAgc2hhZG93T3BhY2l0eTogMQogICAgfSwKICAgIGNoZWNrQW5zd2VyVGV4dERpc2FibGVkOiB7CiAgICAgICAgYmFja2dyb3VuZENvbG9yOiAndHJhbnNwYXJlbnQnLAogICAgICAgIGNvbG9yOiAnd2hpdGUnLAogICAgICAgIGZvbnRGYW1pbHk6ICdBdmVuaXJOZXh0LVJlZ3VsYXInLAogICAgICAgIGZvbnRXZWlnaHQ6ICdib2xkJywKICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgICAgIG1hcmdpblRvcDogRGltZW5zaW9ucy5nZXQoJ3dpbmRvdycpLmhlaWdodC8zMiwKICAgICAgICBmb250U2l6ZTogMTgsCiAgICAgICAgbGV0dGVyU3BhY2luZzogMC4zLAogICAgICAgIHNoYWRvd0NvbG9yOiAncmdiYSgzMiw2NCwxMDQsMC4yKScsCiAgICAgICAgc2hhZG93T2Zmc2V0OiB7CiAgICAgICAgICAgIHdpZHRoOiAwLAogICAgICAgICAgICBoZWlnaHQ6IDEKICAgICAgICB9LAogICAgICAgIHNoYWRvd1JhZGl1czogMiwKICAgICAgICBzaGFkb3dPcGFjaXR5OiAwCiAgICB9Cn07Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly9UT09EOiA=</text>
+        <text>this.state.currentQuestionType</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1561,7 +1561,7 @@
         <text>color: Colors.white</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly9UT09EOiA=</text>
+        <text>this.state.currentQuestionType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkaW5nU2NyZWVuXD4=</text>
@@ -5546,7 +5546,7 @@
         <text encoding="base64">ICAgICAgICBJbmZpbml0ZVNwaW5uZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -5600,8 +5600,8 @@
         <entry encoding="base64">JzwsJz5zLywvLFxyZw==</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
         <entry>s/,/,\r/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
