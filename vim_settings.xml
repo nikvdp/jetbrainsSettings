@@ -1247,12 +1247,12 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" timestamp="1490916654688">
-        <mark key="'" line="92" column="32" />
-        <mark key="[" line="107" column="40" />
-        <mark key="]" line="107" column="45" />
-        <mark key="^" line="107" column="45" />
-        <mark key="." line="107" column="45" />
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" timestamp="1490918668288">
+        <mark key="'" line="175" column="40" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="^" line="171" column="15" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditor.jsx" timestamp="1474498683069">
         <mark key="'" line="57" column="21" />
@@ -1467,9 +1467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="41" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/AnswerDropSlots.js" />
-      <jump line="147" column="6" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/AnswerDropSlots.js" />
-      <jump line="115" column="3" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/AnswerDropSlots.js" />
       <jump line="137" column="50" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/AnswerDropSlots.js" />
       <jump line="110" column="10" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/AnswerDropSlots.js" />
       <jump line="128" column="37" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/AnswerDropSlots.js" />
@@ -1567,13 +1564,16 @@
       <jump line="109" column="4" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/AnswerDropSlots.js" />
       <jump line="143" column="40" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/AnswerDropSlots.js" />
       <jump line="111" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/AnswerDropSlots.js" />
+      <jump line="25" column="21" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
+      <jump line="178" column="55" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
+      <jump line="175" column="40" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlckNvbG9yOiAncmVkJywKICAgICAgICAgICAgICAgIGJvcmRlcldpZHRoOiAxCg==</text>
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICBmbGV4RGlyZWN0aW9uOiAncm93JywKICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luOiAxMCwKICAgICAgICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgIGZsZXhXcmFwOiAnd3JhcCcsCiAgICAgICAgICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnZmxleC1zdGFydCcKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pickRandomItemFromArr(validTypes)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1582,16 +1582,16 @@
         <text>color: Colors.white</text>
       </register>
       <register name="-" type="4">
-        <text>pickRandomItemFromArr(validTypes)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWluV3JhcHBlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGlja1JhbmRvbUl0ZW1Gcm9tQXJyKHZhbGlkVHlwZXMpOwo=</text>
+        <text encoding="base64">Y29uc3QgYmFzZVNpemUgPSAxNTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2744,13 +2744,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxleERpcmVjdGlvbjogJ3JvdycsCiAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgIGZsZXhXcmFwOiAnd3JhcCcK</text>
+        <text encoding="base64">ewoKICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>xDirection: 'row',
-            justifyContent: 'center',
-            alignItems: 'center',
-            flex</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmxleERpcmVjdGlvbjogJ3JvdycsCiAgICAgICAgICAgICAgICBtYXJnaW46IDEwLAogICAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICAgICAgZmxleFdyYXA6ICd3cmFwJywKICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdmbGV4LXN0YXJ0Jwo=</text>
       </register>
       <register name="s" type="4">
         <text>{
@@ -2842,10 +2839,10 @@
 }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBnZXRRdWl6QnlDb25jZXB0KHRoaXMucHJvcHMuY29uY2VwdCkK</text>
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICBmbGV4RGlyZWN0aW9uOiAncm93JywKICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luOiAxMCwKICAgICAgICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgIGZsZXhXcmFwOiAnd3JhcCcsCiAgICAgICAgICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnZmxleC1zdGFydCcKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gIi4uL2FwaS9pbmRleCI7Cg==</text>
+        <text encoding="base64">Y29uc3QgYmFzZVNpemUgPSAxNTsKCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5622,16 +5619,83 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNjcmFiYmxlU3R5bGUgPSA7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbD17dHJ1ZX0K</text>
+      <register name="7" type="4">
+        <text>{
+    lettersContainer: {
+        backgroundColor: '#22be49',
+        flexDirection: 'column',
+        // for some reason flexwrap: 'wrap' breaks drag and drop
+        // flexWrap: 'wrap'
+    },
+    quizQuestionContainer: {
+        backgroundColor: '#ff35db',
+        shadowColor: 'rgba(32,64,104,0.10)',
+        shadowOffset: {
+            width: 0,
+            height: -1
+        },
+        shadowRadius: 2,
+        shadowOpacity: 1,
+        zIndex: 10,
+        width: Dimensions.get('window').width,
+        height: Dimensions.get('window').height/1.3,
+        bottom: 0,
+        position: 'absolute'
+    },
+    quizQuestion: {
+        fontFamily: 'AvenirNext-Regular',
+        fontSize: 24,
+        textAlign: 'left',
+        marginTop: 20,
+        marginLeft: 20,
+        marginRight: 20,
+        marginBottom: 5,
+        fontWeight: '700',
+        color: '#ce1100'
+    },
+    distractor: {
+        backgroundColor: '#eee71b',
+        marginTop: 20,
+        marginBottom: 20,
+        marginLeft: 25,
+        // marginLeft: 20,
+        // marginRight: 20,
+        justifyContent: 'center',
+        alignItems: 'center',
+        width: 150,
+        height: 120,
+        padding: 10,
+        flexDirection: 'row',
+        borderRadius: 5
+    },
+    distractorContainer: {
+        flex: 1,
+        backgroundColor: '#552eee',
+        flexDirection: 'row',
+        flexWrap: 'wrap',
+        marginTop: Dimensions.get('window').height/80,
+    },
+    distractorText: {
+        textAlign: 'center',
+        fontFamily: 'AvenirNext-Regular',
+        fontWeight: '500',
+        fontSize: 20
+    },
+    textStyle: {
+        color: 'black',
+        lineHeight: baseSize,
+        fontSize: Math.floor(baseSize * .8),
+    }
+
+}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZvbnRTaXplOiAyNiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxleERpcmVjdGlvbjogJ3JvdycsCiAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgIGZsZXhXcmFwOiAnd3JhcCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
