@@ -1400,12 +1400,12 @@
       <file name="$USER_HOME$/Code/work/volley/repos/Trolley/node_modules/react/lib/React.js" timestamp="1490312545292">
         <mark key="'" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" timestamp="1491328091230">
-        <mark key="'" line="11" column="20" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" timestamp="1491329002858">
+        <mark key="'" line="38" column="5" />
+        <mark key="[" line="67" column="25" />
+        <mark key="]" line="67" column="25" />
+        <mark key="^" line="43" column="5" />
+        <mark key="." line="67" column="25" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-named-entity-data-to-meta-schema.js" timestamp="1473988555090">
         <mark key="'" line="63" column="37" />
@@ -1444,9 +1444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/SharedComponents/spinner.js" />
-      <jump line="25" column="37" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
       <jump line="276" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
       <jump line="228" column="31" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
       <jump line="209" column="30" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
@@ -1542,15 +1539,18 @@
       <jump line="61" column="9" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
       <jump line="53" column="0" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
       <jump line="13" column="20" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
-      <jump line="12" column="20" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
-      <jump line="11" column="20" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
+      <jump line="12" column="21" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
+      <jump line="67" column="25" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
+      <jump line="11" column="31" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
+      <jump line="18" column="37" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
+      <jump line="38" column="5" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXt0aGlzLnN0eWxlcy5tYWluQ29udGFpbmVyfT4KICAgICAgICAgICAgICAgICAgICA8U2Nyb2xsVmlldyBrZXlib2FyZFNob3VsZFBlcnNpc3RUYXBzPSJoYW5kbGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgPEFsZXJ0QmFubmVyPk5ldyBzZWFzb24gcHJvZHVjdHMgaW4tc3RvcmUgdG9tb3Jyb3c8L0FsZXJ0QmFubmVyPgogICAgICAgICAgICAgICAgICAgICAgICA8Q29uY2VwdFNlYXJjaFRleHRJbnB1dC8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxGZWF0dXJlZENvbGxlY3Rpb25zLz4KICAgICAgICAgICAgICAgICAgICAgICAgPE1hc29ucnkvPgogICAgICAgICAgICAgICAgICAgIDwvU2Nyb2xsVmlldz4KICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>a</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1559,16 +1559,16 @@
         <text>color: Colors.white</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZlcmVuY2VfY2xlYW5lclw+</text>
+        <text encoding="base64">XDxhcHBcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3RyYW5zcGFyZW50JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgKHdyYXAtanNvbi1yZXNwb25zZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2721,10 +2721,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBMYXlvdXRBbmltYXRpb24uZWFzZUluRWFzZU91dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0eWxlID0gdGhpcy5idWlsZFN0eWxlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBMYXlvdXRBbmltYXRpb24uZWFzZUluRWFzZU91dCgpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>{
@@ -2816,10 +2816,10 @@
 }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0eWxlID0gdGhpcy5idWlsZFN0eWxlcygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxNb3VudCgpIHsKICAgIH0KCiAgICBjb21wb25lbnRXaWxsVXBkYXRlKCkgewogICAgICAgIExheW91dEFuaW1hdGlvbi5lYXNlSW5FYXNlT3V0KCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5596,25 +5596,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMYXlvdXRBbmltYXRpb24uZWFzZUluRWFzZU91dCgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxNb3VudCgpIHsKICAgIH0KCiAgICBjb21wb25lbnRXaWxsVXBkYXRlKCkgewogICAgICAgIExheW91dEFuaW1hdGlvbi5lYXNlSW5FYXNlT3V0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMYXlvdXRBbmltYXRpb24uZWFzZUluRWFzZU91dCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWZlcmVuY2VfY2xlYW5lclw+</last-search>
+      <last-search encoding="base64">XDxhcHBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZlcmVuY2VfY2xlYW5lclw+</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBcPg==</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -5622,10 +5622,8 @@
     </search>
     <history>
       <history-search>
-        <entry>this.meas</entry>
         <entry encoding="base64">XDxBY3RpdmVMZXR0ZXJUaWxlXD4=</entry>
         <entry>,</entry>
-        <entry>asdf</entry>
         <entry>otherwise do</entry>
         <entry>setT</entry>
         <entry>that's</entry>
@@ -5642,6 +5640,8 @@
         <entry encoding="base64">XDxnZXRRdWl6XD4=</entry>
         <entry>onChange</entry>
         <entry encoding="base64">XDxyZWZlcmVuY2VfY2xlYW5lclw+</entry>
+        <entry>asdf</entry>
+        <entry encoding="base64">XDxhcHBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/WheelOfFortune/Scrabble/g</entry>
