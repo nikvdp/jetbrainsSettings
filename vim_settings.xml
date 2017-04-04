@@ -792,14 +792,14 @@
         <mark key="^" line="53" column="108" />
         <mark key="." line="53" column="108" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableScrabbleTileContainer.js" timestamp="1491334226809">
+      <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableScrabbleTileContainer.js" timestamp="1491336961764">
         <mark key="a" line="66" column="30" />
         <mark key="t" line="63" column="12" />
         <mark key="'" line="66" column="30" />
-        <mark key="[" line="66" column="25" />
-        <mark key="]" line="66" column="30" />
-        <mark key="." line="66" column="30" />
-        <mark key="^" line="66" column="30" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="68" column="8" />
+        <mark key="." line="68" column="8" />
+        <mark key="^" line="68" column="8" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/assertion_types.py" timestamp="1486962753357">
         <mark key="'" line="50" column="35" />
@@ -1570,8 +1570,8 @@
       <register name="a" type="4">
         <text>testWin === this.question.winState</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsKCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1580,7 +1580,7 @@
         <text>color: Colors.white</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>/ 2</text>
       </register>
       <register name="/" type="4">
         <text>margin</text>
@@ -1589,7 +1589,7 @@
         <text encoding="base64">dGhpcy5zdGF0ZS5yZXZlYWxlZExldHRlcnMKICAgICAgICAgICAgLm1hcChsID0+IGwudG9Mb3dlckNhc2UoKSkKICAgICAgICAgICAgLmZpbHRlcigobCwgaWR4LCBzZWxmKSA9PiBzZWxmLmluZGV4T2YobCkgPT0gaWR4KQogICAgICAgICAgICAuZmlsdGVyKGwgPT4gdGhpcy5xdWVzdGlvbi5hbnN3ZXIuaW5kZXhPZihsKSAhPT0gLTEp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2742,10 +2742,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbD17dHJ1ZX0K</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="s" type="4">
         <text>{
@@ -2837,10 +2837,10 @@
 }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdHdpbicsIHRlc3RXaW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbD17dHJ1ZX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdHdpbicsIHRlc3RXaW4pOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5620,16 +5620,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgc2hvdWxkRmxpcDogWy4uLnRoaXMuc3RhdGUuc2hvdWxkRmxpcCwgbGV0dGVyXSwKICAgICAgICAgICAgcmV2ZWFsZWRMZXR0ZXJzOiBbLi4udGhpcy5zdGF0ZS5yZXZlYWxlZExldHRlcnMsIGxldHRlcl0sCiAgICAgICAgICAgIHVzZWRMZXR0ZXJzOiBbLi4udGhpcy5zdGF0ZS51c2VkTGV0dGVycywgbGV0dGVyXQogICAgICAgIH0pOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>testWin === this.question.winState</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgc2hvdWxkRmxpcDogWy4uLnRoaXMuc3RhdGUuc2hvdWxkRmxpcCwgbGV0dGVyXSwKICAgICAgICAgICAgcmV2ZWFsZWRMZXR0ZXJzOiBbLi4udGhpcy5zdGF0ZS5yZXZlYWxlZExldHRlcnMsIGxldHRlcl0sCiAgICAgICAgICAgIHVzZWRMZXR0ZXJzOiBbLi4udGhpcy5zdGF0ZS51c2VkTGV0dGVycywgbGV0dGVyXQogICAgICAgIH0pOwoKICAgICAgICBsZXQgdGVzdFdpbiA9IHRoaXMuc3RhdGUucmV2ZWFsZWRMZXR0ZXJzCiAgICAgICAgICAgIC5tYXAobCA9PiBsLnRvTG93ZXJDYXNlKCkpCiAgICAgICAgICAgIC5maWx0ZXIoKGwsIGlkeCwgc2VsZikgPT4gc2VsZi5pbmRleE9mKGwpID09IGlkeCkKICAgICAgICAgICAgLmZpbHRlcihsID0+IHRoaXMucXVlc3Rpb24uYW5zd2VyLmluZGV4T2YobCkgIT09IC0xKQogICAgICAgICAgICAuc29ydCgpCiAgICAgICAgICAgIC5qb2luKCcnKTsKCiAgICAgICAgY29uc29sZS5sb2coJ3Rlc3R3aW4nKQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5683,8 +5683,8 @@
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
         <entry>s/,/,\r/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
