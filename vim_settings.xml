@@ -609,11 +609,12 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/piepress/piepress/services.py" timestamp="1494791831303">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-        <mark key="." line="3" column="31" />
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/piepress/services.py" timestamp="1494792068804">
+        <mark key="'" line="29" column="59" />
+        <mark key="[" line="19" column="59" />
+        <mark key="]" line="19" column="67" />
+        <mark key="^" line="19" column="67" />
+        <mark key="." line="19" column="67" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/datatypes/persisters/SqlLitePersister/__init__.py" timestamp="1487035832075">
         <mark key="[" line="2" column="18" />
@@ -933,12 +934,12 @@
         <mark key="." line="39" column="30" />
         <mark key="^" line="39" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" timestamp="1494791592936">
-        <mark key="'" line="135" column="12" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="136" column="60" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="126" column="20" />
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" timestamp="1494792248507">
+        <mark key="'" line="80" column="3" />
+        <mark key="[" line="79" column="17" />
+        <mark key="]" line="79" column="33" />
+        <mark key="^" line="45" column="65" />
+        <mark key="." line="45" column="65" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/store_assertions.py" timestamp="1486093543536">
         <mark key="'" line="14" column="15" />
@@ -1316,6 +1317,13 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="69" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/piepress/resolvers/docsim.py" timestamp="1494792599344">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/src/client/containers/RuleEditorJSON.jsx" timestamp="1474479637865">
         <mark key="'" line="41" column="33" />
         <mark key="[" line="41" column="33" />
@@ -1532,14 +1540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="20" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
-      <jump line="12" column="21" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
-      <jump line="67" column="25" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
-      <jump line="11" column="31" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
-      <jump line="18" column="37" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
-      <jump line="38" column="5" filename="$USER_HOME$/Code/work/volley/repos/press/src/press/core.clj" />
-      <jump line="141" column="42" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
-      <jump line="178" column="44" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
       <jump line="64" column="47" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="66" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
       <jump line="21" column="44" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionWheelOfFortune.js" />
@@ -1632,13 +1632,21 @@
       <jump line="130" column="12" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
       <jump line="136" column="12" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
       <jump line="135" column="12" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
+      <jump line="29" column="59" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/services.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
+      <jump line="43" column="3" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
+      <jump line="82" column="3" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
+      <jump line="2" column="3" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/resolvers/docsim.py" />
+      <jump line="3" column="27" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/resolvers/docsim.py" />
+      <jump line="0" column="27" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/resolvers/docsim.py" />
+      <jump line="6" column="6" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/resolvers/docsim.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIHNob3dIaW50KCkgewogICAgICAgIGNvbnNvbGUubG9nKCJEcm9wIHNsb3RzIHJlY2VpdmVkIHNob3cgaGludCEiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlZiByZXNvbHZlX2NvbmNlcHRzKHNlbGYsIGFyZ3MsIGNvbnRleHQsIGluZm8pOgogICAgICAgICIiIiBDYWxsIGFwcHJvcHJpYXRlIHF1ZXJ5IG1ldGhvZCBmb3IgcHJvdmlkZWQgZ3JhcGhRTCBhcmdzICIiIgogICAgICAgIGNvbmNlcHRzID0gW10KICAgICAgICBpZiBhcmdzLmdldCgnaWQnKSBhbmQgYXJncy5nZXQoJ3NlYXJjaCcpOgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oIkNvbmNlcHQgcXVlcnkgY2FuIG5vdCBoYXZlIEJPVEggb2YgYXJncyBpZCBhbmQgc2VhcmNoICIpCiAgICAgICAgZWxpZiBhcmdzLmdldCgnaWQnKToKICAgICAgICAgICAgY29uY2VwdHMgPSBbZ2V0X2NvbmNlcHRfYnlfaWQoYXJnc1snaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXg9YXJncy5nZXQoJ2luZGV4JywgREVGQVVMVF9JTkRFWCkpXQogICAgICAgIGVsaWYgYXJncy5nZXQoJ3NlYXJjaCcpOgogICAgICAgICAgICBjb25jZXB0cyA9IGdldF9jb25jZXB0c19ieV9zZWFyY2goYXJncy5nZXQoJ3NlYXJjaCcpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXg9YXJncy5nZXQoJ2luZGV4JywgREVGQVVMVF9JTkRFWCkpCgogICAgICAgIHJldHVybiBjb25jZXB0c1s6YXJncy5nZXQoJ2NvdW50JywgbGVuKGNvbmNlcHRzKSldCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0ZXJfc2VydmljZSgiY29uY2VwdHMiLCBjb25jZXB0c19zZXJ2aWNlKQogICAgICAgICAgICByZWdpc3Rlcl9zZXJ2aWNlKCJyZXNvdXJjZXMiLCByZXNvdXJjZXNfc2VydmljZSkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1647,16 +1655,16 @@
         <text>color: Colors.white</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>resources</text>
+        <text>quizzes</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0ZXJfc2VydmljZSgiY29uY2VwdHMiLCBjb25jZXB0c19zZXJ2aWNlKQogICAgICAgICAgICByZWdpc3Rlcl9zZXJ2aWNlKCJyZXNvdXJjZXMiLCByZXNvdXJjZXNfc2VydmljZSkK</text>
+      <register name="0" type="4">
+        <text>get_docsim_result</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcWRzX3NlcnZpY2UgCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2809,10 +2817,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGxvb2t1cAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbjogMjAsCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="s" type="4">
         <text>{
@@ -2904,17 +2912,10 @@
 }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsaWduU2VsZjogJ2ZsZXgtc3RhcnQnLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBmdXp6eToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJGdXp6eSByZXNvdXJjZSBzZWFyY2ggbm90IGltcGxlbWVudGVkISIpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-                        justifyContent: 'center',
-                        alignItems: 'center',
-                        backgroundColor: 'yellow',
-                        borderRadius: 15,
-                        margin: 20,
-                        height: 30,
-                    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiByZXNvbHZlX2NvbmNlcHRzKHNlbGYsIGFyZ3MsIGNvbnRleHQsIGluZm8pOgogICAgICAgICIiIiBDYWxsIGFwcHJvcHJpYXRlIHF1ZXJ5IG1ldGhvZCBmb3IgcHJvdmlkZWQgZ3JhcGhRTCBhcmdzICIiIgogICAgICAgIGNvbmNlcHRzID0gW10KICAgICAgICBpZiBhcmdzLmdldCgnaWQnKSBhbmQgYXJncy5nZXQoJ3NlYXJjaCcpOgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oIkNvbmNlcHQgcXVlcnkgY2FuIG5vdCBoYXZlIEJPVEggb2YgYXJncyBpZCBhbmQgc2VhcmNoICIpCiAgICAgICAgZWxpZiBhcmdzLmdldCgnaWQnKToKICAgICAgICAgICAgY29uY2VwdHMgPSBbZ2V0X2NvbmNlcHRfYnlfaWQoYXJnc1snaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXg9YXJncy5nZXQoJ2luZGV4JywgREVGQVVMVF9JTkRFWCkpXQogICAgICAgIGVsaWYgYXJncy5nZXQoJ3NlYXJjaCcpOgogICAgICAgICAgICBjb25jZXB0cyA9IGdldF9jb25jZXB0c19ieV9zZWFyY2goYXJncy5nZXQoJ3NlYXJjaCcpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXg9YXJncy5nZXQoJ2luZGV4JywgREVGQVVMVF9JTkRFWCkpCgogICAgICAgIHJldHVybiBjb25jZXB0c1s6YXJncy5nZXQoJ2NvdW50JywgbGVuKGNvbmNlcHRzKSldCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5690,34 +5691,36 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2hvdyBoaW50IGNsaWNrZWQsIGxldHRlciB0byBoaW50OiAnLCBsZXR0ZXJUb0hpbnQpOwo=</text>
+      <register name="6" type="4">
+        <text>service_name
+            .replace(&quot;-&quot;, &quot;_&quot;)
+            .replace(&quot; &quot;, &quot;_&quot;)
+            .upper()</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWZzW2xldHRlclRvSGludF0ucmVmcy50aWxlLigxMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcWRzX3NlcnZpY2UgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnNbbGV0dGVyVG9IaW50XS5yZWZzLnRpbGUud29iYmxlKDIwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbjogMjAsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/resources/qds/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>resources</last-search>
+      <last-search>quizzes</last-search>
       <last-offset />
-      <last-pattern>resources</last-pattern>
-      <last-replace>qds</last-replace>
-      <last-substitute>resources</last-substitute>
+      <last-pattern>quizzes</last-pattern>
+      <last-replace>docsim</last-replace>
+      <last-substitute>quizzes</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>#f0ea9e</entry>
         <entry>dropzones is</entry>
         <entry encoding="base64">XDxEcmFnZ2FibGVTY3JhYmJsZVRpbGVDb250YWluZXJcPg==</entry>
         <entry>scrabblestyle</entry>
@@ -5737,9 +5740,9 @@
         <entry>docsim</entry>
         <entry>concepts</entry>
         <entry>resources</entry>
+        <entry>quizzes</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
         <entry>s/Used/revealed/g</entry>
         <entry>s/shouldFlip/revealedLetters/g</entry>
         <entry encoding="base64">JzwsJz5zLywvOiAvZw==</entry>
@@ -5754,11 +5757,12 @@
         <entry>s/y/x/gc</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXRlLmRyb3Bab25lcy9wcm9wcy5kcm9wWm9uZXMvZw==</entry>
         <entry>s</entry>
-        <entry>w</entry>
-        <entry>wa</entry>
         <entry>s/docsim/qds/g</entry>
         <entry>s/concepts/docsim/g</entry>
         <entry>s/resources/qds/g</entry>
+        <entry encoding="base64">JzwsJz5zL3F1aXp6ZXMvZG9jc2ltL2c=</entry>
+        <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
