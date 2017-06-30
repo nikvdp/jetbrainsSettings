@@ -21,12 +21,18 @@
         <mark key="^" line="50" column="36" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/datatypes/concepts.py" timestamp="1498671711666">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/resource_rank_mvp/app/rank_resources.py" timestamp="1487901565646">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1497848081530">
+      <file name="/a.dummy" timestamp="1498671868535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -464,10 +470,8 @@
         <mark key="." line="19" column="4" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" timestamp="1498616971570">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" timestamp="1498798647645">
+        <mark key="'" line="136" column="19" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-admin/webpack.config.js" timestamp="1478156789125">
         <mark key="[" line="16" column="34" />
@@ -585,6 +589,12 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/test/test_graphql_dict_conversion.py" timestamp="1498672139571">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="19" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/server-bootstrap.js" timestamp="1475540776440">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
@@ -677,6 +687,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/datatypes/tags.py" timestamp="1498671942687">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/process-applicators/apply-meta-schema-to-gap-data-transform.js" timestamp="1473813863260">
         <mark key="'" line="30" column="6" />
@@ -1090,11 +1106,6 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/piepress/piepress/datatypes/quizzes.py" timestamp="1494794639501">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="23" column="19" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/vine/metrics.py" timestamp="1487020589936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1212,6 +1223,13 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="53" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" timestamp="1498672286410">
+        <mark key="'" line="137" column="21" />
+        <mark key="[" line="111" column="62" />
+        <mark key="]" line="111" column="62" />
+        <mark key="." line="111" column="65" />
+        <mark key="^" line="72" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/utils/extract-metarule-groups.js" timestamp="1473813485924">
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="33" />
@@ -1277,6 +1295,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/datatypes/relations.py" timestamp="1498672164568">
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="65" column="9" />
+        <mark key="." line="65" column="9" />
+        <mark key="^" line="65" column="9" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/dockerize/qgp-rule-db-interface/package.json" timestamp="1479258903518">
         <mark key="[" line="12" column="28" />
@@ -1548,22 +1572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="17" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableLetterTile.js" />
-      <jump line="56" column="74" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
-      <jump line="154" column="14" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
-      <jump line="158" column="40" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizManager.js" />
-      <jump line="111" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
-      <jump line="132" column="44" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
-      <jump line="116" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
-      <jump line="105" column="12" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
-      <jump line="24" column="21" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/AnswerDropSlots.js" />
-      <jump line="70" column="54" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
-      <jump line="15" column="8" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
-      <jump line="58" column="39" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableScrabbleTileContainer.js" />
-      <jump line="127" column="30" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableLetterTile.js" />
-      <jump line="45" column="58" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableScrabbleTileContainer.js" />
       <jump line="74" column="36" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
       <jump line="154" column="47" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
       <jump line="118" column="15" filename="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/QuizQuestionScrabble.js" />
@@ -1648,13 +1656,29 @@
       <jump line="32" column="9" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/datatypes/tags.py" />
       <jump line="27" column="23" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/datatypes/concepts.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/datatypes/relations.py" />
+      <jump line="167" column="51" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="180" column="51" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="56" column="31" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="72" column="21" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="88" column="21" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="108" column="48" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="111" column="65" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="30" column="25" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="31" column="44" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="58" column="37" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="59" column="56" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="118" column="40" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="119" column="21" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="136" column="40" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="137" column="21" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/test/test_elasticsearch.py" />
+      <jump line="136" column="19" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Y2xhc3MgUmVsYXRpb25JbnB1dChncmFwaGVuZS5JbnB1dE9iamVjdFR5cGUpOgogICAgcmVsX3R5cGUgPSBncmFwaGVuZS5TdHJpbmcoKQogICAgZGVzdCA9IEVsYXN0aWNHdWlkKCkKCgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Node</text>
+        <text>Relation</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1663,16 +1687,16 @@
         <text>color: Colors.white</text>
       </register>
       <register name="-" type="4">
-        <text>Node</text>
+        <text>Relation</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dnZXJcPg==</text>
+        <text>Relation</text>
       </register>
       <register name="0" type="4">
-        <text>graphene.ObjectType</text>
+        <text>NonNull(graphene.String)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICMgcmVsX3R5cGUgPSBOb25OdWxsKGdyYXBoZW5lLlN0cmluZykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2825,10 +2849,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2hpbGRfb2ZfZWRnZV90eXBlID0gRWRnZVR5cGUoaHVtYW5fbmFtZT0iY2hpbGRPZiIsIGRpcmVjdGlvbmFsaXR5PVZvbGxleVJlbGF0aW9uVHlwZXMuYmlkaXJlY3Rpb25hbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>{
@@ -2920,10 +2944,10 @@
 }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBQb3RlbnRpYWxseSByZW5hbWUgdG8gVHJpcGxlKCkK</text>
+        <text encoding="base64">Y2hpbGRfb2ZfZWRnZV90eXBlID0gRWRnZVR5cGUoaHVtYW5fbmFtZT0iY2hpbGRPZiIsIGRpcmVjdGlvbmFsaXR5PVZvbGxleVJlbGF0aW9uVHlwZXMuYmlkaXJlY3Rpb25hbCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWRnZTEgPSBFZGdlSW5zdGFuY2UoZWRnZV90eXBlPWNoaWxkX29mX2VkZ2VfdHlwZSwgbm9kZV9hPSJzb21lX2lkX2Zvcl9hIiwgbm9kZV9iPSJpZF9mb3JfYiIpCmVkZ2UyID0gRWRnZUluc3RhbmNlKGVkZ2VfdHlwZT1jaGlsZF9vZl9lZGdlX3R5cGUsIG5vZGVfYT0ic29tZV9pZF9mb3JfeCIsIG5vZGVfYj0iaWRfZm9yX3kiKQo=</text>
+        <text encoding="base64">IyBQb3RlbnRpYWxseSByZW5hbWUgdG8gVHJpcGxlKCkK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5700,32 +5724,32 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ZWRnZTEgPSBFZGdlSW5zdGFuY2UoZWRnZV90eXBlPWNoaWxkX29mX2VkZ2VfdHlwZSwgbm9kZV9hPSJzb21lX2lkX2Zvcl9hIiwgbm9kZV9iPSJpZF9mb3JfYiIpCmVkZ2UyID0gRWRnZUluc3RhbmNlKGVkZ2VfdHlwZT1jaGlsZF9vZl9lZGdlX3R5cGUsIG5vZGVfYT0ic29tZV9pZF9mb3JfeCIsIG5vZGVfYj0iaWRfZm9yX3kiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdzID0gZ3JhcGhlbmUuTGlzdChncmFwaGVuZS5TdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhZ3MgPSBncmFwaGVuZS5MaXN0KFRhZykKICAgIHJlbGF0aW9ucyA9IGdyYXBoZW5lLkxpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICB0YWdzID0gZ3JhcGhlbmUuTGlzdChncmFwaGVuZS5TdHJpbmcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgUmVsYXRpb25JbnB1dChncmFwaGVuZS5JbnB1dE9iamVjdFR5cGUpOgogICAgcmVsX3R5cGUgPSBncmFwaGVuZS5TdHJpbmcoKQogICAgZGVzdCA9IEVsYXN0aWNHdWlkKCkKCgo=</text>
+        <text encoding="base64">ICAgIHRhZ3MgPSBncmFwaGVuZS5MaXN0KFRhZykKICAgIHJlbGF0aW9ucyA9IGdyYXBoZW5lLkxpc3QoKQo=</text>
       </register>
       <register name="y" type="4">
         <text>q</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
+      <last-search>Relation</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
+      <last-pattern>Relation</last-pattern>
       <last-replace>tag</last-replace>
       <last-substitute>relation</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -5744,11 +5768,11 @@
         <entry>init</entry>
         <entry>resources</entry>
         <entry encoding="base64">XDxkb19nZXRfcmVzb3VyY2VfYnlfaWRcPg==</entry>
-        <entry>Relation</entry>
         <entry encoding="base64">XDxWb2xsZXlSZWxhdGlvblR5cGVzXD4=</entry>
         <entry>.Field</entry>
         <entry>relation</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry>Relation</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -5769,8 +5793,8 @@
         <entry>s/resources/concepts/g</entry>
         <entry>s/Relation/Tag/g</entry>
         <entry>s/relation/tag/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
