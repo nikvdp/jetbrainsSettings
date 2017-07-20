@@ -326,6 +326,12 @@
         <mark key="]" line="3" column="39" />
         <mark key="." line="3" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/services.py" timestamp="1500522758311">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="37" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/PRS/qgp-generator/src/rule-applicators/apply-independent-sentential-rule.js" timestamp="1473904491260">
         <mark key="[" line="41" column="11" />
         <mark key="]" line="41" column="14" />
@@ -362,6 +368,14 @@
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" timestamp="1500523669136">
+        <mark key="a" line="287" column="54" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="287" column="82" />
+        <mark key="]" line="287" column="82" />
+        <mark key="." line="287" column="82" />
+        <mark key="^" line="287" column="80" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/re_beyond_the_sentence/tests/test_spacy_preprocess.py" timestamp="1487808018545">
         <mark key="[" line="0" column="0" />
@@ -1564,23 +1578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="59" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/services.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
-      <jump line="43" column="3" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
-      <jump line="82" column="3" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
-      <jump line="2" column="3" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/resolvers/docsim.py" />
-      <jump line="3" column="27" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/resolvers/docsim.py" />
-      <jump line="0" column="27" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/resolvers/docsim.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
-      <jump line="133" column="14" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
-      <jump line="140" column="12" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
-      <jump line="10" column="12" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/services.py" />
-      <jump line="11" column="9" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/services.py" />
-      <jump line="139" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
-      <jump line="130" column="4" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
-      <jump line="152" column="26" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
-      <jump line="141" column="22" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
-      <jump line="131" column="22" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/piepress.py" />
       <jump line="6" column="41" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/resolvers/docsim.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/datatypes/quizzes.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/datatypes/docsim.py" />
@@ -1664,13 +1661,30 @@
       <jump line="165" column="12" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
       <jump line="150" column="45" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
       <jump line="27" column="11" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/datatypes/resources.py" />
+      <jump line="273" column="14" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="360" column="11" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="391" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="347" column="37" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="111" column="8" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="284" column="7" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="167" column="25" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="271" column="4" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="7" column="23" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="86" column="4" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="275" column="4" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="247" column="12" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="286" column="54" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
+      <jump line="16" column="15" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/cyber_sprint/populate.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_get_field(data_type, field_name).get('type').get('name')</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb25jZXB0cykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1679,16 +1693,16 @@
         <text>color: Colors.white</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pudb</text>
+        <text>validate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5ID0gTG9uZ1RleHQoKQo=</text>
+        <text encoding="base64">ICAgICMgImVsYXN0aWNzZWFyY2giOiAiaHR0cDovLzEwLjEzOC4wLjE3OjkyMDAiLCAgI2N5YmVyLWRlbW8tZWxhc3RpYwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb25jZXB0cykK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIKICAgICAgICAgICAgaXBkYi5zZXRfdHJhY2UoKQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2841,10 +2855,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJGaWVsZCAnJXMnIGFuZCBncmFwaHFsX3R5cGUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4oIkZhaWxlZCB0byBpbmRleCBjb25jZXB0ICclcychIiAlIGNvbmNlcHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHB1ZGI7IHB1ZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzeXM7c3lzLmV4aXQoKQo=</text>
       </register>
       <register name="s" type="4">
         <text>{
@@ -2936,10 +2950,10 @@
 }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlciA9IGdldF9sb2dnZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBfZ2V0X2ZpZWxkKGRhdGFfdHlwZSwgZmllbGRfbmFtZSkuZ2V0KCd0eXBlJykuZ2V0KCduYW1lJykgPT0gTm9uZToKICAgICAgICAgICAgIyAgICAgaW1wb3J0IHB1ZGI7IHB1ZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShyYXdfcmVzb3VyY2UsIGRpY3QpOgogICAgICAgICAgICBwcmludCgKICAgICAgICAgICAgICAgICJXaGF0IHRoIGVoZUxMPyBSZXNvdXJjZSAjJXMgd2FzIHNvbWV0aGluZyB1bmV4cGVjdGVkOiAiICUgaWR4LAogICAgICAgICAgICAgICAgcmF3X3Jlc291cmNlKQogICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -5716,36 +5730,81 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogcmV3b3JrIHRoaXMsIHRoaXMgd2lsbCBicmVhayB3aXRoIG5lc3Rpbmcgb2YgbW9yZSB0aGFuIG9uZSBsZXZlbAogICAgICAgICAgICAgICAgIyB0aGlzIHdpbGwgaGFwcGVuIHdpdGggbmVzdGVkIHR5cGVzLCBlLmcuIExpc3QoU3RyaW5nKSwKICAgICAgICAgICAgICAgICMgc28gZ28gZG93biBhIGxldmVsLgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJWYWxpZGF0ZWQgb2siKQogICAgaW1wb3J0IHN5czsgc3lzLmV4aXQoMSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzX2xpc3Q9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">WwogICAgICAgIHsKICAgICAgICAgICAgImFuc3dlciI6ICJzZWQiLAogICAgICAgICAgICAicGFnZVVybCI6ICJ0ZW1wb3IiLAogICAgICAgICAgICAicXVlc3Rpb24iOiAiYWQgdXQgZGVzZXJ1bnQiLAogICAgICAgICAgICAiZGlzdHJhY3RvcnMiOiBbCiAgICAgICAgICAgICAgICAidmVuaWFtIGlwc3VtIGV0IiwKICAgICAgICAgICAgICAgICJpcHN1bSBleGVyY2l0YXRpb24gb2YiLAogICAgICAgICAgICAgICAgIm5pc2kiLAogICAgICAgICAgICAgICAgIkR1aXMgc2VkIgogICAgICAgICAgICBdLAogICAgICAgICAgICAicXVpelF1ZXN0aW9uVHlwZSI6ICJpbiIKICAgICAgICB9CiAgICBdClNjaGVtYQp7CiAgICAidHlwZSI6ICJhcnJheSIsCiAgICAiaXRlbXMiOiB7CiAgICAgICAgInR5cGUiOiAib2JqZWN0IiwKICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgImFuc3dlciI6IHsKICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgInBhZ2VVcmwiOiB7CiAgICAgICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJxdWVzdGlvbiI6IHsKICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgInF1aXpRdWVzdGlvblR5cGUiOiB7CiAgICAgICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJkaXN0cmFjdG9ycyI6IHsKICAgICAgICAgICAgICAgICJpdGVtcyI6IHsKICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgInR5cGUiOiAiYXJyYXkiCiAgICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgICJyZXF1aXJlZCI6IFsKICAgICAgICAgICAgImFuc3dlciIsCiAgICAgICAgICAgICJwYWdlVXJsIiwKICAgICAgICAgICAgInF1ZXN0aW9uIgogICAgICAgIF0KICAgIH0KfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>{
+        &quot;required&quot;: [&quot;text&quot;, &quot;sourceFileURI&quot;, &quot;textExtractionMethod&quot;],
+        &quot;type&quot;: &quot;object&quot;,
+        &quot;properties&quot;: {
+            &quot;textExtractionMethod&quot;: {
+                &quot;default&quot;:
+                &quot;&quot;,
+                &quot;enum&quot;: [&quot;tika&quot;, &quot;docnorm&quot;, &quot;diffbot&quot;, &quot;wikijs&quot;],
+                &quot;type&quot;:
+                &quot;string&quot;,
+                &quot;description&quot;:
+                &quot;'How this document's text was extracted. \n\&quot;tika\&quot;, \&quot;docnorm\&quot;, or \&quot;diffbot\&quot;'\n&quot;
+            },
+            &quot;html&quot;: {
+                &quot;type&quot;:
+                &quot;string&quot;,
+                &quot;description&quot;:
+                &quot;If the text extraction method provides it, an HTML formatted rendition of the document&quot;
+            },
+            &quot;sourceFileURI&quot;: {
+                &quot;pattern&quot;:
+                &quot;^http(s)?://\\w+&quot;,
+                &quot;type&quot;:
+                &quot;string&quot;,
+                &quot;description&quot;:
+                &quot;The URL to download the source document this JSON was extracted from.&quot;
+            },
+            &quot;entities&quot;: {
+                &quot;items&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;type&quot;: &quot;array&quot;
+            },
+            &quot;text&quot;: {
+                &quot;type&quot;:
+                &quot;string&quot;,
+                &quot;description&quot;:
+                &quot;A plain text representation of the text of the source document&quot;
+            },
+            &quot;entityExtractionMethod&quot;: {
+                &quot;default&quot;: &quot;&quot;,
+                &quot;enum&quot;: [&quot;retext-keywords&quot;, &quot;diffbot&quot;, &quot;autophrase&quot;],
+                &quot;type&quot;: &quot;string&quot;,
+                &quot;description&quot;: &quot;Name of the method used to extract entities.&quot;
+            }
+        }
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHR5cGUuZ2V0KCduYW1lJyk6IGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb25jZXB0cykK</text>
       </register>
       <register name="y" type="4">
         <text>q</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pudb</last-search>
+      <last-search>validate</last-search>
       <last-offset />
-      <last-pattern>pudb</last-pattern>
+      <last-pattern>validate</last-pattern>
       <last-replace>tag</last-replace>
       <last-substitute>relation</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tile state</entry>
         <entry encoding="base64">XDxkZWJ1Z2dlclw+</entry>
         <entry>textinp</entry>
         <entry>autoCap</entry>
@@ -5765,6 +5824,7 @@
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>Relation</entry>
         <entry>pudb</entry>
+        <entry>validate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -5785,8 +5845,8 @@
         <entry>s/resources/concepts/g</entry>
         <entry>s/Relation/Tag/g</entry>
         <entry>s/relation/tag/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
