@@ -435,12 +435,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/populate.py" timestamp="1501287381700">
-        <mark key="'" line="240" column="30" />
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="." line="229" column="0" />
-        <mark key="^" line="192" column="91" />
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/populate.py" timestamp="1501288362996">
+        <mark key="'" line="206" column="48" />
+        <mark key="[" line="66" column="23" />
+        <mark key="]" line="66" column="24" />
+        <mark key="." line="66" column="24" />
+        <mark key="^" line="68" column="46" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/Trolley/app/components/QuizQuestions/QuizQuestionScrabble/components/DraggableLetterTile.js" timestamp="1491342517331">
         <mark key="'" line="127" column="30" />
@@ -1607,10 +1607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/datatypes/tags.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/datatypes/tags.py" />
-      <jump line="67" column="21" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/graphql/query_root.py" />
-      <jump line="62" column="35" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/datatypes/relations.py" />
       <jump line="13" column="40" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/graphql/mutation_root.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/graphql/mutation_root.py" />
       <jump line="10" column="6" filename="$USER_HOME$/Code/work/volley/repos/piepress/piepress/datatypes/relations.py" />
@@ -1707,13 +1703,17 @@
       <jump line="8" column="35" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/populate.py" />
       <jump line="227" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/populate.py" />
       <jump line="240" column="30" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/populate.py" />
+      <jump line="344" column="38" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/populate.py" />
+      <jump line="67" column="44" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/populate.py" />
+      <jump line="68" column="25" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/populate.py" />
+      <jump line="206" column="48" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/populate.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZGVmIG5vcm1hbGl6ZV9wcmVjYW5uZWRfcXVpeihxdWl6emVzKToKICAgICIiIiBGb3IgcmVhZGluZyBpbiBvdXRwdXQgb2YgSmVuJ3MgaGFuZG1hZGUgcXVpenplcyIiIgoKICAgIHF1ZXN0aW9ucyA9IFtdCgogICAgZm9yIHF1aXogaW4gcXVpenplczoKICAgICAgICBjb25jZXB0ID0gIlZPTExFWV9QUkVDQU5ORURfUVVJWl9fIiArIHF1aXouZ2V0KCdjb25jZXB0JykKICAgICAgICBxdWVzdGlvbnMgKz0gW2RpY3QoKipxLCBjb25jZXB0cz1bY29uY2VwdF0pIGZvciBxIGluIHF1aXouZ2V0KCJxdWl6IildCgogICAgcmV0dXJuIHF1ZXN0aW9ucwoKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>10.138.0.19</text>
+        <text>Begin validating resources.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aW9ucyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1yb3V0ZXItZmx1eCc7Cg==</text>
@@ -1722,13 +1722,13 @@
         <text>color: Colors.white</text>
       </register>
       <register name="-" type="4">
-        <text>10.138.0.19</text>
+        <text>Begin validating resources.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0ZVw+</text>
+        <text>validated</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJlbGFzdGljc2VhcmNoIjogImh0dHA6Ly8xMC4xMzguMC4xOTo5MjAwIiwgICMgY3liZXJkZW1vLWVsYXN0aWMtd2lraS1vbmx5IGludGVybmFsIGFkZHJlc3MK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJCZWdpbiB2YWxpZGF0aW5nIHJlc291cmNlcy4iKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -5778,9 +5778,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0ZVw+</last-search>
+      <last-search>validated</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0ZVw+</last-pattern>
+      <last-pattern>validated</last-pattern>
       <last-replace>tag</last-replace>
       <last-substitute>relation</last-substitute>
       <last-dir>1</last-dir>
@@ -5788,7 +5788,6 @@
     </search>
     <history>
       <history-search>
-        <entry>docsim</entry>
         <entry>concepts</entry>
         <entry>quizzes</entry>
         <entry>init</entry>
@@ -5808,6 +5807,7 @@
         <entry>wikipedia-dump</entry>
         <entry encoding="base64">XDxkaWZmYm90X2RvY190b19yZXNvdXJjZVw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVw+</entry>
+        <entry>validated</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
