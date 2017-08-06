@@ -10,7 +10,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1502052386757">
+      <file name="/a.dummy" timestamp="1502059095196">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" timestamp="1502057173157">
@@ -20,12 +20,12 @@
         <mark key="." line="100" column="32" />
         <mark key="^" line="100" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" timestamp="1502057853495">
-        <mark key="'" line="12" column="68" />
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="22" column="34" />
-        <mark key="." line="21" column="15" />
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" timestamp="1502059644857">
+        <mark key="'" line="31" column="33" />
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="34" />
+        <mark key="^" line="31" column="86" />
+        <mark key="." line="31" column="15" />
       </file>
       <file name="/" timestamp="1501988406412">
         <mark key="[" line="0" column="0" />
@@ -44,11 +44,12 @@
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/ingestion_handlers/base.py" timestamp="1501987955028">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/diffbot.py" timestamp="1501990245969">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="46" />
-        <mark key="^" line="7" column="46" />
-        <mark key="." line="7" column="46" />
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/diffbot.py" timestamp="1502059943269">
+        <mark key="'" line="3" column="30" />
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="11" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" timestamp="1501989416996">
         <mark key="'" line="36" column="31" />
@@ -64,11 +65,13 @@
         <mark key="." line="21" column="37" />
         <mark key="^" line="21" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/base.py" timestamp="1501990201450">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="43" />
-        <mark key="." line="3" column="43" />
-        <mark key="^" line="3" column="43" />
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/base.py" timestamp="1502059875866">
+        <mark key="a" line="22" column="63" />
+        <mark key="'" line="32" column="3" />
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
+        <mark key="^" line="29" column="11" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" timestamp="1502055348918">
         <mark key="'" line="28" column="23" />
@@ -118,49 +121,67 @@
       <jump line="100" column="32" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
       <jump line="91" column="23" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
       <jump line="94" column="4" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/base.py" />
+      <jump line="2" column="64" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/base.py" />
+      <jump line="27" column="10" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
+      <jump line="11" column="3" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/base.py" />
+      <jump line="3" column="30" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/diffbot.py" />
+      <jump line="8" column="34" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/base.py" />
+      <jump line="24" column="3" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/base.py" />
+      <jump line="31" column="33" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZGVmIGRldGVjdF9taW1ldHlwZShmaWxlXyk6CiAgICAiIiIgUnVuIGZpbGUgdGhyb3VnaCB0aWthJ3MgZGV0ZWN0IGZ1bmN0aW9uICIiIgoKICAgIHJlcXVlc3RzLnB1dCgnaHR0cDovL2xvY2FsaG9zdDo5OTk4L2RldGVjdC9zdHJlYW0nLCBkYXRhPWZpbGVfKQoKICAgIHJldHVybiAiYXBwbGljYXRpb24vdGV4dCIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>['application/pdf', 'application/vnd.ms-powerpoint', 'doc']</text>
+        <text encoding="base64">aGFuYmRsZXIg</text>
       </register>
       <register name="-" type="4">
-        <text>['application/pdf', 'application/vnd.ms-powerpoint', 'doc']</text>
+        <text encoding="base64">aGFuYmRsZXIg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfdm5kZl9mb3JcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>file_, autodetect=True, mimetype=None</text>
+        <text>metric('application/json', 6, True)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHBlcmhhcHMgbWltZXR5cGVzIHNob3VsZCBhbHNvIGJlIGFsbG93ZWQvc3VwcG9ydGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgCiAgICAgICAgaWYgCiAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
+      <register name="5" type="4">
+        <text>[
+            'application/pdf',
+            'application/msword',
+            'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
+            # 'application/rtf',
+            # 'application/vnd.ms-powerpoint',
+            # 'application/vnd.openxmlformats-officedocument.presentationml.presentation',
+        ]</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1cmxfcmVzX2ZpbGUgPSBTdHJpbmdJTyh1cmxfcmVzcCkK</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAog</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnZlcnQgCg==</text>
+        <text encoding="base64">ICAgIG1pbWV0eXBlOiAgICAgICAgICAgICAgICAgKHN0cikgYSBtaW1ldHlwZSAKICAgIGNvbmZpZGVuY2U6ICAgICAgICAgICAgICAgKGludCkgbnVtIGZyb20gMS0xMCB3aGVyZSAxMCByZXByZXNlbnRzIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjU3RyaW5nSU8gaW1wb3J0IFN0cmluZ0lPCg==</text>
+      <register name="8" type="8">
+        <text>MimetypeConfidenceMetric.
+MimetypeConfidenceMetric.
+MimetypeConfidenceMetric.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNTdHJpbmdJTyBpbXBvcnQgU3RyaW5nSU8K</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -220,6 +241,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
