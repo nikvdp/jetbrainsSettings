@@ -3,28 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/ingestion_handlers/tika.py" timestamp="1501983809614" />
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/server/server.py" timestamp="1501984316752">
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" timestamp="1501988921435">
         <mark key="'" line="19" column="15" />
         <mark key="[" line="19" column="49" />
         <mark key="]" line="19" column="49" />
         <mark key="." line="19" column="49" />
         <mark key="^" line="19" column="49" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/ingestion_handlers/base.py" timestamp="1501987955028">
-        <mark key="'" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" timestamp="1501989416996">
-        <mark key="'" line="36" column="31" />
-        <mark key="[" line="95" column="16" />
-        <mark key="]" line="95" column="20" />
-        <mark key="." line="95" column="20" />
-        <mark key="^" line="95" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1501988512577">
         <mark key="[" line="0" column="0" />
@@ -38,6 +22,34 @@
       </file>
       <file name="/" timestamp="1501988406412">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/ingestion_handlers/tika.py" timestamp="1501983809614" />
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/server/server.py" timestamp="1501984316752">
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/ingestion_handlers/base.py" timestamp="1501987955028">
+        <mark key="'" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/diffbot.py" timestamp="1501990245969">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="46" />
+        <mark key="^" line="7" column="46" />
+        <mark key="." line="7" column="46" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" timestamp="1501989416996">
+        <mark key="'" line="36" column="31" />
+        <mark key="[" line="95" column="16" />
+        <mark key="]" line="95" column="20" />
+        <mark key="." line="95" column="20" />
+        <mark key="^" line="95" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/base.py" timestamp="1501990201450">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -67,10 +79,10 @@
         <text encoding="base64">ZGVmIGRldGVjdF9taW1ldHlwZShmaWxlXyk6CiAgICAiIiIgUnVuIGZpbGUgdGhyb3VnaCB0aWthJ3MgZGV0ZWN0IGZ1bmN0aW9uICIiIgoKICAgIHJlcXVlc3RzLnB1dCgnaHR0cDovL2xvY2FsaG9zdDo5OTk4L2RldGVjdC9zdHJlYW0nLCBkYXRhPWZpbGVfKQoKICAgIHJldHVybiAiYXBwbGljYXRpb24vdGV4dCIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>couldn't</text>
+        <text>application/text</text>
       </register>
       <register name="-" type="4">
-        <text>couldn't</text>
+        <text>application/text</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
