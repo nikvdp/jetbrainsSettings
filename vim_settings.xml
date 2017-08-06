@@ -9,9 +9,42 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/ingestion_handlers/base.py" timestamp="1501987955028">
+        <mark key="'" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" timestamp="1501988427530">
+        <mark key="'" line="42" column="35" />
+        <mark key="[" line="46" column="54" />
+        <mark key="]" line="46" column="54" />
+        <mark key="." line="46" column="58" />
+        <mark key="^" line="49" column="37" />
+      </file>
+      <file name="/" timestamp="1501988406412">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="9" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/ingestion_handlers/base.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="70" column="31" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="63" column="11" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="75" column="15" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="42" column="35" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CgoK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>ext</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>ext</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -20,6 +53,8 @@
       <history-search />
       <history-cmd>
         <entry>e!</entry>
+        <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -33,6 +68,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
