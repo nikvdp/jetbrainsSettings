@@ -9,15 +9,32 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" timestamp="1501988921435">
+        <mark key="'" line="19" column="15" />
+        <mark key="[" line="19" column="49" />
+        <mark key="]" line="19" column="49" />
+        <mark key="." line="19" column="49" />
+        <mark key="^" line="19" column="49" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/ingestion_handlers/base.py" timestamp="1501987955028">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" timestamp="1501988427530">
-        <mark key="'" line="42" column="35" />
-        <mark key="[" line="46" column="54" />
-        <mark key="]" line="46" column="54" />
-        <mark key="." line="46" column="58" />
-        <mark key="^" line="49" column="37" />
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" timestamp="1501989416996">
+        <mark key="'" line="36" column="31" />
+        <mark key="[" line="95" column="16" />
+        <mark key="]" line="95" column="20" />
+        <mark key="." line="95" column="20" />
+        <mark key="^" line="95" column="20" />
+      </file>
+      <file name="/a.dummy" timestamp="1501988512577">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" timestamp="1501989293431">
+        <mark key="'" line="12" column="68" />
+        <mark key="[" line="40" column="44" />
+        <mark key="]" line="40" column="47" />
+        <mark key="^" line="40" column="47" />
+        <mark key="." line="40" column="47" />
       </file>
       <file name="/" timestamp="1501988406412">
         <mark key="[" line="0" column="0" />
@@ -26,31 +43,84 @@
     <jumps>
       <jump line="9" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/ingestion_handlers/base.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
-      <jump line="70" column="31" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
       <jump line="63" column="11" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
       <jump line="75" column="15" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
       <jump line="42" column="35" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="81" column="34" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="12" column="68" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
+      <jump line="70" column="47" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="10" column="28" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="537" column="8" filename="$USER_HOME$/miniconda3/envs/doc_normalizer/lib/python3.6/site-packages/werkzeug/wrappers.py" />
+      <jump line="11" column="28" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
+      <jump line="526" column="8" filename="$USER_HOME$/miniconda3/envs/doc_normalizer/lib/python3.6/site-packages/werkzeug/wrappers.py" />
+      <jump line="19" column="15" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
+      <jump line="82" column="52" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
+      <jump line="36" column="31" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_interface.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">CgoK</text>
+      <register name="a" type="2">
+        <text encoding="base64">ZGVmIGRldGVjdF9taW1ldHlwZShmaWxlXyk6CiAgICAiIiIgUnVuIGZpbGUgdGhyb3VnaCB0aWthJ3MgZGV0ZWN0IGZ1bmN0aW9uICIiIgoKICAgIHJlcXVlc3RzLnB1dCgnaHR0cDovL2xvY2FsaG9zdDo5OTk4L2RldGVjdC9zdHJlYW0nLCBkYXRhPWZpbGVfKQoKICAgIHJldHVybiAiYXBwbGljYXRpb24vdGV4dCIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ext</text>
+        <text>couldn't</text>
+      </register>
+      <register name="-" type="4">
+        <text>couldn't</text>
+      </register>
+      <register name="/" type="4">
+        <text>asdf</text>
+      </register>
+      <register name="0" type="4">
+        <text>request.values.get('autodetect', False)</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">LCAKICAgIGhldXJpc3RpY3Mgb3IgVk9sbGV5IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIElmIG5vdCAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlcXVlc3RzLnB1dCgnaHR0cDovL2xvY2FsaG9zdDo5OTk4L2RldGVjdC9zdHJlYW0nLCBkYXRhPWZpbGVfKQoKICAgIHJldHVybiAiYXBwbGljYXRpb24vdGV4dCIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGRldGVjdF9taW1ldHlwZShmaWxlXyk6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVmIGRldGVjdF9taW1ldHlwZShmaWxlXyk6CiAgICAiIiIgUnVuIGZpbGUgdGhyb3VnaCB0aWthJ3MgZGV0ZWN0IGZ1bmN0aW9uICIiIgoKICAgIHJlcXVlc3RzLnB1dCgnaHR0cDovL2xvY2FsaG9zdDo5OTk4L2RldGVjdC9zdHJlYW0nLCBkYXRhPWZpbGVfKQoKICAgIHJldHVybiAiYXBwbGljYXRpb24vdGV4dCIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCByZXF1ZXN0cwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRhdGEgPSBvcGVuKCckMScsICdyYicpLnJlYWQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>ext</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>asdf</last-search>
+      <last-offset />
+      <last-pattern>asdf</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>detect</entry>
+        <entry>asdf</entry>
+      </history-search>
       <history-cmd>
         <entry>e!</entry>
         <entry>wa</entry>
@@ -74,6 +144,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
