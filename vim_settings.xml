@@ -6,22 +6,24 @@
       <file name="/a.dummy" timestamp="1502060276057">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" timestamp="1502061957517">
-        <mark key="'" line="78" column="30" />
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="68" column="16" />
-        <mark key="." line="68" column="16" />
-        <mark key="^" line="67" column="14" />
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" timestamp="1502063185523">
+        <mark key="c" line="47" column="12" />
+        <mark key="e" line="47" column="18" />
+        <mark key="'" line="119" column="28" />
+        <mark key="[" line="69" column="79" />
+        <mark key="]" line="69" column="98" />
+        <mark key="." line="69" column="98" />
+        <mark key="^" line="69" column="98" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/populate.py" timestamp="1502060880679">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" timestamp="1502059644857">
-        <mark key="'" line="31" column="33" />
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="34" />
-        <mark key="^" line="31" column="86" />
-        <mark key="." line="31" column="15" />
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" timestamp="1502063787105">
+        <mark key="'" line="53" column="18" />
+        <mark key="[" line="75" column="41" />
+        <mark key="]" line="76" column="11" />
+        <mark key="." line="76" column="11" />
+        <mark key="^" line="76" column="11" />
       </file>
       <file name="/" timestamp="1501988406412">
         <mark key="[" line="0" column="0" />
@@ -69,8 +71,8 @@
         <mark key="." line="17" column="56" />
         <mark key="^" line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" timestamp="1502061850185">
-        <mark key="'" line="30" column="42" />
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" timestamp="1502063170464">
+        <mark key="'" line="34" column="42" />
         <mark key="[" line="35" column="37" />
         <mark key="]" line="35" column="46" />
         <mark key="^" line="35" column="46" />
@@ -126,7 +128,6 @@
       <jump line="102" column="35" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
       <jump line="69" column="27" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
       <jump line="94" column="4" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
-      <jump line="66" column="8" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
       <jump line="26" column="4" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
       <jump line="65" column="8" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
@@ -135,55 +136,65 @@
       <jump line="1541" column="12" filename="$USER_HOME$/miniconda3/envs/doc_normalizer/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/setuptools/command/easy_install.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/populate.py" />
       <jump line="28" column="33" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" />
-      <jump line="34" column="23" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" />
       <jump line="31" column="42" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" />
       <jump line="78" column="30" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
+      <jump line="46" column="59" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
+      <jump line="66" column="4" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
+      <jump line="75" column="4" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
+      <jump line="60" column="19" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
+      <jump line="33" column="16" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
+      <jump line="72" column="59" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
+      <jump line="67" column="43" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
+      <jump line="34" column="42" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" />
+      <jump line="119" column="28" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/handler_manager.py" />
+      <jump line="53" column="18" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZGVmIGRldGVjdF9taW1ldHlwZShmaWxlXyk6CiAgICAiIiIgUnVuIGZpbGUgdGhyb3VnaCB0aWthJ3MgZGV0ZWN0IGZ1bmN0aW9uICIiIgoKICAgIHJlcXVlc3RzLnB1dCgnaHR0cDovL2xvY2FsaG9zdDo5OTk4L2RldGVjdC9zdHJlYW0nLCBkYXRhPWZpbGVfKQoKICAgIHJldHVybiAiYXBwbGljYXRpb24vdGV4dCIK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCiAgICAgICAgICAgICAgICBqc29uLmR1bXAoc3lzLnN0ZG91dCwgdm5kZiwgaW5kZW50PTQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHB1ZGI7IHB1ZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(&quot;/home/nik/Downloads/ad&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>__</text>
       </register>
-      <register name="0" type="4">
-        <text>metric('application/json', 6, True)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcCA9IHJlcXVlc3RzLnB1dCgiJXMvdGlrYSIgJSBUSUtBX1VSTCwgaGVhZGVycz1oZWFkZXJzLCBkYXRhPWZpbGVfKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwdWRiOyBwdWRiLnNldF90cmFjZSgpCiAgICAgICAgICAgICAgICBqc29uLmR1bXAoc3lzLnN0ZG91dCwgdm5kZiwgaW5kZW50PTQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHB1ZGI7IHB1ZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpbXBvcnQgcHVkYjsgcHVkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZvbGxleS52bmRmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHB1ZGI7IHB1ZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB2b2xsZXkudm5kZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZmlsZV8uc2Vla2FibGUoKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHJlbF9wYXRoX2Zyb20oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKGZuLCAncmInKS5yZWFkKCkgYXMgZGF0YToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHJlbF9wYXRoX2Zyb20oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcCA9IHJlcXVlc3RzLnB1dCgnaHR0cDovL3Rpa2Eudm9sbGV5cHJvdG90eXBlLmNvbS90aWthJywgaGVhZGVycz1oZWFkZXJzLCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJDTGFzc2VzOiAiLCBoYW5kbGVycykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -202,8 +213,8 @@
       </history-search>
       <history-cmd>
         <entry>e!</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
