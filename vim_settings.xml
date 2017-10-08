@@ -96,6 +96,9 @@
         <mark key="]" line="11" column="17" />
         <mark key="." line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1507428568313">
+        <mark key="'" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" timestamp="1507425857420">
         <mark key="a" line="90" column="40" />
         <mark key="'" line="12" column="0" />
@@ -123,12 +126,12 @@
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/ingestion_handlers/base.py" timestamp="1501987955028">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" timestamp="1507427774077">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="45" column="27" />
-        <mark key="." line="45" column="27" />
-        <mark key="^" line="45" column="27" />
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" timestamp="1507428561293">
+        <mark key="'" line="38" column="11" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="11" />
+        <mark key="." line="41" column="11" />
+        <mark key="^" line="41" column="11" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/logger.py" timestamp="1502057013441">
         <mark key="'" line="41" column="0" />
@@ -140,22 +143,14 @@
       <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/jslung_horrors.py" timestamp="1505264487378">
         <mark key="'" line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/.vimrc" timestamp="1507428601390">
+        <mark key="'" line="828" column="6" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/vndf/examples/diffbot_wp_frappucino.json" timestamp="1502068519002">
         <mark key="'" line="15" column="55" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="27" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
-      <jump line="20" column="9" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
-      <jump line="8" column="41" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
-      <jump line="89" column="56" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
-      <jump line="87" column="58" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
-      <jump line="15" column="52" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
-      <jump line="37" column="19" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
-      <jump line="116" column="19" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
-      <jump line="33" column="22" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
-      <jump line="2" column="20" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
-      <jump line="31" column="21" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
       <jump line="22" column="31" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
       <jump line="22" column="12" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" />
       <jump line="26" column="8" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" />
@@ -237,74 +232,82 @@
       <jump line="27" column="4" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/base.py" />
       <jump line="32" column="10" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
       <jump line="75" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
-      <jump line="38" column="21" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
       <jump line="64" column="8" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/base.py" />
       <jump line="40" column="90" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
       <jump line="44" column="13" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
       <jump line="46" column="8" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
-      <jump line="45" column="19" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
       <jump line="29" column="8" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
+      <jump line="45" column="30" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
+      <jump line="65" column="30" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
+      <jump line="38" column="11" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="17" column="0" filename="$USER_HOME$/.vimrc" />
+      <jump line="58" column="27" filename="$USER_HOME$/.vimrc" />
+      <jump line="0" column="0" filename="$USER_HOME$/.vimrc" />
+      <jump line="111" column="7" filename="$USER_HOME$/.vimrc" />
+      <jump line="446" column="26" filename="$USER_HOME$/.vimrc" />
+      <jump line="450" column="32" filename="$USER_HOME$/.vimrc" />
+      <jump line="490" column="0" filename="$USER_HOME$/.vimrc" />
+      <jump line="497" column="13" filename="$USER_HOME$/.vimrc" />
+      <jump line="828" column="6" filename="$USER_HOME$/.vimrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>join_path(dirname(__file__), &quot;inputs&quot;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>wooohdaddy</text>
       </register>
       <register name="-" type="4">
-        <text>gts</text>
+        <text>wooohdaddy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfaW5wdXRfc3VpdGFiaWxpdHlfc2NvcmVcPg==</text>
+        <text>map.*rr</text>
       </register>
-      <register name="0" type="4">
-        <text>lt_count</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBsdF9ndF90b190eHRfcGN0ID4gMiBhbmQgbHRfY291bnQgPT0gZ3RfY291bnQ6CiAgICAgICAgICAgIHNjb3JlID0gOAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnX2ZwX3BvcyA9IGl0ZW0udGVsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRyeSB0byBwYXJzZSBhcyBqc29uIHdpdGhvdXQgbWVzc2luZyB3aXRoIHRoZSBmcCdzIHNlZWsgbG9jYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBsdF9ndF90b190eHRfcGN0ID0gKGx0X2NvdW50ICsgZ3RfY291bnQpIC8gbGVuKHN0cmluZ2lmaWVkKSAqIDEwMAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBvcmlnX2ZwX3BvcyA9IGl0ZW0udGVsbCgpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiB0aGUgcGFyc2VkIGpzb24gaGFzIGEgZGlmZmJvdFVyaSBrZXkgdGhpcyBpcyBhbG1vc3QgY2VydGFpbmx5CiAgICAgICAgICAgICMgYSBkaWZmYm90IGpzb24gZHVtcCwgc28gcmV0dXJuIGNvbmZpZGVuY2Ugb2YgOAogICAgICAgICAgICBpZiAnZGlmZmJvdFVyaScgaW4ganNvbmVkLmtleXMoKToKICAgICAgICAgICAgICAgIHJldHVybiA4Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRyeSB0byBwYXJzZSBhcyBqc29uIHdpdGhvdXQgbWVzc2luZyB3aXRoIHRoZSBmcCdzIHNlZWsgbG9jYXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fcmVzZXRfZnAoaXRlbSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfaW5wdXRfc3VpdGFiaWxpdHlfc2NvcmVcPg==</last-search>
+      <last-search>map.*rr</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfaW5wdXRfc3VpdGFiaWxpdHlfc2NvcmVcPg==</last-pattern>
+      <last-pattern>map.*rr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>markdown_to</entry>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
-        <entry>get_lo</entry>
         <entry encoding="base64">XDxzcGxpdGV4dFw+</entry>
         <entry>pudb</entry>
         <entry encoding="base64">XDxqc2x1bmdfcXVpenplc1w+</entry>
@@ -322,13 +325,11 @@
         <entry encoding="base64">XDxUaWthSGFuZGxlclw+</entry>
         <entry encoding="base64">XDxfaXNfd2lraXBfYXJ0aWNsZV9oZXVyX2ZuXD4=</entry>
         <entry encoding="base64">XDxnZXRfaW5wdXRfc3VpdGFiaWxpdHlfc2NvcmVcPg==</entry>
+        <entry>rr</entry>
+        <entry>rename</entry>
+        <entry>map.*rr</entry>
       </history-search>
       <history-cmd>
-        <entry>e!</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>actionlist select in</entry>
-        <entry>actionlist select</entry>
-        <entry>actionlist Project</entry>
         <entry>SelectInProjectView</entry>
         <entry encoding="base64">bWFwICx0IDphY3Rpb24gU2VsZWN0SW5Qcm9qZWN0VmlldyA=</entry>
         <entry encoding="base64">bWFwICx0IDphY3Rpb24gU2VsZWN0SW5Qcm9qZWN0VmlldzxDUj4=</entry>
@@ -338,6 +339,16 @@
         <entry>action CloseActiveTab</entry>
         <entry>wa</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>actionl</entry>
+        <entry>actions</entry>
+        <entry>Ac</entry>
+        <entry>actionlist</entry>
+        <entry>map ,rr :action RenameElement</entry>
+        <entry encoding="base64">bWFwICxyciA6YWN0aW9uIFJlbmFtZUVsZW1lbnQ8Q1I+</entry>
+        <entry>action RenameElement</entry>
+        <entry>e ~/.ideavimrc</entry>
+        <entry>e ~/.vimrc</entry>
+        <entry>/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -391,6 +402,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
