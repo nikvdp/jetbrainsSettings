@@ -11,8 +11,9 @@
       <file name="/a.dummy" timestamp="1502076195776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" timestamp="1502077887797">
-        <mark key="'" line="116" column="19" />
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" timestamp="1507425914260">
+        <mark key="a" line="95" column="4" />
+        <mark key="'" line="106" column="38" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/conversion_handlers/handler_diffbot_wikipedia.py" timestamp="1502069900313">
         <mark key="'" line="10" column="47" />
@@ -57,21 +58,24 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" timestamp="1502079100848">
-        <mark key="'" line="42" column="30" />
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/base.py" timestamp="1507425539999">
+        <mark key="'" line="50" column="45" />
+      </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" timestamp="1507425976643">
+        <mark key="'" line="27" column="41" />
         <mark key="[" line="33" column="58" />
         <mark key="]" line="33" column="26" />
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" timestamp="1507425027422">
-        <mark key="'" line="56" column="51" />
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" timestamp="1507425044568">
+        <mark key="'" line="65" column="11" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="4" />
         <mark key="^" line="63" column="28" />
         <mark key="." line="65" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505265181764">
+      <file name="/Dummy.txt" timestamp="1507425994914">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
@@ -88,9 +92,9 @@
         <mark key="]" line="11" column="17" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" timestamp="1502076828999">
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" timestamp="1507425857420">
         <mark key="a" line="90" column="40" />
-        <mark key="'" line="85" column="58" />
+        <mark key="'" line="12" column="0" />
         <mark key="[" line="85" column="37" />
         <mark key="]" line="85" column="38" />
         <mark key="." line="85" column="38" />
@@ -115,6 +119,13 @@
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/document_ingester/ingestion_handlers/base.py" timestamp="1501987955028">
         <mark key="'" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" timestamp="1507425768272">
+        <mark key="'" line="25" column="49" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/logger.py" timestamp="1502057013441">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="21" column="33" />
@@ -130,28 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="3" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/base.py" />
-      <jump line="41" column="7" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/diffbot.py" />
-      <jump line="63" column="12" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/diffbot.py" />
-      <jump line="41" column="34" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/base.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/diffbot.py" />
-      <jump line="48" column="44" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/diffbot.py" />
-      <jump line="20" column="6" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
-      <jump line="71" column="20" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
-      <jump line="73" column="19" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/ingestion_handlers/tika.py" />
-      <jump line="16" column="33" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/vndf_writers/handler_tika_html.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/vndf_writers/handler_tika_html.py" />
-      <jump line="62" column="36" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/vndf_writers/handler_tika_html.py" />
-      <jump line="18" column="1" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/vndf_writers/html_to_vndf.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/vndf_writers/vndf_handler.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
-      <jump line="74" column="8" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
-      <jump line="21" column="40" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/vndf_writers/handler_tika_html.py" />
-      <jump line="73" column="14" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/vndf_writers/handler_tika_html.py" />
-      <jump line="82" column="40" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
-      <jump line="24" column="7" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
-      <jump line="86" column="52" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
       <jump line="81" column="46" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
       <jump line="46" column="6" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
@@ -230,19 +219,41 @@
       <jump line="29" column="57" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
       <jump line="29" column="15" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
       <jump line="56" column="51" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
+      <jump line="65" column="11" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
+      <jump line="87" column="38" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="124" column="19" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="50" column="45" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/base.py" />
+      <jump line="34" column="13" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/base.py" />
+      <jump line="120" column="19" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="86" column="19" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="82" column="16" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="95" column="4" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="78" column="7" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="94" column="4" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="25" column="49" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
+      <jump line="43" column="13" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
+      <jump line="9" column="55" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="35" column="57" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="10" column="55" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="13" column="19" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="106" column="38" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
+      <jump line="48" column="8" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" />
+      <jump line="27" column="41" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>join_path(dirname(__file__), &quot;inputs&quot;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0X3ZuZGZfZm9yKHJlc3VsdCwgbWltZXR5cGU9bWltZXR5cGUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>DiffBotHandler</text>
       </register>
       <register name="-" type="4">
-        <text>Document()</text>
+        <text>DiffBotHandler</text>
       </register>
       <register name="/" type="4">
-        <text>quizzes</text>
+        <text encoding="base64">XDxUaWthSGFuZGxlclw+</text>
       </register>
       <register name="0" type="4">
         <text>resp.headers.get(&quot;Content-Type&quot;, &quot;&quot;)</text>
@@ -275,22 +286,18 @@
         <text encoding="base64">ICAgICAgICBtaW1ldHlwZSA9IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>quizzes</last-search>
+      <last-search encoding="base64">XDxUaWthSGFuZGxlclw+</last-search>
       <last-offset />
-      <last-pattern>quizzes</last-pattern>
+      <last-pattern encoding="base64">XDxUaWthSGFuZGxlclw+</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>detect</entry>
-        <entry>asdf</entry>
-        <entry encoding="base64">XDxnZXRfdm5kZl9mb3JcPg==</entry>
-        <entry>__</entry>
         <entry>markdown</entry>
         <entry>wikipedia</entry>
         <entry>markdown_to</entry>
@@ -304,6 +311,13 @@
         <entry encoding="base64">XDxnZXRfY29uY2VwdF9ieV9pZFw+</entry>
         <entry encoding="base64">XDxxdWl6emVzXD4=</entry>
         <entry>quizzes</entry>
+        <entry encoding="base64">XDxIQU5ETEVSX01BUFw+</entry>
+        <entry>global</entry>
+        <entry encoding="base64">XDxfaHRtbF90b190ZXh0XD4=</entry>
+        <entry encoding="base64">XDxkZXRlY3RfbWltZXR5cGVcPg==</entry>
+        <entry>mimetype</entry>
+        <entry encoding="base64">XDxCYXNlSGFuZGxlclw+</entry>
+        <entry encoding="base64">XDxUaWthSGFuZGxlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
@@ -319,8 +333,8 @@
         <entry>actionlist CloseA</entry>
         <entry>action CloseActiveTab</entry>
         <entry>wa</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>w</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
