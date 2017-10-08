@@ -11,12 +11,6 @@
       <file name="/a.dummy" timestamp="1502076195776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" timestamp="1505264939363">
-        <mark key="'" line="30" column="8" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" timestamp="1502077887797">
         <mark key="'" line="116" column="19" />
       </file>
@@ -63,14 +57,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/query_root.py" timestamp="1505265106818" />
-      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/piepress.py" timestamp="1505259457279">
-        <mark key="'" line="245" column="21" />
-        <mark key="[" line="257" column="33" />
-        <mark key="]" line="257" column="36" />
-        <mark key="^" line="257" column="36" />
-        <mark key="." line="257" column="36" />
-      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/cli.py" timestamp="1502079100848">
         <mark key="'" line="42" column="30" />
         <mark key="[" line="33" column="58" />
@@ -110,13 +96,6 @@
         <mark key="]" line="85" column="38" />
         <mark key="." line="85" column="38" />
         <mark key="^" line="85" column="38" />
-      </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/db_population/populate.py" timestamp="1505264573589">
-        <mark key="'" line="204" column="20" />
-        <mark key="[" line="68" column="29" />
-        <mark key="]" line="68" column="36" />
-        <mark key="^" line="68" column="36" />
-        <mark key="." line="68" column="36" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/resolvers/autocomplete.py" timestamp="1505264729031">
         <mark key="'" line="85" column="8" />
@@ -297,7 +276,7 @@
         <text encoding="base64">ICAgICAgICAjIENvbmNlcHQuX19uYW1lX186IF9qc2x1bmdfY29uY2VwdF9jb21wbGV0aW9uX2hhbmRsZXIsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -305,7 +284,7 @@
       <last-offset />
       <last-pattern>quizzes</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -336,13 +315,13 @@
         <entry>SelectInProjectView</entry>
         <entry encoding="base64">bWFwICx0IDphY3Rpb24gU2VsZWN0SW5Qcm9qZWN0VmlldyA=</entry>
         <entry encoding="base64">bWFwICx0IDphY3Rpb24gU2VsZWN0SW5Qcm9qZWN0VmlldzxDUj4=</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>actionlist close</entry>
         <entry encoding="base64">bWFwIDxDLXc+cSA6YWN0aW9uIENsb3NlQWN0aXZlVGFiPENSPg==</entry>
         <entry>actionlist CloseA</entry>
         <entry>action CloseActiveTab</entry>
         <entry>w</entry>
         <entry>wa</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
