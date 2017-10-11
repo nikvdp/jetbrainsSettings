@@ -11,6 +11,9 @@
       <file name="/a.dummy" timestamp="1502076195776">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" timestamp="1507750592689">
+        <mark key="'" line="94" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" timestamp="1507435341222">
         <mark key="a" line="22" column="11" />
         <mark key="'" line="179" column="26" />
@@ -117,7 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="4" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/resolvers/autocomplete.py" />
       <jump line="103" column="28" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/resolvers/autocomplete.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/resolvers/autocomplete.py" />
       <jump line="86" column="8" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/resolvers/autocomplete.py" />
@@ -217,6 +219,7 @@
       <jump line="59" column="71" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
       <jump line="17" column="27" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/html.py" />
+      <jump line="94" column="25" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -229,7 +232,7 @@
         <text>()</text>
       </register>
       <register name="/" type="4">
-        <text>stringio</text>
+        <text>resolve_get_qui</text>
       </register>
       <register name="0" type="4">
         <text>GenericHTMLHandler()</text>
@@ -266,15 +269,14 @@
       </register>
     </registers>
     <search>
-      <last-search>stringio</last-search>
+      <last-search>resolve_get_qui</last-search>
       <last-offset />
-      <last-pattern>stringio</last-pattern>
+      <last-pattern>resolve_get_qui</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfanNsdW5nX2NvbmNlcHRfY29tcGxldGlvbl9oYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxsb2FkX2NvbmNlcHRzX2FuZF9xdWl6emVzX2Zyb21fanNvblw+</entry>
         <entry encoding="base64">XDxnZXRfY29uY2VwdF9ieV9pZFw+</entry>
         <entry encoding="base64">XDxxdWl6emVzXD4=</entry>
@@ -294,6 +296,7 @@
         <entry>diffbot</entry>
         <entry encoding="base64">XDxTdHJpbmdJT1w+</entry>
         <entry>stringio</entry>
+        <entry>resolve_get_qui</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwICx0IDphY3Rpb24gU2VsZWN0SW5Qcm9qZWN0VmlldyA=</entry>
