@@ -11,13 +11,13 @@
         <mark key="]" line="77" column="16" />
         <mark key="." line="77" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/postgres.py" timestamp="1527969006840">
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/postgres.py" timestamp="1527971559340">
         <mark key="a" line="29" column="2" />
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="33" column="6" />
-        <mark key="]" line="34" column="138" />
-        <mark key="." line="34" column="138" />
-        <mark key="^" line="34" column="138" />
+        <mark key="'" line="35" column="24" />
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="46" />
+        <mark key="." line="30" column="46" />
+        <mark key="^" line="30" column="46" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/rest_routes/routes.py" timestamp="1527968609729">
         <mark key="'" line="124" column="33" />
@@ -142,7 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="38" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
       <jump line="124" column="19" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_data_manager.py" />
       <jump line="50" column="45" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/base.py" />
       <jump line="34" column="13" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/base.py" />
@@ -242,16 +241,17 @@
       <jump line="29" column="2" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/postgres.py" />
       <jump line="78" column="11" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" />
       <jump line="96" column="26" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" />
+      <jump line="35" column="24" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/external_apis/postgres.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">IiIiClRPRE86IGNsZWFuIHRoaXMgY29kZSB1cCEgVGhlcmUncyBhIGxvdCBvZiBjcnVmdCBsZWZ0b3ZlciBmcm9tIApoYWxmLWZpbmlzaGVkIGF0dGVtcHRzIHRoYXQgbmVlZCB0byBiZSBjbGVhbmVkIHVwLgoKSGVyZSBpcyB0aGUgY29ycmVjdCBmbG93IGZvciBob3cgdGhpcyBzaG91bGQgd29yazoKCklucHV0IGRldGVjdG9ycyBkZWNldCB3aGF0IAoKCgoKIiIiCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgRmlyc3QgZm91ciBvZiBoZWFkZXIgYXJlICdKV1QgJwo=</text>
+      <register name="&quot;" type="4">
+        <text>access</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>access</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTcWxBbGNoZW15QmFzZVw+</text>
@@ -259,35 +259,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybihmIkxvZ2luIGZhaWwgZm9yIHVzZXIgJ3t1c2VybmFtZX0nISBVc2VyICd7dXNlcm5hbWV9JyBub3QgaW4gZGIhIikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgRmlyc3QgZm91ciBvZiBoZWFkZXIgYXJlICdKV1QgJwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">YWxsIHRoZSBwbGFjZXMgd2hlcmUgd2UgdXNlIGdldF9kYl9zZXNzaW9uIHRvIGluc3RhbnRpYXRlCiAgICAgICAgICB0aGVpciBvd24gc2Vzc2lvbnMgYW5kIGNsb3NlIGl0IGF0IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oCiAgICAgICAgKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Rm9yIHJlYXNvbnMKICAgICAgICAgIEkgZG9uJ3QgdW5kZXJzdGFuZCB5ZXQg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlVuYWJsZSB0byB2YWxpZGF0ZSB0b2tlbi4gRGlkIHRoZSByZXF1ZXN0IHNlbmQgYW4gJ0F1dGhvcml6YXRpb246IEpXVCA8dG9rZW4+JyBoZWFkZXI/Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogY29uc2lkZXIgbG9va25nIGZvci9pbXBsZW1lbnRpbmcgYSB3YXkgdG8gdXNlIHNlc3Npb24gYXMgYSBgd2l0aDpgCiAgICAjIHN0eWxlIGNvbnRleHQgbWFuYWdlciwgb3IgaW52ZXN0aWdhdGluZyBvdGhlciB1c2UgcGF0dGVybiwgZG9uJ3QgbGlrZSB0aGUKICAgICMgaWRlYSBvZiBkZXZzIGhhdmluZyB0byByZW1lbWJlciB0byB0cmFwIGFuZCByb2xsYmFjayBvbiBldmVyeSBkYiBjYWxsCg==</text>
+        <text encoding="base64">ICAgICMgaW1wbCBhZGFwdGVkIGZyb20gYm90dG9tIG9mIHRoaXMgc2VjdGlvbiBvZiBzcWxhbGNoZW15IGRvY3M6CiAgICAjIGh0dHA6Ly9kb2NzLnNxbGFsY2hlbXkub3JnL2VuL2xhdGVzdC9vcm0vc2Vzc2lvbl9iYXNpY3MuaHRtbCN3aGVuLWRvLWktY29uc3RydWN0LWEtc2Vzc2lvbi13aGVuLWRvLWktY29tbWl0LWl0LWFuZC13aGVuLWRvLWktY2xvc2UtaXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRiX3Nlc3Npb24gPSBnZXRfZGJfc2Vzc2lvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBzZXNzaW9uLmNsb3NlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gZ2V0X2RiX3Nlc3Npb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGF0dGFjaCB0aGUgcXVlcnkgcHJvcGVydHkgdG8gdGhlIGJhc2UgdGhlIGZpcnN0IHRpbWUgd2UgY3JlYXRlIGEgc2Vzc2lvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYl9zZXNzaW9uID0gZ2V0X2RiX3Nlc3Npb24oKQo=</text>
+        <text encoding="base64">ICAgICMgYnV0IHN0aWxsIG1ha2UgYSBuZXcgc2Vzc2lvbiBvbiBldmVyeSBjYWxsIHRvIGdldF9kYl9zZXNzaW9uIHRvCiAgICAjIGVuc3VyZSB0aGF0IGV2ZXJ5IHRocmVhZC9yZXF1ZXN0IGdldHMgaXRzIG93biBzY29wZWRfc2Vzc2lvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbiA9IGdldF9kYl9zZXNzaW9uKCkK</text>
+        <text encoding="base64">ICAgICMgRmlyc3QgZm91ciBvZiBoZWFkZXIgYXJlICdKV1QgJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -321,7 +321,6 @@
         <entry encoding="base64">XDxTcWxBbGNoZW15QmFzZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bWFwICx0IDphY3Rpb24gU2VsZWN0SW5Qcm9qZWN0VmlldzxDUj4=</entry>
         <entry>actionlist close</entry>
         <entry encoding="base64">bWFwIDxDLXc+cSA6YWN0aW9uIENsb3NlQWN0aXZlVGFiPENSPg==</entry>
         <entry>actionlist CloseA</entry>
@@ -338,9 +337,10 @@
         <entry>action RenameElement</entry>
         <entry>ew</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>wa</entry>
         <entry>action Tool_External Tools_prettier</entry>
+        <entry>%!yapf</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
