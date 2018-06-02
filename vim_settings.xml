@@ -55,18 +55,25 @@
       <file name="/code.py" timestamp="1507439855646">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/piepress.py" timestamp="1527922661278">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="33" column="9" />
+        <mark key="." line="33" column="9" />
+        <mark key="^" line="33" column="9" />
+      </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/conversion_handlers/handler_generic_text.py" timestamp="1502072605850">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="11" column="17" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" timestamp="1527921310726">
-        <mark key="a" line="100" column="24" />
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" timestamp="1527921949153">
+        <mark key="a" line="101" column="24" />
         <mark key="'" line="48" column="27" />
-        <mark key="[" line="100" column="27" />
-        <mark key="]" line="101" column="28" />
-        <mark key="." line="101" column="28" />
-        <mark key="^" line="101" column="28" />
+        <mark key="[" line="75" column="25" />
+        <mark key="]" line="76" column="32" />
+        <mark key="." line="76" column="32" />
+        <mark key="^" line="76" column="32" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" timestamp="1507431555515">
         <mark key="a" line="90" column="40" />
@@ -115,13 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="8" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
-      <jump line="21" column="24" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
-      <jump line="32" column="8" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/resolvers/quizzes.py" />
-      <jump line="55" column="25" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
       <jump line="53" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
       <jump line="6" column="47" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/server/server.py" />
@@ -215,22 +215,29 @@
       <jump line="100" column="24" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" />
       <jump line="48" column="27" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" />
+      <jump line="223" column="21" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/piepress.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/piepress.py" />
+      <jump line="11" column="11" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/piepress.py" />
+      <jump line="12" column="11" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/piepress.py" />
+      <jump line="216" column="12" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/piepress.py" />
+      <jump line="93" column="4" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/piepress.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/piepress.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">IiIiClRPRE86IGNsZWFuIHRoaXMgY29kZSB1cCEgVGhlcmUncyBhIGxvdCBvZiBjcnVmdCBsZWZ0b3ZlciBmcm9tIApoYWxmLWZpbmlzaGVkIGF0dGVtcHRzIHRoYXQgbmVlZCB0byBiZSBjbGVhbmVkIHVwLgoKSGVyZSBpcyB0aGUgY29ycmVjdCBmbG93IGZvciBob3cgdGhpcyBzaG91bGQgd29yazoKCklucHV0IGRldGVjdG9ycyBkZWNldCB3aGF0IAoKCgoKIiIiCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>query_res = None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJodHRwOi8vanBtYy52b2xsZXkuY29tIiwK</text>
       </register>
       <register name="-" type="4">
         <text>query_res = None</text>
       </register>
       <register name="/" type="4">
-        <text>\/login</text>
+        <text>view</text>
       </register>
-      <register name="0" type="4">
-        <text>'{username}'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJodHRwOi8vanBtYy52b2xsZXkuY29tIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAoK</text>
@@ -264,17 +271,14 @@
       </register>
     </registers>
     <search>
-      <last-search>\/login</last-search>
+      <last-search>view</last-search>
       <last-offset />
-      <last-pattern>\/login</last-pattern>
+      <last-pattern>view</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWl6emVzXD4=</entry>
-        <entry>quizzes</entry>
-        <entry encoding="base64">XDxIQU5ETEVSX01BUFw+</entry>
         <entry>global</entry>
         <entry encoding="base64">XDxfaHRtbF90b190ZXh0XD4=</entry>
         <entry encoding="base64">XDxkZXRlY3RfbWltZXR5cGVcPg==</entry>
@@ -292,6 +296,9 @@
         <entry>resolve_get_qui</entry>
         <entry>login</entry>
         <entry>\/login</entry>
+        <entry>cors</entry>
+        <entry encoding="base64">XDxydW5fc2VydmVyXD4=</entry>
+        <entry>view</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwICx0IDphY3Rpb24gU2VsZWN0SW5Qcm9qZWN0VmlldyA=</entry>
