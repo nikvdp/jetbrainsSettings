@@ -60,12 +60,13 @@
         <mark key="]" line="11" column="17" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" timestamp="1527920428012">
-        <mark key="'" line="77" column="53" />
-        <mark key="[" line="98" column="10" />
-        <mark key="]" line="98" column="24" />
-        <mark key="." line="98" column="24" />
-        <mark key="^" line="98" column="24" />
+      <file name="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" timestamp="1527921310726">
+        <mark key="a" line="100" column="24" />
+        <mark key="'" line="48" column="27" />
+        <mark key="[" line="100" column="27" />
+        <mark key="]" line="101" column="28" />
+        <mark key="." line="101" column="28" />
+        <mark key="^" line="101" column="28" />
       </file>
       <file name="$USER_HOME$/Code/work/volley/repos/doc_normalizer/src/volley/doc_normalizer/input_detectors/tika.py" timestamp="1507431555515">
         <mark key="a" line="90" column="40" />
@@ -114,9 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="28" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/resolvers/quizzes.py" />
-      <jump line="174" column="21" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
       <jump line="188" column="8" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
       <jump line="21" column="24" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/graphql/query_root.py" />
@@ -214,16 +212,19 @@
       <jump line="124" column="33" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/rest_routes/routes.py" />
       <jump line="53" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" />
       <jump line="77" column="53" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" />
+      <jump line="100" column="24" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" />
+      <jump line="48" column="27" filename="$USER_HOME$/Code/work/volley/repos/piepress/src/piepress/auth.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">IiIiClRPRE86IGNsZWFuIHRoaXMgY29kZSB1cCEgVGhlcmUncyBhIGxvdCBvZiBjcnVmdCBsZWZ0b3ZlciBmcm9tIApoYWxmLWZpbmlzaGVkIGF0dGVtcHRzIHRoYXQgbmVlZCB0byBiZSBjbGVhbmVkIHVwLgoKSGVyZSBpcyB0aGUgY29ycmVjdCBmbG93IGZvciBob3cgdGhpcyBzaG91bGQgd29yazoKCklucHV0IGRldGVjdG9ycyBkZWNldCB3aGF0IAoKCgoKIiIiCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+      <register name="&quot;" type="4">
+        <text>query_res = None</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHcgPSA=</text>
+        <text>query_res = None</text>
       </register>
       <register name="/" type="4">
         <text>\/login</text>
